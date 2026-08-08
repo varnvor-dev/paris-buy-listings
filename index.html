@@ -250,7 +250,10 @@
       </div>
 
       <div>
-        <label class="block text-xs font-medium text-gray-700 mb-1">My picks</label>
+        <label class="block text-xs font-medium text-gray-700 mb-1">
+          My picks
+          <span class="ml-1 text-xs font-normal text-gray-500" x-text="syncStatus"></span>
+        </label>
         <div class="space-y-1 text-sm">
           <label class="flex items-center gap-2">
             <input type="checkbox" x-model="filters.onlyStarred">
@@ -264,6 +267,13 @@
         <div class="flex gap-1 mt-1" x-show="starred.size || hidden.size">
           <button x-show="starred.size" @click="clearStarred()" class="text-xs px-2 py-1 rounded bg-yellow-50 hover:bg-yellow-100 text-yellow-700">Clear stars</button>
           <button x-show="hidden.size" @click="clearHidden()" class="text-xs px-2 py-1 rounded bg-gray-100 hover:bg-gray-200 text-gray-600">Unhide all</button>
+        </div>
+        <div class="mt-2" x-show="syncId">
+          <button @click="copySyncUrl()"
+            class="w-full text-xs px-2 py-1 rounded bg-blue-50 hover:bg-blue-100 text-blue-700"
+            title="Copy the URL that carries your sync id — bookmark it or open it on any device to see the same stars/hides">
+            🔗 Copy sync URL (for other devices)
+          </button>
         </div>
       </div>
 
@@ -735,26 +745,102 @@ function app() {
       this.loadTracking();
     },
 
-    // Starred & hidden listings — persisted in localStorage
+    // Starred & hidden listings — synced to jsonblob.com (URL fragment carries
+    // the blob ID so the page is bookmarkable across devices; localStorage
+    // caches the id + the last-known state for instant load + offline resilience).
     starred: new Set(),
     hidden: new Set(),
-    loadStarredHidden() {
+    syncId: null,
+    syncStatus: '',      // '', 'syncing…', 'synced ✓', 'sync failed'
+    _saveTimer: null,
+
+    async loadStarredHidden() {
+      // 1. First read from URL hash → falls back to localStorage-cached id → else create fresh
+      const hashId = (location.hash.match(/sync=([a-f0-9-]{20,})/) || [])[1];
+      const storedId = localStorage.getItem('paris_buy_syncid_v1');
+      this.syncId = hashId || storedId || null;
+
+      // Instant local load first — so UI reflects last-known state even if network is slow/dead
       try {
-        const s = JSON.parse(localStorage.getItem('paris_buy_starred_v1') || '[]');
-        const h = JSON.parse(localStorage.getItem('paris_buy_hidden_v1') || '[]');
-        this.starred = new Set(s);
-        this.hidden = new Set(h);
-      } catch (e) { console.error('load starred/hidden fail', e); }
+        this.starred = new Set(JSON.parse(localStorage.getItem('paris_buy_starred_v1') || '[]'));
+        this.hidden  = new Set(JSON.parse(localStorage.getItem('paris_buy_hidden_v1')  || '[]'));
+      } catch {}
+
+      if (!this.syncId) {
+        // Fresh install — mint a new blob so future edits sync
+        try {
+          const r = await fetch('https://jsonblob.com/api/jsonBlob', {
+            method: 'POST', headers: {'Content-Type':'application/json'},
+            body: JSON.stringify({starred:[...this.starred], hidden:[...this.hidden]})
+          });
+          const loc = r.headers.get('location') || '';
+          const id = (loc.match(/jsonBlob\/([a-f0-9-]{20,})/) || [])[1];
+          if (id) {
+            this.syncId = id;
+            localStorage.setItem('paris_buy_syncid_v1', id);
+            location.hash = 'sync=' + id;
+            this.syncStatus = 'synced ✓';
+          }
+        } catch { this.syncStatus = 'sync failed'; }
+        return;
+      }
+
+      // Ensure the id is persisted + reflected in the URL for future bookmarking
+      localStorage.setItem('paris_buy_syncid_v1', this.syncId);
+      if (!hashId) location.hash = 'sync=' + this.syncId;
+
+      // Pull remote state — remote wins over local cache (last edit anywhere)
+      this.syncStatus = 'syncing…';
+      try {
+        const r = await fetch('https://jsonblob.com/api/jsonBlob/' + this.syncId);
+        if (r.ok) {
+          const j = await r.json();
+          this.starred = new Set(j.starred || []);
+          this.hidden  = new Set(j.hidden  || []);
+          this._cacheLocal();
+          this.syncStatus = 'synced ✓';
+        } else {
+          this.syncStatus = 'sync failed';
+        }
+      } catch { this.syncStatus = 'sync failed'; }
     },
-    saveStarredHidden() {
+
+    _cacheLocal() {
       try {
         localStorage.setItem('paris_buy_starred_v1', JSON.stringify([...this.starred]));
-        localStorage.setItem('paris_buy_hidden_v1', JSON.stringify([...this.hidden]));
-      } catch (e) { console.error('save starred/hidden fail', e); }
+        localStorage.setItem('paris_buy_hidden_v1',  JSON.stringify([...this.hidden]));
+      } catch {}
     },
+
+    saveStarredHidden() {
+      // Local first (instant), then debounced push to remote (batched)
+      this._cacheLocal();
+      if (!this.syncId) return;
+      clearTimeout(this._saveTimer);
+      this.syncStatus = 'syncing…';
+      this._saveTimer = setTimeout(async () => {
+        try {
+          const r = await fetch('https://jsonblob.com/api/jsonBlob/' + this.syncId, {
+            method: 'PUT', headers: {'Content-Type':'application/json'},
+            body: JSON.stringify({starred:[...this.starred], hidden:[...this.hidden]})
+          });
+          this.syncStatus = r.ok ? 'synced ✓' : 'sync failed';
+        } catch { this.syncStatus = 'sync failed'; }
+      }, 600);
+    },
+
+    get syncUrl() {
+      if (!this.syncId) return '';
+      return location.origin + location.pathname + '#sync=' + this.syncId;
+    },
+    copySyncUrl() {
+      navigator.clipboard.writeText(this.syncUrl);
+      this.syncStatus = 'URL copied ✓';
+      setTimeout(() => this.syncStatus = 'synced ✓', 1500);
+    },
+
     toggleStar(id) {
       if (this.starred.has(id)) this.starred.delete(id); else this.starred.add(id);
-      // Un-hide when starring, so a listing can't be both
       if (this.starred.has(id)) this.hidden.delete(id);
       this.saveStarredHidden();
     },
