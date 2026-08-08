@@ -1,0 +1,1254 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Listings Browser · Ancien + Neuf</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://cdn.tailwindcss.com"></script>
+<script defer src="https://unpkg.com/alpinejs@3.13.0/dist/cdn.min.js"></script>
+<style>
+  [x-cloak] { display: none !important }
+  .table-cell { padding: 6px 10px; border-bottom: 1px solid #e5e7eb; }
+  thead th { position: sticky; top: 0; background: #f9fafb; z-index: 1; }
+  .th-sort { cursor: pointer; user-select: none; }
+  .th-sort::after { content: ' ⇅'; opacity: 0.35; font-size: 10px; }
+  .th-sort:hover { background: #f3f4f6; }
+  .th-sort:hover::after { opacity: 1; }
+  .row-selected { background: #eff6ff !important; }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 999px; font-size: 11px; font-weight: 600; }
+  .badge-vjf { background: #fce7f3; color: #9d174d; }
+  .badge-ivr { background: #dbeafe; color: #1e40af; }
+  .badge-oth { background: #f3f4f6; color: #4b5563; }
+  .dpe-A { background: #16a34a; color: white; }
+  .dpe-B { background: #65a30d; color: white; }
+  .dpe-C { background: #eab308; color: white; }
+  .dpe-D { background: #f59e0b; color: white; }
+  .dpe-E { background: #ea580c; color: white; }
+  .dpe-F { background: #dc2626; color: white; }
+  .dpe-G { background: #991b1b; color: white; }
+  .tab-active { background: white; color: #1e40af; border-bottom-color: white; }
+  .tab { border: 1px solid #e5e7eb; border-bottom: none; }
+  .track-card { background: white; border: 1px solid #e5e7eb; border-radius: 12px; box-shadow: 0 1px 2px rgba(0,0,0,0.03); }
+  .track-good { background: #ecfdf5; color: #065f46; padding: 3px 8px; border-radius: 999px; font-size: 11px; margin: 2px; display: inline-block; }
+  .constraint-chip { display: inline-flex; align-items: center; gap: 6px; padding: 4px 10px; border-radius: 999px; font-size: 12px; cursor: pointer; user-select: none; margin: 2px; border: 1px solid #e5e7eb; background: #f9fafb; }
+  .constraint-chip.done { background: #dcfce7; border-color: #86efac; color: #14532d; text-decoration: line-through; }
+  .constraint-chip:hover { background: #f3f4f6; }
+  .progress-badge { padding: 4px 12px; border-radius: 999px; font-weight: 600; font-size: 12px; }
+  .stage-Contacted { background: #dbeafe; color: #1e40af; }
+  .stage-Awaiting { background: #fef3c7; color: #92400e; }
+  .stage-Docs { background: #ede9fe; color: #5b21b6; }
+  .stage-Visite { background: #fed7aa; color: #9a3412; }
+  .stage-Visited { background: #cffafe; color: #164e63; }
+  .stage-Offer { background: #fce7f3; color: #9d174d; }
+  .stage-Signed { background: #dcfce7; color: #14532d; }
+  .stage-Withdrawn { background: #fee2e2; color: #991b1b; }
+  .dvf-good { color: #16a34a; font-weight: 700; }
+  .dvf-bad { color: #dc2626; font-weight: 700; }
+  .dvf-neutral { color: #6b7280; }
+</style>
+</head>
+<body class="bg-gray-50">
+<div x-data="app()" x-cloak class="p-4 max-w-[1600px] mx-auto">
+
+<!-- header + tabs -->
+<div class="flex items-baseline justify-between mb-2">
+  <div>
+    <h1 class="text-2xl font-bold">Listings browser</h1>
+    <p class="text-sm text-gray-500">SeLoger snapshot 2026-07-04</p>
+  </div>
+  <div class="text-sm text-gray-500">
+    Showing <span class="font-semibold text-gray-900" x-text="activeTab==='ancien' ? filtered.length : filteredNeuf.length"></span>
+    of <span x-text="activeTab==='ancien' ? listings.length : programmes.length"></span>
+    · <span x-text="(activeTab==='ancien' ? selected : selectedNeuf).size"></span> selected
+  </div>
+</div>
+
+<!-- tab bar -->
+<div class="flex gap-1 mb-0 relative z-10">
+  <button @click="activeTab='ancien'"
+          :class="activeTab==='ancien' ? 'tab-active' : 'bg-gray-100 hover:bg-gray-200'"
+          class="tab px-4 py-2 rounded-t-lg text-sm font-semibold">
+    Ancien (résale) · <span x-text="listings.length"></span>
+  </button>
+  <button @click="activeTab='neuf'"
+          :class="activeTab==='neuf' ? 'tab-active' : 'bg-gray-100 hover:bg-gray-200'"
+          class="tab px-4 py-2 rounded-t-lg text-sm font-semibold">
+    Neuf (VEFA) · <span x-text="programmes.length"></span>
+  </button>
+  <button @click="activeTab='suivi'"
+          :class="activeTab==='suivi' ? 'tab-active' : 'bg-gray-100 hover:bg-gray-200'"
+          class="tab px-4 py-2 rounded-t-lg text-sm font-semibold">
+    🎯 Suivi · <span x-text="tracked.length"></span>
+  </button>
+</div>
+
+<div class="grid grid-cols-12 gap-4 border-t border-gray-200 pt-4">
+
+<!-- ============================================================ -->
+<!-- ANCIEN VIEW -->
+<!-- ============================================================ -->
+<template x-if="activeTab==='ancien'">
+  <div class="contents">
+    <aside class="col-span-3 bg-white rounded-lg shadow p-4 space-y-4 self-start sticky top-4 max-h-[95vh] overflow-y-auto">
+      <div class="flex items-center justify-between">
+        <h2 class="font-semibold">Filters — Ancien</h2>
+        <button @click="resetFilters()" class="text-xs text-blue-600 hover:underline">Reset</button>
+      </div>
+
+      <div class="bg-blue-50 p-2 rounded space-y-2">
+        <div>
+          <label class="block text-xs font-medium text-gray-700 mb-1">Sort by</label>
+          <div class="flex gap-1">
+            <select x-model="sortBy" @change="page=1" class="flex-1 text-sm border rounded px-2 py-1">
+              <option value="ppm">€/m²</option>
+              <option value="price">Price</option>
+              <option value="surface">Surface m²</option>
+              <option value="created">Listed date</option>
+              <option value="city">City</option>
+              <option value="district">District</option>
+              <option value="rooms">Rooms</option>
+            </select>
+            <button @click="sortDir = sortDir==='asc'?'desc':'asc'; page=1"
+              class="text-sm border rounded px-2 py-1 bg-white hover:bg-gray-50"
+              x-text="sortDir==='asc' ? '▲ asc' : '▼ desc'"></button>
+          </div>
+        </div>
+        <div>
+          <label class="block text-xs font-medium text-gray-700 mb-1">Then by</label>
+          <div class="flex gap-1">
+            <select x-model="sortBy2" @change="page=1" class="flex-1 text-sm border rounded px-2 py-1">
+              <option value="">— none —</option>
+              <option value="ppm">€/m²</option>
+              <option value="price">Price</option>
+              <option value="surface">Surface m²</option>
+              <option value="created">Listed date</option>
+              <option value="city">City</option>
+              <option value="district">District</option>
+              <option value="rooms">Rooms</option>
+            </select>
+            <button @click="sortDir2 = sortDir2==='asc'?'desc':'asc'; page=1"
+              class="text-sm border rounded px-2 py-1 bg-white hover:bg-gray-50 disabled:opacity-40"
+              :disabled="!sortBy2"
+              x-text="sortDir2==='asc' ? '▲ asc' : '▼ desc'"></button>
+          </div>
+        </div>
+        <p class="text-[10px] text-gray-500" x-show="sortBy2">
+          Sorting by <b x-text="sortLabel(sortBy)"></b> (<span x-text="sortDir==='asc'?'asc':'desc'"></span>), then by <b x-text="sortLabel(sortBy2)"></b> (<span x-text="sortDir2==='asc'?'asc':'desc'"></span>)
+        </p>
+      </div>
+
+      <div>
+        <label class="block text-xs font-medium text-gray-700 mb-1">City</label>
+        <div class="flex gap-1 flex-wrap">
+          <template x-for="c in cities" :key="c">
+            <button @click="toggleCity(c)"
+              :class="filters.cities.has(c) ? 'bg-blue-600 text-white' : 'bg-gray-100 text-gray-700'"
+              class="px-2 py-1 rounded text-xs" x-text="c"></button>
+          </template>
+        </div>
+      </div>
+
+      <div>
+        <label class="block text-xs font-medium text-gray-700 mb-1">District</label>
+        <select x-model="filters.district" class="w-full text-sm border rounded px-2 py-1">
+          <option value="">All districts</option>
+          <template x-for="d in districts" :key="d">
+            <option :value="d" x-text="d"></option>
+          </template>
+        </select>
+      </div>
+
+      <div>
+        <label class="block text-xs font-medium text-gray-700 mb-1">Rooms (pièces)</label>
+        <div class="flex gap-1">
+          <template x-for="r in [1,2,3,4,5]" :key="r">
+            <button @click="toggleRoom(r)"
+              :class="filters.rooms.has(r) ? 'bg-blue-600 text-white' : 'bg-gray-100 text-gray-700'"
+              class="px-3 py-1 rounded text-xs" x-text="'T'+r"></button>
+          </template>
+        </div>
+      </div>
+
+      <div>
+        <label class="block text-xs font-medium text-gray-700 mb-1">
+          Price €: <span x-text="filters.priceMin.toLocaleString()"></span> – <span x-text="filters.priceMax.toLocaleString()"></span>
+        </label>
+        <div class="flex gap-2">
+          <input type="number" step="10000" x-model.number="filters.priceMin" class="w-1/2 text-xs border rounded px-2 py-1">
+          <input type="number" step="10000" x-model.number="filters.priceMax" class="w-1/2 text-xs border rounded px-2 py-1">
+        </div>
+      </div>
+
+      <div>
+        <label class="block text-xs font-medium text-gray-700 mb-1">Surface m² <span x-text="filters.surfaceMin"></span> – <span x-text="filters.surfaceMax"></span></label>
+        <div class="flex gap-2">
+          <input type="number" x-model.number="filters.surfaceMin" class="w-1/2 text-xs border rounded px-2 py-1">
+          <input type="number" x-model.number="filters.surfaceMax" class="w-1/2 text-xs border rounded px-2 py-1">
+        </div>
+      </div>
+
+      <div>
+        <label class="block text-xs font-medium text-gray-700 mb-1">€/m² max <span class="text-red-600" x-show="filters.ppmMax===5500">(default 5500)</span></label>
+        <input type="number" step="100" x-model.number="filters.ppmMax" class="w-full text-xs border rounded px-2 py-1" placeholder="unlimited">
+        <div class="text-[10px] text-gray-500 mt-1">Applied by default. Raise or clear to see over.</div>
+      </div>
+
+      <div>
+        <label class="block text-xs font-medium text-gray-700 mb-1">DPE (max)</label>
+        <div class="flex gap-1">
+          <template x-for="d in ['A','B','C','D','E','F','G']" :key="d">
+            <button @click="filters.dpeMax = d"
+              :class="filters.dpeMax === d ? 'ring-2 ring-blue-600' : ''"
+              class="w-8 h-8 text-xs font-bold rounded"
+              :style="dpeStyle(d)" x-text="d"></button>
+          </template>
+        </div>
+      </div>
+
+      <div>
+        <label class="block text-xs font-medium text-gray-700 mb-1">Transport within 500m</label>
+        <div class="space-y-1 text-sm">
+          <label class="flex items-center gap-2"><input type="checkbox" x-model="filters.hasMetro"> Metro</label>
+          <label class="flex items-center gap-2"><input type="checkbox" x-model="filters.hasTram"> Tram</label>
+          <label class="flex items-center gap-2"><input type="checkbox" x-model="filters.hasRER"> RER</label>
+        </div>
+        <input type="text" x-model="filters.transportLine" class="w-full text-xs border rounded px-2 py-1 mt-2" placeholder="specific line e.g. 7, T3a">
+      </div>
+
+      <div>
+        <label class="block text-xs font-medium text-gray-700 mb-1">Floor</label>
+        <div class="space-y-1 text-sm">
+          <label class="flex items-center gap-2"><input type="checkbox" x-model="filters.noGroundFloor"> Exclude RDC</label>
+          <label class="flex items-center gap-2"><input type="checkbox" x-model="filters.topFloor"> Only top floor</label>
+        </div>
+      </div>
+
+      <div>
+        <label class="block text-xs font-medium text-gray-700 mb-1">Listed since</label>
+        <select x-model="filters.freshness" class="w-full text-sm border rounded px-2 py-1">
+          <option value="">Any time</option>
+          <option value="7">Last 7 days</option>
+          <option value="30">Last 30 days</option>
+          <option value="90">Last 90 days</option>
+          <option value="180">Last 6 months</option>
+        </select>
+      </div>
+
+      <div>
+        <label class="block text-xs font-medium text-gray-700 mb-1">Exclude</label>
+        <div class="space-y-1 text-sm">
+          <label class="flex items-center gap-2"><input type="checkbox" x-model="filters.excludeVEFA"> VEFA / Neuf</label>
+          <label class="flex items-center gap-2"><input type="checkbox" x-model="filters.excludeBRS"> BRS</label>
+          <label class="flex items-center gap-2"><input type="checkbox" x-model="filters.excludeNueProp"> Nue-propriété</label>
+          <label class="flex items-center gap-2"><input type="checkbox" x-model="filters.excludeGere"> LMNP géré</label>
+        </div>
+      </div>
+
+      <div>
+        <label class="block text-xs font-medium text-gray-700 mb-1">Search text</label>
+        <input type="text" x-model="filters.text" class="w-full text-sm border rounded px-2 py-1" placeholder="terrasse, balcon, rénové…">
+      </div>
+
+      <div>
+        <label class="block text-xs font-medium text-gray-700 mb-1">My picks</label>
+        <div class="space-y-1 text-sm">
+          <label class="flex items-center gap-2">
+            <input type="checkbox" x-model="filters.onlyStarred">
+            <span>★ Only starred <span class="text-xs text-gray-500" x-text="'('+starred.size+')'"></span></span>
+          </label>
+          <label class="flex items-center gap-2">
+            <input type="checkbox" x-model="filters.showHidden">
+            <span>Show hidden <span class="text-xs text-gray-500" x-text="'('+hidden.size+')'"></span></span>
+          </label>
+        </div>
+        <div class="flex gap-1 mt-1" x-show="starred.size || hidden.size">
+          <button x-show="starred.size" @click="clearStarred()" class="text-xs px-2 py-1 rounded bg-yellow-50 hover:bg-yellow-100 text-yellow-700">Clear stars</button>
+          <button x-show="hidden.size" @click="clearHidden()" class="text-xs px-2 py-1 rounded bg-gray-100 hover:bg-gray-200 text-gray-600">Unhide all</button>
+        </div>
+      </div>
+
+      <div x-show="selected.size">
+        <button @click="exportSelected()" class="w-full bg-green-600 text-white text-sm py-2 rounded hover:bg-green-700">
+          Export <span x-text="selected.size"></span> as CSV
+        </button>
+        <button @click="clearSelection()" class="w-full mt-1 bg-gray-200 text-gray-700 text-xs py-1 rounded hover:bg-gray-300">Clear selection</button>
+      </div>
+    </aside>
+
+    <main class="col-span-9 bg-white rounded-lg shadow overflow-hidden">
+      <div class="overflow-x-auto" style="max-height: 80vh; overflow-y: auto;">
+      <table class="min-w-full text-sm">
+        <thead class="text-xs text-gray-600 uppercase">
+          <tr>
+            <th class="table-cell w-8"><input type="checkbox" @click="toggleAllVisible($event.target.checked)"></th>
+            <th class="table-cell w-14 text-center text-xs">★ / ✕</th>
+            <th class="table-cell th-sort" @click="setSort('city')">City <span x-text="sortArrow('city')"></span></th>
+            <th class="table-cell th-sort" @click="setSort('district')">District <span x-text="sortArrow('district')"></span></th>
+            <th class="table-cell th-sort text-right" @click="setSort('price')">Price € <span x-text="sortArrow('price')"></span></th>
+            <th class="table-cell th-sort text-right" @click="setSort('surface')">m² <span x-text="sortArrow('surface')"></span></th>
+            <th class="table-cell th-sort text-right" @click="setSort('ppm')">€/m² <span x-text="sortArrow('ppm')"></span></th>
+            <th class="table-cell th-sort text-center" @click="setSort('rooms')">Rooms <span x-text="sortArrow('rooms')"></span></th>
+            <th class="table-cell text-center">Floor</th>
+            <th class="table-cell text-center">DPE</th>
+            <th class="table-cell">Transport</th>
+            <th class="table-cell th-sort" @click="setSort('created')">Listed <span x-text="sortArrow('created')"></span></th>
+            <th class="table-cell">Link</th>
+          </tr>
+        </thead>
+        <tbody>
+          <template x-for="L in paged" :key="L.id">
+            <tr :class="selected.has(L.id) ? 'row-selected' : (hidden.has(L.id) ? 'opacity-40 hover:opacity-80' : 'hover:bg-gray-50')">
+              <td class="table-cell text-center">
+                <input type="checkbox" :checked="selected.has(L.id)" @change="toggleSelect(L.id)">
+              </td>
+              <td class="table-cell text-center">
+                <button @click="toggleStar(L.id)"
+                  :title="starred.has(L.id) ? 'Unstar' : 'Star'"
+                  :class="starred.has(L.id) ? 'text-yellow-500' : 'text-gray-300 hover:text-yellow-400'"
+                  class="text-base leading-none px-0.5">★</button>
+                <button @click="toggleHide(L.id)"
+                  :title="hidden.has(L.id) ? 'Unhide' : 'Hide'"
+                  :class="hidden.has(L.id) ? 'text-red-500' : 'text-gray-300 hover:text-red-400'"
+                  class="text-xs leading-none px-0.5">✕</button>
+              </td>
+              <td class="table-cell">
+                <span :class="cityBadgeClass(L.city)" class="badge" x-text="L.city.slice(0,3).toUpperCase()"></span>
+              </td>
+              <td class="table-cell text-xs" x-text="L.district"></td>
+              <td class="table-cell text-right font-semibold" x-text="L.price.toLocaleString('fr-FR')+' €'"></td>
+              <td class="table-cell text-right" x-text="L.surface || '–'"></td>
+              <td class="table-cell text-right" :class="ppmClass(L.ppm)" x-text="L.ppm ? L.ppm.toLocaleString('fr-FR') : '–'"></td>
+              <td class="table-cell text-center" x-text="'T'+L.rooms"></td>
+              <td class="table-cell text-center text-xs" x-text="L.floorText"></td>
+              <td class="table-cell text-center">
+                <span :class="'dpe-'+L.dpe" class="badge" x-text="L.dpe || '?'"></span>
+              </td>
+              <td class="table-cell text-xs" x-html="L.transportBadges"></td>
+              <td class="table-cell text-xs text-gray-500" x-text="L.createdShort"></td>
+              <td class="table-cell">
+                <template x-if="L.url">
+                  <a :href="L.url" target="_blank" class="text-blue-600 hover:underline text-xs">Open ↗</a>
+                </template>
+                <template x-if="!L.url">
+                  <span class="text-gray-400 text-xs" title="Source URL not captured for this Jinka listing — search SeLoger manually">no link</span>
+                </template>
+              </td>
+            </tr>
+          </template>
+          <tr x-show="!filtered.length">
+            <td colspan="13" class="text-center py-8 text-gray-500">No listings match current filters.</td>
+          </tr>
+        </tbody>
+      </table>
+      </div>
+      <div class="p-2 flex items-center justify-between text-xs bg-gray-50 border-t">
+        <div>
+          Page <span x-text="page"></span> / <span x-text="totalPages"></span>
+          · <select x-model.number="pageSize" class="border rounded px-1">
+            <option>25</option><option>50</option><option>100</option><option>250</option>
+          </select> / page
+        </div>
+        <div class="flex gap-1">
+          <button @click="page=1" :disabled="page===1" class="px-2 py-1 rounded bg-gray-100 hover:bg-gray-200 disabled:opacity-40">« First</button>
+          <button @click="page--" :disabled="page===1" class="px-2 py-1 rounded bg-gray-100 hover:bg-gray-200 disabled:opacity-40">‹ Prev</button>
+          <button @click="page++" :disabled="page>=totalPages" class="px-2 py-1 rounded bg-gray-100 hover:bg-gray-200 disabled:opacity-40">Next ›</button>
+          <button @click="page=totalPages" :disabled="page>=totalPages" class="px-2 py-1 rounded bg-gray-100 hover:bg-gray-200 disabled:opacity-40">Last »</button>
+        </div>
+      </div>
+    </main>
+  </div>
+</template>
+
+<!-- ============================================================ -->
+<!-- NEUF VIEW -->
+<!-- ============================================================ -->
+<template x-if="activeTab==='neuf'">
+  <div class="contents">
+    <aside class="col-span-3 bg-white rounded-lg shadow p-4 space-y-4 self-start sticky top-4 max-h-[95vh] overflow-y-auto">
+      <div class="flex items-center justify-between">
+        <h2 class="font-semibold">Filters — Neuf</h2>
+        <button @click="resetFiltersNeuf()" class="text-xs text-blue-600 hover:underline">Reset</button>
+      </div>
+
+      <div class="bg-blue-50 p-2 rounded space-y-2">
+        <div>
+          <label class="block text-xs font-medium text-gray-700 mb-1">Sort by</label>
+          <div class="flex gap-1">
+            <select x-model="sortByNeuf" @change="pageNeuf=1" class="flex-1 text-sm border rounded px-2 py-1">
+              <option value="price">Starting price</option>
+              <option value="cityName">City</option>
+              <option value="name">Programme name</option>
+              <option value="progressStatusId">Status</option>
+            </select>
+            <button @click="sortDirNeuf = sortDirNeuf==='asc'?'desc':'asc'; pageNeuf=1"
+              class="text-sm border rounded px-2 py-1 bg-white hover:bg-gray-50"
+              x-text="sortDirNeuf==='asc' ? '▲ asc' : '▼ desc'"></button>
+          </div>
+        </div>
+        <div>
+          <label class="block text-xs font-medium text-gray-700 mb-1">Then by</label>
+          <div class="flex gap-1">
+            <select x-model="sortByNeuf2" @change="pageNeuf=1" class="flex-1 text-sm border rounded px-2 py-1">
+              <option value="">— none —</option>
+              <option value="price">Starting price</option>
+              <option value="cityName">City</option>
+              <option value="name">Programme name</option>
+              <option value="progressStatusId">Status</option>
+            </select>
+            <button @click="sortDirNeuf2 = sortDirNeuf2==='asc'?'desc':'asc'; pageNeuf=1"
+              class="text-sm border rounded px-2 py-1 bg-white hover:bg-gray-50 disabled:opacity-40"
+              :disabled="!sortByNeuf2"
+              x-text="sortDirNeuf2==='asc' ? '▲ asc' : '▼ desc'"></button>
+          </div>
+        </div>
+      </div>
+
+      <div>
+        <label class="block text-xs font-medium text-gray-700 mb-1">City</label>
+        <div class="flex gap-1 flex-wrap">
+          <template x-for="c in citiesNeuf" :key="c">
+            <button @click="toggleCityNeuf(c)"
+              :class="filtersNeuf.cities.has(c) ? 'bg-blue-600 text-white' : 'bg-gray-100 text-gray-700'"
+              class="px-2 py-1 rounded text-xs" x-text="c"></button>
+          </template>
+        </div>
+      </div>
+
+      <div>
+        <label class="block text-xs font-medium text-gray-700 mb-1">Starting price max €</label>
+        <input type="number" step="10000" x-model.number="filtersNeuf.priceMax" class="w-full text-xs border rounded px-2 py-1">
+      </div>
+
+      <div>
+        <label class="block text-xs font-medium text-gray-700 mb-1">Room types available</label>
+        <div class="flex gap-1 flex-wrap">
+          <template x-for="r in ['studio','2','3','4','5']" :key="r">
+            <button @click="toggleRoomNeuf(r)"
+              :class="filtersNeuf.rooms.has(r) ? 'bg-blue-600 text-white' : 'bg-gray-100 text-gray-700'"
+              class="px-2 py-1 rounded text-xs" x-text="r==='studio' ? 'Studio' : 'T'+r"></button>
+          </template>
+        </div>
+        <div class="text-[10px] text-gray-500 mt-1">Programme must offer at least one of these types.</div>
+      </div>
+
+      <div>
+        <label class="block text-xs font-medium text-gray-700 mb-1">Programme status</label>
+        <div class="space-y-1 text-sm">
+          <template x-for="s in progressStatuses" :key="s.id">
+            <label class="flex items-center gap-2">
+              <input type="checkbox" @change="toggleStatus(s.id)" :checked="filtersNeuf.statuses.has(s.id)">
+              <span x-text="s.label + ' ('+ statusCount(s.id) +')'"></span>
+            </label>
+          </template>
+        </div>
+      </div>
+
+      <div>
+        <label class="block text-xs font-medium text-gray-700 mb-1">Special offer</label>
+        <label class="flex items-center gap-2 text-sm">
+          <input type="checkbox" x-model="filtersNeuf.hasSpecialOffer"> Has special offer / promo
+        </label>
+      </div>
+
+      <div>
+        <label class="block text-xs font-medium text-gray-700 mb-1">Search text</label>
+        <input type="text" x-model="filtersNeuf.text" class="w-full text-sm border rounded px-2 py-1" placeholder="TVA 5.5, terrasse, école…">
+      </div>
+
+      <div x-show="selectedNeuf.size">
+        <button @click="exportSelectedNeuf()" class="w-full bg-green-600 text-white text-sm py-2 rounded hover:bg-green-700">
+          Export <span x-text="selectedNeuf.size"></span> as CSV
+        </button>
+        <button @click="selectedNeuf.clear()" class="w-full mt-1 bg-gray-200 text-gray-700 text-xs py-1 rounded hover:bg-gray-300">Clear selection</button>
+      </div>
+    </aside>
+
+    <main class="col-span-9 bg-white rounded-lg shadow overflow-hidden">
+      <div class="overflow-x-auto" style="max-height: 80vh; overflow-y: auto;">
+      <table class="min-w-full text-sm">
+        <thead class="text-xs text-gray-600 uppercase">
+          <tr>
+            <th class="table-cell w-8"><input type="checkbox" @click="toggleAllVisibleNeuf($event.target.checked)"></th>
+            <th class="table-cell th-sort" @click="setSortNeuf('cityName')">City <span x-text="sortArrowNeuf('cityName')"></span></th>
+            <th class="table-cell">Programme</th>
+            <th class="table-cell th-sort text-right" @click="setSortNeuf('price')">Starting € <span x-text="sortArrowNeuf('price')"></span></th>
+            <th class="table-cell">Rooms available</th>
+            <th class="table-cell">Promoter</th>
+            <th class="table-cell">Status</th>
+            <th class="table-cell">Photo</th>
+            <th class="table-cell">Link</th>
+          </tr>
+        </thead>
+        <tbody>
+          <template x-for="P in pagedNeuf" :key="P.programId">
+            <tr :class="selectedNeuf.has(P.programId) ? 'row-selected' : 'hover:bg-gray-50'">
+              <td class="table-cell text-center">
+                <input type="checkbox" :checked="selectedNeuf.has(P.programId)" @change="toggleSelectNeuf(P.programId)">
+              </td>
+              <td class="table-cell">
+                <span :class="cityBadgeClass(P.cityName)" class="badge" x-text="(P.cityName||'').slice(0,3).toUpperCase()"></span>
+                <span class="text-xs text-gray-500" x-text="P.zipCode"></span>
+              </td>
+              <td class="table-cell">
+                <div class="font-semibold text-sm" x-text="P.name"></div>
+                <div class="text-[10px] text-gray-500" x-show="P.hasSpecialOffer">🎁 <span x-text="P.stamp || 'Special offer'"></span></div>
+              </td>
+              <td class="table-cell text-right font-semibold" x-text="P.price ? P.price.toLocaleString('fr-FR')+' €' : '—'"></td>
+              <td class="table-cell text-xs" x-text="P.propertiesAvailability"></td>
+              <td class="table-cell text-xs" x-text="P.professionalName"></td>
+              <td class="table-cell text-xs">
+                <span :class="statusBadgeClass(P.progressStatusId)" class="badge" x-text="statusLabel(P.progressStatusId)"></span>
+              </td>
+              <td class="table-cell">
+                <img x-show="P.thumbnailUrl" :src="P.thumbnailUrl" class="w-14 h-10 object-cover rounded">
+              </td>
+              <td class="table-cell">
+                <a :href="'https://www.selogerneuf.com'+P.programUrl" target="_blank" class="text-blue-600 hover:underline text-xs">Open ↗</a>
+              </td>
+            </tr>
+          </template>
+          <tr x-show="!filteredNeuf.length">
+            <td colspan="9" class="text-center py-8 text-gray-500">No programmes match current filters.</td>
+          </tr>
+        </tbody>
+      </table>
+      </div>
+      <div class="p-2 flex items-center justify-between text-xs bg-gray-50 border-t">
+        <div>
+          Page <span x-text="pageNeuf"></span> / <span x-text="totalPagesNeuf"></span>
+          · <select x-model.number="pageSize" class="border rounded px-1">
+            <option>25</option><option>50</option><option>100</option><option>250</option>
+          </select> / page
+        </div>
+        <div class="flex gap-1">
+          <button @click="pageNeuf=1" :disabled="pageNeuf===1" class="px-2 py-1 rounded bg-gray-100 hover:bg-gray-200 disabled:opacity-40">« First</button>
+          <button @click="pageNeuf--" :disabled="pageNeuf===1" class="px-2 py-1 rounded bg-gray-100 hover:bg-gray-200 disabled:opacity-40">‹ Prev</button>
+          <button @click="pageNeuf++" :disabled="pageNeuf>=totalPagesNeuf" class="px-2 py-1 rounded bg-gray-100 hover:bg-gray-200 disabled:opacity-40">Next ›</button>
+          <button @click="pageNeuf=totalPagesNeuf" :disabled="pageNeuf>=totalPagesNeuf" class="px-2 py-1 rounded bg-gray-100 hover:bg-gray-200 disabled:opacity-40">Last »</button>
+        </div>
+      </div>
+    </main>
+  </div>
+</template>
+
+<!-- ============================================================ -->
+<!-- SUIVI (TRACKING) VIEW -->
+<!-- ============================================================ -->
+<template x-if="activeTab==='suivi'">
+  <div class="col-span-12 space-y-4">
+
+    <!-- Summary bar -->
+    <div class="track-card p-3 flex flex-wrap items-center gap-4 text-sm">
+      <div><b>4 biens en cours</b> · Vitry-sur-Seine tour Saturday</div>
+      <div class="text-gray-500">
+        Contact envoyé : <b class="text-gray-800" x-text="tracked.filter(t => t.progress==='Contacted').length"></b> ·
+        En attente réponse : <b class="text-gray-800" x-text="tracked.filter(t => t.progress==='Awaiting').length"></b> ·
+        Visite programmée : <b class="text-gray-800" x-text="tracked.filter(t => t.progress==='Visite').length"></b> ·
+        Visite faite : <b class="text-gray-800" x-text="tracked.filter(t => t.progress==='Visited').length"></b>
+      </div>
+      <button @click="resetTracking()" class="ml-auto text-xs text-red-600 hover:underline">Reset all tracking data</button>
+    </div>
+
+    <!-- One card per tracked listing -->
+    <template x-for="(t, idx) in tracked" :key="t.id">
+      <div class="track-card p-4">
+
+        <!-- Header row -->
+        <div class="flex items-start justify-between gap-4 mb-3 pb-3 border-b border-gray-200">
+          <div class="flex-1">
+            <div class="flex items-center gap-2 mb-1">
+              <span :class="'badge ' + (t.city.startsWith('Vitry') ? 'badge-oth' : (t.city.startsWith('Villejuif') ? 'badge-vjf' : 'badge-ivr'))" x-text="t.city.slice(0,3).toUpperCase()"></span>
+              <h3 class="text-lg font-bold" x-text="t.name"></h3>
+              <span :class="'progress-badge stage-' + t.progress" x-text="t.progress"></span>
+            </div>
+            <div class="text-xs text-gray-500" x-text="'Agent: ' + t.agent + ' · Contacté le ' + t.contactedDate + ' · District: ' + t.district"></div>
+          </div>
+          <div class="text-right">
+            <div class="text-2xl font-bold" x-text="t.price.toLocaleString('fr-FR') + ' €'"></div>
+            <div class="text-sm text-gray-600" x-text="t.ppm.toLocaleString('fr-FR') + ' €/m² · ' + t.surface + ' m² · T' + t.rooms + ' · DPE ' + t.dpe"></div>
+            <div class="text-xs mt-1">
+              <span>vs DVF T<span x-text="t.rooms"></span> médiane :</span>
+              <span :class="t.dvfGap <= 0 ? 'dvf-good' : (t.dvfGap <= 10 ? 'dvf-neutral' : 'dvf-bad')"
+                    x-text="(t.dvfGap > 0 ? '+' : '') + t.dvfGap + '% (' + t.dvfMedian.toLocaleString('fr-FR') + ' €/m²)'"></span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Grid: constraints (left) + features (right) -->
+        <div class="grid grid-cols-2 gap-4 mb-3">
+          <div>
+            <h4 class="text-xs font-semibold text-gray-700 mb-1 uppercase">✓ Contraintes à vérifier
+              <span class="text-gray-400 font-normal" x-text="'(' + t.constraints.filter(c => c.checked).length + ' / ' + t.constraints.length + ' cochées)'"></span>
+            </h4>
+            <div>
+              <template x-for="c in t.constraints" :key="c.key">
+                <span :class="c.checked ? 'constraint-chip done' : 'constraint-chip'"
+                      @click="c.checked = !c.checked; saveTracking()">
+                  <input type="checkbox" :checked="c.checked" @click.stop class="pointer-events-none">
+                  <span x-text="c.label"></span>
+                </span>
+              </template>
+            </div>
+          </div>
+          <div>
+            <h4 class="text-xs font-semibold text-gray-700 mb-1 uppercase">🌟 Bons signaux</h4>
+            <div>
+              <template x-for="f in t.goodFeatures" :key="f">
+                <span class="track-good" x-text="f"></span>
+              </template>
+            </div>
+          </div>
+        </div>
+
+        <!-- Progress + Negotiation + Notes -->
+        <div class="grid grid-cols-3 gap-3 mb-3">
+          <div>
+            <label class="block text-xs font-semibold text-gray-700 mb-1 uppercase">Progression</label>
+            <select x-model="t.progress" @change="saveTracking()" class="w-full text-sm border rounded px-2 py-1">
+              <option>Contacted</option>
+              <option>Awaiting</option>
+              <option>Docs</option>
+              <option>Visite</option>
+              <option>Visited</option>
+              <option>Offer</option>
+              <option>Signed</option>
+              <option>Withdrawn</option>
+            </select>
+          </div>
+          <div>
+            <label class="block text-xs font-semibold text-gray-700 mb-1 uppercase">Ancres négo (fixes)</label>
+            <div class="text-xs space-y-0.5">
+              <div>Anchor : <b x-text="t.anchor.toLocaleString('fr-FR') + ' €'"></b></div>
+              <div>Walk-up : <b x-text="t.walkup.toLocaleString('fr-FR') + ' €'"></b></div>
+              <div>Max abs. : <b x-text="t.absMax.toLocaleString('fr-FR') + ' €'"></b></div>
+            </div>
+          </div>
+          <div>
+            <label class="block text-xs font-semibold text-gray-700 mb-1 uppercase">Offre finale (€)</label>
+            <input type="number" x-model.number="t.finalOffer" @input="saveTracking()"
+                   class="w-full text-sm border rounded px-2 py-1" placeholder="À remplir…">
+            <div class="text-[10px] mt-1 text-gray-500" x-show="t.finalOffer">
+              vs anchor : <span x-text="((t.finalOffer - t.anchor)/t.anchor * 100).toFixed(1) + '%'"></span>
+              · vs ask : <span x-text="((t.finalOffer - t.price)/t.price * 100).toFixed(1) + '%'"></span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Notes -->
+        <div class="mb-2">
+          <label class="block text-xs font-semibold text-gray-700 mb-1 uppercase">Notes de visite / négo</label>
+          <textarea x-model="t.notes" @input="saveTracking()"
+                    class="w-full text-sm border rounded px-2 py-1"
+                    rows="2" placeholder="Adresse exacte, tenants pool, agent quirks, red flags…"></textarea>
+        </div>
+
+        <!-- Actions -->
+        <div class="flex items-center gap-2 text-xs pt-2 border-t border-gray-100">
+          <a :href="t.url" target="_blank" class="text-blue-600 hover:underline">🔗 Ouvrir l'annonce ↗</a>
+          <span class="text-gray-300">·</span>
+          <a :href="t.agentUrl || t.url" target="_blank" class="text-blue-600 hover:underline" x-show="t.agentUrl">📞 Contacter l'agent ↗</a>
+          <span class="ml-auto text-gray-400" x-text="'Slot: ' + t.slot"></span>
+        </div>
+
+      </div>
+    </template>
+  </div>
+</template>
+
+</div><!-- grid -->
+</div>
+
+<script>
+function app() {
+  return {
+    activeTab: 'ancien',
+    tracked: [],
+    // ANCIEN state
+    listings: [],
+    selected: new Set(),
+    page: 1,
+    sortBy: 'ppm',
+    sortDir: 'asc',
+    sortBy2: '',
+    sortDir2: 'desc',
+    filters: {
+      cities: new Set(['Paris']),
+      district: '',
+      rooms: new Set(),
+      priceMin: 0, priceMax: 400000,
+      surfaceMin: 0, surfaceMax: 200,
+      ppmMax: 8100,   // Paris hard cap
+      dpeMax: 'G',
+      hasMetro: false, hasTram: false, hasRER: false, transportLine: '',
+      noGroundFloor: false, topFloor: false, freshness: '',
+      excludeVEFA: true, excludeBRS: true, excludeNueProp: true, excludeGere: true,
+      text: '',
+      showHidden: false,   // default: hide hidden listings
+      onlyStarred: false,  // default: show all, not just starred
+    },
+    // NEUF state
+    programmes: [],
+    selectedNeuf: new Set(),
+    pageNeuf: 1,
+    sortByNeuf: 'price',
+    sortDirNeuf: 'asc',
+    sortByNeuf2: '',
+    sortDirNeuf2: 'desc',
+    filtersNeuf: {
+      cities: new Set(['Villejuif','Ivry-sur-Seine']),
+      priceMax: 500000,
+      rooms: new Set(),
+      statuses: new Set(),
+      hasSpecialOffer: false,
+      text: '',
+    },
+    pageSize: 50,
+
+    progressStatuses: [
+      { id: 0, label: 'Vendu' },
+      { id: 1, label: 'Lancement commercial' },
+      { id: 2, label: 'En travaux' },
+      { id: 3, label: 'Livré' },
+      { id: 6, label: 'Livraison imminente' },
+      { id: 7, label: 'Disponible' },
+      { id: null, label: '(non renseigné)' },
+    ],
+
+    async init() {
+      try {
+        const [parisBuy, slnParis] = await Promise.all([
+          fetch('paris_buy_pool_20260805.json').then(r=>r.json()).catch(()=>[]),
+          fetch('sln_paris_20260704_merged.json').then(r=>r.json()).catch(()=>[]),
+        ]);
+        const seen = new Set();
+        this.listings = parisBuy
+          .map(L => this.normalize(L))
+          .filter(L => L && L.price > 0 && !seen.has(L.id) && (seen.add(L.id) || true));
+        const seenProg = new Set();
+        this.programmes = slnParis
+          .filter(p => p && p.programId && !seenProg.has(p.programId) && (seenProg.add(p.programId) || true));
+      } catch (e) {
+        console.error(e);
+        alert('Failed to load JSON files. ('+e.message+')');
+      }
+      this.loadStarredHidden();
+      this.loadTracking();
+    },
+
+    // Starred & hidden listings — persisted in localStorage
+    starred: new Set(),
+    hidden: new Set(),
+    loadStarredHidden() {
+      try {
+        const s = JSON.parse(localStorage.getItem('paris_buy_starred_v1') || '[]');
+        const h = JSON.parse(localStorage.getItem('paris_buy_hidden_v1') || '[]');
+        this.starred = new Set(s);
+        this.hidden = new Set(h);
+      } catch (e) { console.error('load starred/hidden fail', e); }
+    },
+    saveStarredHidden() {
+      try {
+        localStorage.setItem('paris_buy_starred_v1', JSON.stringify([...this.starred]));
+        localStorage.setItem('paris_buy_hidden_v1', JSON.stringify([...this.hidden]));
+      } catch (e) { console.error('save starred/hidden fail', e); }
+    },
+    toggleStar(id) {
+      if (this.starred.has(id)) this.starred.delete(id); else this.starred.add(id);
+      // Un-hide when starring, so a listing can't be both
+      if (this.starred.has(id)) this.hidden.delete(id);
+      this.saveStarredHidden();
+    },
+    toggleHide(id) {
+      if (this.hidden.has(id)) this.hidden.delete(id); else this.hidden.add(id);
+      if (this.hidden.has(id)) this.starred.delete(id);
+      this.saveStarredHidden();
+    },
+    clearHidden() { this.hidden = new Set(); this.saveStarredHidden(); },
+    clearStarred() { this.starred = new Set(); this.saveStarredHidden(); },
+
+    // ============ TRACKING (Suivi) ============
+    trackingSeed() {
+      const commonConstraints = () => [
+        { key: 'address_confirmed', label: 'Adresse exacte confirmée', checked: false },
+        { key: 'year_confirmed', label: 'Année de construction vérifiée', checked: false },
+        { key: 'lots_count', label: 'Nombre de lots copro connu', checked: false },
+        { key: 'no_ravalement', label: 'Pas de ravalement voté', checked: false },
+        { key: 'no_appel_fonds', label: 'Pas d\'appel de fonds exceptionnel', checked: false },
+        { key: 'meublee_ok', label: 'Meublée autorisée (règlement copro)', checked: false },
+        { key: 'pv_ag_received', label: 'PV des 3 derniers AG reçus', checked: false },
+        { key: 'charges_confirmed', label: 'Charges annuelles réelles confirmées', checked: false },
+        { key: 'taxe_fonciere', label: 'Taxe foncière connue', checked: false },
+        { key: 'chauffage_ok', label: 'Chauffage confirmé + consommation', checked: false },
+        { key: 'dpe_confirmed', label: 'DPE + attestation reçus', checked: false },
+        { key: 'transport_verified', label: 'Distance transports vérifiée sur place', checked: false },
+        { key: 'noise_ok', label: 'Bruit acceptable (visite)', checked: false },
+        { key: 'interior_state', label: 'État général intérieur validé', checked: false },
+      ];
+      // Primary-residence Paris pipeline (buy for self)
+      // Reset 2026-08-05: dropped investment/Vitry-Ivry tracks, replaced with 3 contacted Paris candidates
+      const primaryResidenceConstraints = () => [
+        { key: 'address_confirmed', label: 'Adresse exacte confirmée', checked: false },
+        { key: 'dpe_confirmed', label: 'DPE lettre + rapport reçu', checked: false },
+        { key: 'year_confirmed', label: 'Année de construction vérifiée', checked: false },
+        { key: 'lots_count', label: 'Nombre de lots copro connu', checked: false },
+        { key: 'no_procedure', label: 'Pas de procédure syndicale en cours', checked: false },
+        { key: 'pv_ag_received', label: 'PV des 3 derniers AG reçus', checked: false },
+        { key: 'charges_confirmed', label: 'Charges annuelles réelles confirmées', checked: false },
+        { key: 'no_appel_fonds', label: 'Pas d\'appel de fonds exceptionnel', checked: false },
+        { key: 'taxe_fonciere', label: 'Taxe foncière connue', checked: false },
+        { key: 'chauffage_ok', label: 'Chauffage confirmé + consommation', checked: false },
+        { key: 'visit_scheduled', label: 'Visite planifiée', checked: false },
+        { key: 'noise_ok', label: 'Bruit acceptable (visite)', checked: false },
+        { key: 'interior_state', label: 'État général intérieur validé', checked: false },
+        { key: 'loan_precheck', label: 'Pré-accord bancaire (Valentin) OK résidence principale', checked: false },
+      ];
+      return [
+        {
+          id: 'oddsen-EC1947bis',
+          name: 'Amérique/Mouzaïa T2 47m² (Oddsen)',
+          city: 'Paris', district: 'Paris 19e - Amérique/Mouzaïa',
+          price: 335000, surface: 47, ppm: 7128, rooms: 2, dpe: 'D',
+          dvfGap: 13, dvfMedian: 8204,
+          agent: 'Édouard Cheneau · Oddsen Immobilier (06 47 67 43 33)',
+          contactedDate: '2026-08-05',
+          url: 'https://www.oddsen.fr/fiches/3-33-28_60426801/mouzaia-pre-saint-gervais.html',
+          agentUrl: 'mailto:edouard@oddsen.fr',
+          slot: 'À planifier',
+          anchor: 315000, walkup: 325000, absMax: 335000,
+          goodFeatures: [
+            'DPE D confirmé (rapport 14/01/2026)', 'GES D',
+            'Chauffage collectif gaz au sol', 'Exposition Sud-Ouest',
+            '3ᵉ étage/15 + ascenseur', 'Cave 8m²',
+            'Digicode + Gardien', 'Cuisine américaine aménagée',
+            'M7bis Pré Saint-Gervais 250m', 'Mouzaïa quartier calme',
+            'Honoraires charge vendeur (0 pour vous)',
+            '13% sous médiane DVF Amérique T2 (€8 204/m²)'
+          ],
+          constraints: [
+            ...primaryResidenceConstraints(),
+            { key: 'terrasse_none', label: 'Pas de balcon/terrasse — acceptable pour vous?', checked: false },
+            { key: 'sdb_wc_combined', label: 'WC dans SdE (pas séparé) — acceptable?', checked: false },
+          ],
+          progress: 'Contacted', finalOffer: null,
+          notes: 'Contact form envoyé via Oddsen 2026-08-05. Attendre callback Édouard. Réf EC1947bis.',
+        },
+        {
+          id: 'gdc-e2f07f7a',
+          name: 'Buttes-Chaumont T2 50m² + Terrasse Jardin (GDC Exclusive)',
+          city: 'Paris', district: 'Paris 19e - Buttes-Chaumont',
+          price: 320000, surface: 50, ppm: 6400, rooms: 2, dpe: null,
+          dvfGap: 22, dvfMedian: 8204,
+          agent: 'Hervé Hales (particulier, GDC 26 sponsors depuis 2020)',
+          contactedDate: '2026-08-05',
+          url: 'https://gensdeconfiance.com/us/ui/post/realestate__sale/e2f07f7a-9c54-4dce-9f06-c86a614d7d19',
+          agentUrl: 'https://gensdeconfiance.com/us/ui/messages/0514aae4-adc3-4456-a632-acb7791f5d65',
+          slot: 'À planifier',
+          anchor: 300000, walkup: 310000, absMax: 320000,
+          goodFeatures: [
+            'PARTICULIER DIRECT (pas de frais agence)',
+            'GDC Exclusive (jamais sur Jinka/SeLoger)',
+            '600m Buttes-Chaumont à pied',
+            'Rez-de-jardin surélevé (pas RDC pur)',
+            'Petite terrasse sur jardin intérieur ✨',
+            '"Refait à neuf" 2026',
+            'Séjour + cuisine ouverte, 1 chambre, SdE',
+            'Petite résidence calme',
+            '22% sous médiane DVF Amérique T2',
+            'Parking souterrain disponible €20k sus'
+          ],
+          constraints: [
+            ...primaryResidenceConstraints(),
+            { key: 'dpe_letter_missing', label: 'DPE lettre à demander (image seule dans annonce)', checked: false },
+            { key: 'rdc_soulevé', label: 'Confirmer "rez-de-jardin surélevé" = hauteur suffisante', checked: false },
+            { key: 'parking_separe', label: 'Parking €20k en sus (à décider séparément)', checked: false },
+            { key: 'refait_neuf_scope', label: 'Périmètre "refait à neuf" (cuisine, salle d\'eau, sols?)', checked: false },
+            { key: 'small_copro', label: 'Nombre de lots petite copro (pour éval charges)', checked: false },
+          ],
+          progress: 'Contacted', finalOffer: null,
+          notes: 'Message envoyé via GDC 2026-08-05 à Hervé Hales. Annonce publiée 18/04/2026 (4 mois — marge de négo possible).',
+        },
+        {
+          id: 'seloger-276137719',
+          name: 'Belleville-Saint Maur T2 41m² (à rénover)',
+          city: 'Paris', district: 'Paris 11e - Belleville-Saint Maur',
+          price: 295000, surface: 41.42, ppm: 7122, rooms: 2, dpe: 'en cours',
+          dvfGap: 0, dvfMedian: 8500,
+          agent: 'Agence SeLoger (Les Triplettes)',
+          contactedDate: '2026-08-05',
+          url: 'https://www.seloger.com/annonces/achat/appartement/paris-11eme-75/belleville-saint-maur/276137719.htm',
+          agentUrl: 'https://www.seloger.com/annonces/achat/appartement/paris-11eme-75/belleville-saint-maur/276137719.htm',
+          slot: 'À planifier',
+          anchor: 260000, walkup: 275000, absMax: 285000,
+          goodFeatures: [
+            'Belleville-Ménilmontant "Les Triplettes"',
+            'M2 Belleville au pied',
+            '2ᵉ étage/6 + bus 20/71/96',
+            '17% sous médiane P11 T2',
+            'Copro 50 lots, pas de procédure',
+            'Honoraires vendeur'
+          ],
+          constraints: [
+            ...primaryResidenceConstraints(),
+            { key: 'renovation_scope', label: '🚨 "Rénovation nécessaire" — chiffrer travaux (€30-50k?)', checked: false },
+            { key: 'dpe_en_cours', label: '🚨 DPE "en cours" — DEMANDER la lettre AVANT visite', checked: false },
+            { key: 'redispose_pieces', label: '"Repenser complètement la disposition" — plan architecte?', checked: false },
+            { key: 'no_balcon', label: 'Pas de balcon (annoncé)', checked: false },
+            { key: 'noise_bd_belleville', label: 'Bruit rue Saint-Maur/Bd Belleville vérifié', checked: false },
+          ],
+          progress: 'Contacted', finalOffer: null,
+          notes: '⚠️ Rénovation + DPE inconnu = risque. Contact form envoyé 2026-08-05. Traiter avec prudence — ne pas visiter avant DPE + estimation travaux.',
+        },
+      ];
+    },
+
+    loadTracking() {
+      const seed = this.trackingSeed();
+      let saved = {};
+      try { saved = JSON.parse(localStorage.getItem('tracking_v1') || '{}'); } catch {}
+      this.tracked = seed.map(s => {
+        const sv = saved[s.id] || {};
+        // Merge saved constraint checks by key
+        if (sv.constraints) {
+          const savedMap = Object.fromEntries(sv.constraints.map(c => [c.key, c.checked]));
+          s.constraints = s.constraints.map(c => ({ ...c, checked: savedMap[c.key] ?? c.checked }));
+        }
+        return { ...s, progress: sv.progress ?? s.progress, finalOffer: sv.finalOffer ?? s.finalOffer, notes: sv.notes ?? s.notes };
+      });
+    },
+
+    saveTracking() {
+      const out = {};
+      this.tracked.forEach(t => {
+        out[t.id] = {
+          progress: t.progress, finalOffer: t.finalOffer, notes: t.notes,
+          constraints: t.constraints.map(c => ({ key: c.key, checked: c.checked })),
+        };
+      });
+      try { localStorage.setItem('tracking_v1', JSON.stringify(out)); } catch (e) { console.error('save fail', e); }
+    },
+
+    resetTracking() {
+      if (!confirm('Reset all tracking progress + notes + offers? This cannot be undone.')) return;
+      localStorage.removeItem('tracking_v1');
+      this.loadTracking();
+    },
+
+    normalize(L) {
+      const hf = L.hardFacts || {};
+      const facts = {};
+      (hf.facts || []).forEach(f => facts[f.type] = f);
+      const parseNum = s => parseInt(String(s || '').replace(/\D/g, ''), 10) || 0;
+      const price = parseNum(hf.price?.value);
+      const surface = parseFloat(String(facts.livingSpace?.splitValue || '').replace(',','.')) || 0;
+      const rooms = parseInt(facts.numberOfRooms?.splitValue) || 0;
+      const bedrooms = parseInt(facts.numberOfBedrooms?.splitValue) || 0;
+      const ppm = surface ? Math.round(price / surface) : 0;
+      const floorRaw = facts.numberOfFloors?.value || '';
+      const floorMatch = floorRaw.match(/(\d+)\s*\/\s*(\d+)/);
+      const floor = floorMatch ? parseInt(floorMatch[1]) : (floorRaw.includes('RDC') || floorRaw.includes('rdc') ? 0 : null);
+      const totalFloors = floorMatch ? parseInt(floorMatch[2]) : null;
+      const dpe = (typeof L.energyClass === 'string' ? L.energyClass
+                : (L.energyClass?.letter || L.energyClass?.value)) || null;
+      const transport = L.location?.transport?.closestLines || [];
+      const metroLines = [], tramLines = [], rerLines = [];
+      transport.forEach(t => {
+        const names = (t.lines || []).map(l => l.name);
+        if (t.type === 'METRO') metroLines.push(...names);
+        else if (t.type === 'TRAM') tramLines.push(...names);
+        else if (t.type === 'RER') rerLines.push(...names);
+      });
+      const title = hf.title || '';
+      const desc = (L.mainDescription?.description || '');
+      const combined = (title + ' ' + desc).toLowerCase();
+      const isVEFA = /\b(première occupation|vefa|neuf|programme neuf|livraison 20)\b/i.test(combined);
+      const isBRS = /\b(brs|bail réel solidaire|bail reel solidaire)\b/i.test(combined);
+      const isNueProp = /\b(nue-?propriété|démembrement)\b/i.test(combined);
+      const isGere = /\b(lmnp géré|résidence services|résidence étudiante|senior|ehpad)\b/i.test(combined);
+      const badge = (t, name) => {
+        const color = t === 'M' ? '#f97316' : t === 'T' ? '#3b82f6' : '#7c3aed';
+        return `<span style="background:${color};color:white;padding:1px 5px;border-radius:3px;margin:0 2px;font-weight:600">${t}${name}</span>`;
+      };
+      const transportBadges =
+        metroLines.map(n => badge('M', n)).join('') +
+        tramLines.map(n => badge('T', n)).join('') +
+        rerLines.map(n => badge('R', n)).join('');
+      return {
+        id: L.id,
+        legacyId: L.metadata?.legacyId,
+        city: L.location?.address?.city || '',
+        district: L.location?.address?.district || '–',
+        price, surface, ppm, rooms, bedrooms,
+        floor, totalFloors, floorText: floorRaw || '–',
+        dpe: dpe && /^[A-G]$/.test(dpe) ? dpe : null,
+        metroLines, tramLines, rerLines, transportBadges,
+        title, description: desc.slice(0, 500),
+        created: L.metadata?.creationDate || '',
+        createdShort: (() => {
+          const c = L.metadata?.creationDate;
+          if (!c) return '';
+          if (typeof c === 'number') return new Date(c > 1e12 ? c : c*1000).toISOString().slice(0,10);
+          return String(c).slice(0,10);
+        })(),
+        url: L.url,
+        isVEFA, isBRS, isNueProp, isGere,
+      };
+    },
+
+    // ============ ANCIEN filtering ============
+    get cities() { return [...new Set(this.listings.map(L => L.city).filter(Boolean))].sort(); },
+    get districts() {
+      const inCity = L => this.filters.cities.size === 0 || this.filters.cities.has(L.city);
+      return [...new Set(this.listings.filter(inCity).map(L => L.district).filter(d => d && d !== '–'))].sort();
+    },
+    get filtered() {
+      const f = this.filters;
+      const dpeOrder = {A:1,B:2,C:3,D:4,E:5,F:6,G:7};
+      const maxDpe = dpeOrder[f.dpeMax] || 7;
+      const now = Date.now(); const dayMs = 86400000;
+      return this.listings.filter(L => {
+        if (this.hidden.has(L.id) && !f.showHidden) return false;
+        if (f.onlyStarred && !this.starred.has(L.id)) return false;
+        if (f.cities.size && !f.cities.has(L.city)) return false;
+        if (f.district && L.district !== f.district) return false;
+        if (f.rooms.size && !f.rooms.has(L.rooms)) return false;
+        if (L.price < f.priceMin || L.price > f.priceMax) return false;
+        if (L.surface < f.surfaceMin || L.surface > f.surfaceMax) return false;
+        if (f.ppmMax && L.ppm > f.ppmMax) return false;
+        if (L.dpe && dpeOrder[L.dpe] > maxDpe) return false;
+        if (f.hasMetro && !L.metroLines.length) return false;
+        if (f.hasTram && !L.tramLines.length) return false;
+        if (f.hasRER && !L.rerLines.length) return false;
+        if (f.transportLine) {
+          const q = f.transportLine.trim().toUpperCase();
+          const all = [...L.metroLines, ...L.tramLines, ...L.rerLines].map(x => x.toUpperCase());
+          if (!all.some(n => n.includes(q))) return false;
+        }
+        if (f.noGroundFloor && L.floor === 0) return false;
+        if (f.topFloor && !(L.floor && L.totalFloors && L.floor === L.totalFloors)) return false;
+        if (f.freshness && L.created) {
+          const age = (now - Date.parse(L.created)) / dayMs;
+          if (age > parseInt(f.freshness)) return false;
+        }
+        if (f.excludeVEFA && L.isVEFA) return false;
+        if (f.excludeBRS && L.isBRS) return false;
+        if (f.excludeNueProp && L.isNueProp) return false;
+        if (f.excludeGere && L.isGere) return false;
+        if (f.text) {
+          const q = f.text.toLowerCase();
+          if (!(L.title.toLowerCase().includes(q) || L.description.toLowerCase().includes(q))) return false;
+        }
+        return true;
+      });
+    },
+    get sorted() {
+      const cmp = (a, b, key, direction) => {
+        const va = a[key], vb = b[key];
+        if (va == null && vb == null) return 0;
+        if (va == null) return 1;
+        if (vb == null) return -1;
+        if (typeof va === 'string') return va.localeCompare(vb) * direction;
+        return (va - vb) * direction;
+      };
+      const dir1 = this.sortDir === 'asc' ? 1 : -1;
+      const dir2 = this.sortDir2 === 'asc' ? 1 : -1;
+      const k1 = this.sortBy, k2 = this.sortBy2;
+      return [...this.filtered].sort((a, b) => {
+        const c1 = cmp(a, b, k1, dir1);
+        if (c1 !== 0) return c1;
+        if (!k2) return 0;
+        return cmp(a, b, k2, dir2);
+      });
+    },
+    get totalPages() { return Math.max(1, Math.ceil(this.sorted.length / this.pageSize)); },
+    get paged() {
+      const start = (this.page - 1) * this.pageSize;
+      return this.sorted.slice(start, start + this.pageSize);
+    },
+    setSort(key) {
+      if (this.sortBy === key) this.sortDir = this.sortDir === 'asc' ? 'desc' : 'asc';
+      else { this.sortBy = key; this.sortDir = ['ppm','price'].includes(key) ? 'asc' : 'desc'; }
+    },
+    sortArrow(key) { return this.sortBy === key ? (this.sortDir === 'asc' ? '▲' : '▼') : ''; },
+    toggleCity(c) {
+      if (this.filters.cities.has(c)) this.filters.cities.delete(c);
+      else this.filters.cities.add(c);
+      this.page = 1;
+    },
+    toggleRoom(r) {
+      if (this.filters.rooms.has(r)) this.filters.rooms.delete(r);
+      else this.filters.rooms.add(r);
+      this.page = 1;
+    },
+    toggleSelect(id) {
+      if (this.selected.has(id)) this.selected.delete(id);
+      else this.selected.add(id);
+    },
+    toggleAllVisible(on) {
+      this.paged.forEach(L => on ? this.selected.add(L.id) : this.selected.delete(L.id));
+    },
+    clearSelection() { this.selected.clear(); },
+    resetFilters() {
+      this.filters = {
+        cities: new Set(['Villejuif','Ivry-sur-Seine']),
+        district: '', rooms: new Set(),
+        priceMin: 0, priceMax: 400000, surfaceMin: 0, surfaceMax: 200,
+        ppmMax: 5500, dpeMax: 'G',
+        hasMetro: false, hasTram: false, hasRER: false, transportLine: '',
+        noGroundFloor: false, topFloor: false, freshness: '',
+        excludeVEFA: true, excludeBRS: true, excludeNueProp: true, excludeGere: true,
+        text: '',
+      };
+      this.page = 1;
+    },
+
+    // ============ NEUF filtering ============
+    get citiesNeuf() { return [...new Set(this.programmes.map(P => P.cityName).filter(Boolean))].sort(); },
+    statusLabel(id) {
+      const s = this.progressStatuses.find(x => x.id === id);
+      return s ? s.label : '?';
+    },
+    statusCount(id) {
+      return this.programmes.filter(P => P.progressStatusId === id).length;
+    },
+    statusBadgeClass(id) {
+      const map = {0:'badge-oth', 1:'dpe-B', 2:'dpe-C', 3:'dpe-A', 6:'dpe-D', 7:'dpe-A'};
+      return 'badge ' + (map[id] || 'badge-oth');
+    },
+    toggleStatus(id) {
+      if (this.filtersNeuf.statuses.has(id)) this.filtersNeuf.statuses.delete(id);
+      else this.filtersNeuf.statuses.add(id);
+      this.pageNeuf = 1;
+    },
+    toggleCityNeuf(c) {
+      if (this.filtersNeuf.cities.has(c)) this.filtersNeuf.cities.delete(c);
+      else this.filtersNeuf.cities.add(c);
+      this.pageNeuf = 1;
+    },
+    toggleRoomNeuf(r) {
+      if (this.filtersNeuf.rooms.has(r)) this.filtersNeuf.rooms.delete(r);
+      else this.filtersNeuf.rooms.add(r);
+      this.pageNeuf = 1;
+    },
+    toggleSelectNeuf(id) {
+      if (this.selectedNeuf.has(id)) this.selectedNeuf.delete(id);
+      else this.selectedNeuf.add(id);
+    },
+    toggleAllVisibleNeuf(on) {
+      this.pagedNeuf.forEach(P => on ? this.selectedNeuf.add(P.programId) : this.selectedNeuf.delete(P.programId));
+    },
+    get filteredNeuf() {
+      const f = this.filtersNeuf;
+      return this.programmes.filter(P => {
+        if (f.cities.size && !f.cities.has(P.cityName)) return false;
+        if (f.priceMax && P.price && P.price > f.priceMax) return false;
+        if (f.rooms.size) {
+          const av = (P.propertiesAvailability || '').toLowerCase();
+          const wantsStudio = f.rooms.has('studio');
+          const matchTypes = ['2','3','4','5'].filter(t => f.rooms.has(t));
+          const matchesStudio = wantsStudio && /studio/.test(av);
+          const matchesRoom = matchTypes.some(t => new RegExp(`${t}\\s*pi[eè]ces?`,'i').test(av));
+          if (!matchesStudio && !matchesRoom) return false;
+        }
+        if (f.statuses.size && !f.statuses.has(P.progressStatusId)) return false;
+        if (f.hasSpecialOffer && !P.hasSpecialOffer) return false;
+        if (f.text) {
+          const q = f.text.toLowerCase();
+          const hay = ((P.name||'') + ' ' + (P.description||'') + ' ' + (P.professionalName||'')).toLowerCase();
+          if (!hay.includes(q)) return false;
+        }
+        return true;
+      });
+    },
+    get sortedNeuf() {
+      const cmp = (a, b, key, direction) => {
+        const va = a[key], vb = b[key];
+        if (va == null && vb == null) return 0;
+        if (va == null) return 1;
+        if (vb == null) return -1;
+        if (typeof va === 'string') return va.localeCompare(vb) * direction;
+        return (va - vb) * direction;
+      };
+      const dir1 = this.sortDirNeuf === 'asc' ? 1 : -1;
+      const dir2 = this.sortDirNeuf2 === 'asc' ? 1 : -1;
+      const k1 = this.sortByNeuf, k2 = this.sortByNeuf2;
+      return [...this.filteredNeuf].sort((a, b) => {
+        const c1 = cmp(a, b, k1, dir1);
+        if (c1 !== 0) return c1;
+        if (!k2) return 0;
+        return cmp(a, b, k2, dir2);
+      });
+    },
+    get totalPagesNeuf() { return Math.max(1, Math.ceil(this.sortedNeuf.length / this.pageSize)); },
+    get pagedNeuf() {
+      const start = (this.pageNeuf - 1) * this.pageSize;
+      return this.sortedNeuf.slice(start, start + this.pageSize);
+    },
+    setSortNeuf(key) {
+      if (this.sortByNeuf === key) this.sortDirNeuf = this.sortDirNeuf === 'asc' ? 'desc' : 'asc';
+      else { this.sortByNeuf = key; this.sortDirNeuf = key === 'price' ? 'asc' : 'desc'; }
+    },
+    sortArrowNeuf(key) { return this.sortByNeuf === key ? (this.sortDirNeuf === 'asc' ? '▲' : '▼') : ''; },
+    resetFiltersNeuf() {
+      this.filtersNeuf = {
+        cities: new Set(['Villejuif','Ivry-sur-Seine']),
+        priceMax: 500000, rooms: new Set(), statuses: new Set(),
+        hasSpecialOffer: false, text: '',
+      };
+      this.pageNeuf = 1;
+    },
+
+    sortLabel(key) {
+      const labels = {
+        ppm: '€/m²', price: 'Price', surface: 'Surface m²', created: 'Listed date',
+        city: 'City', district: 'District', rooms: 'Rooms',
+        cityName: 'City', name: 'Programme', progressStatusId: 'Status',
+      };
+      return labels[key] || key;
+    },
+
+    // ============ shared ============
+    cityBadgeClass(city) {
+      if (!city) return 'badge badge-oth';
+      if (city.startsWith('Villejuif')) return 'badge badge-vjf';
+      if (city.startsWith('Ivry')) return 'badge badge-ivr';
+      return 'badge badge-oth';
+    },
+    dpeStyle(d) {
+      const map = {A:'#16a34a',B:'#65a30d',C:'#eab308',D:'#f59e0b',E:'#ea580c',F:'#dc2626',G:'#991b1b'};
+      return `background:${map[d]};color:white;`;
+    },
+    ppmClass(v) {
+      if (!v) return 'text-gray-400';
+      if (v < 4000) return 'text-green-700 font-semibold';
+      if (v < 5000) return 'text-yellow-700';
+      if (v < 6000) return 'text-orange-700';
+      return 'text-red-700';
+    },
+
+    exportSelected() {
+      const chosen = this.listings.filter(L => this.selected.has(L.id));
+      this.download(chosen, 'listings_ancien', ['City','District','Price €','m²','€/m²','Rooms','Bedrooms','Floor','DPE','Metro','Tram','RER','Listed','URL','Title'],
+        L => [L.city, L.district, L.price, L.surface, L.ppm, L.rooms, L.bedrooms, L.floorText, L.dpe || '',
+              L.metroLines.join(';'), L.tramLines.join(';'), L.rerLines.join(';'), L.createdShort, L.url,
+              L.title.replace(/[";]/g,' ')]);
+    },
+    exportSelectedNeuf() {
+      const chosen = this.programmes.filter(P => this.selectedNeuf.has(P.programId));
+      this.download(chosen, 'listings_neuf', ['City','ZIP','Programme','Starting €','Rooms available','Promoter','Status','URL'],
+        P => [P.cityName, P.zipCode, P.name, P.price, P.propertiesAvailability, P.professionalName,
+              this.statusLabel(P.progressStatusId), 'https://www.selogerneuf.com'+P.programUrl]);
+    },
+    download(rows, label, header, mapper) {
+      const data = [header, ...rows.map(mapper)];
+      const csv = data.map(r => r.map(v => `"${String(v).replace(/"/g,'""')}"`).join(',')).join('\n');
+      const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url; a.download = `${label}_${new Date().toISOString().slice(0,10)}.csv`;
+      a.click();
+    },
+  };
+}
+</script>
+</body>
+</html>
