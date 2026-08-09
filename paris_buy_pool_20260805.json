@@ -23925,5 +23925,143 @@
       "owner_name": "Elie",
       "nb_photos": 7
     }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-6141ea02-256f-4e5a-90b8-3a9477566f3d",
+    "metadata": {
+      "id": "gdc-6141ea02-256f-4e5a-90b8-3a9477566f3d",
+      "creationDate": 1786212195000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends t2 - 40 m² - Paris 14ème",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "312 000 €",
+        "formatted": "312 000 €",
+        "additionalInformation": "7 800 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-t2-40-m-paris-14eme-5d37108",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Jérémy",
+      "nb_photos": 1
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-7af1de0a-9fb2-4ea6-819f-cfbdc2f816ab",
+    "metadata": {
+      "id": "gdc-7af1de0a-9fb2-4ea6-819f-cfbdc2f816ab",
+      "creationDate": 1778431358000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends appartement récent - 43 m² - 2 pièces, 1 chambre - Paris 19eme Arrondissement",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "43 m²",
+          "splitValue": "43",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "329 000 €",
+        "formatted": "329 000 €",
+        "additionalInformation": "7 651 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-appartement-recent-43m-2-pieces-1-chambre-paris-19eme-arrondissement-9af99e8",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": true,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Sylvie",
+      "nb_photos": 8
+    }
   }
 ]
