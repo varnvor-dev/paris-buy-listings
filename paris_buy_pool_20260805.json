@@ -24063,5 +24063,226 @@
       "owner_name": "Sylvie",
       "nb_photos": 8
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3247202827",
+    "metadata": {
+      "id": "leboncoin-3247202827",
+      "creationDate": "2026-08-09 14:02:33"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75116",
+        "district": "Trocadéro"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.86345,
+        "lng": 2.28193
+      }
+    },
+    "hardFacts": {
+      "title": "Beau T3 avec garage",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "44 m²",
+          "splitValue": "44",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/2",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "59 500 €",
+        "formatted": "59 500 €",
+        "additionalInformation": "1 352 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "××××bien lire l'annonce×××××\nCe bien se trouve dans le Vaucluse à carpentras 84200 idéal pour investisseurs ou appartement secondaire près d'Avignon et mont ventoux\nJe mets en vente ce T3 de 44 m² situé au 2e étage d'un immeuble de 2 étages, à Carpentras. Construite en 1960, cette propriété offre un excellent potentiel.\nCet appartement comprend 2 chambres et 1 salle de bain. La cuisine ouverte s'ouvre sur le séjour, créant un espace de vie lumineux et agréable. L'exposition est orientée à l'est.\n- Très bon état général\n- 1 garage de 22m2\n- Cuisine ouverte\n Loyer avec garage compris entre 600€ et 650€\nChauffage électrique individuel. Classe énergie D - Classe climat B.\nUne opportunité à saisir ! Contactez-moi pour plus d'informations ou pour organiser une visite."
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3247202827",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "2",
+      "nb_floors_building": "2",
+      "building_year": "1960",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "800",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3247058819",
+    "metadata": {
+      "id": "leboncoin-3247058819",
+      "creationDate": "2026-07-27 19:49:27"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Place des fêtes"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.879032,
+        "lng": 2.3924308
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 48 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "48 m²",
+          "splitValue": "48",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "21/26",
+          "splitValue": "21",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "360 000 €",
+        "formatted": "360 000 €",
+        "additionalInformation": "7 500 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Lumineux appartement T2 de 49 m² à Paris 75019\n\nPour toute question ou demande d'information, pensez à noter et nous communiquer le numéro de référence lors de votre appel : 21043.\n\nHomki vous propose en exclusivité ce beau T2 de 48.51 m² carrez, niché au 21ème étage d'une résidence sécurisée au cœur du dynamique 19ème arrondissement, à Place des Fêtes.\n\nDès l'entrée, vous serez séduit par la luminosité exceptionnelle qui baigne l'ensemble des pièces, ainsi que par la vue dégagée spectaculaire sur Paris, véritable atout de ce bien rare en étage élevé. Le séjour, spacieux et agréable, constitue un espace de vie idéal pour se détendre ou recevoir, tandis que la chambre offre un cadre calme et confortable.\nL'appartement dispose également d'une cuisine indépendante aménagée et équipée (avec po"
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3247058819",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "21",
+      "nb_floors_building": "26",
+      "building_year": "1978",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "3840",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag133861-544510253",
+    "metadata": {
+      "id": "bienici-ag133861-544510253",
+      "creationDate": "2026-08-09T09:04:00.719Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Mouzaia"
+      },
+      "transport": {
+        "closestLines": []
+      }
+    },
+    "hardFacts": {
+      "title": "Lumineux appartement T2 de 49 m² à Paris 75019",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "48 m²",
+          "splitValue": "48",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "21/27",
+          "splitValue": "21",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "360 000 €",
+        "formatted": "360 000 €",
+        "additionalInformation": "7 500 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Pour toute question ou demande d'information, pensez à noter et nous communiquer le numéro de référence lors de votre appel : 21043.\n\nHomki vous propose en exclusivité ce beau T2 de 48.51 m² carrez, niché au 21ème étage d'une résidence sécurisée au cœur du dynamique 19ème arrondissement, à Place des Fêtes.\n\nDès l'entrée, vous serez séduit par la luminosité exceptionnelle qui baigne l'ensemble des pièces, ainsi que par la vue dégagée spectaculaire sur Paris, véritable atout de ce bien rare en étage élevé. Le séjour, spacieux et agréable, constitue un espace de vie idéal pour se détendre ou recevoir, tandis que la chambre offre un cadre calme et confortable.\nL'appartement dispose également d'une cuisine indépendante aménagée et équipée (avec possibilité d'ouverture sur le séjour pour créer u"
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-19e/appartement/2pieces/ag133861-544510253",
+    "extra": {
+      "elevator": true,
+      "floor_number": 21,
+      "nb_floors_building": 27,
+      "has_cellar": true,
+      "exposition": "sud",
+      "annual_charges": 3840,
+      "condo_lots": null,
+      "heating": "gaz collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
   }
 ]
