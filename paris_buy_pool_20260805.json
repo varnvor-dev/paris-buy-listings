@@ -24358,5 +24358,212 @@
       "specificities": "",
       "owner_type": "pro"
     }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-04504d3f-7203-4093-accd-1112c21ab1da",
+    "metadata": {
+      "id": "gdc-04504d3f-7203-4093-accd-1112c21ab1da",
+      "creationDate": 1786526820000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends appartement - 35m² - Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "8/10",
+          "splitValue": "8",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "1 500 €",
+        "formatted": "1 500 €",
+        "additionalInformation": "43 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/share-time-parisien-5d46e1f",
+    "extra": {
+      "elevator": true,
+      "floor_number": 8,
+      "nb_floors_building": 10,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "south",
+      "is_pro": false,
+      "owner_name": "Alain",
+      "nb_photos": 4
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-cae16a76-2140-4053-b447-0f6403fbcc9c",
+    "metadata": {
+      "id": "gdc-cae16a76-2140-4053-b447-0f6403fbcc9c",
+      "creationDate": 1763183759000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends t3 - 54.41 m² - Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "54 m²",
+          "splitValue": "54",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "379 000 €",
+        "formatted": "379 000 €",
+        "additionalInformation": "7 019 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-t3-54-dot-41m-paris-2714c7a",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Geoffroy",
+      "nb_photos": 8
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-b4ab49c3-c923-425b-99d8-924526668d21",
+    "metadata": {
+      "id": "gdc-b4ab49c3-c923-425b-99d8-924526668d21",
+      "creationDate": 1763183758000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends t2 - 54 m² - Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "54 m²",
+          "splitValue": "54",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "380 000 €",
+        "formatted": "380 000 €",
+        "additionalInformation": "7 037 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-t2-40-dot-79m-paris-261f43a",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Geoffroy",
+      "nb_photos": 9
+    }
   }
 ]
