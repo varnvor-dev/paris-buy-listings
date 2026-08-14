@@ -24638,5 +24638,78 @@
       "price_decreased": false,
       "is_pro": true
     }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61352031",
+    "metadata": {
+      "id": "bienici-immo-facile-61352031",
+      "creationDate": "2026-08-14T12:03:18.668Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Saint-Blaise"
+      },
+      "transport": {
+        "closestLines": []
+      }
+    },
+    "hardFacts": {
+      "title": "Bagnolet Paris 20ème - Appartement 3 pièces 62,31 m² et parking",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "62 m²",
+          "splitValue": "62",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/34",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "345 000 €",
+        "formatted": "345 000 €",
+        "additionalInformation": "5 537 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Dans le quartier Bagnolet, à Paris 20ème, cet appartement 3 pièces de 62,31 m² occupe le 5ème étage avec ascenseur d'un immeuble récent de bon standing, avec poste de sécurité dans la copropriété.<br>Il se compose d'une entrée, d'un séjour lumineux avec cuisine américaine aménagée et équipée, de deux chambres, d'une salle d'eau avec wc, ainsi que de nombreux rangements intégrés.<br>Une cave et une place de parking en sous-sol complètent ce bien.<br>Ce bien calme et fonctionnel bénéficie d'un excellent agencement.<br>L'immeuble est sécurisé et bien entretenu, avec gardiennage permanent (PC sécurité). L'appartement est idéalement situé à proximité immédiate des transports, des commerces, des écoles et des équipements publics. Ce bien rare à la vente séduira une famille, un couple ou un inves"
+    },
+    "energyClass": "C",
+    "ges": "D",
+    "url": "https://www.bienici.com/annonce/vente/paris-20e/appartement/3pieces/immo-facile-61352031",
+    "extra": {
+      "elevator": true,
+      "floor_number": 5,
+      "nb_floors_building": 34,
+      "has_cellar": true,
+      "exposition": "Nord Est",
+      "annual_charges": 6996,
+      "condo_lots": 459,
+      "heating": "gaz collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
   }
 ]
