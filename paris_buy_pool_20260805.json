@@ -24711,5 +24711,78 @@
       "price_decreased": false,
       "is_pro": true
     }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52874791",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52874791",
+      "creationDate": "2026-08-14T15:09:28.921Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75011",
+        "district": "Belleville - Saint-Maur"
+      },
+      "transport": {
+        "closestLines": []
+      }
+    },
+    "hardFacts": {
+      "title": "Charmant 2 pièces - Rue Jean pierre timbaud",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "66 m²",
+          "splitValue": "66",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/3",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "399 990 €",
+        "formatted": "399 990 €",
+        "additionalInformation": "6 094 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Laforêt Parmentier vous propose en Exclusivité, rue Jean-Pierre Timbaud, au coeur d'un secteur très recherché, à proximité immédiate des commerces, des transports et du métro Parmentier, ce charmant 2 pièces situé au 2ème et dernier étage d'un bel immeuble de style industriel.<br>D'une surface de 66 m² au sol (27 m² loi Carrez), cet appartement séduit par son cachet et ses volumes sous les toits. Il se compose d'un agréable espace de vie baigné de lumière donnant sur une cuisine américaine, d'une chambre confortable ainsi que d'une salle de bains avec WC.<br>Calme et ensoleillé, ce bien bénéficie d'une atmosphère chaleureuse et atypique. Aucun travaux à prévoir, il est habitable immédiatement. (3.89 % d'honoraires TTC à la charge de l'acquéreur.)"
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-11e/appartement/2pieces/laforet-immo-facile-52874791",
+    "extra": {
+      "elevator": null,
+      "floor_number": 2,
+      "nb_floors_building": 3,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
   }
 ]
