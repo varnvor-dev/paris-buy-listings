@@ -24857,5 +24857,72 @@
       "price_decreased": false,
       "is_pro": true
     }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-apimo-87052789",
+    "metadata": {
+      "id": "bienici-apimo-87052789",
+      "creationDate": null
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Télégraphe - Pelleport - Saint-Fargeau"
+      },
+      "transport": {
+        "closestLines": []
+      }
+    },
+    "hardFacts": {
+      "title": "PARIS 20e – SAINT-FARGEAU | 2P HABITION/PROFESSIONNEL/INVESTISSEMENT   AU CALME",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "299 000 €",
+        "formatted": "299 000 €",
+        "additionalInformation": "7 482 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Dans le quartier recherché de Saint-Fargeau, rue Haxo, découvrez ce charmant 2 pièces de 40 m² situé en rez-de-chaussée sur une agréable cour végétalisée au calme, au sein d’une résidence récente de 2011 parfaitement entretenue.\n\nCe bien au style loft se compose d’un séjour avec placard et cuisine ouverte, offrant un espace de vie convivial et fonctionnel, d’une chambre avec placard, ainsi que d’une salle de bains avec WC attenante.\n\nVous apprécierez son environnement paisible, son parquet au sol et son agencement optimisé.\n\nUn grand emplacement de parking de 24 m² en sous-sol, est proposé en sus : + 20 700 € \n\nChauffage électrique.\n\nCharges : 123,66 €/ mois (371 €/trimestre)\nTaxe foncière : 1 127 €\n\nIdéal premier achat, pied-à-terre, investissement locatif ou encore Professions libérales "
+    },
+    "energyClass": "C",
+    "ges": "A",
+    "url": "https://www.bienici.com/annonce/vente/paris-20e/appartement/2pieces/apimo-87052789",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": null,
+      "exposition": "Nord",
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "Radiateur Electrique Individuel",
+      "work_to_do": false,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
   }
 ]
