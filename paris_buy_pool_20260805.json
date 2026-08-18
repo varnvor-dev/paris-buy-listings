@@ -24924,5 +24924,79 @@
       "price_decreased": false,
       "is_pro": true
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3252067885",
+    "metadata": {
+      "id": "leboncoin-3252067885",
+      "creationDate": "2026-08-18 10:20:12"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Place des fêtes"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87763,
+        "lng": 2.39465
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "49 m²",
+          "splitValue": "49",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "21/26",
+          "splitValue": "21",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "365 000 €",
+        "formatted": "365 000 €",
+        "additionalInformation": "7 524 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "2 pièces bon état, cuisine équipée, fenêtres aluminiums oscillo-battantes, doubles vitrages changés, stores occultants, parquet, exposition sud sans vis à vis, salle de bain avec machine à laver, toilettes indépendantes, 2 grands placards.\nchambre 11m2, salon 18m2\ncave, local vélo, immeuble sécurisé avec gardien, crèche, médecins, kiné, dentiste etc. dans l'immeuble.\nau pieds du métro, bus et nombreux commerces ainsi qu'un beau marché 3 fois par semaine.\nProfessionnels s'abstenir"
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3252067885",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "21",
+      "nb_floors_building": "26",
+      "building_year": "1976",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "3960",
+      "specificities": "",
+      "owner_type": "private"
+    }
   }
 ]
