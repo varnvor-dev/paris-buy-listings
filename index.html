@@ -697,7 +697,7 @@ function app() {
       rooms: new Set(),
       priceMin: 0, priceMax: 400000,
       surfaceMin: 0, surfaceMax: 200,
-      ppmMax: 8700,   // Paris hard cap (raised 2026-08-19)
+      ppmMax: 9000,   // Paris hard cap (raised 2026-08-19)
       dpeMax: 'G',
       hasMetro: false, hasTram: false, hasRER: false, transportLine: '',
       noGroundFloor: false, topFloor: false, freshness: '',
@@ -751,7 +751,8 @@ function app() {
         console.error(e);
         alert('Failed to load JSON files. ('+e.message+')');
       }
-      this.loadStarredHidden();
+      await this.loadStarredHidden();
+      this._applyUrlParamUnhide();  // ?unhide=id1,id2 one-shot un-hide via link
       this.loadTracking();
     },
 
@@ -763,6 +764,26 @@ function app() {
     syncId: null,
     syncStatus: '',      // '', 'syncing…', 'synced ✓', 'sync failed'
     _saveTimer: null,
+
+    _applyUrlParamUnhide() {
+      // Support ?unhide=id1,id2  — one-shot un-hide via link
+      try {
+        const params = new URLSearchParams(location.search);
+        const ids = (params.get('unhide') || '').split(',').map(s=>s.trim()).filter(Boolean);
+        if (!ids.length) return false;
+        let changed = false;
+        ids.forEach(id => { if (this.hidden.delete(id)) changed = true; });
+        if (changed) {
+          this.saveStarredHidden();
+          // Strip the param so a refresh doesn't re-apply
+          params.delete('unhide');
+          const qs = params.toString();
+          history.replaceState({}, '', location.pathname + (qs ? '?'+qs : '') + location.hash);
+          console.log('Un-hid:', ids.join(', '));
+        }
+        return changed;
+      } catch (e) { console.error('unhide param failed', e); return false; }
+    },
 
     async loadStarredHidden() {
       // 1. First read from URL hash → falls back to localStorage-cached id → else create fresh
