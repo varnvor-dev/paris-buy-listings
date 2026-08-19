@@ -54,12 +54,22 @@
 <div class="flex items-baseline justify-between mb-2">
   <div>
     <h1 class="text-2xl font-bold">Listings browser</h1>
-    <p class="text-sm text-gray-500">SeLoger snapshot 2026-07-04</p>
+    <p class="text-sm text-gray-500">Paris buy pool · daily-refreshed 07:30 &amp; 15:30</p>
   </div>
-  <div class="text-sm text-gray-500">
-    Showing <span class="font-semibold text-gray-900" x-text="activeTab==='ancien' ? filtered.length : filteredNeuf.length"></span>
-    of <span x-text="activeTab==='ancien' ? listings.length : programmes.length"></span>
-    · <span x-text="(activeTab==='ancien' ? selected : selectedNeuf).size"></span> selected
+  <div class="text-sm text-gray-500 text-right">
+    <div>
+      Showing <span class="font-semibold text-gray-900" x-text="activeTab==='ancien' ? filtered.length : filteredNeuf.length"></span>
+      of <span x-text="activeTab==='ancien' ? listings.length : programmes.length"></span>
+      · <span x-text="(activeTab==='ancien' ? selected : selectedNeuf).size"></span> selected
+    </div>
+    <div x-show="activeTab==='ancien'" class="mt-1 text-xs" title="Applied filter caps for the daily scraper">
+      <span class="inline-block px-1.5 py-0.5 bg-blue-50 text-blue-700 rounded">≤€<span x-text="(filters.priceMax/1000)+'k'"></span></span>
+      <span class="inline-block px-1.5 py-0.5 bg-blue-50 text-blue-700 rounded">≥<span x-text="filters.surfaceMin+'m²'"></span></span>
+      <span class="inline-block px-1.5 py-0.5 bg-blue-50 text-blue-700 rounded">≤€<span x-text="(filters.ppmMax || '∞')+'/m²'"></span></span>
+      <span class="inline-block px-1.5 py-0.5 bg-blue-50 text-blue-700 rounded">DPE ≤<span x-text="filters.dpeMax"></span></span>
+      <span x-show="hidden.size" class="inline-block px-1.5 py-0.5 bg-red-50 text-red-700 rounded" :title="'Hidden listings persisted across scrapes — same ID hidden = still hidden'">✕ <span x-text="hidden.size"></span> hidden</span>
+      <span x-show="starred.size" class="inline-block px-1.5 py-0.5 bg-yellow-50 text-yellow-700 rounded">★ <span x-text="starred.size"></span> starred</span>
+    </div>
   </div>
 </div>
 
@@ -687,7 +697,7 @@ function app() {
       rooms: new Set(),
       priceMin: 0, priceMax: 400000,
       surfaceMin: 0, surfaceMax: 200,
-      ppmMax: 8100,   // Paris hard cap
+      ppmMax: 8700,   // Paris hard cap (raised 2026-08-19)
       dpeMax: 'G',
       hasMetro: false, hasTram: false, hasRER: false, transportLine: '',
       noGroundFloor: false, topFloor: false, freshness: '',
