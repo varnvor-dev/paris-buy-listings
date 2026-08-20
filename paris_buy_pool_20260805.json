@@ -27080,5 +27080,221 @@
       "owner_name": "Jérémy",
       "nb_photos": 12
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3253355206",
+    "metadata": {
+      "id": "leboncoin-3253355206",
+      "creationDate": "2026-08-20 12:26:27"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Olympiades"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82713,
+        "lng": 2.368576
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 46 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "46 m²",
+          "splitValue": "46",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "31/34",
+          "splitValue": "31",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "345 000 €",
+        "formatted": "345 000 €",
+        "additionalInformation": "7 500 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 46 m²\n\niad France - Anne-Claire Drouin vous propose: VUE EXCEPTIONNELLE SUR PARIS, métro Olympiades, au 31 -ème étage de la TOUR CORTINA, appartement 2 pièces prêt à habiter, à la double exposition Sud & Est, au calme et baigné de lumière. Son plan optimum en étoile et sans perte de place offre une entrée avec rangements, une salle de bain, une chambre, un grand séjour, une cuisine équipée (possibilité d’ouverture en vue d’un séjour cuisine en open-space de 26 m2) et des WC séparés.  \nL’immeuble, équipé de plusieurs ascenseurs offre les services d’un gardien. \nUne CAVE et un EMPLACEMENT DE PARKING complètent ce lot dont les frais de chauffage collectifs sont inclus dans les charges . \nGrand local vélo . \nCopropriété bien gérée sans dépenses à prévoir , en fin de phase "
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3253355206",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "31",
+      "nb_floors_building": "34",
+      "building_year": "1974",
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": "5700",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag752212-537518516",
+    "metadata": {
+      "id": "bienici-ag752212-537518516",
+      "creationDate": "2026-06-24T16:59:00.953Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Jean Moulin - Porte d'Orléans"
+      },
+      "transport": {
+        "closestLines": []
+      }
+    },
+    "hardFacts": {
+      "title": "TRAM JEAN MOULIN STUDIO TRANSFORMABLE EN 2P DANS IMMEUBLE RECENT",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "46 m²",
+          "splitValue": "46",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/7",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "391 000 €",
+        "formatted": "391 000 €",
+        "additionalInformation": "8 500 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Au 2ème étage d'une petite résidence bien tenue de 1995 avec ascenseur, FONCIA vous présente en exclusivité un grand studio lumineux et  traversant comprenant : une grande entrée avec placard, une belle pièce de vie de 28m2 sur rue exposé Nord Ouest avec petit balcon, une grande cuisine équipée et aménagée avec fenêtre (qui pourrait devenir une chambre, avec cuisine US), salle bains, wc séparés. Fenêtres double vitrage."
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-14e/appartement/1pieces/ag752212-537518516",
+    "extra": {
+      "elevator": true,
+      "floor_number": 2,
+      "nb_floors_building": 7,
+      "has_cellar": false,
+      "exposition": null,
+      "annual_charges": 1404,
+      "condo_lots": 10,
+      "heating": "électricité individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-5c80fb36-4f98-4cfa-8648-92dbfe0c7c35",
+    "metadata": {
+      "id": "gdc-5c80fb36-4f98-4cfa-8648-92dbfe0c7c35",
+      "creationDate": 1785177060000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75006",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends appartement - 46m² - Paris 6ème Jardin du Luxembourg - Ligne 4-6-12-13",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "46 m²",
+          "splitValue": "46",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "0/6",
+          "splitValue": "0",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "399 000 €",
+        "formatted": "399 000 €",
+        "additionalInformation": "8 674 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/t2-46-m2-paris-6e-jardin-du-luxembourg-ligne-4-6-12-13-894abdf",
+    "extra": {
+      "elevator": null,
+      "floor_number": 0,
+      "nb_floors_building": 6,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "south",
+      "is_pro": true,
+      "owner_name": "Cédric",
+      "nb_photos": 9
+    }
   }
 ]
