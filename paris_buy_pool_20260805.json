@@ -27796,5 +27796,226 @@
       "price_decreased": false,
       "is_pro": true
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3253873815",
+    "metadata": {
+      "id": "leboncoin-3253873815",
+      "creationDate": "2026-08-21 10:35:48"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83467,
+        "lng": 2.29595
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement haussmannien 2P Convention",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 990 €",
+        "formatted": "299 990 €",
+        "additionalInformation": "8 571 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "METRO CONVENTION 2P CHARME DE L'ANCIEN\nÀ deux pas du métro Convention et au cœur d'un quartier très recherché avec de nombreux commerces et services mais très calme, découvrez ce charmant appartement haussmannien de 35,36 m² (loi Carrez), vendu entièrement meublé, situé au 3ème étage d’une copropriété de 6 étages sans ascenseur d'un immeuble de caractère.\n \nLa copropriété vient de bénéficier d'un ravalement de façade tout récent, un véritable atout pour la valorisation du bien et la qualité de l'immeuble.\nTraversant Est-Ouest-Sud, l'appartement est très lumineux et bénéficie d'un plan optimisé sans perte de place.\nEn excellent état, aucuns travaux n'est à prévoir : vous n'avez plus qu'à poser vos valises.\n \nLe bien conserve tout le charme de l'ancien avec parquet d'origine et deux cheminée"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3253873815",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1500",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3253870521",
+    "metadata": {
+      "id": "leboncoin-3253870521",
+      "creationDate": "2026-08-21 10:30:43"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Triangle de Choisy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82246,
+        "lng": 2.3649244
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 35 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/6",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "234 000 €",
+        "formatted": "234 000 €",
+        "additionalInformation": "6 686 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 35 m²\n\nSitué rue du Général Leclerc au Kremlin-Bicêtre, dans une copropriété bien entretenue, au 5e étage SANS ascenseur, un appartement de 2 pièces meublé idéalement agencé : entrée, lumineux séjour traversant avec vue dégagée sur la tour eiffel, chambre avec rangements, cuisine séparée aménagée équipée ainsi qu'une salle d'eau avec WC.\nIdéal primo accédant ou investisseur. Elisa SAMAIN (EI) Agent Commercial - Numéro RSAC :  - .\n\nSurface : 35 m²\nDate de réalisation du diagnostic énergétique : 02/08/2022\n\nConsommation énergie primaire : 200 kWh/m²/an\nConsommation énergie finale : Non communiqué"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3253870521",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "5",
+      "nb_floors_building": "6",
+      "building_year": null,
+      "heating_type": "individual",
+      "heating_mode": "gas",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-apimo-86924325",
+    "metadata": {
+      "id": "bienici-apimo-86924325",
+      "creationDate": "2026-08-21T09:40:11.284Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Salpétrière - Austerlitz"
+      },
+      "transport": {
+        "closestLines": []
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement - 3 pièces - 50,41m2",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "50 m²",
+          "splitValue": "50",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/7",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "369 000 €",
+        "formatted": "369 000 €",
+        "additionalInformation": "7 321 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Dans un immeuble ancien très bien entretenu, situé à moins de 2 minutes à pied du métro Campo Formio (ligne 5), Lévine Immobilier vous propose au 1er étage sur cour un appartement de 3 pièces entièrement à rénover.\n\nIl se compose d’une entrée, d’une cuisine, d’un séjour, d’une salle à manger, d’une chambre ainsi que d’une salle de bain avec WC.\n\nL’appartement offre un fort potentiel d’aménagement, avec la possibilité de créer :\n\n* un grand double séjour avec cuisine ouverte,\n* ou un séjour avec cuisine ouverte et deux chambres.\n\nCalme sur cour, ce bien séduira les acquéreurs à la recherche d’un projet à personnaliser selon leurs envies.\n\nDPE : D\nCharges : 380 € / trimestre\nAucune procédure en cours\n\nÀ visiter rapidement."
+    },
+    "energyClass": "D",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-13e/appartement/3pieces/apimo-86924325",
+    "extra": {
+      "elevator": null,
+      "floor_number": 1,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "Radiateur Electrique Individuel",
+      "work_to_do": true,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
   }
 ]
