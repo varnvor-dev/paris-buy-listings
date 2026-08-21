@@ -27296,5 +27296,505 @@
       "owner_name": "Cédric",
       "nb_photos": 9
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3251789051",
+    "metadata": {
+      "id": "leboncoin-3251789051",
+      "creationDate": "2026-08-17 17:45:14"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Jules Joffrin"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89065,
+        "lng": 2.34804
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement paris 56m 2 pièce",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "56 m²",
+          "splitValue": "56",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/6",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "400 000 €",
+        "formatted": "400 000 €",
+        "additionalInformation": "7 143 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement a vendre \n56m \nA rafraîchir \npromoteur immobilier \nappartement\n \n1er  étage \ndigicode\n\nimmeuble sent ascenseur \n\npetite avec cours poubelle \n\ngrand local vélo\n accessibilité personne de l immeuble \n\nappartement lumineux\nun grand salon \n( 5 grandes fenêtres)\n (battantes double ) verre avec isolation )\n( thermique phonique )\n\nune petite pieces wc \nune pièces salle de bains \n\ndans le couloir\n2 petite surfaces avec portes \nqui donne le couloir 2 petite surfaces idéale pour faire wc piece d eau machines a laver sèche linge ou autre cuisine \n \nune petite chambre \n\nune cave dans le lots de la maison \n\nPlus d info ou visité disponible\n\n3 piece a Paris \nmetro a 20 mètres\nmétro \n marcadet poissonnier"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3251789051",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "6",
+      "building_year": null,
+      "heating_type": "individual",
+      "heating_mode": "gas",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-59283877",
+    "metadata": {
+      "id": "bienici-immo-facile-59283877",
+      "creationDate": null
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Olympiades - Choisy"
+      },
+      "transport": {
+        "closestLines": []
+      }
+    },
+    "hardFacts": {
+      "title": "Paris 13ème, 2 pièces 43m² au pied du métro",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "44 m²",
+          "splitValue": "44",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "26",
+          "splitValue": "26",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "270 000 €",
+        "formatted": "270 000 €",
+        "additionalInformation": "6 205 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Situé à Paris 13ème, à moins d'une minute à pied du métro (ligne 7) et du tramway T3a 'Porte de Choisy', CAPITAL IMMOBILIER a le plaisir de vous présenter ce bel appartement de 2 pièces principales de 43.51m² composé d'une entrée, d'un séjour lumineux avec sa cuisine ouverte aménagée et équipée, d'une chambre avec un grand placard intégré, d'une salle de bains et des WC séparés. Vous serez séduit par le bon état de cet appartement bien agencé, calme, avec une vue dégagée et lumineux. Une cave et un parking en sous-sol complètent le tout. Résidence bien entretenue et sécurisée, les charges incluent eaux froide et chaude, chauffage, ascenseur et gardien. Toutes les commodités sont au pied de la résidence: métro, tramway, commerces, restaurants, écoles, parcs etc.<br>Copropriété de 476 lots -"
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-13e/appartement/2pieces/immo-facile-59283877",
+    "extra": {
+      "elevator": true,
+      "floor_number": 26,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 4440,
+      "condo_lots": 476,
+      "heating": "radiateur",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-iad-france-927988",
+    "metadata": {
+      "id": "bienici-iad-france-927988",
+      "creationDate": "2026-06-24T06:58:00.609Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Olympiades - Choisy"
+      },
+      "transport": {
+        "closestLines": []
+      }
+    },
+    "hardFacts": {
+      "title": "Vente Appartement 2 pièces",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "46 m²",
+          "splitValue": "46",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "31/35",
+          "splitValue": "31",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "345 000 €",
+        "formatted": "345 000 €",
+        "additionalInformation": "7 500 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "iad France - Anne-Claire Drouin vous propose: VUE EXCEPTIONNELLE SUR PARIS, métro Olympiades, au 31 -ème étage de la TOUR CORTINA, appartement 2 pièces prêt à habiter, à la double exposition Sud & Est, au calme et baigné de lumière. Son plan optimum en étoile et sans perte de place offre une entrée avec rangements, une salle de bain, une chambre, un grand séjour, une cuisine équipée (possibilité d’ouverture en vue d’un séjour cuisine en open-space de 26 m2) et des WC séparés.  <br>L’immeuble, équipé de plusieurs ascenseurs offre les services d’un gardien. <br>Une CAVE et un EMPLACEMENT DE PARKING complètent ce lot dont les frais de chauffage collectifs sont inclus dans les charges . <br>Grand local vélo . <br>Copropriété bien gérée sans dépenses à prévoir , en fin de phase de travaux d'ent"
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-13e/appartement/2pieces/iad-france-927988",
+    "extra": {
+      "elevator": true,
+      "floor_number": 31,
+      "nb_floors_building": 35,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 5700,
+      "condo_lots": 719,
+      "heating": "",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-century-21-202_2907_28084",
+    "metadata": {
+      "id": "bienici-century-21-202_2907_28084",
+      "creationDate": null
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75012",
+        "district": "Bel-Air - Sud"
+      },
+      "transport": {
+        "closestLines": []
+      }
+    },
+    "hardFacts": {
+      "title": "bienici — Paris 12e",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "39 m²",
+          "splitValue": "39",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/6",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "325 000 €",
+        "formatted": "325 000 €",
+        "additionalInformation": "8 282 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Au cœur du 12 arrondissement, Avenue Daumesnil appartement d'une pièce de 39.24m² au sol et 23.26m² loi carrez situé au 6 et dernier étage d'un bel immeuble avec ascenseur, lumineux. Emplacement recherché à proximité immédiate du métro Porte Dorée (ligne 8), du tramway T3a et de plusieurs lignes de bus.<br>L'appartement se compose d'un séjour et d'une salle d'eau avec WC. Il est en bon état général, sans travaux à prévoir. DPE C, garantissant une bonne isolation et un bon confort thermique.<br>Environnement agréable avec espaces verts à proximité, dont le Square des Anciens Combattants d'Indochine et le Bois de Vincennes accessible à pied. Commerces, supermarchés, restaurants et cafés à quelques pas."
+    },
+    "energyClass": "C",
+    "ges": "A",
+    "url": "https://www.bienici.com/annonce/vente/paris-12e/appartement/1pieces/century-21-202_2907_28084",
+    "extra": {
+      "elevator": true,
+      "floor_number": 5,
+      "nb_floors_building": 6,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 661,
+      "condo_lots": 20,
+      "heating": "Individuel  Electricité",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52882810",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52882810",
+      "creationDate": "2026-08-20T18:02:06.792Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Vaugirard - Parc des Expositions"
+      },
+      "transport": {
+        "closestLines": []
+      }
+    },
+    "hardFacts": {
+      "title": "APPARTEMENT 2 PIECES 33,19 m2 - BOUCICAUT - CALME et LUMINEUX",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "33 m²",
+          "splitValue": "33",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "285 000 €",
+        "formatted": "285 000 €",
+        "additionalInformation": "8 587 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces, 33,19 m² situé au 3ème étage d'une copropriété bien entretenue et agréable avec un local à vélo.<br>Son plan modulable vous permettra d'aménager l'espace selon vos envies et vos besoins.<br>Vous apprécierez son emplacement dans une rue très calme, à seulement quelques pas des métros Boucicaut et Lourmel, en plein coeur du 15ème arrondissement, avec tous les commerces et transports à proximité.<br>Travaux à prévoir. Devis sur demande réalisé par un entrepreneur. <br>Une cave complète ce bien.<br>A VISITER SANS TARDER ! <br><span class=\"importDescriptionDecorator\" data-type=\"phone\">01 53 78 04 04</span> - LAFORET FELIX-FAURE<br>Copropriété de 23 lots - dont 18 lots habitation. (Pas de procédure en cours).<br>Charges annuelles : 1140.00 euros."
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.bienici.com/annonce/vente/paris-15e/appartement/2pieces/laforet-immo-facile-52882810",
+    "extra": {
+      "elevator": false,
+      "floor_number": 3,
+      "nb_floors_building": 6,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 1140,
+      "condo_lots": 23,
+      "heating": "radiateur gaz individuel",
+      "work_to_do": true,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag752202-545901437",
+    "metadata": {
+      "id": "bienici-ag752202-545901437",
+      "creationDate": "2026-08-20T13:29:59.177Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Nationale - Deux Moulins"
+      },
+      "transport": {
+        "closestLines": []
+      }
+    },
+    "hardFacts": {
+      "title": "PLACE D'ITALIE- PARIS 13ème - SPACIEUX 2 PIECES AGENCE EN STUDIO ( 44 m2) - BALCON - LUMINEUX- DPE C- PISCINE-SAUNA",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "44 m²",
+          "splitValue": "44",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/32",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "382 000 €",
+        "formatted": "382 000 €",
+        "additionalInformation": "8 682 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Idéalement situé, à deux pas de la place d'Italie, du métro (ligne 6-7-5) et des commerces, FONCIA BUTTE AUX CAILLES vous propose un spacieux 2 pièces agencé en studio de 43,33 m2 loi Carrez situé au 3ème étage avec ascenseur d'une copropriété de standing et sécurisée avec gardien. Il comprend une entrée, une cuisine aménagée/équipée ouverte sur un grand séjour, coin nuit (chambre), une salle d'eau avec wc, nombreux rangements. Balcon. Une cave en sous-sol complète ce bien de qualité. Gardien. Calme et lumineux.\nLa copropriété bénéficie d'un jardin partagé, d'une piscine, d'un solarium, salle de sport et sauna."
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-13e/appartement/1pieces/ag752202-545901437",
+    "extra": {
+      "elevator": true,
+      "floor_number": 3,
+      "nb_floors_building": 32,
+      "has_cellar": false,
+      "exposition": "sud",
+      "annual_charges": 3504,
+      "condo_lots": 450,
+      "heating": "collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag752202-546047684",
+    "metadata": {
+      "id": "bienici-ag752202-546047684",
+      "creationDate": "2026-08-20T14:53:02.144Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Nationale - Deux Moulins"
+      },
+      "transport": {
+        "closestLines": []
+      }
+    },
+    "hardFacts": {
+      "title": "PLACE D'ITALIE- PARIS 13ème - SPACIEUX 2 PIECES ( 44 m2) - BALCON - LUMINEUX- DPE C- PISCINE-SAUNA",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "44 m²",
+          "splitValue": "44",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/32",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "382 000 €",
+        "formatted": "382 000 €",
+        "additionalInformation": "8 682 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Idéalement situé, à deux pas de la place d'Italie, du métro (ligne 6-7-5) et des commerces, FONCIA BUTTE AUX CAILLES vous propose un beau 2 pièces de 44 m2 situé au 3ème étage avec ascenseur d'une copropriété de standing et sécurisée avec gardien. Il comprend une entrée, une cuisine aménagée/équipée ouverte sur séjour, chambre, une salle d'eau avec wc, nombreux rangements. Balcon. Une cave en sous-sol complète ce bien de qualité. Gardien. Calme et lumineux.\nLa copropriété bénéficie d'un jardin partagé, d'une piscine, d'un solarium, salle de sport et sauna."
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-13e/appartement/2pieces/ag752202-546047684",
+    "extra": {
+      "elevator": true,
+      "floor_number": 3,
+      "nb_floors_building": 32,
+      "has_cellar": false,
+      "exposition": null,
+      "annual_charges": 3504,
+      "condo_lots": 450,
+      "heating": "collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
   }
 ]
