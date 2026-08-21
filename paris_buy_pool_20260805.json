@@ -16,6 +16,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8829,
+        "lng": 2.3702,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -69,6 +74,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -122,6 +132,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -175,6 +190,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -228,6 +248,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -275,6 +300,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -328,6 +358,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -381,6 +416,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -428,6 +468,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.842,
+        "lng": 2.2996,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -481,6 +526,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.842,
+        "lng": 2.2996,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -534,6 +584,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -587,6 +642,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -640,6 +700,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8402,
+        "lng": 2.3946,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -693,6 +758,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3082,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -746,6 +816,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.858,
+        "lng": 2.402,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -793,6 +868,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -846,6 +926,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -893,6 +978,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -946,6 +1036,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -993,6 +1088,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -1040,6 +1140,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -1087,6 +1192,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8724,
+        "lng": 2.3703,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -1140,6 +1250,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8724,
+        "lng": 2.3703,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -1193,6 +1308,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.876,
+        "lng": 2.36,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -1246,6 +1366,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.876,
+        "lng": 2.36,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -1299,6 +1424,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.876,
+        "lng": 2.36,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -1352,6 +1482,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.859,
+        "lng": 2.3798,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -1405,6 +1540,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.859,
+        "lng": 2.3798,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -1458,6 +1598,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.859,
+        "lng": 2.3798,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -1511,6 +1656,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8402,
+        "lng": 2.3946,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -1564,6 +1714,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8402,
+        "lng": 2.3946,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -1617,6 +1772,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.842,
+        "lng": 2.3925,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -1664,6 +1824,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8402,
+        "lng": 2.3946,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -1717,6 +1882,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8402,
+        "lng": 2.3946,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -1770,6 +1940,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -1823,6 +1998,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -1876,6 +2056,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -1929,6 +2114,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -1982,6 +2172,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -2035,6 +2230,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87,
+        "lng": 2.383,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -2088,6 +2288,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -2141,6 +2346,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -2194,6 +2404,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -2247,6 +2462,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -2300,6 +2520,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -2353,6 +2578,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -2406,6 +2636,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -2459,6 +2694,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87,
+        "lng": 2.383,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -2506,6 +2746,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.863,
+        "lng": 2.3627,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -2553,6 +2798,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -2606,6 +2856,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -2659,6 +2914,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -2712,6 +2972,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -2765,6 +3030,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -2818,6 +3088,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -2871,6 +3146,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -2924,6 +3204,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8329,
+        "lng": 2.3266,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -2977,6 +3262,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8329,
+        "lng": 2.3266,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -3030,6 +3320,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8329,
+        "lng": 2.3266,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -3083,6 +3378,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.859,
+        "lng": 2.3798,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -3141,6 +3441,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -3187,6 +3492,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -3233,6 +3543,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8637,
+        "lng": 2.2762,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -3279,6 +3594,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -3325,6 +3645,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -3371,6 +3696,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.842,
+        "lng": 2.2996,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -3417,6 +3747,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -3463,6 +3798,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -3509,6 +3849,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -3555,6 +3900,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -3601,6 +3951,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -3647,6 +4002,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -3693,6 +4053,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.842,
+        "lng": 2.2996,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -3739,6 +4104,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -3785,6 +4155,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -3831,6 +4206,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -3877,6 +4257,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8402,
+        "lng": 2.3946,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -3923,6 +4308,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -3969,6 +4359,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -4015,6 +4410,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -4061,6 +4461,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -4107,6 +4512,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -4153,6 +4563,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -4199,6 +4614,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -4245,6 +4665,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -4291,6 +4716,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -4337,6 +4767,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -4383,6 +4818,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -4429,6 +4869,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -4475,6 +4920,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.876,
+        "lng": 2.36,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -4521,6 +4971,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -4567,6 +5022,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.842,
+        "lng": 2.2996,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -4613,6 +5073,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -4659,6 +5124,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.842,
+        "lng": 2.2996,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -4705,6 +5175,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -4751,6 +5226,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -4797,6 +5277,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -4843,6 +5328,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -4889,6 +5379,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -4935,6 +5430,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -4981,6 +5481,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -5027,6 +5532,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -5073,6 +5583,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -5119,6 +5634,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -5165,6 +5685,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.842,
+        "lng": 2.2996,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -5211,6 +5736,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -5257,6 +5787,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -5303,6 +5838,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3082,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -5349,6 +5889,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -5395,6 +5940,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -5441,6 +5991,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -5487,6 +6042,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -5533,6 +6093,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -5579,6 +6144,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.842,
+        "lng": 2.2996,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -5625,6 +6195,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -5671,6 +6246,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -5717,6 +6297,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -5763,6 +6348,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -5809,6 +6399,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -5855,6 +6450,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8637,
+        "lng": 2.2762,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -5901,6 +6501,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -5947,6 +6552,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -5993,6 +6603,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -6039,6 +6654,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -6085,6 +6705,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -6131,6 +6756,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8637,
+        "lng": 2.2762,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -6177,6 +6807,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -6223,6 +6858,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -6269,6 +6909,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -6315,6 +6960,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -6361,6 +7011,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -6407,6 +7062,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.842,
+        "lng": 2.2996,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -6453,6 +7113,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -6499,6 +7164,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -6545,6 +7215,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -6591,6 +7266,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -6637,6 +7317,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.842,
+        "lng": 2.2996,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -6683,6 +7368,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -6729,6 +7419,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -6775,6 +7470,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.842,
+        "lng": 2.2996,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -6821,6 +7521,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -12949,6 +13654,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.86040177986342,
+        "lng": 2.403977095002771
       }
     },
     "hardFacts": {
@@ -13022,6 +13731,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82231182292635,
+        "lng": 2.3670719051228457
       }
     },
     "hardFacts": {
@@ -13095,6 +13808,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.85012655246429,
+        "lng": 2.2701236488293577
       }
     },
     "hardFacts": {
@@ -13168,6 +13885,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8201365290478,
+        "lng": 2.3630804601310946
       }
     },
     "hardFacts": {
@@ -13241,6 +13962,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.821933430069016,
+        "lng": 2.3672926259980023
       }
     },
     "hardFacts": {
@@ -13314,6 +14039,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.857,
+        "lng": 2.408,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -13387,6 +14117,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8200417662722,
+        "lng": 2.363301256558587
       }
     },
     "hardFacts": {
@@ -13460,6 +14194,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8688,
+        "lng": 2.381,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -13533,6 +14272,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.86040177986342,
+        "lng": 2.403977095002771
       }
     },
     "hardFacts": {
@@ -13606,6 +14349,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.884061812523974,
+        "lng": 2.3647614936021495
       }
     },
     "hardFacts": {
@@ -13679,6 +14426,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8206504660701,
+        "lng": 2.3650211308884903
       }
     },
     "hardFacts": {
@@ -13752,6 +14503,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.878087038934396,
+        "lng": 2.4000332338912442
       }
     },
     "hardFacts": {
@@ -13819,6 +14574,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.894239592441764,
+        "lng": 2.3733288265477492
       }
     },
     "hardFacts": {
@@ -13892,6 +14651,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.890410600430506,
+        "lng": 2.350943191733276
       }
     },
     "hardFacts": {
@@ -13959,6 +14722,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89740646078592,
+        "lng": 2.3730854893439766
       }
     },
     "hardFacts": {
@@ -14032,6 +14799,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8941386889241,
+        "lng": 2.385015369315901
       }
     },
     "hardFacts": {
@@ -14105,6 +14876,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.894605934679966,
+        "lng": 2.373816687091874
       }
     },
     "hardFacts": {
@@ -14178,6 +14953,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89311269059716,
+        "lng": 2.3777491105376987
       }
     },
     "hardFacts": {
@@ -14251,6 +15030,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89105753690613,
+        "lng": 2.3771723941169287
       }
     },
     "hardFacts": {
@@ -14324,6 +15107,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.834633698965405,
+        "lng": 2.317612704171472
       }
     },
     "hardFacts": {
@@ -14385,6 +15172,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.875875241850494,
+        "lng": 2.390755003023712
       }
     },
     "hardFacts": {
@@ -14458,6 +15249,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89991146559162,
+        "lng": 2.3525463649006984
       }
     },
     "hardFacts": {
@@ -14531,6 +15326,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89496700356392,
+        "lng": 2.3742592073248145
       }
     },
     "hardFacts": {
@@ -14604,6 +15403,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.894239592441764,
+        "lng": 2.3733288265477492
       }
     },
     "hardFacts": {
@@ -14677,6 +15480,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.85293694287448,
+        "lng": 2.4074504949640296
       }
     },
     "hardFacts": {
@@ -14750,6 +15557,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.884061812523974,
+        "lng": 2.3647614936021495
       }
     },
     "hardFacts": {
@@ -14823,6 +15634,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88934299,
+        "lng": 2.38435999
       }
     },
     "hardFacts": {
@@ -14896,6 +15711,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.823179891422825,
+        "lng": 2.361774670177963
       }
     },
     "hardFacts": {
@@ -14963,6 +15782,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -15036,6 +15860,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83419413335614,
+        "lng": 2.3085411617014273
       }
     },
     "hardFacts": {
@@ -15109,6 +15937,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.842,
+        "lng": 2.2996,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -15182,6 +16015,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.897550372269635,
+        "lng": 2.3467642220574634
       }
     },
     "hardFacts": {
@@ -15255,6 +16092,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89170383431621,
+        "lng": 2.361919325437711
       }
     },
     "hardFacts": {
@@ -15328,6 +16169,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83582611085869,
+        "lng": 2.392001851689294
       }
     },
     "hardFacts": {
@@ -15401,6 +16246,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -15474,6 +16324,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.827818338562786,
+        "lng": 2.355317185640107
       }
     },
     "hardFacts": {
@@ -15547,6 +16401,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89740646078592,
+        "lng": 2.3730854893439766
       }
     },
     "hardFacts": {
@@ -15620,6 +16478,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.825931364270325,
+        "lng": 2.364253251038143
       }
     },
     "hardFacts": {
@@ -15687,6 +16549,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.897495,
+        "lng": 2.331425
       }
     },
     "hardFacts": {
@@ -15760,6 +16626,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.889,
+        "lng": 2.362,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -15833,6 +16704,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83529348515913,
+        "lng": 2.3105387971346367
       }
     },
     "hardFacts": {
@@ -15906,6 +16781,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.895398113583816,
+        "lng": 2.336747612066545
       }
     },
     "hardFacts": {
@@ -15979,6 +16858,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.866067037165585,
+        "lng": 2.3979609845576024
       }
     },
     "hardFacts": {
@@ -16046,6 +16929,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88934299,
+        "lng": 2.38435999
       }
     },
     "hardFacts": {
@@ -16119,6 +17006,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89239566783441,
+        "lng": 2.372708917032907
       }
     },
     "hardFacts": {
@@ -16192,6 +17083,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.849979411338616,
+        "lng": 2.2860876723902317
       }
     },
     "hardFacts": {
@@ -16265,6 +17160,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83962191568281,
+        "lng": 2.2834758919605704
       }
     },
     "hardFacts": {
@@ -16338,6 +17237,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82962364058634,
+        "lng": 2.426817051329877
       }
     },
     "hardFacts": {
@@ -16411,6 +17314,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.872553941722465,
+        "lng": 2.4013725091851295
       }
     },
     "hardFacts": {
@@ -16478,6 +17385,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88493151428688,
+        "lng": 2.3475763100371405
       }
     },
     "hardFacts": {
@@ -16545,6 +17456,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.884576734022446,
+        "lng": 2.3476996705533484
       }
     },
     "hardFacts": {
@@ -16618,6 +17533,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8396846944524,
+        "lng": 2.285090108048319
       }
     },
     "hardFacts": {
@@ -18833,8 +19752,9 @@
         "closestLines": []
       },
       "coords": {
-        "lat": null,
-        "lng": null
+        "lat": 48.842,
+        "lng": 2.2996,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -18896,8 +19816,9 @@
         "closestLines": []
       },
       "coords": {
-        "lat": null,
-        "lng": null
+        "lat": 48.8402,
+        "lng": 2.3946,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -18965,8 +19886,9 @@
         "closestLines": []
       },
       "coords": {
-        "lat": null,
-        "lng": null
+        "lat": 48.8329,
+        "lng": 2.3266,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -19034,8 +19956,9 @@
         "closestLines": []
       },
       "coords": {
-        "lat": null,
-        "lng": null
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -19249,6 +20172,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -19398,8 +20326,9 @@
         "closestLines": []
       },
       "coords": {
-        "lat": null,
-        "lng": null
+        "lat": 48.842,
+        "lng": 2.2996,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -19467,8 +20396,9 @@
         "closestLines": []
       },
       "coords": {
-        "lat": null,
-        "lng": null
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -19536,8 +20466,9 @@
         "closestLines": []
       },
       "coords": {
-        "lat": null,
-        "lng": null
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -19603,6 +20534,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8688,
+        "lng": 2.381,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -19676,6 +20612,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.85966894206391,
+        "lng": 2.4100595188325857
       }
     },
     "hardFacts": {
@@ -19749,6 +20689,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8688,
+        "lng": 2.381,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -19822,6 +20767,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.867346382331476,
+        "lng": 2.3764367640403554
       }
     },
     "hardFacts": {
@@ -19895,6 +20844,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87580491083382,
+        "lng": 2.403041339710852
       }
     },
     "hardFacts": {
@@ -20110,6 +21063,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -20183,6 +21141,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89221140267065,
+        "lng": 2.364242647968704
       }
     },
     "hardFacts": {
@@ -20258,8 +21220,9 @@
         "closestLines": []
       },
       "coords": {
-        "lat": null,
-        "lng": null
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -20327,8 +21290,9 @@
         "closestLines": []
       },
       "coords": {
-        "lat": null,
-        "lng": null
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -23300,6 +24264,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.891910065068195,
+        "lng": 2.3804984372186917
       }
     },
     "hardFacts": {
@@ -23373,6 +24341,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.867940688601394,
+        "lng": 2.3988159082837974
       }
     },
     "hardFacts": {
@@ -23446,6 +24418,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.848107904072,
+        "lng": 2.27280127695031
       }
     },
     "hardFacts": {
@@ -23519,6 +24495,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82725918359546,
+        "lng": 2.3110652564787073
       }
     },
     "hardFacts": {
@@ -23592,6 +24572,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.889078,
+        "lng": 2.352432
       }
     },
     "hardFacts": {
@@ -23665,6 +24649,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -23738,6 +24727,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.885,
+        "lng": 2.371,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -23805,6 +24799,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -23878,6 +24877,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -23951,6 +24955,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -24024,6 +25033,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.897,
+        "lng": 2.32,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -24097,6 +25111,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -24164,6 +25183,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.842,
+        "lng": 2.2996,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -24231,6 +25255,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -24304,6 +25333,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.889,
+        "lng": 2.362,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -24377,6 +25411,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.842,
+        "lng": 2.2996,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -24450,6 +25489,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.862,
+        "lng": 2.401,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -24525,8 +25569,9 @@
         "closestLines": []
       },
       "coords": {
-        "lat": null,
-        "lng": null
+        "lat": 48.859,
+        "lng": 2.3798,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -25746,6 +26791,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.85052646990726,
+        "lng": 2.3375079452269567
       }
     },
     "hardFacts": {
@@ -25819,6 +26868,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.86873201252679,
+        "lng": 2.3905610596373474
       }
     },
     "hardFacts": {
@@ -25892,6 +26945,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.84407088551505,
+        "lng": 2.3850013919176583
       }
     },
     "hardFacts": {
@@ -25965,6 +27022,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.842,
+        "lng": 2.2996,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -26032,6 +27094,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.829,
+        "lng": 2.362,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -26099,6 +27166,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.872,
+        "lng": 2.366,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -26160,6 +27232,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.885,
+        "lng": 2.351,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -26233,6 +27310,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -26306,6 +27388,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.885,
+        "lng": 2.351,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -26379,6 +27466,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -26452,6 +27544,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -26525,6 +27622,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.862,
+        "lng": 2.401,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -26598,6 +27700,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.899,
+        "lng": 2.383,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -26671,6 +27778,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.876,
+        "lng": 2.36,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -26744,6 +27856,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.862,
+        "lng": 2.401,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -26967,8 +28084,9 @@
         "closestLines": []
       },
       "coords": {
-        "lat": null,
-        "lng": null
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -27036,8 +28154,9 @@
         "closestLines": []
       },
       "coords": {
-        "lat": null,
-        "lng": null
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -27171,6 +28290,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8329,
+        "lng": 2.3266,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -27240,8 +28364,9 @@
         "closestLines": []
       },
       "coords": {
-        "lat": null,
-        "lng": null
+        "lat": 48.8502,
+        "lng": 2.332,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -27387,6 +28512,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.825,
+        "lng": 2.366,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -27460,6 +28590,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82413733779775,
+        "lng": 2.3641586122354683
       }
     },
     "hardFacts": {
@@ -27533,6 +28667,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83564084370079,
+        "lng": 2.4058358317940027
       }
     },
     "hardFacts": {
@@ -27600,6 +28738,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.842,
+        "lng": 2.2996,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -27673,6 +28816,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.829,
+        "lng": 2.362,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -27740,6 +28888,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.829,
+        "lng": 2.362,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -27961,6 +29114,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -40376,6 +41534,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8729385388104,
+        "lng": 2.3772530701083556
       }
     },
     "hardFacts": {
@@ -40437,6 +41599,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.86679363306459,
+        "lng": 2.385399219928133
       }
     },
     "hardFacts": {
@@ -40498,6 +41664,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89782050762396,
+        "lng": 2.3597144804980026
       }
     },
     "hardFacts": {
@@ -40571,6 +41741,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89762481332158,
+        "lng": 2.3601955647196404
       }
     },
     "hardFacts": {
@@ -40644,6 +41818,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87359087464601,
+        "lng": 2.3744398341106745
       }
     },
     "hardFacts": {
@@ -40711,6 +41889,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.884920661467575,
+        "lng": 2.3635219959430644
       }
     },
     "hardFacts": {
@@ -40784,6 +41966,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.85836169821765,
+        "lng": 2.409495733543581
       }
     },
     "hardFacts": {
@@ -40857,6 +42043,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.875875241850494,
+        "lng": 2.390755003023712
       }
     },
     "hardFacts": {
@@ -40930,6 +42120,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.865798105353875,
+        "lng": 2.3974559629505747
       }
     },
     "hardFacts": {
@@ -41003,6 +42197,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89733112264887,
+        "lng": 2.359511588773799
       }
     },
     "hardFacts": {
@@ -41076,6 +42274,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88499409618179,
+        "lng": 2.363886196932045
       }
     },
     "hardFacts": {
@@ -41149,6 +42351,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.85089798556829,
+        "lng": 2.3995524160653923
       }
     },
     "hardFacts": {
@@ -41222,6 +42428,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.85076161418906,
+        "lng": 2.4027330046922626
       }
     },
     "hardFacts": {
@@ -41295,6 +42505,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.865041983,
+        "lng": 2.398928958
       }
     },
     "hardFacts": {
@@ -41368,6 +42582,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88872450061123,
+        "lng": 2.359614426853235
       }
     },
     "hardFacts": {
@@ -41441,6 +42659,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.875875241850494,
+        "lng": 2.390755003023712
       }
     },
     "hardFacts": {
@@ -41514,6 +42736,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.894122771843975,
+        "lng": 2.3597657916572228
       }
     },
     "hardFacts": {
@@ -41587,6 +42813,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88772465843827,
+        "lng": 2.358218134231644
       }
     },
     "hardFacts": {
@@ -41660,6 +42890,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.886599569425925,
+        "lng": 2.3799009762769145
       }
     },
     "hardFacts": {
@@ -41733,6 +42967,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82572622693098,
+        "lng": 2.363803005535853
       }
     },
     "hardFacts": {
@@ -41800,6 +43038,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88440919936327,
+        "lng": 2.3952372562360438
       }
     },
     "hardFacts": {
@@ -41873,6 +43115,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.888142513432754,
+        "lng": 2.3499565810511056
       }
     },
     "hardFacts": {
@@ -41946,6 +43192,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89354676782971,
+        "lng": 2.3629006326443798
       }
     },
     "hardFacts": {
@@ -42019,6 +43269,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.875875241850494,
+        "lng": 2.390755003023712
       }
     },
     "hardFacts": {
@@ -42092,6 +43346,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89299623485702,
+        "lng": 2.3602715465891104
       }
     },
     "hardFacts": {
@@ -42165,6 +43423,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82443260791702,
+        "lng": 2.3646440453354987
       }
     },
     "hardFacts": {
@@ -42238,6 +43500,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88749261929865,
+        "lng": 2.3521718667632454
       }
     },
     "hardFacts": {
@@ -42311,6 +43577,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.875875241850494,
+        "lng": 2.390755003023712
       }
     },
     "hardFacts": {
@@ -42384,6 +43654,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82452121880277,
+        "lng": 2.3637475028444954
       }
     },
     "hardFacts": {
@@ -42457,6 +43731,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89475817147638,
+        "lng": 2.349462446898938
       }
     },
     "hardFacts": {
@@ -42530,6 +43808,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.85562025643012,
+        "lng": 2.406269178949163
       }
     },
     "hardFacts": {
@@ -42603,6 +43885,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.894072380401795,
+        "lng": 2.362519383505519
       }
     },
     "hardFacts": {
@@ -42676,6 +43962,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88640504108661,
+        "lng": 2.369452716975574
       }
     },
     "hardFacts": {
@@ -42749,6 +44039,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8736471582444,
+        "lng": 2.374337782832894
       }
     },
     "hardFacts": {
@@ -42822,6 +44116,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89237500902663,
+        "lng": 2.361095129584871
       }
     },
     "hardFacts": {
@@ -42895,6 +44193,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88789460655117,
+        "lng": 2.3529468146417485
       }
     },
     "hardFacts": {
@@ -42968,6 +44270,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.886270906141625,
+        "lng": 2.3560274293739094
       }
     },
     "hardFacts": {
@@ -43041,6 +44347,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.824902389964734,
+        "lng": 2.3754129800173382
       }
     },
     "hardFacts": {
@@ -43114,6 +44424,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.827729531605385,
+        "lng": 2.3737487232700603
       }
     },
     "hardFacts": {
@@ -43181,6 +44495,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89652572622727,
+        "lng": 2.3919721762426787
       }
     },
     "hardFacts": {
@@ -43254,6 +44572,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.86957305576883,
+        "lng": 2.3489922689768856
       }
     },
     "hardFacts": {
@@ -43327,6 +44649,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.837264104015496,
+        "lng": 2.392612737630252
       }
     },
     "hardFacts": {
@@ -43400,6 +44726,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.86868959540272,
+        "lng": 2.3840671677474403
       }
     },
     "hardFacts": {
@@ -43467,6 +44797,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89744337486108,
+        "lng": 2.3330747800485208
       }
     },
     "hardFacts": {
@@ -43540,6 +44874,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8249844537903,
+        "lng": 2.3294021501727347
       }
     },
     "hardFacts": {
@@ -43613,6 +44951,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.870163023813625,
+        "lng": 2.3811352490728126
       }
     },
     "hardFacts": {
@@ -43686,6 +45028,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.840761,
+        "lng": 2.257249
       }
     },
     "hardFacts": {
@@ -43759,6 +45105,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.894147016765366,
+        "lng": 2.3703911408504372
       }
     },
     "hardFacts": {
@@ -43832,6 +45182,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.85636027715721,
+        "lng": 2.400768008890938
       }
     },
     "hardFacts": {
@@ -43899,6 +45253,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87601164124324,
+        "lng": 2.3982889873474984
       }
     },
     "hardFacts": {
@@ -43972,6 +45330,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89307593202224,
+        "lng": 2.3623841339948717
       }
     },
     "hardFacts": {
@@ -44045,6 +45407,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83007364079393,
+        "lng": 2.3341206453686647
       }
     },
     "hardFacts": {
@@ -44112,6 +45478,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89234962571291,
+        "lng": 2.362618745773595
       }
     },
     "hardFacts": {
@@ -44185,6 +45555,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87042046698265,
+        "lng": 2.3534284036036937
       }
     },
     "hardFacts": {
@@ -44258,6 +45632,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8681,
+        "lng": 2.401315
       }
     },
     "hardFacts": {
@@ -44331,6 +45709,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82499115132999,
+        "lng": 2.318980518951632
       }
     },
     "hardFacts": {
@@ -44404,6 +45786,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.886871,
+        "lng": 2.352097
       }
     },
     "hardFacts": {
@@ -44477,6 +45863,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.86957305576883,
+        "lng": 2.3489922689768856
       }
     },
     "hardFacts": {
@@ -44550,6 +45940,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.837325139667286,
+        "lng": 2.392481521748144
       }
     },
     "hardFacts": {
@@ -44623,6 +46017,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.825671606494616,
+        "lng": 2.358812638877602
       }
     },
     "hardFacts": {
@@ -44696,6 +46094,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83039722904144,
+        "lng": 2.295691323994732
       }
     },
     "hardFacts": {
@@ -44769,6 +46171,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89663288660933,
+        "lng": 2.3588514560634186
       }
     },
     "hardFacts": {
@@ -44842,6 +46248,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.837744100871916,
+        "lng": 2.40789026081481
       }
     },
     "hardFacts": {
@@ -44915,6 +46325,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83612197125098,
+        "lng": 2.289501586082343
       }
     },
     "hardFacts": {
@@ -44988,6 +46402,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.866735139229725,
+        "lng": 2.386059210220921
       }
     },
     "hardFacts": {
@@ -45061,6 +46479,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83254067616251,
+        "lng": 2.3036110777196184
       }
     },
     "hardFacts": {
@@ -45134,6 +46556,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83209356020393,
+        "lng": 2.3351009521869113
       }
     },
     "hardFacts": {
@@ -45207,6 +46633,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.829463610980596,
+        "lng": 2.3090763826414893
       }
     },
     "hardFacts": {
@@ -45280,6 +46710,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83255317282728,
+        "lng": 2.3241609335587574
       }
     },
     "hardFacts": {
@@ -45353,6 +46787,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.860094774069545,
+        "lng": 2.3784316667071566
       }
     },
     "hardFacts": {
@@ -45426,6 +46864,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87682183430859,
+        "lng": 2.40615361742044
       }
     },
     "hardFacts": {
@@ -45499,6 +46941,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.882113484596246,
+        "lng": 2.3745677635615943
       }
     },
     "hardFacts": {
@@ -45566,6 +47012,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.891325033178504,
+        "lng": 2.3411227751747132
       }
     },
     "hardFacts": {
@@ -45639,6 +47089,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.895478033735294,
+        "lng": 2.316741504869961
       }
     },
     "hardFacts": {
@@ -45712,6 +47166,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.833058908,
+        "lng": 2.326959081
       }
     },
     "hardFacts": {
@@ -45785,6 +47243,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.833058908,
+        "lng": 2.326959081
       }
     },
     "hardFacts": {
@@ -45858,6 +47320,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89412872975392,
+        "lng": 2.3207159231849244
       }
     },
     "hardFacts": {
@@ -45931,6 +47397,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.829291020705725,
+        "lng": 2.3079276339266563
       }
     },
     "hardFacts": {
@@ -46004,6 +47474,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.852900291442246,
+        "lng": 2.35582919834929
       }
     },
     "hardFacts": {
@@ -46065,6 +47539,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88274525663455,
+        "lng": 2.3669001504709306
       }
     },
     "hardFacts": {
@@ -46138,6 +47616,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8864009118176,
+        "lng": 2.3468584988862013
       }
     },
     "hardFacts": {
@@ -46205,6 +47687,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87772552394689,
+        "lng": 2.401308955588534
       }
     },
     "hardFacts": {
@@ -46278,6 +47764,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88757784775612,
+        "lng": 2.3481010203446804
       }
     },
     "hardFacts": {
@@ -46351,6 +47841,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.85089306099218,
+        "lng": 2.39984903307777
       }
     },
     "hardFacts": {
@@ -46424,6 +47918,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.858756232031816,
+        "lng": 2.3834993846049897
       }
     },
     "hardFacts": {
@@ -46491,6 +47989,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.833586357422234,
+        "lng": 2.3155280243945238
       }
     },
     "hardFacts": {
@@ -46564,6 +48066,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.833586357422234,
+        "lng": 2.3155280243945238
       }
     },
     "hardFacts": {
@@ -46637,6 +48143,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87765653646728,
+        "lng": 2.394913393003264
       }
     },
     "hardFacts": {
@@ -46710,6 +48220,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87661446083243,
+        "lng": 2.3742415736363593
       }
     },
     "hardFacts": {
@@ -46783,6 +48297,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.891733,
+        "lng": 2.372706
       }
     },
     "hardFacts": {
@@ -46856,6 +48374,10 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88399623210562,
+        "lng": 2.3779547654809035
       }
     },
     "hardFacts": {
@@ -46929,6 +48451,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -47002,6 +48529,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -47075,6 +48607,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.857,
+        "lng": 2.408,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -47142,6 +48679,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -47209,6 +48751,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -47282,6 +48829,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8802,
+        "lng": 2.362,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -47355,6 +48907,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8329,
+        "lng": 2.3266,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -47428,6 +48985,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8323,
+        "lng": 2.3559,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -47501,6 +49063,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.842,
+        "lng": 2.2996,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -47574,6 +49141,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.899,
+        "lng": 2.383,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -47647,6 +49219,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8802,
+        "lng": 2.362,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -47720,6 +49297,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -47793,6 +49375,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -47866,6 +49453,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.862,
+        "lng": 2.401,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -47933,6 +49525,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3082,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -48006,6 +49603,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8802,
+        "lng": 2.362,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -48079,6 +49681,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.862,
+        "lng": 2.401,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -48152,6 +49759,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.842,
+        "lng": 2.3925,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -48225,6 +49837,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -48298,6 +49915,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.885,
+        "lng": 2.351,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -48371,6 +49993,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.825,
+        "lng": 2.351,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -48444,6 +50071,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3843,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -48517,6 +50149,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.893,
+        "lng": 2.345,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -48590,6 +50227,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.893,
+        "lng": 2.345,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -48663,6 +50305,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8329,
+        "lng": 2.3266,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -48736,6 +50383,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8636,
+        "lng": 2.399,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -48809,6 +50461,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.876,
+        "lng": 2.36,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -48882,6 +50539,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.897,
+        "lng": 2.32,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -48955,6 +50617,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8925,
+        "lng": 2.3444,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -49028,6 +50695,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8869,
+        "lng": 2.3082,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -49101,6 +50773,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8504,
+        "lng": 2.4045,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -49174,6 +50851,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.842,
+        "lng": 2.3925,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -49247,6 +50929,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.842,
+        "lng": 2.2996,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -49314,6 +51001,11 @@
       },
       "transport": {
         "closestLines": []
+      },
+      "coords": {
+        "lat": 48.842,
+        "lng": 2.3925,
+        "source": "quartier_centroid"
       }
     },
     "hardFacts": {
@@ -49389,8 +51081,9 @@
         "closestLines": []
       },
       "coords": {
-        "lat": null,
-        "lng": null
+        "lat": 48.8329,
+        "lng": 2.3266,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
@@ -49458,8 +51151,9 @@
         "closestLines": []
       },
       "coords": {
-        "lat": null,
-        "lng": null
+        "lat": 48.842,
+        "lng": 2.2996,
+        "source": "arrondissement_centroid"
       }
     },
     "hardFacts": {
