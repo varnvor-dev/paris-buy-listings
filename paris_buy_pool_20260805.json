@@ -48240,5 +48240,449 @@
       "specificities": "",
       "owner_type": "pro"
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3236817543",
+    "metadata": {
+      "id": "leboncoin-3236817543",
+      "creationDate": "2026-07-21 17:08:24"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Bassin de la Villette"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.885002,
+        "lng": 2.3713057
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 51 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "51 m²",
+          "splitValue": "51",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "9/17",
+          "splitValue": "9",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "349 425 €",
+        "formatted": "349 425 €",
+        "additionalInformation": "6 851 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 51 m²\n\nImmobilier.notaires® et l’office notarial SCP Jean-Michel SIMEON, Alexis BAUDRY, Jeanne PIFFAUT, Thomas LE BOURG et Thomas LEVEQUE, Notaires vous proposent :\nAppartement à vendre - PARIS 19 (75019)\n- - - - - - - - - - - - - - - - - - - - - -\nIdéalement situé au 89 rue de l'Ourcq, au cœur d'un quartier vivant et recherché, découvrez cet appartement situé au 9ᵉ étage avec ascenseur d'une copropriété bien entretenue de la fin des années 70, avec gardien.\nBénéficiant d'une agréable exposition Est, il profite d'une belle luminosité dès le matin. Il se compose d'une entrée, d'une cuisine indépendante, ainsi que d'un séjour avec espace salon/salle à manger ouvrant sur un balcon, idéal pour profiter d'une vue dégagée.\nL'espace nuit comprend une chambre, une salle de bai"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3236817543",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "9",
+      "nb_floors_building": "17",
+      "building_year": null,
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": null,
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3255199728",
+    "metadata": {
+      "id": "leboncoin-3255199728",
+      "creationDate": "2026-08-23 12:53:11"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Salpétrière - Austerlitz"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83779,
+        "lng": 2.36019
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement F2/3",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "67 m²",
+          "splitValue": "67",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/3",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "270 000 €",
+        "formatted": "270 000 €",
+        "additionalInformation": "4 030 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Porte d'Italie 21 km (N7/A6), Orly 8 km, Juvisy RER C (direct 15 mn BFM) et D (GDL 25 mn). Draveil cœur de ville, petit immeuble standing style Mansart bien entretenu et très calme de 8 appartements dans voie privée en impasse. Appartement 67 m2, belle pièce de vie lumineuse de 33 m2 sur balcon 3 m2 avec vue dégagée sur la verdure. Possibilité de séparer le salon par une cloison pour création d'une deuxième chambre à moindre coût (porte conservée sur accès, actuellement utilisé en cagibi). Cuisine blanche séparée et équipée (Chabert Duval). Grande chambre avec parquet massif, porte fenêtre. Salle de douche avec fenêtre (possibilité baignoire), WC séparé. Couloir avec penderie 3 panneaux abritant ballon récent et emplacement machine à laver. Porte 3 points, VRE, chauffage individuel électri"
+    },
+    "energyClass": "C",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3255199728",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "2",
+      "nb_floors_building": "3",
+      "building_year": "2005",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "2400",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3255181316",
+    "metadata": {
+      "id": "leboncoin-3255181316",
+      "creationDate": "2026-08-23 12:28:42"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Laumière"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88426,
+        "lng": 2.3852627
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 33 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "33 m²",
+          "splitValue": "33",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "23/26",
+          "splitValue": "23",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "295 000 €",
+        "formatted": "295 000 €",
+        "additionalInformation": "8 939 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Rare T2 de 33m2 dans une résidence avec piscine et salle de sport  I 75019\n\nVUE DÉGAGÉE SUR PARIS I BALCON I ROOFTOP-PISCINE\n\nNous sommes ravis de vous présenter ce bel appartement de 33 m² disposant d'un balcon privé avec une vue 360 sur Paris, situé dans une résidence très sécurisée avec rooftop, piscine, salle de sport et bibliothèque.\n\nL'appartement est dans un bon état général et peut-être rafraichi (cuisine, salle de bain). Nos architectes ont réfléchi également à un plan optimisé en créant une chambre séparée avec verrière.\n\nEn effet chez VALUO, nous vous offrons une expérience unique d'acquisition en intégrant les services d'architecte dans les honoraires de vente afin de vous permettre de façonner l'appartement de vos rêves à votre goût, en intégrant l'ensemble de vos critères et "
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3255181316",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "23",
+      "nb_floors_building": "26",
+      "building_year": "1969",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3255166147",
+    "metadata": {
+      "id": "leboncoin-3255166147",
+      "creationDate": "2026-08-23 12:10:17"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83467,
+        "lng": 2.29595
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement haussmannien 2P Convention",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 990 €",
+        "formatted": "299 990 €",
+        "additionalInformation": "8 571 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "METRO CONVENTION 2P CHARME DE L'ANCIEN\nÀ deux pas du métro Convention et au cœur d'un quartier très recherché avec de nombreux commerces et services mais très calme, découvrez ce charmant appartement haussmannien de 35,36 m² (loi Carrez), vendu entièrement meublé, situé au 3ème étage d’une copropriété de 6 étages sans ascenseur d'un immeuble de caractère.\n \nLa copropriété vient de bénéficier d'un ravalement de façade tout récent, un véritable atout pour la valorisation du bien et la qualité de l'immeuble.\nTraversant Est-Ouest-Sud, l'appartement est très lumineux et bénéficie d'un plan optimisé sans perte de place.\nEn excellent état, aucuns travaux n'est à prévoir : vous n'avez plus qu'à poser vos valises.\n \nLe bien conserve tout le charme de l'ancien avec parquet d'origine et deux cheminée"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3255166147",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": null,
+      "heating_mode": "electric",
+      "annual_charges": "1500",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3131441676",
+    "metadata": {
+      "id": "leboncoin-3131441676",
+      "creationDate": "2026-07-07 23:17:58"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Porte de la Chapelle"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89579,
+        "lng": 2.3607414
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 3 pièces 37 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "37 m²",
+          "splitValue": "37",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/3",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "225 000 €",
+        "formatted": "225 000 €",
+        "additionalInformation": "6 081 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 3 pièces 37 m²\n\nAu pied du campus universitaire Condorcet (environ 3 500 étudiants), appartement idéal pour un logement étudiant, une colocation ou un investissement locatif.\nSitué rue de la Chapelle, au 3ème et dernier étage d'un immeuble bien entretenu, 3 pièces de 37 m2 bien agencé.\nIl comprend un séjour lumineux, deux chambres, une cuisine et une salle d'eau avec WC.\n Deux caves complètent le bien.\n\nSurface : 37 m²\n\nA propos de la copropriété :\nPas de procédure en cours\nNombre de lots : 25\nDate de réalisation du diagnostic énergétique : 20/01/2026\n\nConsommation énergie primaire : 179 kWh/m²/an\nConsommation énergie finale : 0 kWh/m²/an"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3131441676",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "3",
+      "building_year": "1894",
+      "heating_type": null,
+      "heating_mode": "electric",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3255061723",
+    "metadata": {
+      "id": "leboncoin-3255061723",
+      "creationDate": "2026-08-23 10:00:58"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.886837,
+        "lng": 2.3666499
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 3 pièces 53 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "53 m²",
+          "splitValue": "53",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/6",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "370 000 €",
+        "formatted": "370 000 €",
+        "additionalInformation": "6 981 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement À Vendre\n\n75018 Paris métro Marx Dormoy,\nDécouvrez ce bel appartement lumineux de 3 pièces, idéalement situé dans un environnement vivant et recherché, à proximité immédiate d'un agréable jardin partagé.\nSitué au 1er étage avec ascenseur d'une copropriété bien entretenue avec gardien, ce bien séduit par ses beaux volumes et son agencement optimisé.\nIl se compose de :\ndeux belles chambres, calmes et confortables,\nun salon spacieux et convivial, parfait pour recevoir ou profiter de moments en famille,\nune cuisine fonctionnelle,\nainsi qu'un espace de rangement ou d'un véritable espace bureau, au choix !\nL'appartement est en bon état et ne nécessite aucun travaux : vous n'avez plus qu'à poser vos valises et concrétiser vos projets de vie.\nÀ proximité immédiate des transports, comme"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3255061723",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "1",
+      "nb_floors_building": "6",
+      "building_year": null,
+      "heating_type": "individual",
+      "heating_mode": "gas",
+      "annual_charges": "2300",
+      "specificities": "",
+      "owner_type": "pro"
+    }
   }
 ]
