@@ -48684,5 +48684,280 @@
       "specificities": "",
       "owner_type": "pro"
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3225061009",
+    "metadata": {
+      "id": "leboncoin-3225061009",
+      "creationDate": "2026-08-24 01:11:21"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75001",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.856804,
+        "lng": 2.3416128
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement - 2 pièces - RF9-43",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "52 m²",
+          "splitValue": "52",
+          "label": "m²"
+        }
+      ],
+      "price": {
+        "value": "399 000 €",
+        "formatted": "399 000 €",
+        "additionalInformation": "7 673 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "| RF9-43 à Paris (75000)\nATTENTION: CETTE OPERATION BÉNÉFICIERA D'UNE RÉNOVATION DES PARTIES COMMUNES MAIS PAS DES PARTIES PRIVATIVESLa rue de Crimée est la plus longue du 19ème arrondissement. Située entre les rues Manin et Botzaris, elle longe sur sa droite le parc des Buttes-Chaumont. Au numéro 200 de la voie, lieu de l'opération, un immeuble de style haussmannien s'élève sur 6 étages. Bâti en 1880 en pierre de Saint-Maximin, l'immeuble s'ouvre sur une très belle cour et des jardins intérieurs qui sont typiques de l'architecture parisienne. Belles hauteurs sous plafond, beaux volumes, balcons, logements très lumineux...Les DPE en l'état sont compris entre les lettres E et G suivant les lots.HONORAIRES NON INCLUS DANS LE PRIX DE VENTE\nLes informations sur les risques auxquels ce bien est"
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3225061009",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "building_year": null,
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": null,
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3225061008",
+    "metadata": {
+      "id": "leboncoin-3225061008",
+      "creationDate": "2026-08-23 21:51:21"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75001",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.858097,
+        "lng": 2.3418267
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement - 3 pièces - RF9-43",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "52 m²",
+          "splitValue": "52",
+          "label": "m²"
+        }
+      ],
+      "price": {
+        "value": "400 000 €",
+        "formatted": "400 000 €",
+        "additionalInformation": "7 692 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "| RF9-43 à Paris (75000)\nATTENTION: CETTE OPERATION BÉNÉFICIERA D'UNE RÉNOVATION DES PARTIES COMMUNES MAIS PAS DES PARTIES PRIVATIVESLa rue de Crimée est la plus longue du 19ème arrondissement. Située entre les rues Manin et Botzaris, elle longe sur sa droite le parc des Buttes-Chaumont. Au numéro 200 de la voie, lieu de l'opération, un immeuble de style haussmannien s'élève sur 6 étages. Bâti en 1880 en pierre de Saint-Maximin, l'immeuble s'ouvre sur une très belle cour et des jardins intérieurs qui sont typiques de l'architecture parisienne. Belles hauteurs sous plafond, beaux volumes, balcons, logements très lumineux...Les DPE en l'état sont compris entre les lettres E et G suivant les lots.HONORAIRES NON INCLUS DANS LE PRIX DE VENTE\nLes informations sur les risques auxquels ce bien est"
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3225061008",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "building_year": null,
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": null,
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3131483835",
+    "metadata": {
+      "id": "leboncoin-3131483835",
+      "creationDate": "2026-07-07 19:44:18"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Barbès - Château Rouge"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.884045,
+        "lng": 2.3496993
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 3 pièces 51 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "51 m²",
+          "splitValue": "51",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/6",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "399 000 €",
+        "formatted": "399 000 €",
+        "additionalInformation": "7 824 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 3 pièces 51 m²\n\niad France - Claire Puissant vous propose: Appartement de Charme  en pierre de taille en plein cOEur de Paris - Rénové avec goût 3 pièces de 51M² + cave de 5m² - ASCENSEUR\n\nNiché au 5ème étage (sur 6) d'un immeuble Haussmannien du 19ème siècle, cet appartement de 51m² allie charme de l'ancien et modernité.\n\nA 145m de la station de M° 'Château Rouge' (Ligne 4)\nA 650m de la Basilique du Sacré Coeur / Montmartre\n\nIl se compose d'une entrée donnant sur une cuisine fonctionnelle = équipée & aménagée, d'une salle d'eau avec fenêtre, d'une toilette séparée avec fenêtre, de 2 spacieuses chambres (10,6 - 11,4m²), d'un salon de 11,8m², et d'un dressing. \n\nLes plus de cet appartement :\nLumineux et Traversant (Est Ouest)\nBelle hauteur sous plafond (2,63m)  avec ses moulures"
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3131483835",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "5",
+      "nb_floors_building": "6",
+      "building_year": "1880",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1988",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag754594-546445454",
+    "metadata": {
+      "id": "bienici-ag754594-546445454",
+      "creationDate": "2026-08-23T18:13:59.534Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "La Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.894122771843975,
+        "lng": 2.3597657916572228
+      }
+    },
+    "hardFacts": {
+      "title": "T2",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "43 m²",
+          "splitValue": "43",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/5",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "278 000 €",
+        "formatted": "278 000 €",
+        "additionalInformation": "6 465 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Rue de la Chapelle - 2 PIECES de 43,40 m² Loi Carrez à rénover.\n\nA proximité du métro Marx Dormoy, L'IMMOBILIERE Bernard LACOSTE vous propose cet appartement traversant de 2 pièces comprenant une entrée, un séjour de 14 m², une chambre, une cuisine séparée et une salle d'eau avec wc. Belle hauteur sous plafond. Appartement lumineux offrant une double exposition : Ouest - Est. Beau potentiel avec un plan modulable. Moins de 5 minutes du métro. Venez vite le visiter !!\n\nBien soumis au statut de la copropriété. Nombre de lots : 37. Quote part du budget prévisionnel annuel : 1 318,44 Euros. Honoraires TTC inclus à la charge de l'acquéreur : 4,91 %.\n\nPour toute demande d'informations et organiser une visite, contactez Adrien au <span class=\"importDescriptionDecorator\" data-type=\"phone\">06.66.76"
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/ag754594-546445454",
+    "extra": {
+      "elevator": false,
+      "floor_number": 1,
+      "nb_floors_building": 5,
+      "has_cellar": null,
+      "exposition": "ouest",
+      "annual_charges": 1318.44,
+      "condo_lots": 37,
+      "heating": "électricité individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
   }
 ]
