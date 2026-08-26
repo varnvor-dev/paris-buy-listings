@@ -52456,5 +52456,225 @@
       "owner_name": "Doly",
       "nb_photos": 6
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3256900123",
+    "metadata": {
+      "id": "leboncoin-3256900123",
+      "creationDate": "2026-08-26 04:02:57"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Boucicaut - Félix Faure"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83864,
+        "lng": 2.28659
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 33 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "33 m²",
+          "splitValue": "33",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/5",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "270 000 €",
+        "formatted": "270 000 €",
+        "additionalInformation": "8 182 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 33 m²\n\nAppartement 2 pièces, 33,19 m² situé au 3ème étage d'une copropriété bien entretenue et agréable avec un local à vélo.\n\nSon plan modulable vous permettra d'aménager l'espace selon vos envies et vos besoins.\n\nVous apprécierez son emplacement dans une rue très calme, à seulement quelques pas des métros Boucicaut et Lourmel, en plein coeur du 15ème arrondissement, avec tous les commerces et transports à proximité.\n\nTravaux à prévoir. Devis sur demande réalisé par un entrepreneur. \n\nUne cave complète ce bien.\nA VISITER SANS TARDER ! \n[Coordonnées masquées] - LAFORET FELIX-FAURE\n\nSurface : 33 m²\n\nA propos de la copropriété :\nPas de procédure en cours\nStatut provisoire du syndicat : Pas de procédure en cours\nNombre de lots : 23\nDate de réalisation du diagnostic énergé"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3256900123",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "5",
+      "building_year": "1920",
+      "heating_type": "individual",
+      "heating_mode": "gas",
+      "annual_charges": "1140",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-century-21-202_2383_16539",
+    "metadata": {
+      "id": "bienici-century-21-202_2383_16539",
+      "creationDate": "2026-07-02T00:22:11.494Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75011",
+        "district": "Bastille - Popincourt"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.85518484710319,
+        "lng": 2.3748723957001063
+      }
+    },
+    "hardFacts": {
+      "title": "bienici — Paris 11e",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "45 m²",
+          "splitValue": "45",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/6",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "399 000 €",
+        "formatted": "399 000 €",
+        "additionalInformation": "8 928 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Village Bastille  Rue Keller<br>Au cœur d'une copropriété sécurisée, bien entretenue et recherchée, venez découvrir ce charmant deux pièces d'environ 44.7 m², situé au 1er étage d'un immeuble ancien.<br>L'appartement s'ouvre sur une entrée avec rangements desservant une cuisine indépendante, des WC séparés, puis un séjour chaleureux agrémenté d'une cheminée, idéal pour créer un véritable espace de vie.<br>La partie nuit se compose d'une chambre avec rangements, ainsi que d'une salle de bains.<br>Vous serez immédiatement séduits par le charme de l'ancien, la belle hauteur sous plafond de 2,87 m, et surtout par le calme absolu offert par sa vue sur cour.<br>Des travaux de rafraîchissement / rénovation sont à prévoir, offrant un fort potentiel de valorisation et la possibilité de repenser l'e"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.bienici.com/annonce/vente/paris-11e/appartement/2pieces/century-21-202_2383_16539",
+    "extra": {
+      "elevator": false,
+      "floor_number": 1,
+      "nb_floors_building": 6,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1400,
+      "condo_lots": 103,
+      "heating": "Individuel  Gaz",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": true,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-6dddd790-bc30-4307-a115-a44b73cdeddf",
+    "metadata": {
+      "id": "gdc-6dddd790-bc30-4307-a115-a44b73cdeddf",
+      "creationDate": 1737710869000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75017",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends appartement - 46m² - Paris Batignolles",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "46 m²",
+          "splitValue": "46",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "395 000 €",
+        "formatted": "395 000 €",
+        "additionalInformation": "8 587 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-appartement-465m-paris-5m-place-clichy-rez-de-chaussee-dans-jolie-rue-t2-professions-liberales-3f64a02",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": 6,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": false,
+      "owner_name": "Françoise",
+      "nb_photos": 6
+    }
   }
 ]
