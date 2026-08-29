@@ -58701,5 +58701,452 @@
       "owner_name": "Daniel",
       "nb_photos": 11
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3258614259",
+    "metadata": {
+      "id": "leboncoin-3258614259",
+      "creationDate": "2026-08-28 21:19:25"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Saint-Blaise"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.85814,
+        "lng": 2.40477
+      }
+    },
+    "hardFacts": {
+      "title": "Charmant 2 pièces de 40m² calme et ensoleillé, exposé au sud-est",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/6",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "345 000 €",
+        "formatted": "345 000 €",
+        "additionalInformation": "8 625 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Situé au 5e d'un immeuble de 6 étages l'appartement comprend une cuisine semi ouverte sur le salon, une chambre spacieuse, et sa salle d’eau attenante. Les WC sont indépendants. Parquet point de Hongrie, cheminées surmontées de miroirs d’époque.\nSDB et WC récents\nIl dispose d’une cave dans une copropriété bien entretenue.\nProximité tous commerces \nRue Vitruve\nImmeuble en brique début 20e\ncharges 100€/mois"
+    },
+    "energyClass": "F",
+    "ges": null,
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3258614259",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "5",
+      "nb_floors_building": "6",
+      "building_year": "1880",
+      "heating_type": "individual",
+      "heating_mode": "gas",
+      "annual_charges": "1200",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3232200866",
+    "metadata": {
+      "id": "leboncoin-3232200866",
+      "creationDate": "2026-07-13 14:27:43"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Alésia"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.831207,
+        "lng": 2.328059
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 34 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34 m²",
+          "splitValue": "34",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/5",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "280 000 €",
+        "formatted": "280 000 €",
+        "additionalInformation": "8 235 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 34 m²\n\nParis 14e – À 2 min à pied du métro Alésia (L4)\nBIEN LOUÉ Sept 2027, bon rendement.\n\nUn bien clé en main, rénové et déjà loué, pour investir sereinement à Paris ! \nCe charmant 2 pièces de 34 m² situé au 1er étage par escalier d’une résidence bien entretenue et sécurisée, a tout pour séduire. Professions libérales autorisées dans la copropriété. L'immeuble donne sur l'avenue du Générale Leclerc.\n\nLes atouts du bien :\nAppartement lumineux, orientation Sud-Est, fonctionnel, bien distribué, il est composé d'un séjour de 16m2 lumineux, d’une chambre, d’une cuisine indépendante et d’une salle d’eau optimisée avec WC équipé d'un sanibroyeur.\n\nEmplacement stratégique :\nA quelques pas de la station Alésia (ligne 4) et proche du RER B Denfert-Rochereau, facilitant les dép"
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3232200866",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "5",
+      "building_year": "1930",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1437",
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3258414207",
+    "metadata": {
+      "id": "leboncoin-3258414207",
+      "creationDate": "2026-08-28 16:17:00"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Simplon - Poissonniers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.893997,
+        "lng": 2.350133
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 42 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "42 m²",
+          "splitValue": "42",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/6",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "318 000 €",
+        "formatted": "318 000 €",
+        "additionalInformation": "7 571 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 42 m²\n\nMETRO SIMPLON - RUE DE CLIGNANCOURT - DERNIER ETAGE\n\nAu sein d'un bel immeuble ancien année 1900, votre agence LEON IMMOBILIER, vous présente EN EXCLUSIVITE, ce 3 pièces de 42 m2 (41,52 M2 LOI CARREZ) situé au 6ème et DERNIER ETAGE.\n\nLumineux traversant avec une exposition SUD, l'appartement se compose : une entrée, un WC séparé, une salle de douches, une cuisine indépendante, un grand séjour avec vue dégagée et PLEIN SUD, deux chambres.\n\nUne cave complète le bien.\n\nCharges de copropriété : 101 euros / mois\nTaxe foncière : 516 euros / an Thibault KERAMOAL (EI) Agent Commercial - Numéro RSAC : 814354734 - NANTERRE.\n\nSurface : 42 m²\nNon soumis au DPE\n\nA propos de la copropriété :\nPas de procédure en cours\nStatut provisoire du syndicat : Pas de procédure en cours\nN"
+    },
+    "energyClass": null,
+    "ges": "V",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3258414207",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "6",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "other",
+      "annual_charges": "1212",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3258408419",
+    "metadata": {
+      "id": "leboncoin-3258408419",
+      "creationDate": "2026-08-28 16:09:20"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Olympiades"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.826252,
+        "lng": 2.3722608
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 30 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "30 m²",
+          "splitValue": "30",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/7",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "260 000 €",
+        "formatted": "260 000 €",
+        "additionalInformation": "8 667 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces de 30 m² – Arrière-cour paisible – Cave –\n\nNOUVELLE OFFRE EXCLUSIVE – 75, rue de Patay, Paris 13ᵉ*\n\nDans le cœur vivant du 13eme arrondissement, au 75 rue de Patay, découvrez ce charmant appartement de 30 m² niché en arrière-cour, un havre de calme et de luminosité au cœur d'un quartier parmi les plus recherchés du sud parisien.\n\nSitué au 3eme étage (sans ascenseur) d'un immeuble en lot arrière, il bénéficie d'une tranquillité rare en plein Paris, tout en étant à quelques minutes de la Promenade Claude Lévi-Strauss, des berges de la Seine et de l'iconique Bibliothèque 'François- Mitterrand' !\n\nComposition :\n\n- Pièce de vie lumineuse avec coin cuisine équipée\n- Chambre spacieuse avec placards intégrés\n- Salle d'eau avec WC\n- Cave saine\n\nLes atouts du bien :\n\n- Double vi"
+    },
+    "energyClass": "F",
+    "ges": "F",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3258408419",
+    "extra": {
+      "elevator": null,
+      "floor_number": "3",
+      "nb_floors_building": "7",
+      "building_year": "1933",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "1974",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3258513860",
+    "metadata": {
+      "id": "leboncoin-3258513860",
+      "creationDate": "2026-08-25 12:34:49"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Simplon - Poissonniers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.891064,
+        "lng": 2.352679
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 3 pièces 42 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "42 m²",
+          "splitValue": "42",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/6",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "320 000 €",
+        "formatted": "320 000 €",
+        "additionalInformation": "7 619 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Du calme, du charme, une visite ?\n\nParis 18ème rue Doudeauville, dans un bel immeuble bien entretenu, au 1er étage sur une jolie cour fleurie et calme, venez visiter cet appartement de 42,34 m² Carrez, comprenant une belle pièce de vie avec cuisine, une chambre, un bureau et une salle d'eau avec WC.\nLe chauffage et l'eau sont individuels au gaz, un rafraichissement est à prévoir.\nUne cave complète le bien.\n\n Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr\nRéférence annonce : SUPER291A\nDate de réalisation du diagnostic : 09/07/2026\nLe prix indiqué comprend les honoraires à la charge de l'acheteur : 4,92% TTC du prix du bien hors honoraires\nPrix hors honoraires : 305 000 €\n\nA propos de la copropriété :\nPas de procé"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3258513860",
+    "extra": {
+      "elevator": null,
+      "floor_number": "1",
+      "nb_floors_building": "6",
+      "building_year": "1890",
+      "heating_type": null,
+      "heating_mode": "gas",
+      "annual_charges": "960",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag311656-547126076",
+    "metadata": {
+      "id": "bienici-ag311656-547126076",
+      "creationDate": "2026-08-28T14:21:46.142Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Patay - Masséna"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82622428602226,
+        "lng": 2.373238599087942
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces de 30 m² – Arrière-cour paisible – Cave –",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "30 m²",
+          "splitValue": "30",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/8",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "260 000 €",
+        "formatted": "260 000 €",
+        "additionalInformation": "8 667 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "NOUVELLE OFFRE EXCLUSIVE – 75, rue de Patay, Paris 13ᵉ*\n\nDans le cœur vivant du 13eme arrondissement, au 75 rue de Patay, découvrez ce charmant appartement de 30 m² niché en arrière-cour, un havre de calme et de luminosité au cœur d'un quartier parmi les plus recherchés du sud parisien.\n\nSitué au 3eme étage (sans ascenseur) d'un immeuble en lot arrière, il bénéficie d'une tranquillité rare en plein Paris, tout en étant à quelques minutes de la Promenade Claude Lévi-Strauss, des berges de la Seine et de l'iconique Bibliothèque 'François- Mitterrand' !\n\nComposition :\n\n- Pièce de vie lumineuse avec coin cuisine équipée\n- Chambre spacieuse avec placards intégrés\n- Salle d'eau avec WC\n- Cave saine\n\nLes atouts du bien :\n\n- Double vitrage avec volets roulants dans la chambre et la pièce à vivre\n-"
+    },
+    "energyClass": "F",
+    "ges": "F",
+    "url": "https://www.bienici.com/annonce/vente/paris-13e/appartement/2pieces/ag311656-547126076",
+    "extra": {
+      "elevator": null,
+      "floor_number": 3,
+      "nb_floors_building": 8,
+      "has_cellar": true,
+      "exposition": "sud",
+      "annual_charges": 1974,
+      "condo_lots": 58,
+      "heating": "gaz collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
   }
 ]
