@@ -59669,5 +59669,372 @@
       "price_decreased": false,
       "is_pro": true
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3259284343",
+    "metadata": {
+      "id": "leboncoin-3259284343",
+      "creationDate": "2026-08-29 20:38:30"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83467,
+        "lng": 2.29595
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement haussmannien 2P Convention",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 990 €",
+        "formatted": "299 990 €",
+        "additionalInformation": "8 571 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "METRO CONVENTION 2P CHARME DE L'ANCIEN\nÀ deux pas du métro Convention et au cœur d'un quartier très recherché avec de nombreux commerces et services mais très calme, découvrez ce charmant appartement haussmannien de 35,36 m² (loi Carrez), vendu entièrement meublé, situé au 3ème étage d’une copropriété de 6 étages sans ascenseur d'un immeuble de caractère.\n \nLa copropriété vient de bénéficier d'un ravalement de façade tout récent, un véritable atout pour la valorisation du bien et la qualité de l'immeuble.\nTraversant Est-Ouest-Sud, l'appartement est très lumineux et bénéficie d'un plan optimisé sans perte de place.\nEn excellent état, aucuns travaux n'est à prévoir : vous n'avez plus qu'à poser vos valises.\n \nLe bien conserve tout le charme de l'ancien avec parquet d'origine et deux cheminée"
+    },
+    "energyClass": "D",
+    "ges": null,
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3259284343",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1500",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3166978908",
+    "metadata": {
+      "id": "leboncoin-3166978908",
+      "creationDate": "2026-07-13 01:17:26"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8844,
+        "lng": 2.3630307
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 42 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "42 m²",
+          "splitValue": "42",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/6",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "345 000 €",
+        "formatted": "345 000 €",
+        "additionalInformation": "8 214 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 42 m²\n\nrue Marx Dormoy - Très beau 2 pièces de 42,30?m2 à vendre , au 4ème étage d'un immeuble ancien bien entretenu, offrant une vue dégagée. Ce appartement séduira les amateurs de charme et d'authenticité avec son parquet en point de Hongrie, ses tomettes dans la cuisine, ses moulures et sa belle hauteur sous plafond. Bien agencé et en parfait état, il dispose d'une salle de bain rénovée avec WC électrique. La copropriété est soignée avec des parties communes propres. Une cave complète ce bien, idéal pour un premier achat ou un investissement locatif.\n\nSurface : 42 m²\n\nA propos de la copropriété :\nPas de procédure en cours\nNombre de lots : 85\nDate de réalisation du diagnostic énergétique : 26/07/2025\n\nConsommation énergie primaire : 541 kWh/m²/an\nConsommation énergie"
+    },
+    "energyClass": "G",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3166978908",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "4",
+      "nb_floors_building": "6",
+      "building_year": "1820",
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": "1296",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3251990062",
+    "metadata": {
+      "id": "leboncoin-3251990062",
+      "creationDate": "2026-07-08 14:30:44"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75010",
+        "district": "Louis Blanc - Aqueduc"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.883236,
+        "lng": 2.362707
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 40 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/6",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "336 000 €",
+        "formatted": "336 000 €",
+        "additionalInformation": "8 400 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 40 m²\n\nRUE CHATEAU LANDON - CANAL SAINT-MARTIN \nVotre agence LAFORET a le plaisir de vous proposer cet appartement deux pièces de 40 m² au sein d'un immeuble Haussmannien bien entretenu, vous trouverez au cinquième étage sans ascenseur , un séjour avec cuisine ouverte, une chambre très lumineuse, expo EST, une salle d'eau et w-c.  Travaux de rénovation complète à prévoir (y compris électricité). DPE G (budget travaux évolution vers DPE C : 8300 € remplacement fenêtres et isolation des murs). Charges de copropriété :  210 € par trimestre (y compris eau froide) Idéalement situé à deux pas du Canal, des gares et des commerces de la rue du Faubourg Saint-Martin. A ce bien s'ajoute une cave.\n\nVisite virtuelle : [URL masquée pour votre sécurité]/?m=xU9rLEjBQL2\n\nSurface : 40 "
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3251990062",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "5",
+      "nb_floors_building": "6",
+      "building_year": "1890",
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": "840",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3256169392",
+    "metadata": {
+      "id": "leboncoin-3256169392",
+      "creationDate": "2026-08-24 19:33:17"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Pernety"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.837063,
+        "lng": 2.315954
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 35 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "309 000 €",
+        "formatted": "309 000 €",
+        "additionalInformation": "8 829 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement À Vendre\n\nÀ vendre — Élégant 2 pièces de 35 m² à proximité du métro Pernety- IDEAL PRIMO ACCEDANT\n\nÀ quelques pas du métro Pernety, dans une rue particulièrement calme et agréable, découvrez ce charmant 2 pièces de 35 m², situé au 3ᵉ étage SANS ASCENSEUR d'un bel immeuble de 1900, parfaitement entretenu.\n\nL'appartement bénéficie d'un environnement paisible et recherché, avec une agréable vue sur cour, à l'abri de l'agitation parisienne.\n\nIl se compose d'une pièce de vie conviviale avec cuisine ouverte sur le séjour, ainsi que d'un espace nuit.\n\nLe bien a conservé tout le charme de l'ancien, avec notamment une cheminée et de belles moulures, qui lui confèrent une atmosphère élégante et authentique.\n\nL'immeuble est dans un état impeccable, soigneusement entretenu. L'appartement n"
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3256169392",
+    "extra": {
+      "elevator": null,
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": null,
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": null,
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag133861-547297187",
+    "metadata": {
+      "id": "bienici-ag133861-547297187",
+      "creationDate": "2026-08-29T20:28:16.387Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75011",
+        "district": "Léon-Blum - Folie-Regnault"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.858756232031816,
+        "lng": 2.3834993846049897
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement T2 de 48 m² à Paris 75011, Rue Saint-Maur",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "48 m²",
+          "splitValue": "48",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "393 900 €",
+        "formatted": "393 900 €",
+        "additionalInformation": "8 206 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Pour toute question ou demande d'information, pensez à noter et nous communiquer le numéro de référence lors de votre appel : 18853\n\nHomki a le plaisir de vous proposer ce deux pièces situé au cœur du 11 ème arrondissement , situé en rez-de-chaussée d'un immeuble ancien bien entretenu.\n\nD'une surface de 48,47 m² Carrez, ce charmant deux pièces en bon état, se compose d'une entrée, d'un  séjour lumineux sur rue, d'une cuisine américaine équipée et aménagée, d''une chambre confortable, au calme sur cour avec une pièce supplémentaire pouvant faire office de dressing, bureau ou espace de rangement, et  d'une salle de bains et WC indépendants.\n\nGrace à sa double désignation (habitation et commerciale), le bien est idéal pour une profession libérale, un bureau ou un usage mixte.\n\nSitué Rue Saint"
+    },
+    "energyClass": "G",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-11e/appartement/2pieces/ag133861-547297187",
+    "extra": {
+      "elevator": false,
+      "floor_number": null,
+      "nb_floors_building": 7,
+      "has_cellar": true,
+      "exposition": "traversant est-ouest",
+      "annual_charges": 1200,
+      "condo_lots": 25,
+      "heating": "électricité individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
   }
 ]
