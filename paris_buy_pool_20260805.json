@@ -67276,5 +67276,882 @@
       "owner_name": "Thomas",
       "nb_photos": 11
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3261919196",
+    "metadata": {
+      "id": "leboncoin-3261919196",
+      "creationDate": "2026-09-03 04:31:46"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Barbès - Château Rouge"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.885487,
+        "lng": 2.348477
+      }
+    },
+    "hardFacts": {
+      "title": "Studio 1 pièce 34 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34 m²",
+          "splitValue": "34",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "7/9",
+          "splitValue": "7",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "285 000 €",
+        "formatted": "285 000 €",
+        "additionalInformation": "8 382 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Studio 1 pièce 34 m²\n\nCoup de coeur.\nGrand studio lumineux avec vue exceptionnelle sur le Sacré-Coeur, situé Rue Doudeauville, dans le 18eme arrondissement de Paris.\n\nDans un immeuble bien entretenu des années 1970, avec façade et parties communes en très bon état, venez découvrir ce studio agréable situé au 7eme étage avec ascenseur.\nL'appartement s'ouvre sur une entrée avec rangements desservant un séjour spacieux avec coin nuit, le tout doté de parquet, offrant une vue dégagée et très agréable sur jardins ainsi que sur le Sacré-Coeur. L'exposition ouest apporte une belle luminosité tout au long de la journée.\nLa cuisine indépendante, carrelée, permet l'installation d'une machine à laver et d'un lave-vaisselle. La salle de bain avec WC, également carrelée, complète l'agencement de ce bie"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3261919196",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "7",
+      "nb_floors_building": "9",
+      "building_year": "1970",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "2410",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3261918559",
+    "metadata": {
+      "id": "leboncoin-3261918559",
+      "creationDate": "2026-09-03 04:10:33"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Porte de Clignancourt"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.90115,
+        "lng": 2.3411293
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 3 pièces 56 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "56 m²",
+          "splitValue": "56",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/2",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "340 000 €",
+        "formatted": "340 000 €",
+        "additionalInformation": "6 071 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 3 pièces 56 m²\n\nRue Voltaire, au coeur du quartier très recherché des Puces, à quelques minutes à pied du métro Porte de Clignancourt (ligne 4).\n\nAu deuxième et dernier étage, cet appartement vous séduira immédiatement par son calme, sa luminosité et son agencement parfaitement optimisé. \n\nCe T3 de 56m², traversant et baigné de lumière naturelle grâce à ses 8 fenêtres, vous offre :\n- Une grande pièce de vie de 25m² avec cuisine semi-ouverte.\n- Deux chambres au calme exposées Est\n- Une salle de bains\n- un WC séparé\n\nLes charges sont vouées à drastiquement diminuer dans l'année, dans l'attente d'un prévisionnel du syndic pour l'exercice 2027. \n\nL'appartement a entièrement été isolé. Le DPE G et les charges résultent d'une chaudière collective au fioul installée avant 1970 vouée à"
+    },
+    "energyClass": null,
+    "ges": "G",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3261918559",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "2",
+      "nb_floors_building": "2",
+      "building_year": "1930",
+      "heating_type": "communal",
+      "heating_mode": "fuel",
+      "annual_charges": "5230",
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3261898638",
+    "metadata": {
+      "id": "leboncoin-3261898638",
+      "creationDate": "2026-09-03 00:08:02"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75016",
+        "district": "Mirabeau - Molitor - Sainte Perine"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.84395,
+        "lng": 2.2676284
+      }
+    },
+    "hardFacts": {
+      "title": "Studio 2 pièces 36 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "36 m²",
+          "splitValue": "36",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "234 000 €",
+        "formatted": "234 000 €",
+        "additionalInformation": "6 500 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Studio 2 pièces 36 m²\n\nImmobilier.notaires® et l’office notarial SCP Benoît DELESALLE, Isabelle ARSEGUEL-MEUNIER, Lionel GALLIEZ, Delphine FONTAINE, et Mathilde de LEGGE de KERLEAN, notaires associés vous proposent :\nAppartement à vendre - PARIS 16 (75016)\n- - - - - - - - - - - - - - - - - - - - - -\nPARIS 16 / MOLITOR - APPARTEMENT STUDIO BIS VENDU LOUÉ\n\nExclusivité, quartier recherché de Molitor, rue Jouvenet. Au sein d'un bel immeuble 1968 bien entretenu avec Gardienne. Un appartement confortable de type Studio bis de 35,71m² (loi Carrez) au 3ème étage AVEC ascenseur. En bon état, il se compose d'une entrée avec rangements, salle de bains avec WC, séjour avec cuisine intégrée. \nAppartement VENDU LOUÉ pour un loyer de 906€/mois. \nÉchéance Bail : 18 Novembre 2028.\n\nChauffage et eau chaude "
+    },
+    "energyClass": "D",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3261898638",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": null,
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": null,
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3261856343",
+    "metadata": {
+      "id": "leboncoin-3261856343",
+      "creationDate": "2026-09-02 21:43:44"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Saint-Blaise"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.858074,
+        "lng": 2.405788
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 3 pièces 51 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "51 m²",
+          "splitValue": "51",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "21/29",
+          "splitValue": "21",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "365 000 €",
+        "formatted": "365 000 €",
+        "additionalInformation": "7 157 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Paris 20e – Saint-Germain-de-Charonne - ÉTAGE ÉLEVÉ – LUMINEUX – CALME – VUE DÉGAGÉE\n\nEfficity, l'agence qui estime votre bien en ligne, vous propose cet appartement de 51 m², actuellement aménagé en deux logements indépendants : un studio et un deux-pièces.\n\nSitué dans une résidence contemporaine bien entretenue et sécurisée 24h/24 et 7j/7, avec gardien et ascenseurs, ce bien bénéficie d'une exposition sud-ouest.\n\nLe studio comprend une pièce principale, une kitchenette et une salle de bains avec WC. Le deux-pièces se compose d'un séjour, d'une chambre, d'une cuisine et d'une salle de bains avec WC.\n\nL'ensemble offre plusieurs possibilités : conserver les deux logements indépendants ou les réunir afin de créer un appartement familial de trois pièces.\n\nUne cave ainsi qu'un box fermé complè"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3261856343",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "21",
+      "nb_floors_building": "29",
+      "building_year": "1975",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "6000",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3223539043",
+    "metadata": {
+      "id": "leboncoin-3223539043",
+      "creationDate": "2026-05-26 16:19:28"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83224,
+        "lng": 2.30536
+      }
+    },
+    "hardFacts": {
+      "title": "Studio 1 pièce 32 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "32 m²",
+          "splitValue": "32",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/8",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "280 000 €",
+        "formatted": "280 000 €",
+        "additionalInformation": "8 750 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Studio 1 pièce 32 m²\n\nAu sein d'une copropriété bien entretenue, l'agence Ariana Immobilier vous propose ce charmant grand studio au fort potentiel d'aménagement.\nDès l'entrée, vous découvrirez une cuisine indépendante entièrement équipée, avec la possibilité de créer une cuisine ouverte sur le séjour. Le séjour lumineux se prolonge par un agréable balcon, idéal pour vos moments de détente.\nGrâce à une configuration avec peu de murs porteurs, ce bien offre de nombreuses possibilités d'aménagement, permettant d'optimiser les volumes selon vos besoins (espace nuit, bureau, etc.). Une salle de bains avec WC complète l'ensemble.\nUne cave sécurisée par porte blindée vient parfaire ce bien, offrant un espace de rangement supplémentaire très appréciable.\nEn complément, deux places de stationnemen"
+    },
+    "energyClass": "E",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3223539043",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "1",
+      "nb_floors_building": "8",
+      "building_year": "1971",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3261816548",
+    "metadata": {
+      "id": "leboncoin-3261816548",
+      "creationDate": "2026-09-02 20:23:08"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83467,
+        "lng": 2.29595
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement haussmannien 2P Convention",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 990 €",
+        "formatted": "299 990 €",
+        "additionalInformation": "8 571 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "METRO CONVENTION 2P CHARME DE L'ANCIEN\nÀ deux pas du métro Convention et au cœur d'un quartier très recherché avec de nombreux commerces et services mais très calme, découvrez ce charmant appartement haussmannien de 35,36 m² (loi Carrez), vendu entièrement meublé, situé au 3ème étage d’une copropriété de 6 étages sans ascenseur d'un immeuble de caractère.\n \nLa copropriété vient de bénéficier d'un ravalement de façade tout récent, un véritable atout pour la valorisation du bien et la qualité de l'immeuble.\nTraversant Est-Ouest-Sud, l'appartement est très lumineux et bénéficie d'un plan optimisé sans perte de place.\nEn excellent état, aucuns travaux n'est à prévoir : vous n'avez plus qu'à poser vos valises.\n \nLe bien conserve tout le charme de l'ancien avec parquet d'origine et deux cheminée"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3261816548",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1500",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3261766051",
+    "metadata": {
+      "id": "leboncoin-3261766051",
+      "creationDate": "2026-09-02 18:58:30"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Tolbiac"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.821507,
+        "lng": 2.3549237
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 40 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/6",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "360 000 €",
+        "formatted": "360 000 €",
+        "additionalInformation": "9 000 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement À Vendre\n\nRARE - BUTTES AUX CAILLES / POTERNE DES PEUPLIERS - CHARME DE L'ANCIEN - L'immobilier sur Mesure vous propose ce bel appartement 2 pièces de 40m2 carez situé au 5e étage sans ascenseur d'une belle résidence ancienne de standing entièrement rénovée (Ravalement avec isolation, rénovation énergétique ..). Calme, il se compose d'une entrée, séjour, cuisine séparée, grande chambre, salle de bain, WC séparé. Cave. Box possible en SUS pour 30 000€.\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr\nRéférence agence : 0000\nRéférence annonce : J609-27B-DDU\nDate de réalisation du diagnostic : 09/07/2026\nPrix hors honoraires : 346 000 €\n\nMontant estimé des dépenses annuelles d'énergie pour un usage standa"
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3261766051",
+    "extra": {
+      "elevator": null,
+      "floor_number": "5",
+      "nb_floors_building": "6",
+      "building_year": null,
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3261764034",
+    "metadata": {
+      "id": "leboncoin-3261764034",
+      "creationDate": "2026-09-02 18:55:43"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Triangle de Choisy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82338,
+        "lng": 2.36252
+      }
+    },
+    "hardFacts": {
+      "title": "Écrin citadin 13e",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "30 m²",
+          "splitValue": "30",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "260 000 €",
+        "formatted": "260 000 €",
+        "additionalInformation": "8 667 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Au cœur du quartier chinois du 13ᵉ arrondissement de Paris, venez découvrir ce charmant 2 pièces de 30 m², situé dans une résidence particulièrement agréable où il fait bon vivre.\n\nDès votre arrivée, vous serez séduit par la magnifique cour intérieure, fleurie et soigneusement entretenue, véritable havre de paix au cœur de Paris. La résidence bénéficie d’un environnement chaleureux grâce à l’implication du gardien, du conseil syndical et du syndic, qui veillent au quotidien à la qualité de vie des copropriétaires.\n\nLes principaux travaux de copropriété ont déjà été réalisés, ce qui permet d’envisager l’avenir avec sérénité.\n\nL’appartement\n\nL’appartement comprend :\n\n* une pièce de vie avec cuisine ouverte,\n* une chambre indépendante,\n* une salle d’eau avec WC.\n\nIl est vendu entièrement meub"
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3261764034",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": null,
+      "heating_type": "communal",
+      "heating_mode": null,
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3261719187",
+    "metadata": {
+      "id": "leboncoin-3261719187",
+      "creationDate": "2026-09-02 17:56:13"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Porte de Montmartre"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.898037,
+        "lng": 2.3306649
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 47 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "47 m²",
+          "splitValue": "47",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/6",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "345 000 €",
+        "formatted": "345 000 €",
+        "additionalInformation": "7 340 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement À Vendre\n\nRUE JEAN DOLLFUS, découvrez ce 2 pièces de 48 m² baigné de lumière, situé dans un immeuble semi-récent bien entretenu, à proximité immédiate des commerces et des transports.\n\nVéritable cocon parisien, cet appartement offre un cadre agréable et un beau potentiel d'aménagement. Grâce à ses nombreuses cloisons, sa configuration permet d'imaginer différentes possibilités de réorganisation des espaces et de créer un intérieur adapté à vos envies et à votre mode de vie.\n\nIl se compose actuellement d'une entrée, d'un séjour avec deux portes-fenêtres, d'une cuisine dinatoire pouvant être ouverte sur le séjour, d'une chambre au calme donnant sur une rue peu passante, d'une salle de bains et de WC séparés.\n\nVous apprécierez sa luminosité, son environnement paisible et les possi"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3261719187",
+    "extra": {
+      "elevator": null,
+      "floor_number": "1",
+      "nb_floors_building": "6",
+      "building_year": null,
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "3136",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag750983-547889630",
+    "metadata": {
+      "id": "bienici-ag750983-547889630",
+      "creationDate": "2026-09-02T13:42:21.768Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Bièvre Sud - Tolbiac"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82392468150043,
+        "lng": 2.342225211391892
+      }
+    },
+    "hardFacts": {
+      "title": "Parc Montsouris / TOLBIAC / AMIRAL MOUCHEZ",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "44 m²",
+          "splitValue": "44",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/8",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "395 000 €",
+        "formatted": "395 000 €",
+        "additionalInformation": "8 977 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "A deux pas du PARC MONTSOURIS - Amiral Mouchez / Tolbiac - Dans un immeuble ancien avec gardien interphone digicode, au 1er étage par ascenseur, un appartement 3 pièces de 44,17m² comprenant: une entrée, un séjour 16m2 avec cuisine ouverte neuve, deux chambres \"11m2 et 10m2\", une salle de douche avec toilettes - Beau sol parquet et charme de l'ancien - Sans perte de place, lumineux, exposition Sud et ouest - Chauffage collectif et eau chaude individuelle - Proche du marché et des commerçants - visite virtuel"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.bienici.com/annonce/vente/paris-13e/appartement/3pieces/ag750983-547889630",
+    "extra": {
+      "elevator": true,
+      "floor_number": 1,
+      "nb_floors_building": 8,
+      "has_cellar": null,
+      "exposition": "ouest",
+      "annual_charges": 2400,
+      "condo_lots": 120,
+      "heating": "collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag756444-547918556",
+    "metadata": {
+      "id": "bienici-ag756444-547918556",
+      "creationDate": "2026-09-02T16:54:43.812Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Bièvre Sud - Tolbiac"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82232913860092,
+        "lng": 2.3541643769297615
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement À Vendre",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/7",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "360 000 €",
+        "formatted": "360 000 €",
+        "additionalInformation": "9 000 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "RARE - BUTTES AUX CAILLES / POTERNE DES PEUPLIERS - CHARME DE L'ANCIEN - L'immobilier sur Mesure vous propose ce bel appartement 2 pièces de 40m2 carez situé au 5e étage sans ascenseur d'une belle résidence ancienne de standing entièrement rénovée (Ravalement avec isolation, rénovation énergétique ..). Calme, il se compose d'une entrée, séjour, cuisine séparée, grande chambre, salle de bain, WC séparé. Cave. Box possible en SUS pour 30 000€.\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr\nRéférence agence : 0000"
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-13e/appartement/2pieces/ag756444-547918556",
+    "extra": {
+      "elevator": null,
+      "floor_number": 5,
+      "nb_floors_building": 7,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-1690d44b-c648-488c-a71c-4f7738d2c261",
+    "metadata": {
+      "id": "gdc-1690d44b-c648-488c-a71c-4f7738d2c261",
+      "creationDate": 1788367160000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75010",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends t3 - 55.48 m² - Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "55 m²",
+          "splitValue": "55",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "399 000 €",
+        "formatted": "399 000 €",
+        "additionalInformation": "7 255 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-t3-55-dot-48m-paris-d08234d",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "CASAVO",
+      "nb_photos": 18
+    }
   }
 ]
