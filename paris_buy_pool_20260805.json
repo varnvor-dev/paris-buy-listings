@@ -73296,5 +73296,446 @@
       "owner_name": "Nicolas",
       "nb_photos": 4
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3265147617",
+    "metadata": {
+      "id": "leboncoin-3265147617",
+      "creationDate": "2026-09-07 13:03:41"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75010",
+        "district": "Louis Blanc - Aqueduc"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88349,
+        "lng": 2.36608
+      }
+    },
+    "hardFacts": {
+      "title": "Vente PARIS 10",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "36 m²",
+          "splitValue": "36",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/6",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "310 000 €",
+        "formatted": "310 000 €",
+        "additionalInformation": "8 611 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Quartier Saint Vincent de Paul, proche Buttes Chaumont et du Canal Saint Martin, rue de l'Aqueduc, dans un immeuble de 1882 en pierre de taille situé au 2ème étage sans ascenseur, beau studio de 36 m2 Sud-Est comprenant entrée, cuisine, belle pièce principale avec portes fenêtres (double vitrage), donnant sur balcon filant de 8 m, salle de douche WC, parquet, chauffage individuel, cave, faibles charges."
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3265147617",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "2",
+      "nb_floors_building": "6",
+      "building_year": "1882",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "830",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3265120292",
+    "metadata": {
+      "id": "leboncoin-3265120292",
+      "creationDate": "2026-09-07 12:16:30"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75016",
+        "district": "Mirabeau - Molitor - Sainte Perine"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.84604,
+        "lng": 2.2730591
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 57 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "57 m²",
+          "splitValue": "57",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "7/9",
+          "splitValue": "7",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "335 000 €",
+        "formatted": "335 000 €",
+        "additionalInformation": "5 877 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement résidence services Paris 16\n\nRESIDENCE AVEC SERVICES PARIS 16ème, Rue Mirabeau dans une résidence avec services LES HESPERIDES, pour seniors autonomes et valides (sécurité 24h/24, restauration + nombreux autres services) en étage avec double ascenseur, agréable 2 pièces de 56.53 m² : entrée, séjour avec balcon, cuisine aménagée indépendante, une chambre avec placard et accès au balcon, une salle d'eau, WC séparés.  Appartement à raffarichir.\nCompte-tenu des services proposés par la résidence, les charges mensuelles (copropriété et de services) s'élèvent à 1.000 €.\nRésidence seniors PARIS 16ème, très bien située, au pied du métro Mirabeau et à 5 mn à pied de la rue d'Auteuil.\nContacter Antoine LASSOUX au [Coordonnées masquées] ou [Coordonnées masquées]\n\n Les informations sur les"
+    },
+    "energyClass": "D",
+    "ges": "A",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3265120292",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "7",
+      "nb_floors_building": "9",
+      "building_year": null,
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3265071514",
+    "metadata": {
+      "id": "leboncoin-3265071514",
+      "creationDate": "2026-09-07 11:07:48"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Simplon - Poissonniers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.896473,
+        "lng": 2.3551352
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 3 pièces 52 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "52 m²",
+          "splitValue": "52",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/9",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "388 702 €",
+        "formatted": "388 702 €",
+        "additionalInformation": "7 475 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 18 - APPARTEMENT T3 DE 52.5 M² A RENOVER\n\nDans le quartier DES AMIRAUX - SIMPLON, Rue de Clignancourt, au cœur d'une dynamique cosmopolite où il fait bon vivre, plusieurs grands programmes immobiliers traduisent une gentrification en cours.\n\nDans une copropriété de 1961 qui couvre tout un îlot de ce quartier avec 568 lots dont 265 lots principaux.\nCet ensemble constitue une alternative intéressante aux grands immeubles post haussmanniens, certes majestueux et ornementaux mais dont l'agencement est peu optimisé, et aux HBM qui ont fleuri dans le quartier dans les années 30, marqués par la brique rouge, la simplicité, l'économie dans le construit et une architecture hygiéniste.\n\nCette copropriété de quatre bâtiments bénéficie des améliorations des techniques de construction, avec des f"
+    },
+    "energyClass": "F",
+    "ges": "F",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3265071514",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "3",
+      "nb_floors_building": "9",
+      "building_year": "1961",
+      "heating_type": "communal",
+      "heating_mode": null,
+      "annual_charges": "2632",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3265049343",
+    "metadata": {
+      "id": "leboncoin-3265049343",
+      "creationDate": "2026-09-07 10:34:37"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83467,
+        "lng": 2.29595
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement haussmannien 2P Convention",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 990 €",
+        "formatted": "299 990 €",
+        "additionalInformation": "8 571 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "METRO CONVENTION 2P CHARME DE L'ANCIEN\nÀ deux pas du métro Convention et au cœur d'un quartier très recherché avec de nombreux commerces et services mais très calme, découvrez ce charmant appartement haussmannien de 35,36 m² (loi Carrez), vendu entièrement meublé, situé au 3ème étage d’une copropriété de 6 étages sans ascenseur d'un immeuble de caractère.\n \nLa copropriété vient de bénéficier d'un ravalement de façade tout récent, un véritable atout pour la valorisation du bien et la qualité de l'immeuble.\nTraversant Est-Ouest-Sud, l'appartement est très lumineux et bénéficie d'un plan optimisé sans perte de place.\nEn excellent état, aucuns travaux n'est à prévoir : vous n'avez plus qu'à poser vos valises.\n \nLe bien conserve tout le charme de l'ancien avec parquet d'origine et deux cheminée"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3265049343",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1500",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3260042420",
+    "metadata": {
+      "id": "leboncoin-3260042420",
+      "creationDate": "2026-07-13 14:27:43"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Alésia"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82804,
+        "lng": 2.3254406
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 34 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34 m²",
+          "splitValue": "34",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/4",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "280 000 €",
+        "formatted": "280 000 €",
+        "additionalInformation": "8 235 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 34 m²\n\nParis 14e – À 2 min à pied du métro Alésia (L4)\nBIEN LOUÉ Sept 2027, bon rendement.\n\nUn bien clé en main, rénové et déjà loué, pour investir sereinement à Paris !\nCe charmant 2 pièces de 34 m² situé au 1er étage par escalier d’une résidence bien entretenue et sécurisée, a tout pour séduire. Professions libérales autorisées dans la copropriété. L'immeuble donne sur l'avenue du Générale Leclerc.\n\nLes atouts du bien :\nAppartement lumineux, orientation Sud-Est, fonctionnel, bien distribué, il est composé d'un séjour de 16m2 lumineux, d’une chambre, d’une cuisine indépendante et d’une salle d’eau optimisée avec WC équipé d'un sanibroyeur.\n\nEmplacement :\nA quelques pas de la station Alésia (ligne 4) et proche du RER B Denfert-Rochereau, facilitant les déplacements dan"
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3260042420",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "4",
+      "building_year": "1930",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1437",
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-guy-hoquet-immo-facile-7706590",
+    "metadata": {
+      "id": "bienici-guy-hoquet-immo-facile-7706590",
+      "creationDate": "2026-09-07T09:51:26.090Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Olympiades - Choisy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.826079943909335,
+        "lng": 2.364070870460221
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces - Paris 13",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "55 m²",
+          "splitValue": "55",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "25/33",
+          "splitValue": "25",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "321 000 €",
+        "formatted": "321 000 €",
+        "additionalInformation": "5 786 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Votre agence Guy Hoquet Paris 13 Maison-Blanche vous présente en EXCLUSIVITÉ ce spacieux appartement 2 pièces de 55,5 m², situé au coeur du 13? arrondissement de Paris, au sein de la résidence sécurisée Tour SAPPORO.<br>Bénéficiant d'une belle vue dégagée sur Paris et d'un environnement sans vis-à-vis, cet appartement offre un cadre de vie agréable et fonctionnel.<br>Idéalement situé, vous profitez d'un accès immédiat à de nombreuses commodités : restaurants, centre commercial, hypermarché et commerces de proximité. Les transports sont également facilement accessibles avec le métro lignes 7 et 14 ainsi que plusieurs lignes de bus.<br>Situé dans une résidence sécurisée avec gardien, l'appartement se compose de :<br>* une entrée,<br>* des WC indépendants,<br>* une cuisine indépendante, avec "
+    },
+    "energyClass": "D",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-13e/appartement/2pieces/guy-hoquet-immo-facile-7706590",
+    "extra": {
+      "elevator": true,
+      "floor_number": 25,
+      "nb_floors_building": 33,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 5000,
+      "condo_lots": 504,
+      "heating": "collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
   }
 ]
