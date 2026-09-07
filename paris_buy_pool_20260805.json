@@ -73076,5 +73076,225 @@
       "owner_name": "Jean-Charles",
       "nb_photos": 9
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3264626587",
+    "metadata": {
+      "id": "leboncoin-3264626587",
+      "creationDate": "2026-09-06 17:27:45"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83467,
+        "lng": 2.29595
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement haussmannien 2P Convention",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 990 €",
+        "formatted": "299 990 €",
+        "additionalInformation": "8 571 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "METRO CONVENTION 2P CHARME DE L'ANCIEN\nÀ deux pas du métro Convention et au cœur d'un quartier très recherché avec de nombreux commerces et services mais très calme, découvrez ce charmant appartement haussmannien de 35,36 m² (loi Carrez), vendu entièrement meublé, situé au 3ème étage d’une copropriété de 6 étages sans ascenseur d'un immeuble de caractère.\n \nLa copropriété vient de bénéficier d'un ravalement de façade tout récent, un véritable atout pour la valorisation du bien et la qualité de l'immeuble.\nTraversant Est-Ouest-Sud, l'appartement est très lumineux et bénéficie d'un plan optimisé sans perte de place.\nEn excellent état, aucuns travaux n'est à prévoir : vous n'avez plus qu'à poser vos valises.\n \nLe bien conserve tout le charme de l'ancien avec parquet d'origine et deux cheminée"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3264626587",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1500",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag754594-548522237",
+    "metadata": {
+      "id": "bienici-ag754594-548522237",
+      "creationDate": "2026-09-06T17:40:34.739Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "La Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.894122771843975,
+        "lng": 2.3597657916572228
+      }
+    },
+    "hardFacts": {
+      "title": "T2",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "43 m²",
+          "splitValue": "43",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/5",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "278 000 €",
+        "formatted": "278 000 €",
+        "additionalInformation": "6 465 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Rue de la Chapelle - 2 PIECES de 43,40 m² Loi Carrez à rénover.\n\nA proximité du métro Marx Dormoy, L'IMMOBILIERE Bernard LACOSTE vous propose cet appartement traversant de 2 pièces comprenant une entrée, un séjour de 14 m², une chambre, une cuisine séparée et une salle d'eau avec wc. Belle hauteur sous plafond. Appartement lumineux offrant une double exposition : Ouest - Est. Beau potentiel avec un plan modulable. Moins de 5 minutes du métro. Venez vite le visiter !!\n\nBien soumis au statut de la copropriété. Nombre de lots : 37. Quote part du budget prévisionnel annuel : 1 318,44 Euros. Honoraires TTC inclus à la charge de l'acquéreur : 4,91 %.\n\nPour toute demande d'informations et organiser une visite, contactez Adrien au <span class=\"importDescriptionDecorator\" data-type=\"phone\">06.66.76"
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/ag754594-548522237",
+    "extra": {
+      "elevator": false,
+      "floor_number": 1,
+      "nb_floors_building": 5,
+      "has_cellar": null,
+      "exposition": "ouest",
+      "annual_charges": 1318.44,
+      "condo_lots": 37,
+      "heating": "électricité individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-a35b65a8-c79f-46a2-b295-1eb4882e53dc",
+    "metadata": {
+      "id": "gdc-a35b65a8-c79f-46a2-b295-1eb4882e53dc",
+      "creationDate": 1771886302000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75010",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends loft - 30m² - Paris 10ème",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "30 m²",
+          "splitValue": "30",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "0/3",
+          "splitValue": "0",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "265 000 €",
+        "formatted": "265 000 €",
+        "additionalInformation": "8 833 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/belle-appartement-paris-10-f18c416",
+    "extra": {
+      "elevator": false,
+      "floor_number": 0,
+      "nb_floors_building": 3,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": false,
+      "owner_name": "Nicolas",
+      "nb_photos": 4
+    }
   }
 ]
