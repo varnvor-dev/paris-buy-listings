@@ -75919,5 +75919,975 @@
       "owner_name": "Laurent",
       "nb_photos": 8
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3266077362",
+    "metadata": {
+      "id": "leboncoin-3266077362",
+      "creationDate": "2026-09-08 21:58:48"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Pasteur"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83995,
+        "lng": 2.3092093
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 45 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "45 m²",
+          "splitValue": "45",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/6",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "395 000 €",
+        "formatted": "395 000 €",
+        "additionalInformation": "8 778 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 15E GARE MONTPARNASSE - 8 MIN METRO L6 ET L12 - 2P - 44,64 M² - CAVE - LOCAL VELOS\n\nExclusivité Laura CUPSA Optimhome ! - PARIS 15E GARE MONTPARNASSE - 8 MIN METRO L6 ET L12 - 2P - 44,64 M² - CAVE - LOCAL VELOS\nSitué dans le 15ᵉ arrondissement, dans le quartier recherché de Necker, à proximité immédiate de la GARE MONTPARNASSE (Lignes 4, 6, 12 et 13), cet appartement bénéficie d'un environnement à la fois vivant et résidentiel. Le secteur vous séduira par son équilibre entre dynamisme parisien et qualité de vie : nombreux commerces de proximité, restaurants, services et espaces verts comme le square Pierre-Adrien Dalpayrat sont accessibles à pied. La rue du Cotentin, calme et bien située, profite d'une excellente desserte en transports avec les stations Pasteur (lignes 6 et 12) et Mo"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3266077362",
+    "extra": {
+      "elevator": null,
+      "floor_number": "4",
+      "nb_floors_building": "6",
+      "building_year": "1935",
+      "heating_type": null,
+      "heating_mode": "gas",
+      "annual_charges": "1492",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3266058786",
+    "metadata": {
+      "id": "leboncoin-3266058786",
+      "creationDate": "2026-09-08 21:17:56"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83467,
+        "lng": 2.29595
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement haussmannien 2P Convention",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 990 €",
+        "formatted": "299 990 €",
+        "additionalInformation": "8 571 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "METRO CONVENTION 2P CHARME DE L'ANCIEN\nÀ deux pas du métro Convention et au cœur d'un quartier très recherché avec de nombreux commerces et services mais très calme, découvrez ce charmant appartement haussmannien de 35,36 m² (loi Carrez), vendu entièrement meublé, situé au 3ème étage d’une copropriété de 6 étages sans ascenseur d'un immeuble de caractère.\n \nLa copropriété vient de bénéficier d'un ravalement de façade tout récent, un véritable atout pour la valorisation du bien et la qualité de l'immeuble.\nTraversant Est-Ouest-Sud, l'appartement est très lumineux et bénéficie d'un plan optimisé sans perte de place.\nEn excellent état, aucuns travaux n'est à prévoir : vous n'avez plus qu'à poser vos valises.\n \nLe bien conserve tout le charme de l'ancien avec parquet d'origine et deux cheminée"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3266058786",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1500",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3266052656",
+    "metadata": {
+      "id": "leboncoin-3266052656",
+      "creationDate": "2026-09-08 21:04:59"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75011",
+        "district": "Oberkampf - Saint-Maur"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.86589,
+        "lng": 2.37867
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 40m2 Paris 11ème",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/4",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "330 000 €",
+        "formatted": "330 000 €",
+        "additionalInformation": "8 250 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Au pied de la Cité du Figuier dans le 11, venez découvrir cet appartement lumineux de 3 pièces d'une superficie de 40m². Situé au calme du premier étage sur cour, il se compose d'une entrée desservant cuisine, séjour et salle d'eau (comprenant le WC). Deux chambres complètent ce bien bénéficiant d'une bonne distribution. l'ensemble est à rénover, idéal pour personnaliser selon vos goûts. Au sein de la copropriété, vous profiterez d'une belle et grande cour arborée dans laquelle se trouve le parking à vélo. De la commerçante rue Oberkampf vous serez proche des lignes de métro 2 et 3. Une cave de 4m² complète ce bien.\n\nVue globale\n\n- Surface totale : 39,2 m2\n- Surface habitable : 39,2 m2\n- Type d'appartement : F3\n- Étage : 1er\n- Nombre de pièces : 3\n- Type de construction : semi-Traditionnel"
+    },
+    "energyClass": "F",
+    "ges": "F",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3266052656",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "4",
+      "building_year": "1940",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "2385",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3266018896",
+    "metadata": {
+      "id": "leboncoin-3266018896",
+      "creationDate": "2026-09-08 19:57:52"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75012",
+        "district": "Bel-Air"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83817,
+        "lng": 2.40171
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 33 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "33 m²",
+          "splitValue": "33",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/6",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "289 000 €",
+        "formatted": "289 000 €",
+        "additionalInformation": "8 758 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces de 33 m² - Lumineux - Métro Michel-Bizot - Rue de Picpus, Paris\n\nHosman vous propose à la vente cet agréable 2 pièces d'une surface de 33 m2 Carrez, situé rue de Picpus à Paris.\n\nProfitez de la visite virtuelle en 3D pour vous projeter dans ce bien !\nSi vous souhaitez le visiter, choisissez le créneau qui vous convient le mieux et planifiez votre visite en toute autonomie, depuis notre site ***\n\nL'appartement est situé au 5eme étage sans ascenseur d'un bel immeuble en brique sécurisé par un gardien.\n\nLe bien se compose :\n- D'un séjour exposé Ouest\n- D'une cuisine séparée\n- D'une chambre spacieuse de 12 m2\n- D'une salle d'eau avec douche\n- D'un WC séparé\n\nUne cave complète ce bien.\n\nLe système de chauffage est individuel et électrique.\n\nLes charges de copropriété s'élèv"
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3266018896",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "5",
+      "nb_floors_building": "6",
+      "building_year": null,
+      "heating_type": "individual",
+      "heating_mode": null,
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3265858111",
+    "metadata": {
+      "id": "leboncoin-3265858111",
+      "creationDate": "2026-09-08 16:13:59"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Flandre - Aubervilliers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88673,
+        "lng": 2.3693
+      }
+    },
+    "hardFacts": {
+      "title": "2 pièces à Paris proche Canal de l'Ourcq (36,3 m2) : lumineux, fonctionnel, nombreux rangements et très bon état",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "36 m²",
+          "splitValue": "36",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/6",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "292 000 €",
+        "formatted": "292 000 €",
+        "additionalInformation": "8 046 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Paris 19e – Bassin de la Villette – 2 pièces lumineux de 36,3 m²\n\nÀ proximité du Bassin de la Villette, du canal de l’Ourcq et du 104, je vends mon appartement de 36,3 m², situé au 4e étage sans ascenseur.\n\nC’est un appartement que j’apprécie particulièrement pour sa luminosité, son côté fonctionnel et ses nombreux rangements. Il est en très bon état général et il n'attends que vos valises. \n\nL’appartement se compose d’une entrée (2,11 m2), d’une cuisine ouverte sur le séjour (17,70), d’une chambre (12,88), d'un WC (1m2) , d'une salle de bain (2,93  m2) et de plusieurs espaces de rangement que ce soit dans l'entrée, dans la chambre ou dans la cuisine. \n\nLes gens apprécient particulièrement la disposition et la pièce de vie, agréable et lumineuse, avec une cuisine ouverte qui permet de prof"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3265858111",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "4",
+      "nb_floors_building": "6",
+      "building_year": "1945",
+      "heating_type": "individual",
+      "heating_mode": "gas",
+      "annual_charges": "1320",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-apimo-87314568",
+    "metadata": {
+      "id": "bienici-apimo-87314568",
+      "creationDate": "2026-09-08T16:53:32.704Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Patay - Masséna"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82505978271078,
+        "lng": 2.3737715974639353
+      }
+    },
+    "hardFacts": {
+      "title": "STUDIO 30m² PARIS XIII°",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "30 m²",
+          "splitValue": "30",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/11",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "253 000 €",
+        "formatted": "253 000 €",
+        "additionalInformation": "8 361 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "A proximité du quartier dynamique de la Bibliothèque François Mitterrand (ligne 14 et RER C)et bien desservi, découvrez ce studio situé au 5e étage avec ascenseur, au sein d’un immeuble sécurisé avec gardien.\nL’appartement bénéficie d’une vue dégagée et se compose d’une entrée, de WC séparés, d’une cuisine aménagée, d’un séjour avec placard et d’une salle de bains.\nUne cave en sous-sol complète ce bien.\nUn bien idéal pour un premier achat ou un investissement locatif. À découvrir sans tarder !"
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-13e/appartement/1pieces/apimo-87314568",
+    "extra": {
+      "elevator": true,
+      "floor_number": 5,
+      "nb_floors_building": 11,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1547.88,
+      "condo_lots": 82,
+      "heating": "Convecteur Electrique Individuel",
+      "work_to_do": true,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag912720-548909516",
+    "metadata": {
+      "id": "bienici-ag912720-548909516",
+      "creationDate": "2026-09-09T05:25:15.625Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Alleray - Procession"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83520293415205,
+        "lng": 2.304537754184361
+      }
+    },
+    "hardFacts": {
+      "title": "Paris 15ème - Quartier St Lambert - Appartement 2 pieces 46m2 avec terrasse - 8eme etage - calme et lumineux",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "46 m²",
+          "splitValue": "46",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "8",
+          "splitValue": "8",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "370 000 €",
+        "formatted": "370 000 €",
+        "additionalInformation": "8 043 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Paris 15ème - Quartier St Lambert - Appartement 2 pieces 46m2 avec terrasse - 8eme etage - calme et lumineux\n\nÀ VENDRE EN EXCLUSIVITÉ\n\nAu 8ème étage d'une résidence récente de bon standing, avec ascenseur, cet appartement de 46 m² bénéficie d'un environnement calme, sans vis-à-vis, ainsi que de grandes baies vitrées offrant une belle luminosité et une agréable sensation d'espace.\n\nLe séjour ainsi que la chambre s'ouvrent sur une terrasse avec une vue dégagée.\n\nL'appartement se compose de :\n\nUne entrée ;\nUne cuisine indépendante aménagée et équipée ;\nUn séjour lumineux ;\nUne chambre ;\nUne salle de bains ;\nDes toilettes séparées.\nUne cave complète ce bien. Il est également possible d'acquérir une place de parking au sein de l'immeuble.\n\nLa RÉSIDENCE ARCADIE propose un cadre de vie confortabl"
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-15e/appartement/2pieces/ag912720-548909516",
+    "extra": {
+      "elevator": true,
+      "floor_number": 8,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61480492",
+    "metadata": {
+      "id": "bienici-immo-facile-61480492",
+      "creationDate": "2026-09-08T17:56:48.217Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75012",
+        "district": "Jardin de Reuilly"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.839982191348206,
+        "lng": 2.3942909870537727
+      }
+    },
+    "hardFacts": {
+      "title": "À VENDRE - Appartement 2/3 pièces de 39,02 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "39 m²",
+          "splitValue": "39",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/6",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "340 000 €",
+        "formatted": "340 000 €",
+        "additionalInformation": "8 713 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "SAMCOGER vous propose dans une copropriété bien entretenue, agréable appartement de 39,02 m² situé au 1er étage avec ascenseur, à proximité immédiate du métro Daumesnil. Fonctionnel et lumineux, il se compose d'une entrée, de deux pièces principales, d'une petite pièce annexe pouvant faire office de bureau, de dressing ou d'espace de rangement, d'une cuisine aménagée et équipée, d'une salle d'eau avec douche et lavabo, ainsi que de WC séparés. Une cave complète ce bien et offre un espace de stockage supplémentaire. <br>Chauffage individuel électrique et eau chaude par ballon. <br>Charges annuelles de copropriété : 1 189 €. <br>Taxe foncière : 770 €. <br>Idéal pour une résidence principale, un pied-à-terre ou un investissement locatif. À découvrir sans tarder ! (6.25 % d'honoraires TTC à la"
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-12e/appartement/2pieces/immo-facile-61480492",
+    "extra": {
+      "elevator": true,
+      "floor_number": 1,
+      "nb_floors_building": 6,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 1189.16,
+      "condo_lots": 35,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52913413",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52913413",
+      "creationDate": "2026-09-08T15:04:30.675Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Pernety"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.833586357422234,
+        "lng": 2.3155280243945238
+      }
+    },
+    "hardFacts": {
+      "title": "Paris 14e ? Pernety - Charmant 3 pièces de 46 m² au coeur du quartier",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "46 m²",
+          "splitValue": "46",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/4",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "400 000 €",
+        "formatted": "400 000 €",
+        "additionalInformation": "8 696 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Au coeur du quartier prisé de Pernety, découvrez cet appartement de 46 m² situé au 1er étage sur cour intérieure, offrant un cadre paisible et agréable, à l'abri de l'agitation parisienne.<br>Doté d'un beau potentiel d'aménagement, cet appartement offre une configuration modulable qui saura s'adapter à vos envies et à votre mode de vie. Son plan permet notamment d'imaginer une belle pièce de vie avec cuisine ouverte, pour créer un espace à la fois convivial, moderne et lumineux.<br>Selon vos besoins, le bien peut être aménagé en 2 ou 3 pièces, avec la possibilité de créer une chambre supplémentaire, un bureau, un atelier ou encore un espace dédié au télétravail.<br>Un appartement plein de potentiel, idéal pour un premier achat, un pied-à-terre ou un projet de rénovation sur mesure.<br>Vous"
+    },
+    "energyClass": "G",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-14e/appartement/3pieces/laforet-immo-facile-52913413",
+    "extra": {
+      "elevator": false,
+      "floor_number": 1,
+      "nb_floors_building": 4,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1760,
+      "condo_lots": 56,
+      "heating": "individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag753296-548858720",
+    "metadata": {
+      "id": "bienici-ag753296-548858720",
+      "creationDate": "2026-09-08T17:56:12.403Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75012",
+        "district": "Bel-Air - Sud"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83816,
+        "lng": 2.401709
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces de 33 m² - Lumineux - Métro Michel-Bizot - Rue de Picpus, Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "33 m²",
+          "splitValue": "33",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/7",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "289 000 €",
+        "formatted": "289 000 €",
+        "additionalInformation": "8 758 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Hosman vous propose à la vente cet agréable 2 pièces d'une surface de 33 m2 Carrez, situé rue de Picpus à Paris.\n\nProfitez de la visite virtuelle en 3D pour vous projeter dans ce bien !\nSi vous souhaitez le visiter, choisissez le créneau qui vous convient le mieux et planifiez votre visite en toute autonomie, depuis notre site hosman.co\n\nL'appartement est situé au 5eme étage sans ascenseur d'un bel immeuble en brique sécurisé par un gardien.\n\nLe bien se compose :\n- D'un séjour exposé Ouest\n- D'une cuisine séparée\n- D'une chambre spacieuse de 12 m2\n- D'une salle d'eau avec douche\n- D'un WC séparé\n\nUne cave complète ce bien.\n\nLe système de chauffage est individuel et électrique.\n\nLes charges de copropriété s'élèvent à 350 € par trimestre.\nLa taxe foncière est de 700 €.\n\nBien idéalement situé"
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-12e/appartement/2pieces/ag753296-548858720",
+    "extra": {
+      "elevator": false,
+      "floor_number": 5,
+      "nb_floors_building": 7,
+      "has_cellar": false,
+      "exposition": "ouest",
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag060811-548867147",
+    "metadata": {
+      "id": "bienici-ag060811-548867147",
+      "creationDate": "2026-09-08T20:07:23.759Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Pasteur - Montparnasse"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83838333646965,
+        "lng": 2.31334783329336
+      }
+    },
+    "hardFacts": {
+      "title": "PARIS 15E GARE MONTPARNASSE - 8 MIN METRO L6 ET L12 - 2P - 44,64 M² - CAVE - LOCAL VELOS",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "45 m²",
+          "splitValue": "45",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/7",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "395 000 €",
+        "formatted": "395 000 €",
+        "additionalInformation": "8 778 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Exclusivité Laura CUPSA Optimhome ! - PARIS 15E GARE MONTPARNASSE - 8 MIN METRO L6 ET L12 - 2P - 44,64 M² - CAVE - LOCAL VELOS\nSitué dans le 15ᵉ arrondissement, dans le quartier recherché de Necker, à proximité immédiate de la GARE MONTPARNASSE (Lignes 4, 6, 12 et 13), cet appartement bénéficie d'un environnement à la fois vivant et résidentiel. Le secteur vous séduira par son équilibre entre dynamisme parisien et qualité de vie : nombreux commerces de proximité, restaurants, services et espaces verts comme le square Pierre-Adrien Dalpayrat sont accessibles à pied. La rue du Cotentin, calme et bien située, profite d'une excellente desserte en transports avec les stations Pasteur (lignes 6 et 12) et Montparnasse-Bienvenüe à quelques minutes, ainsi que de nombreuses lignes de bus, facilitant"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.bienici.com/annonce/vente/paris-15e/appartement/2pieces/ag060811-548867147",
+    "extra": {
+      "elevator": null,
+      "floor_number": 4,
+      "nb_floors_building": 7,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 1491.72,
+      "condo_lots": 27,
+      "heating": "gaz",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-da157373-20f3-4ecb-a29b-0d56e02bcf3b",
+    "metadata": {
+      "id": "gdc-da157373-20f3-4ecb-a29b-0d56e02bcf3b",
+      "creationDate": 1788887633000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75016",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Paris XVI eme Sud - Appartement avec terrasse ",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/6",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "349 000 €",
+        "formatted": "349 000 €",
+        "additionalInformation": "8 725 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/paris-xvi-eme-sud-appartement-avec-terrasse-5de9051",
+    "extra": {
+      "elevator": true,
+      "floor_number": 4,
+      "nb_floors_building": 6,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": true,
+      "exposition": "west",
+      "is_pro": true,
+      "owner_name": "Sandrine",
+      "nb_photos": 17
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-300977c2-a473-4d28-bea0-9786b15a6475",
+    "metadata": {
+      "id": "gdc-300977c2-a473-4d28-bea0-9786b15a6475",
+      "creationDate": 1774620825000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends appartement - 34m² - Paris 19ème",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34 m²",
+          "splitValue": "34",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/6",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "263 000 €",
+        "formatted": "263 000 €",
+        "additionalInformation": "7 735 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-appartement-2-pieces-19eme-paris-34m-4eme-etage-5f0472f",
+    "extra": {
+      "elevator": null,
+      "floor_number": 4,
+      "nb_floors_building": 6,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "north,east",
+      "is_pro": true,
+      "owner_name": "Benjamine",
+      "nb_photos": 9
+    }
   }
 ]
