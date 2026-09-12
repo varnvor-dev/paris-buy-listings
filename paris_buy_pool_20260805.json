@@ -81987,5 +81987,452 @@
       "price_decreased": false,
       "is_pro": true
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3268172873",
+    "metadata": {
+      "id": "leboncoin-3268172873",
+      "creationDate": "2026-09-12 14:31:02"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Porte de Montreuil"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.852985,
+        "lng": 2.415441
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 35 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "11 chambres",
+          "splitValue": "11",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/3",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "315 000 €",
+        "formatted": "315 000 €",
+        "additionalInformation": "9 000 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces à Paris (75020)\n\nLT IMMOBILIER vous propose une exclusivité :\n\n Appartement 2 pièces avec bon agencement - Rue des Rasselins, Paris 20e\n\nIdéalement situé au 1er étage d'un immeuble en brique de 3 étages (sans ascenseur), ce charmant appartement de 35 m² vous attend dans un secteur calme et bien desservi de la rue des Rasselins, entre la rue d'Avron et la rue des Orteaux, dans le 20e arrondissement de Paris.\nMétro Porte de Montreuil (ligne 9) à 2-4 min, bus et tramway T3B à proximité. Commerces de la rue d'Avron et des Orteaux à deux pas. Belle opportunité pour un premier achat ou un investissement locatif, avec un fort potentiel de valorisation après travaux.\n\nSon agencement est pensé pour optimiser chaque mètre carré : une cuisine indépendante fonctionnelle, une chamb"
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3268172873",
+    "extra": {
+      "elevator": null,
+      "floor_number": "1",
+      "nb_floors_building": "3",
+      "building_year": null,
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3267964328",
+    "metadata": {
+      "id": "leboncoin-3267964328",
+      "creationDate": "2026-09-12 10:01:07"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Secrétan - Jaurès"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.881973,
+        "lng": 2.3746178
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 47 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "47 m²",
+          "splitValue": "47",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/4",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "399 000 €",
+        "formatted": "399 000 €",
+        "additionalInformation": "8 489 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 47 m²\n\nA deux pas du parc des Buttes Chaumont et de la Butte Bergeyre dans le 19e arrondissement de Paris, rue des Chaufourniers, dans un immeuble ancien avec digicodes et gardienne, au 2e étage sur 4 sans ascenseur, Rue du Soleil Immobilier vous propose un appartement 2 pièces de 47 m2 au charme de l'ancien avec poutres apparentes. Cet appartement traversant est composé de : séjour, cuisine, chambre, salle d'eau avec WC. Cet appartement saura vous séduire par sa localisation et son charme. Chauffage individuel électrique. Le + ? Ravalement de façade voté et payé ! Pour visiter, veuillez contacter Pascale Barnier au [Coordonnées masquées].\n\nSurface : 47 m²\n\nA propos de la copropriété :\nPas de procédure en cours\nStatut provisoire du syndicat : Pas de procédure en cours\n"
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3267964328",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "2",
+      "nb_floors_building": "4",
+      "building_year": null,
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "2741",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3267287602",
+    "metadata": {
+      "id": "leboncoin-3267287602",
+      "creationDate": "2026-09-11 00:08:28"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Montmartre - Sacré Coeur - Abbesses"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88331,
+        "lng": 2.33459
+      }
+    },
+    "hardFacts": {
+      "title": "Investissez en Guadeloupe",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "32 m²",
+          "splitValue": "32",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/2",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "85 000 €",
+        "formatted": "85 000 €",
+        "additionalInformation": "2 656 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "🌴 INVESTISSEMENT LOCATIF CLÉ EN MAIN – GUADELOUPE 🌴\n\nVente de particulier à particulier, sans intermédiaire, sans banque, \n\nUn bien d'exception au cœur d'un village vacances réputé... et une opportunité rare de devenir propriétaire sans passer par la banque ! 🔑\n\n✅ Entièrement meublé & équipé — prêt à louer dès la signature\n✅ Mobilier déductible des frais notariés 💰\n✅ Fort potentiel locatif touristique 📈\n✅ Vente à terme : un bouquet + mensualités fixes sur 10 ans, zéro banque, zéro dossier de crédit\n\n💶 Prix : 155 000 €\n🏝️ 3 formules possibles selon votre bouquet initial (à partir de 675 €/mois)\n\n📩 Contactez-moi dès maintenant pour plus d'informations"
+    },
+    "energyClass": "N",
+    "ges": "N",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3267287602",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "2",
+      "building_year": null,
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52920629",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52920629",
+      "creationDate": "2026-09-12T11:59:47.247Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "La Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88872450061123,
+        "lng": 2.359614426853235
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement Paris 2 pièce(s) 41.5m2",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "42 m²",
+          "splitValue": "42",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/9",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "255 000 €",
+        "formatted": "255 000 €",
+        "additionalInformation": "6 145 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 18EME - MARX DORMOY<br>Votre agence Laforêt vous propose en exclusivité ce 2 pièces en 1er étage à refaire dans une copropriété des années 70 au métro Marx Dormoy.<br>L'appartement se compose d'une entrée, un séjour de 16.5m², une cuisine, une chambre, une salle de bain, un W.C. séparé et un balcon de 8,5m².<br>Vous serez séduit par le calme, l'ascenseur, le potentiel après travaux et la proximité des transports & commerces.<br>A visiter sans tarder! (8.51 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 40 lots (Pas de procédure en cours).<br>Charges annuelles : 2500.00 euros."
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/laforet-immo-facile-52920629",
+    "extra": {
+      "elevator": true,
+      "floor_number": 1,
+      "nb_floors_building": 9,
+      "has_cellar": false,
+      "exposition": null,
+      "annual_charges": 2500,
+      "condo_lots": 40,
+      "heating": "radiateur collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52920630",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52920630",
+      "creationDate": "2026-09-12T11:59:47.247Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "La Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88772465843827,
+        "lng": 2.358218134231644
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement Paris 2 pièce(s) 38 m2",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/7",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "255 000 €",
+        "formatted": "255 000 €",
+        "additionalInformation": "6 644 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 18 - MARX DORMOY.<br>Situé Cité de la chapelle, venez découvrir ce deux pièces de 38,38m2 carrez à fort potentiel travaux, situé au 4e étage avec ascenseur.<br>Il se compose d'une entrée, un dressing, une cuisine séparée, un séjour, une chambre, une salle d'eau et un wc séparé.<br>Les points forts de cet appartement sont la luminosité, la vue dégagé, le potentiel travaux ,l'ascenseur, et l'immeuble est bien entretenu par un couple de gardiens.<br>Vendu avec une grande cave. (6.25 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 55 lots - dont 54 lots habitation. (Pas de procédure en cours).<br>Charges annuelles : 1460.00 euros."
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/laforet-immo-facile-52920630",
+    "extra": {
+      "elevator": null,
+      "floor_number": 4,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1460,
+      "condo_lots": 55,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52920636",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52920636",
+      "creationDate": "2026-09-12T11:59:47.247Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Barbès - Château Rouge"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88729537272154,
+        "lng": 2.3500089827631885
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement Paris 18eme CALME, 2 pièces 31.15 m2",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "31 m²",
+          "splitValue": "31",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/7",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "279 000 €",
+        "formatted": "279 000 €",
+        "additionalInformation": "8 957 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 18ème - CHATEAU ROUGE<br>Situé sur le boulevard Barbes au quatrième étage au calme sur cour votre agence Laforet vous propose en exclusivité de venir découvrir ce charmant deux pièces.<br>L'appartement se compose d'une entrée, un séjour avec cuisine ouverte, une salle d'eau avec  W.C. et une chambre.<br>Vous serez séduit par le charme de l'ancien, le calme, la présence d'un local vélo, la proximité immédiate des transports et commerces ainsi que le quartier vivant de Chateau rouge.<br>Ideal primo-accédant ou pied à terre, à visiter sans tarder! (5.68 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 67 lots - dont 32 lots habitation. (Pas de procédure en cours).<br>Charges annuelles : 720.00 euros."
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/laforet-immo-facile-52920636",
+    "extra": {
+      "elevator": false,
+      "floor_number": 4,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 720,
+      "condo_lots": 67,
+      "heating": "radiateur électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
   }
 ]
