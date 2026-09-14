@@ -83094,5 +83094,296 @@
       "owner_name": "Stéphanie",
       "nb_photos": 9
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3261370293",
+    "metadata": {
+      "id": "leboncoin-3261370293",
+      "creationDate": "2026-08-17 09:50:51"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Gambetta - Pyrénées"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8643,
+        "lng": 2.40802
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "39 m²",
+          "splitValue": "39",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/3",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "325 000 €",
+        "formatted": "325 000 €",
+        "additionalInformation": "8 333 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Charmant 2 pièces de 39 m² avec cave Paris 20ème\n\nCoup de cœur assuré pour ce bel appartement 2 pièces de 38,97 m² (loi Carrez) situé rue de Bagnolet dans le 20ème arrondissement de Paris. Idéalement placé proche du métro et de toutes commodités.\n\nAu dernier étage d'un immeuble de caractère de 1903, ce bien traversant vous séduira par son charme authentique avec parquets et cheminées d'époque, allié à un agencement optimisé et fonctionnel.\n\nCaractéristiques :\n• 1 séjour lumineux avec cheminée\n• 1 cuisine ouverte équipée (vendue équipée)\n• 1 chambre confortable avec cheminée\n• 1 salle d'eau avec WC intégré\n• 1 cave de 3,4 m²\n• Exposition Nord-Ouest traversant (rue-cour)\n\nPrestations de qualité :\n• Charme de l'ancien préservé avec parquets et cheminées\n• Double vitrage pour un confort acoust"
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3261370293",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "3",
+      "building_year": "1903",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3269016770",
+    "metadata": {
+      "id": "leboncoin-3269016770",
+      "creationDate": "2026-09-13 17:20:26"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83467,
+        "lng": 2.29595
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement haussmannien 2P Convention",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 990 €",
+        "formatted": "299 990 €",
+        "additionalInformation": "8 571 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "METRO CONVENTION 2P CHARME DE L'ANCIEN\nÀ deux pas du métro Convention et au cœur d'un quartier très recherché avec de nombreux commerces et services mais très calme, découvrez ce charmant appartement haussmannien de 35,36 m² (loi Carrez), vendu entièrement meublé, situé au 3ème étage d’une copropriété de 6 étages sans ascenseur d'un immeuble de caractère.\n \nLa copropriété vient de bénéficier d'un ravalement de façade tout récent, un véritable atout pour la valorisation du bien et la qualité de l'immeuble.\nTraversant Est-Ouest-Sud, l'appartement est très lumineux et bénéficie d'un plan optimisé sans perte de place.\nEn excellent état, aucuns travaux n'est à prévoir : vous n'avez plus qu'à poser vos valises.\n \nLe bien conserve tout le charme de l'ancien avec parquet d'origine et deux cheminée"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3269016770",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1500",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3228747287",
+    "metadata": {
+      "id": "leboncoin-3228747287",
+      "creationDate": "2026-08-31 10:10:34"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Barbès - Château Rouge"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.889328,
+        "lng": 2.3502996
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 35 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/5",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "242 700 €",
+        "formatted": "242 700 €",
+        "additionalInformation": "6 934 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 35 m²\n\nDans le quartier recherché de République à Clichy, venez découvrir ce bel appartement 2 pièces de 35m2 dans une rue à sens unique, au calme.\nSitué au rez-de-chaussée, il se compose : d'une entrée desservant un salon de 13m2, une chambre de 13m2, une salle de bain, une cuisine équipée, et des toilettes séparées. Une cave rénovée complète le bien.\n\nL’appartement bénéficie d’une belle hauteur sous plafond, qui apporte une agréable sensation d’espace, ainsi que d’une configuration traversante. La cuisine et la salle de bains ont été rénovées récemment.\n\nChauffage individuel au gaz et ballon d’eau chaude individuel électrique.\n\nA proximité immédiate de l'ensemble des commerces de la place de la république (boulangerie, pharmacie, librairie, restaurants, supermarchés,"
+    },
+    "energyClass": "G",
+    "ges": "F",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3228747287",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "5",
+      "building_year": "1930",
+      "heating_type": "individual",
+      "heating_mode": "gas",
+      "annual_charges": "917",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-594e6820-7851-4ea8-85ba-10bffad002d5",
+    "metadata": {
+      "id": "gdc-594e6820-7851-4ea8-85ba-10bffad002d5",
+      "creationDate": 1779192861000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends studio - 33.37 m² - 1 pièce, 1 chambre - Paris 14e Arrondissement",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "33 m²",
+          "splitValue": "33",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "265 000 €",
+        "formatted": "265 000 €",
+        "additionalInformation": "8 030 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-studio-33-dot-37m-1-piece-1-chambre-paris-14e-arrondissement-194b1cd",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Immobilier",
+      "nb_photos": 10
+    }
   }
 ]
