@@ -89470,5 +89470,370 @@
       "owner_name": "IMAX Immobilier Levallois-Perret",
       "nb_photos": 1
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3271353694",
+    "metadata": {
+      "id": "leboncoin-3271353694",
+      "creationDate": "2026-09-09 15:03:14"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.893116,
+        "lng": 2.3436582
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 39 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "39 m²",
+          "splitValue": "39",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/4",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "320 000 €",
+        "formatted": "320 000 €",
+        "additionalInformation": "8 205 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement T2 de 39 m² à Paris 75018, Rue d'Aubervilliers\n\nPour toute question ou demande d'information, pensez à noter et nous communiquer le numéro de référence lors de votre appel : 22701\n\nHomki est ravi de vous proposer en exclusivité cet appartement traversant de 38,22 m², situé au 1er étage, au calme et en fond de cour, rue d'Aubervilliers.\n\nRécemment rénové, ce 2 pièces offre un agencement optimisé et de nombreux rangements astucieusement intégrés. Il se compose d'une entrée ouvrant sur une cuisine aménagée et équipée, d'un séjour lumineux, d'une chambre confortable, d'une salle d'eau et de WC séparés.\n\nUn appartement fonctionnel, rénové et au calme, idéal pour un premier achat ou un investissement.\n\n1 cave complète ce bien.\n\nIdéalement situé, l'appartement bénéficie d'un environne"
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3271353694",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "4",
+      "building_year": "1890",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1585",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3271293243",
+    "metadata": {
+      "id": "leboncoin-3271293243",
+      "creationDate": "2026-09-17 12:06:39"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Porte de la Villette"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.882954,
+        "lng": 2.3810883
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 3 pièces 37 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "37 m²",
+          "splitValue": "37",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/4",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "318 000 €",
+        "formatted": "318 000 €",
+        "additionalInformation": "8 595 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement À Vendre\n\nRue de Nantes- L 'agence ORPI vous présente cet appartement situé au 2ème étage d'un immeuble ancien offrant un  cadre de vie agréable et fonctionnel, il comprend: un séjour lumineux, deux chambres, une salle de bain avec wc, une cuisine séparé. Une cave complète ce bien.\nIdéalement situé par la ligne 7,  vous bénéficierai de la proximité des commerces et des restaurants du quartier.\nUne visite s'impose!\nRéférence agence : 0000\nRéférence annonce : 25E6-S8R-9MU\nDate de réalisation du diagnostic : 17/06/2026\nLes honoraires sont à la charge du vendeur\n\nA propos de la copropriété :\nNombre de lots : 19\nCharges prévisionnelles annuelles : 1336.27 €\n\nMontant estimé des dépenses annuelles d'énergie pour un usage standard : entre 1 200 € et 1 660 € sur les années 2021, 2022 et"
+    },
+    "energyClass": "F",
+    "ges": "F",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3271293243",
+    "extra": {
+      "elevator": null,
+      "floor_number": "2",
+      "nb_floors_building": "4",
+      "building_year": null,
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1336",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3271215720",
+    "metadata": {
+      "id": "leboncoin-3271215720",
+      "creationDate": "2026-09-17 10:04:58"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83467,
+        "lng": 2.29595
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement haussmannien 2P Convention",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 990 €",
+        "formatted": "299 990 €",
+        "additionalInformation": "8 571 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "METRO CONVENTION 2P CHARME DE L'ANCIEN\nÀ deux pas du métro Convention et au cœur d'un quartier très recherché avec de nombreux commerces et services mais très calme, découvrez ce charmant appartement haussmannien de 35,36 m² (loi Carrez), vendu entièrement meublé, situé au 3ème étage d’une copropriété de 6 étages sans ascenseur d'un immeuble de caractère.\n \nLa copropriété vient de bénéficier d'un ravalement de façade tout récent, un véritable atout pour la valorisation du bien et la qualité de l'immeuble.\nTraversant Est-Ouest-Sud, l'appartement est très lumineux et bénéficie d'un plan optimisé sans perte de place.\nEn excellent état, aucuns travaux n'est à prévoir : vous n'avez plus qu'à poser vos valises.\n \nLe bien conserve tout le charme de l'ancien avec parquet d'origine et deux cheminée"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3271215720",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1500",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3192620061",
+    "metadata": {
+      "id": "leboncoin-3192620061",
+      "creationDate": "2026-08-25 21:05:25"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75012",
+        "district": "Daumesnil - Coulée Verte"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.840977,
+        "lng": 2.3883147
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 37 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "37 m²",
+          "splitValue": "37",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/6",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "315 000 €",
+        "formatted": "315 000 €",
+        "additionalInformation": "8 514 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces PARIS 12EME ARRONDISSEMENT\n\nAppartement 2 pièces d'une surface de 36,83 m² Carrez, situé au 1er étage avec ascenseur d'un immeuble ancien bien entretenu avec gardienne, Rue du docteur Goujon à Paris 12ème. L'appartement est au calme sur cour, se compose comme suit : - Une entrée, desservant une cuisine séparée entièrement équipée (plaque à induction, four, lave-vaisselle, réfrigérateur et machine à laver) ; - Un séjour de 11,68 m² exposé Ouest sur cour, avec parquet - Une chambre de 11,72 m², également orientée Ouest sur cour, - Une salle d'eau, équipée d'une douche, d'une vasque simple et d'un WC, et dotée d'une fenêtre. Une cave d'environ 2m2 complète le bien. Le chauffage et l'eau chaude sont en collectif avec une chaudière au gaz changée en 2019. Les charges de cop"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3192620061",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "1",
+      "nb_floors_building": "6",
+      "building_year": null,
+      "heating_type": null,
+      "heating_mode": "gas",
+      "annual_charges": "740",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-2a0d53d3-256b-4bd1-8fa4-cfeb15e2b498",
+    "metadata": {
+      "id": "gdc-2a0d53d3-256b-4bd1-8fa4-cfeb15e2b498",
+      "creationDate": 1781881674000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends appartement - 51m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "51 m²",
+          "splitValue": "51",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "398 000 €",
+        "formatted": "398 000 €",
+        "additionalInformation": "7 804 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/appartement-2-pieces-51m-f8aa9d6",
+    "extra": {
+      "elevator": true,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "south,west",
+      "is_pro": true,
+      "owner_name": "Corinne-Leena",
+      "nb_photos": 8
+    }
   }
 ]
