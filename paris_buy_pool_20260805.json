@@ -90892,5 +90892,453 @@
       "price_decreased": false,
       "is_pro": true
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3271982421",
+    "metadata": {
+      "id": "leboncoin-3271982421",
+      "creationDate": "2026-09-18 15:26:55"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75010",
+        "district": "Canal Saint-Martin - Jemmapes"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88058,
+        "lng": 2.36608
+      }
+    },
+    "hardFacts": {
+      "title": "Appart quartier St-Martin Louis blanc",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "30 m²",
+          "splitValue": "30",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/6",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "222 000 €",
+        "formatted": "222 000 €",
+        "additionalInformation": "7 400 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Paris 10e : appartement lumineux au 1er étage, à rafraîchir, faibles charges, commerces et transports à proximité. Vente directe propriétaire, particuliers uniquement, sans professionnels.\nVisites possibles tous les jours jusqu'à 19h\nMerci de préciser vos coordonnées par message, votre projet et le mode de financement."
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3271982421",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "1",
+      "nb_floors_building": "6",
+      "building_year": null,
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": null,
+      "specificities": null,
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3271872528",
+    "metadata": {
+      "id": "leboncoin-3271872528",
+      "creationDate": "2026-09-18 12:21:31"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Barbès - Château Rouge"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89115,
+        "lng": 2.3490644
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 38 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/6",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "291 000 €",
+        "formatted": "291 000 €",
+        "additionalInformation": "7 658 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 38 m²\n\nRue de Suez- Au sein d'une copropriété bien entretenue, découvrez ce charmant deux-pièces de 38 m2 situé au 1er étage.\n Le bien se se compose d'une entrée, dun séjour, d'une chambre, d'une cuisne séparée, d'une salle de bain ainsi que de WC séparés.\n L'appartement est dans un état correct et nécessite quelques rafraichissements afin de le moderniser et de le remettre au gout du jour.\n Une cave compléte ce bien.\n Un bien ideal pour un premier achat ou un investissement locatif.\n\nSurface : 38 m²\n\nA propos de la copropriété :\nPas de procédure en cours\nNombre de lots : 25\nDate de réalisation du diagnostic énergétique : 12/08/2026\n\nConsommation énergie primaire : 267 kWh/m²/an\nConsommation énergie finale : 140 kWh/m²/an\n\nMontant estimé des dépenses annuelles d'énergi"
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3271872528",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "6",
+      "building_year": "1873",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1174",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3271801396",
+    "metadata": {
+      "id": "leboncoin-3271801396",
+      "creationDate": "2026-09-18 10:31:17"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Saint-Blaise"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.85264,
+        "lng": 2.40676
+      }
+    },
+    "hardFacts": {
+      "title": "2 PIÈCES 39 m² - ASCENSEUR - MÉTRO MARAÎCHERS (L.9)",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "39 m²",
+          "splitValue": "39",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/8",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "285 000 €",
+        "formatted": "285 000 €",
+        "additionalInformation": "7 308 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "À proximité immédiate du métro Maraîchers et à moins de 10 minutes de la place de Nation, découvrez ce charmant 2 pièces de 39,03 m² situé au 1er étage avec ascenseur, au cœur d'un quartier vivant et parfaitement desservi. \nIl se compose d'une agréable pièce de vie avec cuisine ouverte moderne, entièrement aménagée et équipée, avec îlot central, d'une chambre de plus de 11 m² avec dressing, d'une salle de bains avec emplacement pour lave-linge et de WC séparés. \n\nVous apprécierez sa distribution fonctionnelle, sa belle surface, sa cuisine conviviale ainsi que son emplacement privilégié à proximité des commerces et des transports. \n\nUne cave bétonnée, saine et facilement accessible en sous-sol complète ce bien. \n\nL'appartement offre également la possibilité d'être rafraîchi et personnalisé "
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3271801396",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "1",
+      "nb_floors_building": "8",
+      "building_year": "1960",
+      "heating_type": "communal",
+      "heating_mode": "fuel",
+      "annual_charges": "2772",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3271786352",
+    "metadata": {
+      "id": "leboncoin-3271786352",
+      "creationDate": "2026-09-18 10:06:21"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83467,
+        "lng": 2.29595
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement haussmannien 2P Convention",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 990 €",
+        "formatted": "299 990 €",
+        "additionalInformation": "8 571 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "METRO CONVENTION 2P CHARME DE L'ANCIEN\nÀ deux pas du métro Convention et au cœur d'un quartier très recherché avec de nombreux commerces et services mais très calme, découvrez ce charmant appartement haussmannien de 35,36 m² (loi Carrez), vendu entièrement meublé, situé au 3ème étage d’une copropriété de 6 étages sans ascenseur d'un immeuble de caractère.\n \nLa copropriété vient de bénéficier d'un ravalement de façade tout récent, un véritable atout pour la valorisation du bien et la qualité de l'immeuble.\nTraversant Est-Ouest-Sud, l'appartement est très lumineux et bénéficie d'un plan optimisé sans perte de place.\nEn excellent état, aucuns travaux n'est à prévoir : vous n'avez plus qu'à poser vos valises.\n \nLe bien conserve tout le charme de l'ancien avec parquet d'origine et deux cheminée"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3271786352",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1500",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag752202-518295056",
+    "metadata": {
+      "id": "bienici-ag752202-518295056",
+      "creationDate": null
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Bibliothèque - Dunois - Jeanne d'Arc"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82933094964677,
+        "lng": 2.3664052891216323
+      }
+    },
+    "hardFacts": {
+      "title": "2 Studios en Un appartement",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/7",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "340 000 €",
+        "formatted": "340 000 €",
+        "additionalInformation": "8 500 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Dans un Immeuble ancien, Quartier Jeanne d'arc, au 2ème étage avec ascenseur, Un Appartement divisé en Deux Studios, l'un de 15m2 avec pièce principale, coin cuisine et salle d'eau; Le second studio de 25m2 avec sa cuisine, sa salle d'eau, pièce principale avec coin nuit. Chaque studio a ses propres compteurs et tableau électrique."
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-13e/appartement/2pieces/ag752202-518295056",
+    "extra": {
+      "elevator": true,
+      "floor_number": 2,
+      "nb_floors_building": 7,
+      "has_cellar": false,
+      "exposition": null,
+      "annual_charges": 2460,
+      "condo_lots": 36,
+      "heating": "électricité individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-b58b408d-15f4-4206-bae3-f412c662f6c1",
+    "metadata": {
+      "id": "gdc-b58b408d-15f4-4206-bae3-f412c662f6c1",
+      "creationDate": 1789737482000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "APPARTEMENT- 2 PIÈCES - PROCHE J.",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/5",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "314 000 €",
+        "formatted": "314 000 €",
+        "additionalInformation": "8 971 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/appartement-2-pieces-proche-jules-joffrin-2e062c7",
+    "extra": {
+      "elevator": null,
+      "floor_number": 2,
+      "nb_floors_building": 5,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "east,west",
+      "is_pro": true,
+      "owner_name": "Moriss",
+      "nb_photos": 12
+    }
   }
 ]
