@@ -92095,5 +92095,79 @@
       "price_decreased": false,
       "is_pro": true
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3272363018",
+    "metadata": {
+      "id": "leboncoin-3272363018",
+      "creationDate": "2026-09-19 09:25:55"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89135,
+        "lng": 2.368024
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 46 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "46 m²",
+          "splitValue": "46",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/5",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "370 000 €",
+        "formatted": "370 000 €",
+        "additionalInformation": "8 043 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 46 m²\n\niad France - Stéphanie BASILLE vous propose: Belle opportunité : grand T2 de 46m2 avec Cave – Vendu loué meublé - À deux pas du métro Marx Dormoy et du marché de l'Olive.\n\nVéritable coup de cOEur, entièrement rénové avec soin, situé au 2e étage, il se compose:\n\n- Une belle pièce de vie spacieuse et lumineuse de 29m2 traversant avec la cuisine.\n\n- Une cuisine aménagée et entièrement équipée, ouverte sur le séjour.\n\n- Une chambre au calme côté cour.\n\n- Une salle d'eau et un wc.\n\nUne cave et un cagibi complètent ce bien.\n\nLes atouts qui font la différence :\n\n- Lumineux et traversant\n\n- Entièrement rénové.\n\n- Plan parfaitement distribué, sans perte de place.\n\n- Fenêtre double-vitrage.  \n\n- À deux pas du métro Marx Dormoy et du marché de l'Olive.\n\nIdéalement situé, p"
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3272363018",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "2",
+      "nb_floors_building": "5",
+      "building_year": "1930",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1092",
+      "specificities": null,
+      "owner_type": "pro"
+    }
   }
 ]
