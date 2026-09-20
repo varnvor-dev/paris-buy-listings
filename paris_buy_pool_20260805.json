@@ -92769,5 +92769,228 @@
       "owner_name": "Philippe",
       "nb_photos": 10
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3273159799",
+    "metadata": {
+      "id": "leboncoin-3273159799",
+      "creationDate": "2026-09-20 12:15:46"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83467,
+        "lng": 2.29595
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement haussmannien 2P Convention",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 990 €",
+        "formatted": "299 990 €",
+        "additionalInformation": "8 571 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "METRO CONVENTION 2P CHARME DE L'ANCIEN\nÀ deux pas du métro Convention et au cœur d'un quartier très recherché avec de nombreux commerces et services mais très calme, découvrez ce charmant appartement haussmannien de 35,36 m² (loi Carrez), vendu entièrement meublé, situé au 3ème étage d’une copropriété de 6 étages sans ascenseur d'un immeuble de caractère.\n \nLa copropriété vient de bénéficier d'un ravalement de façade tout récent, un véritable atout pour la valorisation du bien et la qualité de l'immeuble.\nTraversant Est-Ouest-Sud, l'appartement est très lumineux et bénéficie d'un plan optimisé sans perte de place.\nEn excellent état, aucuns travaux n'est à prévoir : vous n'avez plus qu'à poser vos valises.\n \nLe bien conserve tout le charme de l'ancien avec parquet d'origine et deux cheminée"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3273159799",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1500",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3273008825",
+    "metadata": {
+      "id": "leboncoin-3273008825",
+      "creationDate": "2026-09-20 09:15:31"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75012",
+        "district": "Bel-Air"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83981,
+        "lng": 2.40336
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 50 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "50 m²",
+          "splitValue": "50",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/6",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "390 000 €",
+        "formatted": "390 000 €",
+        "additionalInformation": "7 800 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 50 m²\n\nVisite virtuelle disponible !\nCoup de coeur de l'agence ! Rare sur le secteur !\nMagnifique 3 pièces traversant, deux chambres , baigné de lumière et idéalement situé.\nNiché au 6ème et dernier étage (sans ascenseur, et sans projet d'installation dans la copropriété) d'un bel immeuble des années 30 parfaitement entretenu, cet appartement vous séduira par son charme de l'ancien : très beau parquet massif, belle hauteur sous plafond et double vitrage intégral.\nLes atouts de l'appartement :\nLuminosité & Vue : un intérieur traversant bénéficiant d'une belle lumière naturelle tout au long de la journée et d'une vue dégagée.\nAgencement modulable : l'appartement est éventuellement transformable en un beau 2 pièces offrant une grande pièce de vie / séjour de plus de 27 m²"
+    },
+    "energyClass": "G",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3273008825",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "6",
+      "nb_floors_building": "6",
+      "building_year": "1930",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1428",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-f898a1d9-6f20-4e20-8bc7-97ac13213f0f",
+    "metadata": {
+      "id": "gdc-f898a1d9-6f20-4e20-8bc7-97ac13213f0f",
+      "creationDate": 1789116526000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75011",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends appartement charmant et baigné de lumière - 38m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/5",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "340 000 €",
+        "formatted": "340 000 €",
+        "additionalInformation": "8 947 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/charmant-cocon-baigne-de-lumiere-6a11b6e",
+    "extra": {
+      "elevator": null,
+      "floor_number": 4,
+      "nb_floors_building": 5,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "south,east",
+      "is_pro": true,
+      "owner_name": "Joan",
+      "nb_photos": 11
+    }
   }
 ]
