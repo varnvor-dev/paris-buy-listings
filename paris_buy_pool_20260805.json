@@ -102879,5 +102879,301 @@
       "price_decreased": false,
       "is_pro": true
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3277019365",
+    "metadata": {
+      "id": "leboncoin-3277019365",
+      "creationDate": "2026-09-26 15:10:05"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75017",
+        "district": "Porte de Clichy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89214,
+        "lng": 2.31724
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces à rénover Brochant - Parc MLK",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "36 m²",
+          "splitValue": "36",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/5",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "289 000 €",
+        "formatted": "289 000 €",
+        "additionalInformation": "8 028 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement T2 plein de potentiel de 36 m² situé au 2e étage à proximité du métro Brochant et au pied du parc Martin Luther King dans un environnement verdoyant. \n\nIl est situé à toute proximité des commerces. \n\nCet appartement nécessite une rénovation globale. \n\nLa copropriété est très bien entretenu avec les parties communes refaites récemment. \n- Ascenseur\n- Cave\n\nUne belle opportunité pour un projet de rénovation ! Contactez-moi pour plus d'informations ou pour organiser une visite."
+    },
+    "energyClass": "F",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3277019365",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "2",
+      "nb_floors_building": "5",
+      "building_year": null,
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1200",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3269942982",
+    "metadata": {
+      "id": "leboncoin-3269942982",
+      "creationDate": "2026-08-25 11:02:47"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Porte de la Villette"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.893658,
+        "lng": 2.3776596
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 3 pièces 53 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "53 m²",
+          "splitValue": "53",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/6",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "395 000 €",
+        "formatted": "395 000 €",
+        "additionalInformation": "7 453 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 3 pièces 53 m²\n\nSitué dans le 19e arrondissement de Paris, à proximité immédiate du RER E et de la ligne 7, accessibles en quelques minutes à pied, venez découvrir cet appartement de 53 m² entièrement rénové. Idéalement placé, il bénéficie également d'un accès facile au périphérique et de la proximité des commerces et des transports.\nL'appartement se compose d'une entrée, d'un espace cuisine sur la salle à manger, d'un séjour, de deux chambres, ainsi que d'une salle de bain avec WC. Il dispose également d'un dressing offrant un espace de rangement supplémentaire. Bien agencé, l'appartement bénéficie d'une vue dégagée et offre une distribution fonctionnelle des pièces, pour un cadre de vie agréable.\n\nSurface : 53 m²\nDate de réalisation du diagnostic énergétique : 06/03/2026\n\nCon"
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3269942982",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "2",
+      "nb_floors_building": "6",
+      "building_year": null,
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3276907625",
+    "metadata": {
+      "id": "leboncoin-3276907625",
+      "creationDate": "2026-09-26 12:37:31"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Jules Joffrin"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89284,
+        "lng": 2.34744
+      }
+    },
+    "hardFacts": {
+      "title": "Jules Joffrin 2 pièces 39m2 rénové, lumineux, traversant",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "39 m²",
+          "splitValue": "39",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/4",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 000 €",
+        "formatted": "299 000 €",
+        "additionalInformation": "7 667 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "À quelques minutes de Montmartre, charmant 2 pièces de 39 m² (33,30 m² Carrez), entièrement rénové, lumineux et traversant Est-Ouest.\nIl offre une belle hauteur sous plafond de 2,90 m et se compose d’une entrée, d’un séjour avec cuisine ouverte, d’une chambre calme donnant au 1er étage sur cour, d’un espace supplémentaire pouvant être adapté selon les besoins (dressing, chambre d’appoint…), d’une salle d’eau avec grande douche et meuble vasque, et de WC séparés avec emplacement lave linge.\nParquet, beaux volumes et rénovation récente.\nPetite copropriété de 6 lots, sécurisée par visiophone, très bien entretenue et sans travaux à prévoir. Charges maîtrisées.\nPour tout renseignement ou organiser une visite : Victor Giblin – [Coordonnées masquées]"
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3276907625",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "4",
+      "building_year": null,
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "924",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3276851601",
+    "metadata": {
+      "id": "leboncoin-3276851601",
+      "creationDate": "2026-09-26 11:38:53"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Place des fêtes"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87763,
+        "lng": 2.39465
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "49 m²",
+          "splitValue": "49",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "21/26",
+          "splitValue": "21",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "365 000 €",
+        "formatted": "365 000 €",
+        "additionalInformation": "7 524 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "2 pièces bon état, cuisine équipée, fenêtres aluminiums oscillo-battantes, doubles vitrages changés, stores occultants, parquet, exposition sud sans vis à vis, salle de bain avec machine à laver, toilettes indépendantes, 2 grands placards.\nchambre 11m2, salon 18m2\ncave, local vélo, immeuble sécurisé avec gardien, crèche, médecins, kiné, dentiste etc. dans l'immeuble.\nau pieds du métro, bus et nombreux commerces ainsi qu'un beau marché 3 fois par semaine.\nProfessionnels s'abstenir"
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3276851601",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "21",
+      "nb_floors_building": "26",
+      "building_year": "1978",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "4200",
+      "specificities": "",
+      "owner_type": "private"
+    }
   }
 ]
