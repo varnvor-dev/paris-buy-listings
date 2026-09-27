@@ -103175,5 +103175,458 @@
       "specificities": "",
       "owner_type": "private"
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3277189524",
+    "metadata": {
+      "id": "leboncoin-3277189524",
+      "creationDate": "2026-09-26 18:33:00"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Mouzaïa - Danube"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88087,
+        "lng": 2.38811
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement T 2 à quelques pas du parc des Butes-Chaumont + une cave",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "42 m²",
+          "splitValue": "42",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/8",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "355 000 €",
+        "formatted": "355 000 €",
+        "additionalInformation": "8 452 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Découvrez ce charmant deux pièces de 42 m² Loi Carrez, situé à seulement deux pas du parc des Buttes-Chaumont. Ce bien est idéal pour un pied-à-terre ou un investissement locatif. \nSitué au 2ᵉ étage avec ascenseur d'une résidence très calme, sécurisée avec gardien et parfaitement entretenue, il se compose d’une entrée, d’un grand séjour particulièrement lumineux grâce à ses grandes baies vitrées s'ouvrant sur un petit balcon, d’une cuisine séparée, d’une chambre bénéficiant elle aussi de son propre balconnet, d’une salle de bain et de WC séparés. Le chauffage est collectif. \nL’appartement est vendu libre de toute occupation et inclut également une cave. Les charges s'élèvent à environ 200€ par mois, comprenant le chauffage ainsi que l'eau chaude et froide. Un parking peut être venu en supp"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3277189524",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "2",
+      "nb_floors_building": "8",
+      "building_year": null,
+      "heating_type": "communal",
+      "heating_mode": null,
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3277162652",
+    "metadata": {
+      "id": "leboncoin-3277162652",
+      "creationDate": "2026-09-26 18:00:29"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75009",
+        "district": "Rochechouart"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88186,
+        "lng": 2.34708
+      }
+    },
+    "hardFacts": {
+      "title": "À saisir belle appartement loué",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "4 pièces",
+          "splitValue": "4",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "113 m²",
+          "splitValue": "113",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "3 chambres",
+          "splitValue": "3",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/2",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "99 990 €",
+        "formatted": "99 990 €",
+        "additionalInformation": "885 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "BIEN LIRE L ANNONCE SVP\n\nUrgent vend apartement  à Chalons en Champagne\n\n3 chambre\n1 petit bureau\nSalon\nSalle à manger\nCuisine\nSdb\nWc\n\n1h30 de paris en voiture\n45 minute tgv"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3277162652",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "2",
+      "building_year": null,
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1",
+      "specificities": null,
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3277150457",
+    "metadata": {
+      "id": "leboncoin-3277150457",
+      "creationDate": "2026-09-26 17:45:57"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Simplon - Poissonniers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.894096,
+        "lng": 2.3499558
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 44 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "44 m²",
+          "splitValue": "44",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/6",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "384 000 €",
+        "formatted": "384 000 €",
+        "additionalInformation": "8 727 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 44 m²\n\nCustine Immobilier vous propose, au 14 rue des Amiraux, cet appartement de deux pièces situé au deuxième étage avec ascenseur d'une copropriété sécurisée. Au calme et en excellent état général, il offre un cadre de vie agréable, avec un balcon de 9 m² exposé plein sud.\n\nDès l'entrée, vous découvrirez un séjour lumineux, prolongé par le balcon. Cet espace extérieur permet d'installer une table pour prendre ses repas ou de profiter simplement du soleil. L'appartement comprend également une cuisine aménagée et équipée récente, une chambre et des rangements. Des volets roulants électriques complètent ses prestations.\n\nUne place de parking et une cave sont incluses avec le bien : deux espaces supplémentaires appréciables au quotidien.\n\nL'appartement se trouve à proxi"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3277150457",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "2",
+      "nb_floors_building": "6",
+      "building_year": "1970",
+      "heating_type": "communal",
+      "heating_mode": "electric",
+      "annual_charges": "2532",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52898894",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52898894",
+      "creationDate": "2026-09-26T17:50:31.170Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "La Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8881285635269,
+        "lng": 2.3601493524972157
+      }
+    },
+    "hardFacts": {
+      "title": "MARX DORMOY - 3 pièces traversant avec charme de l'ancien et fort potentiel",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "57 m²",
+          "splitValue": "57",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/8",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "399 000 €",
+        "formatted": "399 000 €",
+        "additionalInformation": "7 000 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "À deux pas du métro Marx Dormoy et de tous les commerces de proximité (Monoprix, boulangeries, pâtisseries, boucheries, épiceries...), Laforêt Jules Joffrin vous propose cet appartement de 3 pièces d'environ 55 m², situé au 4ème étage d'une copropriété ancienne bien entretenue.<br>Traversant sur rue et cour, il bénéficie d'une distribution fonctionnelle et d'un beau potentiel d'aménagement. Il se compose d'une entrée confortable de plus d'1 mètre de large avec de grands placards intégrés, d'un séjour avec cuisine, d'une salle de bains, de WC séparés, d'une chambre au calme sur cour et d'une seconde pièce sur rue pouvant faire office de chambre, bureau ou chambre d'enfant.<br>Vous apprécierez le charme de l'ancien, la luminosité liée à l'étage élevé, ainsi que la double exposition qui assur"
+    },
+    "energyClass": "F",
+    "ges": "F",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/3pieces/laforet-immo-facile-52898894",
+    "extra": {
+      "elevator": false,
+      "floor_number": 4,
+      "nb_floors_building": 8,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 1680,
+      "condo_lots": 33,
+      "heating": "radiateur gaz individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61562960",
+    "metadata": {
+      "id": "bienici-immo-facile-61562960",
+      "creationDate": "2026-09-26T18:09:00.324Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Jean Moulin - Porte d'Orléans"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8249844537903,
+        "lng": 2.3294021501727347
+      }
+    },
+    "hardFacts": {
+      "title": "PARIS 14 - ALÉSIA",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "41 m²",
+          "splitValue": "41",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/5",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "313 000 €",
+        "formatted": "313 000 €",
+        "additionalInformation": "7 634 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "L'agence immobilière FREDELION Paris 14 Alésia vous propose, en exclusivité, un appartement à rénover d'une surface de 35m2 Carrez et 53m2 au sol, au sein d'une petite copropriété sans travaux à prévoir (ravalements effectués et toiture déjà votée et payée).<br>Situé au 4eme et DERNIER étage SANS ASCENSEUR, le bien se compose d'une entrée, d'une belle pièce de vie avec 2 fenêtres donnant accès à la mezzanine de 18m2, d'une cuisine indépendante et d'une salle de bains avec WC intégrés.<br>Aucune perte de place et belle hauteur sous plafond. Très beau potentiel de rénovation.<br>A visiter sans tarder! (4.33 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 10 lots (Pas de procédure en cours).<br>Charges annuelles : 1304.00 euros."
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-14e/appartement/2pieces/immo-facile-61562960",
+    "extra": {
+      "elevator": false,
+      "floor_number": 4,
+      "nb_floors_building": 5,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1304,
+      "condo_lots": 10,
+      "heating": "radiateur électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-century-21-202_2571_12864",
+    "metadata": {
+      "id": "bienici-century-21-202_2571_12864",
+      "creationDate": "2026-09-27T00:07:20.613Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Flandre - Aubervilliers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89130330902388,
+        "lng": 2.3775708157031787
+      }
+    },
+    "hardFacts": {
+      "title": "bienici — Paris 19e",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34 m²",
+          "splitValue": "34",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/11",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "260 000 €",
+        "formatted": "260 000 €",
+        "additionalInformation": "7 576 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 19ème, EXCLUSIVITÉ CENTURY 21 FLANDRE / RESIDENCE ARTOIS-FLANDRE / métro CRIMÉE / BASSIN DE LA VILLETTE / SORTIE DU METRO CRIMEE / au 6ème étage en PARFAIT ETAT ! VUE DEGAGÉE  / EXPOSITION SUD-EST  **COUP DE CŒUR** ! <br>Venez découvrir ce BEAU 2 PIECES PARFAITEMENT AGENCÉ sans PERTE d'ESPACE composé d'une ENTRÉE desservant un SÉJOUR et CUISINE parfaitement aménagée, un espace nuit, une SALLE de bain avec WC.<br>RÉNOVÉ avec GOÛT, AUNCUN VIS-A-VIS ET BAIGNÉ DE LUMIERE<br> Vendu avec une CAVE ET PARKING Montant estimé des dépenses annuelles d'énergie pour un usage standard entre 610.0 € et 890.0 € indexées aux années 2021, 2022 (abonnements compris)."
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.bienici.com/annonce/vente/paris-19e/appartement/2pieces/century-21-202_2571_12864",
+    "extra": {
+      "elevator": true,
+      "floor_number": 6,
+      "nb_floors_building": 11,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 2760,
+      "condo_lots": 443,
+      "heating": "Central  Urbain",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
   }
 ]
