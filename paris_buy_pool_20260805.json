@@ -104289,5 +104289,737 @@
       "specificities": "",
       "owner_type": "pro"
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3278393425",
+    "metadata": {
+      "id": "leboncoin-3278393425",
+      "creationDate": "2026-09-28 15:26:27"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Place des fêtes"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87869,
+        "lng": 2.3974166
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 45 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "45 m²",
+          "splitValue": "45",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/4",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "331 654 €",
+        "formatted": "331 654 €",
+        "additionalInformation": "7 370 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 45 m²\n\niad France - Axel Vergnerie vous propose: Paris 19e - Secteur Place des Fêtes / Butte-du-Chapeau-Rouge. Au sein d'un immeuble sur rue avec cour situé 18 rue du Docteur Potain, appartement de type T2 de 45 m² au 1er étage. Il se compose d'un séjour, d'une chambre, d'une salle d'eau et d'un WC. Idéal premier achat ou investissement locatif. Transports à proximité immédiate : métro Pré-Saint-Gervais (ligne 11) à 4 min à pied, Place des Fêtes (lignes 7 bis et 11), tramway T3b et nombreuses lignes de bus. Parc de la Butte-du-Chapeau-Rouge, hôpital Robert-Debré et commerces à deux pas. Copropriété de 46 lots, charges annuelles de 1 532 €. Honoraires à la charge du vendeur.\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 46 lots au total et "
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3278393425",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "4",
+      "building_year": null,
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": "1532",
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3278393413",
+    "metadata": {
+      "id": "leboncoin-3278393413",
+      "creationDate": "2026-09-28 15:26:25"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Place des fêtes"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.878105,
+        "lng": 2.3914459
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 30 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "30 m²",
+          "splitValue": "30",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/4",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "212 544 €",
+        "formatted": "212 544 €",
+        "additionalInformation": "7 085 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 30 m²\n\niad France - Axel Vergnerie vous propose: Paris 19e - Secteur Place des Fêtes / Butte-du-Chapeau-Rouge. Au sein d'un immeuble sur rue avec cour situé 18 rue du Docteur Potain, appartement de type T2 de 30 m² au 1er étage. Il se compose d'un séjour, d'une chambre, d'une salle d'eau et d'un WC. Idéal premier achat ou investissement locatif. Transports à proximité immédiate : métro Pré-Saint-Gervais (ligne 11) à 4 min à pied, Place des Fêtes (lignes 7 bis et 11), tramway T3b et nombreuses lignes de bus. Parc de la Butte-du-Chapeau-Rouge, hôpital Robert-Debré et commerces à deux pas. Copropriété de 46 lots, charges annuelles de 971 €. Honoraires à la charge du vendeur.\n\nLa presente annonce immobiliere vise 2 lots situés dans une copropriété de 46 lots au total et ne"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3278393413",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "4",
+      "building_year": null,
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": "971",
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3278393106",
+    "metadata": {
+      "id": "leboncoin-3278393106",
+      "creationDate": "2026-09-28 15:25:50"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Porte de Versailles"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.831917,
+        "lng": 2.292839
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 35 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/7",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "315 000 €",
+        "formatted": "315 000 €",
+        "additionalInformation": "9 000 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 35 m²\n\niad France - Sabine Doutriaux vous propose: COUP DE COEUR : Ravissant 2 pièces au charme typiquement parisien, au 1er étage /7 avec ascenseur dans un immeuble bourgeois en pierre et brique datant de 1920. \nEntrée, séjour (12,49 m2), chambre (12,27 m2 ), cuisine séparée, salle d'eau, wc séparé.\nCave (4,34m2). \n\nLumineux : exposition sud-est,\nEn bon état,\nParquet, moulures, ferronneries, \nRangements,\nCirculation fluide et naturelle sans perte d'espace, \nFenêtres dans toutes les pièces,\nChauffage collectif,\nImmeuble sécurisé : 2 digicodes, \nFaibles charges,\nParties communes rénovées, \nAscenseur, \n\nProche des transports, de toutes commodités, parcs( Vaugirard, Clos Feuquières, Suzanne Lenglen), espaces verts, écoles prestigieuses  (Assas, Ensaama Olivier de Serres, "
+    },
+    "energyClass": "G",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3278393106",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "1",
+      "nb_floors_building": "7",
+      "building_year": "1920",
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": "1600",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3278330909",
+    "metadata": {
+      "id": "leboncoin-3278330909",
+      "creationDate": "2026-09-28 14:02:49"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Porte de Versailles"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83586,
+        "lng": 2.28903
+      }
+    },
+    "hardFacts": {
+      "title": "Vente appartement avec credit vendeur",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "91 m²",
+          "splitValue": "91",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/2",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "399 €",
+        "formatted": "399 €",
+        "additionalInformation": "4 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Bonjour\nje vous propose un loft de vacance bien sécurisé  au calme \navec une terrasse tropezienne\nUn credit vendeur peut etre evisageable"
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3278330909",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "2",
+      "nb_floors_building": "2",
+      "building_year": "1919",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3278321383",
+    "metadata": {
+      "id": "leboncoin-3278321383",
+      "creationDate": "2026-09-28 13:47:47"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Boucicaut - Félix Faure"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.84017,
+        "lng": 2.292203
+      }
+    },
+    "hardFacts": {
+      "title": "Studio 2 pièces 35 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/7",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "312 000 €",
+        "formatted": "312 000 €",
+        "additionalInformation": "8 914 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 15ème Studio 36 m² Balcon sur Jardin Calme complet\n\nPARIS 15ÈME / VILLA THORETON\nMÉTRO LOURMEL – BALCON 4 M² – CALME ABSOLU SUR JARDIN – ASCENSEUR\n\nÀ proximité immédiate du métro Lourmel, des commerces et des commodités, Orpi L'Agence Félix Faure vous propose en exclusivité ce studio de 31 m², situé en étage avec ascenseur, bénéficiant d'un environnement particulièrement calme avec vue sur jardin.\n\nL'appartement se compose d'une entrée, d'une belle pièce de vie de 22 m² avec alcôve, ouvrant sur un agréable balcon d'environ 4 m², d'une cuisine indépendante pouvant être ouverte sur le séjour, d'un dégagement ainsi que d'une salle de bains avec WC, cave en sous sol.\n\nSa configuration permet d'envisager facilement une cuisine ouverte à l'américaine, afin de créer une pièce de vie encore "
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3278321383",
+    "extra": {
+      "elevator": null,
+      "floor_number": "1",
+      "nb_floors_building": "7",
+      "building_year": null,
+      "heating_type": "communal",
+      "heating_mode": null,
+      "annual_charges": "1992",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3275050158",
+    "metadata": {
+      "id": "leboncoin-3275050158",
+      "creationDate": "2026-08-24 19:33:17"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Pernety"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83549,
+        "lng": 2.3213575
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 35 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "289 000 €",
+        "formatted": "289 000 €",
+        "additionalInformation": "8 257 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement À Vendre\n\nÀ vendre — Élégant 2 pièces de 35 m² à proximité du métro Pernety- IDEAL PRIMO ACCEDANT\n\nÀ quelques pas du métro Pernety, dans une rue particulièrement calme et agréable, découvrez ce charmant 2 pièces de 35 m², situé au 3ᵉ étage SANS ASCENSEUR d'un bel immeuble de 1900, parfaitement entretenu.\n\nUne cave complète ce bien.\n\nL'appartement bénéficie d'un environnement paisible et recherché, avec une agréable vue sur cour, à l'abri de l'agitation parisienne.\n\nIl se compose d'une pièce de vie conviviale avec cuisine ouverte sur le séjour, ainsi que d'un espace nuit.\n\nLe bien a conservé tout le charme de l'ancien, avec notamment une cheminée et de belles moulures, qui lui confèrent une atmosphère élégante et authentique.\n\nL'immeuble est dans un état impeccable, soigneusemen"
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3275050158",
+    "extra": {
+      "elevator": null,
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": null,
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1358",
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3271362524",
+    "metadata": {
+      "id": "leboncoin-3271362524",
+      "creationDate": "2026-08-11 10:14:45"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Saint-Fargeau"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.86834,
+        "lng": 2.4023473
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 1 pièce 31 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "31 m²",
+          "splitValue": "31",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/4",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "265 000 €",
+        "formatted": "265 000 €",
+        "additionalInformation": "8 548 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 1 pièce 31 m²\n\nImmobilier.notaires® et l’office notarial SAS LES NOTAIRES DU TROCADERO vous proposent :\nAppartement à vendre - PARIS 20 (75020)\n- - - - - - - - - - - - - - - - - - - - - -\nSAINT FARGEAU - Appartement avec terrasse\n\nDans le quartier Saint Fargeau, Place de l'adjudant Vincenot, se trouve cet appartement au 3ème étage avec ascenseur, d'une surface de 30,96m2 et d'une terrasse de 5,08m2.\n\nIl se compose d'une entrée desservant une salle d'eau avec toilette, une cuisine séparée, puis un séjour avec un coin chambre (que l'on peut fermer).\nLa copropriété est bien entretenue, l'immeuble date de 1997.\nLes charges annuelles sont de 916€.\n\nExposition EST - Cave - Gardien\n\nCROQUIS EN DERNIERE PHOTO\n- - - - - - - - - - - - - - - - - - - - - -\nVisites : Sur rendez-vous.\nContac"
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3271362524",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "3",
+      "nb_floors_building": "4",
+      "building_year": null,
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": null,
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3278179456",
+    "metadata": {
+      "id": "leboncoin-3278179456",
+      "creationDate": "2026-09-28 10:24:18"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89033,
+        "lng": 2.3675945
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 3 pièces 50 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "50 m²",
+          "splitValue": "50",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/6",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "375 000 €",
+        "formatted": "375 000 €",
+        "additionalInformation": "7 500 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 3 pièces 50 m²\n\niad France - Morgane Poucet vous propose: MARX DORMOY- MARCHE DE L'OLIVE – 2/3 pièces - 50 m² – 6ème et DERNIER étage – SUD-EST\n\nAu 6e et DERNIER étage sans ascenseur d'un immeuble des années 1930, cet appartement de caractère offre calme, une vue dégagée, beaucoup de luminosité grâce à son exposition plein SUD/EST. Aucun  VIS-A-VIS\n\nIl se compose d'une entrée,, d'une cuisine ouverte sur le double séjour, d'une chambre de 10m2 avec un dressing/Debarras attenant de 3m2. S'y ajoutent une salle d'eau avec WC séparés. Le grand séjour de 27m2  peut facilement accueillir une  seconde chambre.\nIl est en bon état. Il dispose d'un chauffage individuel électrique, de la fibre. Copropriété dotée d'un digicode, un interphone et une gardienne. Vendu avec une cave.\n\nContactez"
+    },
+    "energyClass": "G",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3278179456",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "6",
+      "nb_floors_building": "6",
+      "building_year": "1930",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1740",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-iad-france-1031901",
+    "metadata": {
+      "id": "bienici-iad-france-1031901",
+      "creationDate": "2026-09-28T09:55:32.748Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "La Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89191387815679,
+        "lng": 2.3618627715987643
+      }
+    },
+    "hardFacts": {
+      "title": "Vente Appartement 3 pièces",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "50 m²",
+          "splitValue": "50",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/7",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "375 000 €",
+        "formatted": "375 000 €",
+        "additionalInformation": "7 500 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "iad France - Morgane Poucet vous propose: MARX DORMOY- MARCHE DE L'OLIVE – 2/3 pièces - 50 m² – 6ème et DERNIER étage – SUD-EST<br>Au 6e et DERNIER étage sans ascenseur d'un immeuble des années 1930, cet appartement de caractère offre calme, une vue dégagée, beaucoup de luminosité grâce à son exposition plein SUD/EST. Aucun  VIS-A-VIS<br>Il se compose d'une entrée,, d'une cuisine ouverte sur le double séjour, d'une chambre de 10m2 avec un dressing/Debarras attenant de 3m2. S'y ajoutent une salle d'eau avec WC séparés. Le grand séjour de 27m2  peut facilement accueillir une  seconde chambre.<br>Il est en bon état. Il dispose d'un chauffage individuel électrique, de la fibre. Copropriété dotée d'un digicode, un interphone et une gardienne. Vendu avec une cave.<br>Contactez-moi pour organiser"
+    },
+    "energyClass": "G",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/3pieces/iad-france-1031901",
+    "extra": {
+      "elevator": false,
+      "floor_number": 6,
+      "nb_floors_building": 7,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 1740,
+      "condo_lots": 151,
+      "heating": "radiateur électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-7c29fba3-953e-4701-8c3a-ba2fcde34aca",
+    "metadata": {
+      "id": "gdc-7c29fba3-953e-4701-8c3a-ba2fcde34aca",
+      "creationDate": 1790600629000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends t2 - 34 m² - Paris 14ème",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34 m²",
+          "splitValue": "34",
+          "label": "m²"
+        }
+      ],
+      "price": {
+        "value": "299 000 €",
+        "formatted": "299 000 €",
+        "additionalInformation": "8 794 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-t2-37m-paris-14eme-64901f3",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Jérémy",
+      "nb_photos": 6
+    }
   }
 ]
