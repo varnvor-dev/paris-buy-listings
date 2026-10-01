@@ -108483,5 +108483,968 @@
       "owner_name": "Catherine",
       "nb_photos": 8
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3279937743",
+    "metadata": {
+      "id": "leboncoin-3279937743",
+      "creationDate": "2026-10-01 05:33:13"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Simplon - Poissonniers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.891773,
+        "lng": 2.349536
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 42 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "42 m²",
+          "splitValue": "42",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/6",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "300 000 €",
+        "formatted": "300 000 €",
+        "additionalInformation": "7 143 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 42 m²\n\nMETRO SIMPLON - RUE DE CLIGNANCOURT - DERNIER ETAGE\n\nAu sein d'un bel immeuble ancien année 1900, votre agence LEON IMMOBILIER, vous présente EN EXCLUSIVITE, ce 3 pièces de 42 m2 (41,52 M2 LOI CARREZ) situé au 6ème et DERNIER ETAGE.\n\nLumineux traversant avec une exposition SUD, l'appartement se compose : une entrée, un WC séparé, une salle de douches, une cuisine indépendante, un grand séjour avec vue dégagée et PLEIN SUD, deux chambres.\n\nUne cave complète le bien.\n\nCharges de copropriété : 101 euros / mois\nTaxe foncière : 516 euros / an Thibault KERAMOAL (EI) Agent Commercial - Numéro RSAC : 814354734 - NANTERRE.\n\nSurface : 42 m²\n\nA propos de la copropriété :\nPas de procédure en cours\nStatut provisoire du syndicat : Pas de procédure en cours\nNombre de lots : 34"
+    },
+    "energyClass": "G",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3279937743",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "6",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "other",
+      "annual_charges": "1212",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3279936817",
+    "metadata": {
+      "id": "leboncoin-3279936817",
+      "creationDate": "2026-10-01 05:13:34"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75017",
+        "district": "Epinettes"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89673,
+        "lng": 2.3152463
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 3 pièces 60 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "60 m²",
+          "splitValue": "60",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/6",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "399 900 €",
+        "formatted": "399 900 €",
+        "additionalInformation": "6 665 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Paris XVIIe -  3 pièces 2 chambres\n\nParis XVIIe - Au sein d'une résidence sécurisée avec gardien, découvrez ce bel appartement de 3 pièces  de 56 m² situé au 4e étage avec ascenseur, bénéficiant d'une vue dégagée et très lumineux. DPE D.\nL'appartement se compose d'une entrée, d'une cuisine indépendante pouvant s'ouvrir sur un séjour lumineux, de deux chambres, d'une salle de bains ainsi que de WC séparés.\nA proximité des commerces, des transports et de toutes les commodités du quartier des Épinettes.\nUne cave complète ce bien.\nCopropriété de 122 lots - dont 122 lots habitation. (Pas de procédure en cours).\n\nCharges annuelles : 1530  euros.\nRéférence annonce : 13268\nDate de réalisation du diagnostic : 02/06/2026\nLes honoraires sont à la charge du vendeur\n\nA propos de la copropriété :\nPas de"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3279936817",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "4",
+      "nb_floors_building": "6",
+      "building_year": "1964",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "1530",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3279924212",
+    "metadata": {
+      "id": "leboncoin-3279924212",
+      "creationDate": "2026-10-01 02:17:50"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "La Villette - Porte de Pantin"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.893486,
+        "lng": 2.3918238
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 3 pièces 56 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "56 m²",
+          "splitValue": "56",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/12",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "360 000 €",
+        "formatted": "360 000 €",
+        "additionalInformation": "6 429 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 3 pièces 56 m²\n\nParis 19ème, Quai de la Gironde en face du parc de la Villette. Nous vous proposons un appartement 3 pièces au 2ème étage avec ascenseur disposant d'une entrée, un séjour, deux chambres, une salle de bains et WC séparés. Vendu avec une cave. Travaux à prévoir. Exposition Sud-Ouest. Les informations sur les risques auxquels ce bien est exposé sont disponible sur le site Géorisques: www.georisques.gouv.fr (nouv. art. R 125-25 I, C Env.) (nouv. art. R 125-25 I, C Env.). Contact PRIMAS Immobilier [Coordonnées masquées]\n\nSurface : 56 m²\n\nA propos de la copropriété :\nPas de procédure en cours\nNombre de lots : 48\nDate de réalisation du diagnostic énergétique : 10/04/2025\n\nConsommation énergie primaire : 160 kWh/m²/an \nConsommation énergie finale : Non communiqué \n\nLes "
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3279924212",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "2",
+      "nb_floors_building": "12",
+      "building_year": "1960",
+      "heating_type": "communal",
+      "heating_mode": "other",
+      "annual_charges": "3420",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3279822172",
+    "metadata": {
+      "id": "leboncoin-3279822172",
+      "creationDate": "2026-09-30 20:38:59"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Flandre - Aubervilliers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.890915,
+        "lng": 2.3753645
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 40 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/6",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "300 000 €",
+        "formatted": "300 000 €",
+        "additionalInformation": "7 500 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 19ᵉ – T2 DE 37 M² – 1 CHAMBRE – SALLE DE BAINS\n\nSitué dans le 19ᵉ arrondissement de Paris, découvrez cet appartement de 2 pièces d'environ 37,89 m², offrant une configuration fonctionnelle et agréable.\n\nL'appartement se compose d'une entrée desservant une pièce de vie avec salle à manger, une cuisine indépendante, une chambre, une salle de bains ainsi que des WC séparés.\n\nUn débarras complète le bien et offre un espace de rangement supplémentaire appréciable au quotidien.\n\nL'appartement bénéficie d'une distribution simple et fonctionnelle, avec des espaces distincts permettant d'aménager facilement le logement selon vos besoins.\n\nSitué dans un quartier vivant du 19ᵉ arrondissement, le bien profite d'un environnement urbain avec commerces, services, restaurants et transports accessibl"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3279822172",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "6",
+      "building_year": "1949",
+      "heating_type": "individual",
+      "heating_mode": "gas",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3279784758",
+    "metadata": {
+      "id": "leboncoin-3279784758",
+      "creationDate": "2026-09-30 19:25:28"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Porte d'Orléans"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.821457,
+        "lng": 2.319379
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 49 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "49 m²",
+          "splitValue": "49",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/7",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "377 790 €",
+        "formatted": "377 790 €",
+        "additionalInformation": "7 710 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement Paris 14ème 2 pièces 50 m2\n\n2 pièces, 49,8 m², Paris 14, rue des Plantes, proche Villa Brune : un potentiel rare pour un projet de vie sur mesure.\n\nIdéalement situé au coeur du 14e arrondissement, dans le secteur prisé de la rue des Plantes, découvrez le superbe potentiel de ce 2 pièces de 49,8 m² niché au 3ème étage avec ascenseur d'un bel immeuble cossu des années 1900.\n\nUn projet de rénovation à forte valeur ajoutée. Si besoin, un économiste du bâtiment se tient à votre disposition pour vos devis de projections/réalisations.\n\nVéritable «page blanche», cet appartement présente un très fort potentiel de valorisation.\nTraversant et lumineux, doté d'une exposition plein ouest, de parquet et  de moulures,\nsa configuration actuelle est entièrement modulable.\nUne hauteur sous plafo"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3279784758",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "3",
+      "nb_floors_building": "7",
+      "building_year": "1892",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "2800",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3279723340",
+    "metadata": {
+      "id": "leboncoin-3279723340",
+      "creationDate": "2026-09-30 18:02:53"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83467,
+        "lng": 2.29595
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement haussmannien 2P Convention",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 990 €",
+        "formatted": "299 990 €",
+        "additionalInformation": "8 571 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "METRO CONVENTION 2P CHARME DE L'ANCIEN\nÀ deux pas du métro Convention et au cœur d'un quartier très recherché avec de nombreux commerces et services mais très calme, découvrez ce charmant appartement haussmannien de 35,36 m² (loi Carrez), vendu entièrement meublé, situé au 3ème étage d’une copropriété de 6 étages sans ascenseur d'un immeuble de caractère.\n \nLa copropriété vient de bénéficier d'un ravalement de façade tout récent, un véritable atout pour la valorisation du bien et la qualité de l'immeuble.\nTraversant Est-Ouest-Sud, l'appartement est très lumineux et bénéficie d'un plan optimisé sans perte de place.\nEn excellent état, aucuns travaux n'est à prévoir : vous n'avez plus qu'à poser vos valises.\n \nLe bien conserve tout le charme de l'ancien avec parquet d'origine et deux cheminée"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3279723340",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1500",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3279721105",
+    "metadata": {
+      "id": "leboncoin-3279721105",
+      "creationDate": "2026-09-30 18:00:00"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.886715,
+        "lng": 2.3600922
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 3 pièces 43 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "43 m²",
+          "splitValue": "43",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/3",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "305 000 €",
+        "formatted": "305 000 €",
+        "additionalInformation": "7 093 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement À Vendre\n\nParis 18ᵉ – Marx Dormoy / Marché de l'Olive\n3 pièces traversant et lumineux – Dernier étage – À rénover\n\nÀ deux pas du marché de l'Olive, au 3ᵉ et dernier étage d'un immeuble ancien, découvrez cet appartement traversant de 43 m², lumineux et offrant un beau potentiel de rénovation.\n\nSon plan fonctionnel comprend une entrée, un séjour avec cuisine semi-ouverte, deux chambres, une salle d'eau et des WC séparés.\n\nEntièrement à rénover, ce bien offre l'opportunité de concevoir un intérieur à votre image, pour un projet de résidence principale ou un investissement.\n\nUne cave en sous-sol complète ce bien.\n\nLes atouts :\n\nAppartement traversant et lumineux\n\n3ᵉ et dernier étage\n\nPlan fonctionnel avec deux chambres\n\nProximité immédiate du marché de l'Olive\n\nMétro Marx Dormoy à "
+    },
+    "energyClass": "F",
+    "ges": "F",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3279721105",
+    "extra": {
+      "elevator": null,
+      "floor_number": "3",
+      "nb_floors_building": "3",
+      "building_year": null,
+      "heating_type": "individual",
+      "heating_mode": "gas",
+      "annual_charges": "2400",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3210256328",
+    "metadata": {
+      "id": "leboncoin-3210256328",
+      "creationDate": "2026-09-23 23:54:53"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Tolbiac"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.824047,
+        "lng": 2.3550894
+      }
+    },
+    "hardFacts": {
+      "title": "PROCHE BUTTE AUX CAILLES - 2 PIECES (44.20 m2) - CALME ET ENSOLEILLE - BELLE VUE DEGAGEE SUR JARDIN",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "44 m²",
+          "splitValue": "44",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/6",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "390 000 €",
+        "formatted": "390 000 €",
+        "additionalInformation": "8 864 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Idéalement situé au pied de la Butte aux Cailles et à proximité immédiate du métro et des commerces, FONCIA BUTTE AUX CAILLES vous propose un charmant 2 pièces (44.20 m2) calme et ensoleillé situé au 4ème étage (sans ascenseur) d'un bel immeuble ancien avec gardien. Il comprend une entrée, un séjour exposé Sud/Est  avec très belle vue dégagée sur le jardin de la copropriété, une chambre spacieuse (13 m2) également au calme sur jardin, une grande cuisine dînatoire, une salle d'eau avec fenêtre, des WC séparés. Une cave complète ce bien.\nCharme de l'ancien préservé (parquet, moulures, cheminée prussienne), ensoleillé, calme absolu, superbe vue dégagée sur le jardin de la copropriété.\n\nMontant estimé des dépenses annuelles d'énergie pour un usage standard : entre 1 270 € et 1 760 € sur les an"
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3210256328",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "4",
+      "nb_floors_building": "6",
+      "building_year": "1913",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1620",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52955198",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52955198",
+      "creationDate": "2026-09-30T17:34:16.390Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Jules Joffrin"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89382696868862,
+        "lng": 2.337840953633889
+      }
+    },
+    "hardFacts": {
+      "title": "Paris 18ème - Rue Ordener - T2 de 38 m² à fort potentiel",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/7",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "330 000 €",
+        "formatted": "330 000 €",
+        "additionalInformation": "8 684 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "JULES JOFFRIN / MONTCALM : Laforêt vous propose à la vente : <br>Idéalement situé au croisement de la rue Montcalm et de la rue Ordener, à 5 minutes de Jules Joffrin et au coeur d'un quartier vivant et recherché du 18ème arrondissement, découvrez ce 2 pièces de 38 m² (37,20 m² Carrez) à rénover, offrant de belles possibilités d'aménagement et de valorisation.<br>Au 2ème étage d'une élégante copropriété en pierre de taille, bien entretenue et pleine de charme, cet appartement bénéficie d'un environnement calme sur cour, tout en profitant de la proximité immédiate des commerces, transports et services.<br>Traversant, il offre une agréable luminosité et une configuration particulièrement intéressante. Son principal atout réside dans son fort potentiel de réagencement : la cuisine ainsi que l'"
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/laforet-immo-facile-52955198",
+    "extra": {
+      "elevator": null,
+      "floor_number": 2,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1373.88,
+      "condo_lots": 50,
+      "heating": "",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52430743",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52430743",
+      "creationDate": null
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Père Lachaise - Réunion"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.85819504766763,
+        "lng": 2.4022620337465606
+      }
+    },
+    "hardFacts": {
+      "title": "Grand studio lumineux rue des Pyrénées",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "31 m²",
+          "splitValue": "31",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/14",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "275 600 €",
+        "formatted": "275 600 €",
+        "additionalInformation": "8 758 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Situé rue des Pyrénées, à proximité immédiate de toutes les commodités, ce grand studio de 31,47 m², au 4ème étage d'une copropriété moderne, offre un excellent potentiel, idéal pour un investisseur ou un premier achat.<br>L'appartement bénéficie d'une belle luminosité et d'un agencement optimisé. Il se compose d'une cuisine semi-ouverte, d'une spacieuse pièce de vie baignée de lumière ainsi que d'une salle d'eau avec WC.<br>Une cave complète ce bien ainsi qu'une place de parking  en SUS du prix. <br>Vous y trouverez un local vélo et un accès commun au jardin de la copropriété.  (6.00 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 1031 lots - dont 517 lots habitation. (Pas de procédure en cours).<br>Charges annuelles : 1462.00 euros."
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-20e/appartement/1pieces/laforet-immo-facile-52430743",
+    "extra": {
+      "elevator": true,
+      "floor_number": 4,
+      "nb_floors_building": 14,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 1462,
+      "condo_lots": 1031,
+      "heating": "",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": true,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag753736-552129254",
+    "metadata": {
+      "id": "bienici-ag753736-552129254",
+      "creationDate": "2026-09-30T22:16:25.477Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Mouton - Duvernet"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.829421598364355,
+        "lng": 2.3274748615626484
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces à Paris (75014) Alésia balcon lumine",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "47 m²",
+          "splitValue": "47",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/12",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "395 000 €",
+        "formatted": "395 000 €",
+        "additionalInformation": "8 404 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement de deux pièces situé à proximité d'Alésia, refait à neuf avec un balcon filant. Situé au 6e étage avec ascenseur le bien exposé plein OUEST, est composé d'une entrée, d'une cuisine aménagée et équipée , un grand séjour, une chambre et une salle d'eau. Le bien comprend une cave. Possibilité de parking en sus dans l'immeuble.\n\n Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.bienici.com/annonce/vente/paris-14e/appartement/2pieces/ag753736-552129254",
+    "extra": {
+      "elevator": true,
+      "floor_number": 6,
+      "nb_floors_building": 12,
+      "has_cellar": true,
+      "exposition": "ouest",
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "gaz collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52957561",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52957561",
+      "creationDate": "2026-09-30T17:34:16.390Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.832627081650024,
+        "lng": 2.302963927288153
+      }
+    },
+    "hardFacts": {
+      "title": "2 PIECES - PARIS 15",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "32 m²",
+          "splitValue": "32",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/7",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "283 500 €",
+        "formatted": "283 500 €",
+        "additionalInformation": "8 946 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Laforêt Convention vous présente un appartement de 2 pièces de 31m² situé rue Brancion, dans le 15ème arrondissement de Paris. Ce bien se situe dans une copropriété très bien entretenue avec ascenseur et gardienne. <br>Cet appartement comprends une  cuisine aménagée équipée, un salon, une chambre, une salle de bain et des WC séparés.  <br>A proximité immédiate du parc Georges Brassens, cette adresse offre un cadre de vie recherché entre verdure et commerces de proximités.<br>N'hésitez pas à nous contacter si vous souhaitez visiter ce bien. (5.00 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 35 lots (Pas de procédure en cours).<br>Charges annuelles : 2526.71 euros."
+    },
+    "energyClass": "F",
+    "ges": "F",
+    "url": "https://www.bienici.com/annonce/vente/paris-15e/appartement/2pieces/laforet-immo-facile-52957561",
+    "extra": {
+      "elevator": true,
+      "floor_number": 2,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 2526.71,
+      "condo_lots": 35,
+      "heating": "radiateur gaz collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-b3283c3d-a40b-43d3-97ea-802d138a9d64",
+    "metadata": {
+      "id": "gdc-b3283c3d-a40b-43d3-97ea-802d138a9d64",
+      "creationDate": 1790814852000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends t3 - 50.21 m² - Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "50 m²",
+          "splitValue": "50",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "298 000 €",
+        "formatted": "298 000 €",
+        "additionalInformation": "5 960 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-t3-50-dot-21-m-paris-9a71819",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Charly",
+      "nb_photos": 11
+    }
   }
 ]
