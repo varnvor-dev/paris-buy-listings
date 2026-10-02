@@ -110190,5 +110190,529 @@
       "owner_name": "David",
       "nb_photos": 8
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3280487747",
+    "metadata": {
+      "id": "leboncoin-3280487747",
+      "creationDate": "2026-10-02 05:04:06"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "La Fourche - Guy Moquet"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88401,
+        "lng": 2.327352
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 46 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "46 m²",
+          "splitValue": "46",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/6",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "360 000 €",
+        "formatted": "360 000 €",
+        "additionalInformation": "7 826 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Proche Hasard Ludique 2 pièces ensoleillé\n\nProche du Hasard Ludique 18e limite 17e\nAu 6e et dernier étage d'un immeuble ancien de caractère, doté d'une jolie façade et d'une gardienne, ce charmant 2 pièces au dernier étage de 46,20 m² au sol et 44 m² carrez vous séduira par sa luminosité et ses volumes.\nTraversant et exposé plein Sud, il profite d'une belle luminosité tout au long de la journée ainsi que d'une vue dégagée, offrant une agréable sensation d'espace.\nIl se compose d'une entrée desservant un spacieux séjour avec cuisine semi-ouverte, pouvant être facilement ouverte sur la pièce de vie afin de créer un espace de réception encore plus généreux. Un dégagement mène ensuite à une chambre confortable ainsi qu'à une salle de bain avec WC.\nUn appartement lumineux et plein de potentiel,"
+    },
+    "energyClass": "G",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3280487747",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "6",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1250",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3280484025",
+    "metadata": {
+      "id": "leboncoin-3280484025",
+      "creationDate": "2026-10-02 03:27:39"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Ménilmontant - Amandiers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.867325,
+        "lng": 2.3951426
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 36 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "36 m²",
+          "splitValue": "36",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/4",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "280 000 €",
+        "formatted": "280 000 €",
+        "additionalInformation": "7 778 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 36 m²\n\nExclusivité, rue de Ménilmontant. A moins de 5 minutes du métro et proximité de toutes commodités, charmant appartement 2 pièces traversant et très lumineux, 36.49 m2 Carrez situé au 3ème étage sans ascenseur d’un immeuble sécurisé et bien entretenu. L'appartement dessert une entrée avec rangement, un séjour avec cuisine semi ouverte, une chambre spacieuse et au calme, une salle d’eau avec wc, un espace dressing indépendant. A rénover, ce bien est une très belle opportunité de créer un intérieur à votre image dans un quartier agréable et recherché. Chauffage électrique individuel. Ballon d'eau chaude récent.\nBien soumis au statut de la copropriété, 10 logements, procédure en cours : aucune, 10 lots, Charges budget prévisionnel annuel 1 992 €.\n\nAnnonce publiée pa"
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3280484025",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "4",
+      "building_year": "1880",
+      "heating_type": null,
+      "heating_mode": "electric",
+      "annual_charges": "1992",
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3280445735",
+    "metadata": {
+      "id": "leboncoin-3280445735",
+      "creationDate": "2026-10-01 22:32:12"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Montsouris"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.818207,
+        "lng": 2.33634
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 35 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/4",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 000 €",
+        "formatted": "299 000 €",
+        "additionalInformation": "8 543 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS XIVème - PARC MONTSOURIS - CITE UNIVERSITAIRE - 2 PIECES OPTIMISE CUISINE US & SEJOUR LUMINEUX AVEC UNE CAVE - PROCHE RER B\nAimen Mejri et Efficity, l'agence qui estime votre bien en ligne, vous proposent cette nouvelle opportunité idéale pour un premier achat ou un investissement à 2 minutes de la Cité Universitaire\nDans une petite résidence au calme, cet appartement d'une superficie carrez de 34m2 se compose comme suit :\n- une entrée avec placard\n- un espace séjour / cuisine américaine de 20m2\n- une chambre avec rangements\n- une salle d'eau avec wc\nEspace de vie lumineux\nDeux caves complètent ce bien\nEmplacement stockage vélo disponible\nProcédures en cours dans l'immeuble : ravalement et réfection des parties communes (pris en charge par le vendeur)\n***** Les + qui nous font craque"
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3280445735",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "4",
+      "building_year": "1949",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1200",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52959636",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52959636",
+      "creationDate": "2026-10-01T17:46:29.711Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75011",
+        "district": "Belleville - Saint-Maur"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.867346382331476,
+        "lng": 2.3764367640403554
+      }
+    },
+    "hardFacts": {
+      "title": "Charmant 2 pièces - Rue Jean pierre timbaud",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "66 m²",
+          "splitValue": "66",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/3",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "375 000 €",
+        "formatted": "375 000 €",
+        "additionalInformation": "5 713 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Laforêt Parmentier vous propose en Exclusivité, rue Jean-Pierre Timbaud, au coeur d'un secteur très recherché, à proximité immédiate des commerces, des transports et du métro Parmentier, ce charmant 2 pièces situé au 2ème et dernier étage d'un bel immeuble de style industriel.<br>D'une surface de 66 m² au sol (27 m² loi Carrez), cet appartement séduit par son cachet et ses volumes sous les toits. Il se compose d'un agréable espace de vie baigné de lumière donnant sur une cuisine américaine, d'une chambre confortable ainsi que d'une salle de bains avec WC.<br>Calme et ensoleillé, ce bien bénéficie d'une atmosphère chaleureuse et atypique. Aucun travaux à prévoir, il est habitable immédiatement. (4.17 % d'honoraires TTC à la charge de l'acquéreur.)"
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-11e/appartement/2pieces/laforet-immo-facile-52959636",
+    "extra": {
+      "elevator": null,
+      "floor_number": 2,
+      "nb_floors_building": 3,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag136427-551038256",
+    "metadata": {
+      "id": "bienici-ag136427-551038256",
+      "creationDate": "2026-09-23T09:43:01.982Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83060014985339,
+        "lng": 2.30436993980912
+      }
+    },
+    "hardFacts": {
+      "title": "En impasse, proximité square, T2 en duplex de 62,01 m², Libre",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "62 m²",
+          "splitValue": "62",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "400 000 €",
+        "formatted": "400 000 €",
+        "additionalInformation": "6 452 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Immobilier.notaires® et l'office notarial Benoît MOREL vous proposent :\nDuplex à vendre - PARIS 15 (75015)\n- - - - - - - - - - - - - - - - - - - - - -\nPARIS 15e, 4 rue du Bocage\nMétro Porte de Vanves (Ligne 13 à 340 m)\nTram Brancion (T3a à 450m)\nQuartier « Saint Lambert »\nEn impasse, proximité square, T2 en duplex de 62,01 m², Libre.\nRez-de-chaussée : Entrée avec placard sur pièce de vie avec coin cuisine aménagée et équipée (31,65 m²), bureau, wc.\n1er étage : chambre (14,55 m²), salle de bains avec wc (5,24 m²) , dressing (5,06 m²)\nCave n°45 (3,5m² env.), parking n°4 en sous-sol -1\nChauffage et eau chaude : individuel électrique.\nClasse énergie : D (207) /Classe climat : B (8) (après révision 2026)\nMontant des dépenses théoriques annuelles entre 970 et 1350 €\nCopropriété de 1990 entretenu"
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-15e/appartement/2pieces/ag136427-551038256",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": null,
+      "condo_lots": 160,
+      "heating": "",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": true,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61581137",
+    "metadata": {
+      "id": "bienici-immo-facile-61581137",
+      "creationDate": "2026-10-01T17:48:34.054Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Jean Moulin - Porte d'Orléans"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8249844537903,
+        "lng": 2.3294021501727347
+      }
+    },
+    "hardFacts": {
+      "title": "PARIS 14 - ALÉSIA",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "41 m²",
+          "splitValue": "41",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/5",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "313 000 €",
+        "formatted": "313 000 €",
+        "additionalInformation": "7 634 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "L'agence immobilière FREDELION Paris 14 Alésia vous propose, en exclusivité, un appartement à rénover d'une surface de 35m2 Carrez et 53m2 au sol, au sein d'une petite copropriété sans travaux à prévoir (ravalements effectués et toiture déjà votée et payée).<br>Situé au 4eme et DERNIER étage SANS ASCENSEUR, le bien se compose d'une entrée, d'une belle pièce de vie avec 2 fenêtres donnant accès à la mezzanine de 18m2, d'une cuisine indépendante et d'une salle de bains avec WC intégrés.<br>Aucune perte de place et belle hauteur sous plafond. Très beau potentiel de rénovation.<br>A visiter sans tarder! (4.33 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 10 lots (Pas de procédure en cours).<br>Charges annuelles : 1304.00 euros."
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-14e/appartement/2pieces/immo-facile-61581137",
+    "extra": {
+      "elevator": false,
+      "floor_number": 4,
+      "nb_floors_building": 5,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1304,
+      "condo_lots": 10,
+      "heating": "radiateur électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag671913-552302606",
+    "metadata": {
+      "id": "bienici-ag671913-552302606",
+      "creationDate": "2026-10-02T02:05:48.170Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Paris 20"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.865041983,
+        "lng": 2.398928958
+      }
+    },
+    "hardFacts": {
+      "title": "T2 - 36,49 m2 - 280000 € - Paris 20",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "36 m²",
+          "splitValue": "36",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/5",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "280 000 €",
+        "formatted": "280 000 €",
+        "additionalInformation": "7 778 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Exclusivité, rue de Ménilmontant. A moins de 5 minutes du métro et proximité de toutes commodités, charmant appartement 2 pièces traversant et très lumineux, 36.49 m2 Carrez situé au 3ème étage sans ascenseur d'un immeuble sécurisé et bien entretenu. L'appartement dessert une entrée avec rangement, un séjour avec cuisine semi ouverte, une chambre spacieuse et au calme, une salle d'eau avec wc, un espace dressing indépendant. A rénover, ce bien est une très belle opportunité de créer un intérieur à votre image dans un quartier agréable et recherché. Chauffage électrique individuel. Ballon d'eau chaude récent.\nBien soumis au statut de la copropriété, 10 logements, procédure en cours : aucune, 10 lots, Charges budget prévisionnel annuel 1 992 €.\n\nAnnonce publiée par Emmanuel Fiévet (EI) votre"
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-20e/appartement/2pieces/ag671913-552302606",
+    "extra": {
+      "elevator": false,
+      "floor_number": 3,
+      "nb_floors_building": 5,
+      "has_cellar": false,
+      "exposition": null,
+      "annual_charges": 1992,
+      "condo_lots": 10,
+      "heating": "électricité",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
   }
 ]
