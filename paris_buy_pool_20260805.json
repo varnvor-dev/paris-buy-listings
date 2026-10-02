@@ -110714,5 +110714,573 @@
       "price_decreased": false,
       "is_pro": true
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3280706742",
+    "metadata": {
+      "id": "leboncoin-3280706742",
+      "creationDate": "2026-10-02 14:28:10"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Bassin de la Villette"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.886337,
+        "lng": 2.3834822
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 40 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "8/10",
+          "splitValue": "8",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "335 000 €",
+        "formatted": "335 000 €",
+        "additionalInformation": "8 375 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 40 m²\n\nParis 19ème - Quai de la Gironde / Canal de l'Ourcq - Charmant 2 pièces de 40,33m2 au sol (comprenant un balcon de 1,92m2) et 38,41m2 carrez, situé au 8ème étage avec ascenseur, calme et lumineux profitant d'un balcon et d'une vue sans vis-à-vis sur le canal.\n\nSitué au coeur du secteur recherché du Bassin de la Villette, à proximité immédiate du parc de la Villette et face au canal de l'Ourcq, au sein d'un immeuble semi-récent bien entretenu, Eustache a le plaisir de vous présenter sa dernière nouveauté : un 2 pièces, bénéficiant d'une vue dégagée exceptionnelle sur le canal, sans aucun vis-à-vis et composé comme suit :\n\nEntrée, espace de vie donnant sur balcon, composé d'un salon/salle à manger avec mezzanine, coin cuisine, chambre, salle d'eau et WC séparés.\n\n"
+    },
+    "energyClass": "E",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3280706742",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "8",
+      "nb_floors_building": "10",
+      "building_year": "1960",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3280658480",
+    "metadata": {
+      "id": "leboncoin-3280658480",
+      "creationDate": "2026-10-02 13:01:07"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75016",
+        "district": "Porte de Saint-Cloud"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83845,
+        "lng": 2.26244
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 1 pièce 33m² 3ème étage PARIS 75016 Porte de Saint Cloud",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "33 m²",
+          "splitValue": "33",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/8",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "290 000 €",
+        "formatted": "290 000 €",
+        "additionalInformation": "8 788 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "AVENUE DE VERSAILLES. Appartement 1 pièce situé au 3ème avec ascenseur.\nCe studio de 33 m² se compose d'une pièce principale exposée Sud-Ouest , une cuisine séparée, une salle de bain, lavabo, WC. Immeuble sécurisé et entretenu. Travaux de rénovation à prévoir.\nChauffage et eau chaude/froide collectifs au gaz. Proche de tout commerces et du marché ouvert les mardis, jeudis et dimanches. Agence s'abstenir.\nA propos du bien :\n- Nb de lots : 32\n- Charges prévisionnelles annuelles : 3400€\n- Taxe foncière : 960€\n- cave\n- Année de construction : 1929\n- Prix 290000€"
+    },
+    "energyClass": "F",
+    "ges": "F",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3280658480",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "3",
+      "nb_floors_building": "8",
+      "building_year": "1929",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "3400",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3280625340",
+    "metadata": {
+      "id": "leboncoin-3280625340",
+      "creationDate": "2026-10-02 11:59:29"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83467,
+        "lng": 2.29595
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement haussmannien 2P Convention",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 990 €",
+        "formatted": "299 990 €",
+        "additionalInformation": "8 571 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "METRO CONVENTION 2P CHARME DE L'ANCIEN\nÀ deux pas du métro Convention et au cœur d'un quartier très recherché avec de nombreux commerces et services mais très calme, découvrez ce charmant appartement haussmannien de 35,36 m² (loi Carrez), vendu entièrement meublé, situé au 3ème étage d’une copropriété de 6 étages sans ascenseur d'un immeuble de caractère.\n \nLa copropriété vient de bénéficier d'un ravalement de façade tout récent, un véritable atout pour la valorisation du bien et la qualité de l'immeuble.\nTraversant Est-Ouest-Sud, l'appartement est très lumineux et bénéficie d'un plan optimisé sans perte de place.\nEn excellent état, aucuns travaux n'est à prévoir : vous n'avez plus qu'à poser vos valises.\n \nLe bien conserve tout le charme de l'ancien avec parquet d'origine et deux cheminée"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3280625340",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1500",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3280571341",
+    "metadata": {
+      "id": "leboncoin-3280571341",
+      "creationDate": "2026-10-02 10:31:58"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75017",
+        "district": "Legendre - Lévis"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88355,
+        "lng": 2.312443
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 48 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "48 m²",
+          "splitValue": "48",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/6",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "399 000 €",
+        "formatted": "399 000 €",
+        "additionalInformation": "8 312 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 48 m²\n\nRESIDENCE SENIOR LES HESPERIDES / VILLA MALESHERBES\n  \n  Appartement vendu loué (bail code civile avec date d'anniversaire au 15 octobre)\n  \n  Dans une résidence sénior de grand standing, au sein d'un immeuble bien tenu de la Villa Malesherbes des Résidences Hespérides,\n  My Home Connexion vous présente en exclusivité ce beau 2 pièces en parfait état de 47.9 m² Carrez donnant sur le jardin arboré de la résidence.\n  \n  Cet appartement allie confort et services de luxe en plein cœur de la Plaine Monceau et à seulement 1 min à pied du métro Malesherbes.\n  \n  Le bien se compose comme suit : une entrée, grand séjour/cuisine aménagée et équipée, une chambre avec dressing et salle de douche, un WC indépendant.\n  \n  Il comprend également : un passe-plat, un vide ordure "
+    },
+    "energyClass": "C",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3280571341",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "2",
+      "nb_floors_building": "6",
+      "building_year": "1997",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "18000",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-apimo-87433837",
+    "metadata": {
+      "id": "bienici-apimo-87433837",
+      "creationDate": "2026-10-02T08:31:54.087Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75017",
+        "district": "Legendre - Lévis"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88375611487187,
+        "lng": 2.309835378025284
+      }
+    },
+    "hardFacts": {
+      "title": "PARIS XVII - RESIDENCE SENIOR LES HESPERIDES / VILLA MALESHERBES - 2 PIECES EN PARFAIT ETAT",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "48 m²",
+          "splitValue": "48",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/7",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "399 000 €",
+        "formatted": "399 000 €",
+        "additionalInformation": "8 330 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "RESIDENCE SENIOR LES HESPERIDES / VILLA MALESHERBES\n\nAppartement vendu loué (bail code civile avec date d'anniversaire au 15 octobre)\n\nDans une résidence sénior de grand standing, au sein d'un immeuble bien tenu de la Villa Malesherbes des Résidences Hespérides,\nMy Home Connexion vous présente en exclusivité ce beau 2 pièces en parfait état de 47.9 m² Carrez donnant sur le jardin arboré de la résidence.\n\nCet appartement allie confort et services de luxe en plein cœur de la Plaine Monceau et à seulement 1 min à pied du métro Malesherbes.\n\nLe bien se compose comme suit : une entrée, grand séjour/cuisine aménagée et équipée, une chambre avec dressing et salle de douche, un WC indépendant.\n\nIl comprend également : un passe-plat, un vide ordure sur le palier et une cave en sous-sol.\n\nLa résiden"
+    },
+    "energyClass": "C",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-17e/appartement/2pieces/apimo-87433837",
+    "extra": {
+      "elevator": true,
+      "floor_number": 2,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 18000,
+      "condo_lots": 83,
+      "heating": "Radiateur Electrique Individuel",
+      "work_to_do": false,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-25035ab8-4cfa-4968-9820-d83ab273422a",
+    "metadata": {
+      "id": "gdc-25035ab8-4cfa-4968-9820-d83ab273422a",
+      "creationDate": 1790946155000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends t2 - 40.33 m² - Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "335 000 €",
+        "formatted": "335 000 €",
+        "additionalInformation": "8 375 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-t2-40-dot-33m-paris-647eb11",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "has_balcony": true,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Eustache",
+      "nb_photos": 13
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-8a5f62b0-b98c-4adf-b6aa-c36641896fcb",
+    "metadata": {
+      "id": "gdc-8a5f62b0-b98c-4adf-b6aa-c36641896fcb",
+      "creationDate": 1790741105000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends t3 - 56 m² - Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "56 m²",
+          "splitValue": "56",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "320 000 €",
+        "formatted": "320 000 €",
+        "additionalInformation": "5 714 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-t3-56-m-paris-9070ad5",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Agence LBI",
+      "nb_photos": 12
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-60590121-35a9-4a75-a495-84ff48a9994f",
+    "metadata": {
+      "id": "gdc-60590121-35a9-4a75-a495-84ff48a9994f",
+      "creationDate": 1790906610000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends studio - 38.55 m² - 1 pièce - Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        }
+      ],
+      "price": {
+        "value": "300 000 €",
+        "formatted": "300 000 €",
+        "additionalInformation": "7 895 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-studio-38-dot-55-m-1-piece-paris-612a46f",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Agence LBI",
+      "nb_photos": 13
+    }
   }
 ]
