@@ -112596,5 +112596,516 @@
       "price_decreased": false,
       "is_pro": true
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3281194194",
+    "metadata": {
+      "id": "leboncoin-3281194194",
+      "creationDate": "2026-10-03 11:23:52"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75011",
+        "district": "Belleville"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.86947,
+        "lng": 2.37225
+      }
+    },
+    "hardFacts": {
+      "title": "2 pièces à Goncourt",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/6",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "318 000 €",
+        "formatted": "318 000 €",
+        "additionalInformation": "8 983 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Vente 2 pièces lumineux, proche Canal Saint-Martin\nAppartement de 35,4 m², 4ᵉ étage, rue paisible — donne sur cour, avec des bureaux en face à une vingtaine de mètres, très calme. \n• parquet, tomettes anciennes au sol\n• Salle de bains avec baignoire \n• Chauffe-eau récent \n• Fibre optique \n• double vitrage \nContact par e-mail uniquement, pour toute information ou pour visiter. \nAGENCES, MERCI DE NE PAS ME CONTACTER"
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3281194194",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "2",
+      "nb_floors_building": "6",
+      "building_year": "1880",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1492",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3281173491",
+    "metadata": {
+      "id": "leboncoin-3281173491",
+      "creationDate": "2026-10-03 10:58:46"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Place d'Italie - Glacière"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.829376,
+        "lng": 2.3586879
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 36 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "36 m²",
+          "splitValue": "36",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "9/10",
+          "splitValue": "9",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "315 000 €",
+        "formatted": "315 000 €",
+        "additionalInformation": "8 750 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement À Vendre\n\nÀ vendre à Paris 13, dans un immeuble construit en 1960 avec ascenseur, nous vous proposons un appartement 2 pèces de 36 m² en bon état. Idéalement agencé, sans perte de place, comprenant un séjour lumineux avec une cuisine semi-ouverte, une chambre et une salle d'eau avec WC. Idéal premier achat, pied-à-terre parisien ou investissement locatif. A proximité des commerces, des transports et de toutes les commodités.  Prix de vente : 315 000 € honoraires inclus.\nRéférence agence : 2332\nRéférence annonce : 7UHP-ZGS-UHB\nLes honoraires sont à la charge du vendeur\n\nA propos de la copropriété :\nNombre de lots : 173\nCharges prévisionnelles annuelles : 2256 €"
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3281173491",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "9",
+      "nb_floors_building": "10",
+      "building_year": null,
+      "heating_type": "communal",
+      "heating_mode": "electric",
+      "annual_charges": "2256",
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3281105468",
+    "metadata": {
+      "id": "leboncoin-3281105468",
+      "creationDate": "2026-10-03 09:19:19"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75012",
+        "district": "Nation - Picpus"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.84848,
+        "lng": 2.38937
+      }
+    },
+    "hardFacts": {
+      "title": "Duplex atypique Paris 12",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "32 m²",
+          "splitValue": "32",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/4",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "287 000 €",
+        "formatted": "287 000 €",
+        "additionalInformation": "8 969 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Je mets en vente ce duplex atypique de 2 pièces de 32 m² situé au 4ème étage d'un immeuble de 4 étages sans ascenseur à Paris 12ème (Nation - Picpus) dans un quartier avec tous services et commerces,  proche des lignes 1, 8 et des transports de Nation. Cet appartement ancien, meublé et doté de nombreux rangements offre une configuration originale et fonctionnelle.\nLa cuisine équipée et ouverte s'intègre harmonieusement à l'espace de vie de près de 18m2. L'appartement traversant bénéficie d'une belle luminosité naturelle, notamment grâce à une fenêtre de toit qui inonde la chambre de lumière et 2 grandes fenêtres dans la pièce principale. Il donne sur un parc et sur la cour de la copropriété. Toutes les menuiseries ont été refaites récemment. La salle de bain est équipée d'une baignoire.\nCh"
+    },
+    "energyClass": "G",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3281105468",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "4",
+      "nb_floors_building": "4",
+      "building_year": null,
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "900",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3281290657",
+    "metadata": {
+      "id": "leboncoin-3281290657",
+      "creationDate": "2026-09-11 15:18:49"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Porte de Montmartre"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.900867,
+        "lng": 2.3317149
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 33 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "33 m²",
+          "splitValue": "33",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/5",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "289 000 €",
+        "formatted": "289 000 €",
+        "additionalInformation": "8 758 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 33 m²\n\nIMPACT-IMMO Paris 18 a le plaisir de vous présenter ce superbe 2 pièces lumineux, niché au 5ᵉ et dernier étage d’un élégant immeuble de 1885, dans le 18ᵉ arrondissement de Paris.\n  \n  En excellent état général, cet appartement séduit par sa clarté et son atmosphère chaleureuse. Sans perte de place, il se compose d’une entrée, d’un séjour lumineux, d’une cuisine équipée, d’une chambre confortable, ainsi que d’une salle de douche avec WC.\n  Son véritable atout : une vue totalement dégagée, sans aucun vis-à-vis, offrant un cadre de vie paisible et privilégié.\n  \n  L’immeuble, typique de la fin du XIXᵉ siècle, est soigneusement entretenu et bénéficie d’une copropriété agréable. Une situation au dernier étage fait de ce bien une opportunité rare sur le secteur.\n  \n  "
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3281290657",
+    "extra": {
+      "elevator": null,
+      "floor_number": "5",
+      "nb_floors_building": "5",
+      "building_year": "1885",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1524",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61588250",
+    "metadata": {
+      "id": "bienici-immo-facile-61588250",
+      "creationDate": "2026-10-03T08:20:53.932Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Jules Joffrin"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.890374578412704,
+        "lng": 2.344712106248111
+      }
+    },
+    "hardFacts": {
+      "title": "Beau Produit",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34 m²",
+          "splitValue": "34",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/7",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 000 €",
+        "formatted": "299 000 €",
+        "additionalInformation": "8 794 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "75018 PARIS. Village Ramey/Mairie. Rue du Baigneur. Dans un Bel Immeuble Ancien. En étage sur Cour. 2  Pièces de 34m2 en Bon état Général. Aucune Perte de Place. Séjour avec Cuisine ouverte. Une Chambre. Une Salle d'eau avec WC. Grand Dressing. Clair & Calme. Parquet Ancien. Secteur recherché. Rack à Vélo.Proche Métro & Commerces."
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/immo-facile-61588250",
+    "extra": {
+      "elevator": null,
+      "floor_number": 1,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": "Ouest",
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-33ce4457-9abd-432a-bae0-59f5ddd64e6c",
+    "metadata": {
+      "id": "gdc-33ce4457-9abd-432a-bae0-59f5ddd64e6c",
+      "creationDate": 1791025355000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75010",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces clair et calme – Paris 10ème Faubourg Saint-Martin",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "44 m²",
+          "splitValue": "44",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/6",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "328 000 €",
+        "formatted": "328 000 €",
+        "additionalInformation": "7 455 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/appartement-2-pieces-clair-et-calme-paris-10eme-faubourg-saint-martin-a3b63c5",
+    "extra": {
+      "elevator": true,
+      "floor_number": 6,
+      "nb_floors_building": 6,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "south,east",
+      "is_pro": true,
+      "owner_name": "Inès",
+      "nb_photos": 3
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-7acdf7a2-7996-422a-86c3-08ed5a199413",
+    "metadata": {
+      "id": "gdc-7acdf7a2-7996-422a-86c3-08ed5a199413",
+      "creationDate": 1790782953000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75004",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends appartement - 35m² - au coeur de Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "180 000 €",
+        "formatted": "180 000 €",
+        "additionalInformation": "5 143 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/joli-yacht-habitable-au-coeur-de-paris-4646d9a",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": true,
+      "exposition": "",
+      "is_pro": false,
+      "owner_name": "Caroline",
+      "nb_photos": 2
+    }
   }
 ]
