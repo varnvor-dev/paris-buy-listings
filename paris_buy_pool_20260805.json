@@ -113107,5 +113107,458 @@
       "owner_name": "Caroline",
       "nb_photos": 2
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3281601065",
+    "metadata": {
+      "id": "leboncoin-3281601065",
+      "creationDate": "2026-10-03 20:19:07"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Jules Joffrin"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89646,
+        "lng": 2.34102
+      }
+    },
+    "hardFacts": {
+      "title": "T2 37,5 m2 Jules Joffrin Porte de Montmartre",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/7",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "335 000 €",
+        "formatted": "335 000 €",
+        "additionalInformation": "8 933 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Rue Gustave Rouanet, piétonne, au 5e étage sur cour\nT2 de 37,5 m2 dans copropriété année 1930 bien tenue, avec concierge, ascenseur, local vélo. \nTravaux de ravalement de façade et de rénovation des parties communes récemment achevés.\nAppartement traversant nord sud, bien agencé, pas de perte de place.\nCuisine séparée où l’on peut manger à deux ou trois, salle de bains wc, salon au sud sur cour, chambre au nord sur cour.\nRénové en 2016.\nProximité rue du Poteau très commerçante, écoles, métro ligne 4 et 12."
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3281601065",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "5",
+      "nb_floors_building": "7",
+      "building_year": "1932",
+      "heating_type": "communal",
+      "heating_mode": "other",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3281580905",
+    "metadata": {
+      "id": "leboncoin-3281580905",
+      "creationDate": "2026-10-03 19:41:45"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Porte de la Chapelle"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89394,
+        "lng": 2.3625
+      }
+    },
+    "hardFacts": {
+      "title": "À vendre – 2 pièces de 44,7 m² avec 2 loggias, vue exceptionnelle sur le Sacré-Cœur, cave et parking au sous-sol – Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "45 m²",
+          "splitValue": "45",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "12/26",
+          "splitValue": "12",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "350 000 €",
+        "formatted": "350 000 €",
+        "additionalInformation": "7 830 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "À vendre – 2 pièces de 44,7 m² avec 2 loggias, vue exceptionnelle sur le Sacré-Cœur, cave et parking au sous-sol – Paris 18e\nDans un immeuble de standing rénové en 2024, très bel appartement exposé Ouest de 2 pièces de 44,7 m² loi Carrez, lumineux et bénéficiant d'une vue dégagée et spectaculaire sur le Sacré-Cœur.\nBien agencé, en étage élevé, il est composé d’une entrée avec un placard mural, d’un grand séjour avec un dressing présentant de beaux volumes, d’une chambre à coucher, d'une cuisine avec un coin repas, d'une salle de bains avec baignoire et des toilettes séparées.\nSon grand atout : deux loggias d’une surface totale de 11,62 m² où vous pouvez prendre vos repas tout en admirant de somptueux couchers du soleil. Il s’agit d’un véritable espace extérieur permettant de profiter plein"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3281580905",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "12",
+      "nb_floors_building": "26",
+      "building_year": "1983",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "4322",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3281427656",
+    "metadata": {
+      "id": "leboncoin-3281427656",
+      "creationDate": "2026-10-03 16:26:59"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Flandre - Aubervilliers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89191,
+        "lng": 2.37792
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 51m² lumineux métro Crimée 19ème étage",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "51 m²",
+          "splitValue": "51",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "19/27",
+          "splitValue": "19",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "384 000 €",
+        "formatted": "384 000 €",
+        "additionalInformation": "7 485 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement de 51 m² au pied du métro Crimée (ligne 7), perché au 19ème étage, il offre une une vue très dégagée, sans vis-à-vis, et ses grandes surfaces vitrées apportent beaucoup de lumière au quotidien. Exposé Nord-Ouest, il offre de magnifiques couchers de soleil. Très calme. \nSitué à 50m du métro, il est à proximité immédiate de nombreux commerces, et tout proche du marché ou du canal de l'Ourcq.\n\nIl est composé d'un grand salon (environ 24 m²), une entrée, une cuisine, une coin nuit, grande salle de bain, WC séparés, petite salle dressing, ainsi qu'un couloir comportant un grand et profond placard. Une cave (très saine) complète ce bien.\n\nImmeuble datant des années 1960 : 4 ascenseurs, gardien, poste de sécurité (réception des colis), un jardin avec coursives dans les parties commune"
+    },
+    "energyClass": "E",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3281427656",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "19",
+      "nb_floors_building": "27",
+      "building_year": "1961",
+      "heating_type": "communal",
+      "heating_mode": "other",
+      "annual_charges": "3702",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52962529",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52962529",
+      "creationDate": "2026-10-03T17:30:36.618Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "La Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88872450061123,
+        "lng": 2.359614426853235
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement Paris 2 pièce(s) 41.5m2",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "42 m²",
+          "splitValue": "42",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/9",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "255 000 €",
+        "formatted": "255 000 €",
+        "additionalInformation": "6 145 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 18EME - MARX DORMOY<br>Votre agence Laforêt vous propose en exclusivité ce 2 pièces en 1er étage à refaire dans une copropriété des années 70 au métro Marx Dormoy.<br>L'appartement se compose d'une entrée, un séjour de 16.5m², une cuisine, une chambre, une salle de bain, un W.C. séparé et un balcon de 8,5m².<br>Vous serez séduit par le calme, l'ascenseur, le potentiel après travaux et la proximité des transports & commerces.<br>A visiter sans tarder! (8.51 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 40 lots (Pas de procédure en cours).<br>Charges annuelles : 2500.00 euros."
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/laforet-immo-facile-52962529",
+    "extra": {
+      "elevator": true,
+      "floor_number": 1,
+      "nb_floors_building": 9,
+      "has_cellar": false,
+      "exposition": null,
+      "annual_charges": 2500,
+      "condo_lots": 40,
+      "heating": "radiateur collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52962534",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52962534",
+      "creationDate": "2026-10-03T17:30:36.618Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "La Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88772465843827,
+        "lng": 2.358218134231644
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement Paris 2 pièce(s) 38 m2",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/7",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "255 000 €",
+        "formatted": "255 000 €",
+        "additionalInformation": "6 644 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 18 - MARX DORMOY.<br>Situé Cité de la chapelle, venez découvrir ce deux pièces de 38,38m2 carrez à fort potentiel travaux, situé au 4e étage avec ascenseur.<br>Il se compose d'une entrée, un dressing, une cuisine séparée, un séjour, une chambre, une salle d'eau et un wc séparé.<br>Les points forts de cet appartement sont la luminosité, la vue dégagé, le potentiel travaux ,l'ascenseur, et l'immeuble est bien entretenu par un couple de gardiens.<br>Vendu avec une grande cave. (6.25 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 55 lots - dont 54 lots habitation. (Pas de procédure en cours).<br>Charges annuelles : 1460.00 euros."
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/laforet-immo-facile-52962534",
+    "extra": {
+      "elevator": null,
+      "floor_number": 4,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1460,
+      "condo_lots": 55,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61589333",
+    "metadata": {
+      "id": "bienici-immo-facile-61589333",
+      "creationDate": "2026-10-03T17:52:38.102Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Jean Moulin - Porte d'Orléans"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8249844537903,
+        "lng": 2.3294021501727347
+      }
+    },
+    "hardFacts": {
+      "title": "PARIS 14 - ALÉSIA",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "41 m²",
+          "splitValue": "41",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/5",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "313 000 €",
+        "formatted": "313 000 €",
+        "additionalInformation": "7 634 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "L'agence immobilière FREDELION Paris 14 Alésia vous propose, en exclusivité, un appartement à rénover d'une surface de 35m2 Carrez et 53m2 au sol, au sein d'une petite copropriété sans travaux à prévoir (ravalements effectués et toiture déjà votée et payée).<br>Situé au 4eme et DERNIER étage SANS ASCENSEUR, le bien se compose d'une entrée, d'une belle pièce de vie avec 2 fenêtres donnant accès à la mezzanine de 18m2, d'une cuisine indépendante et d'une salle de bains avec WC intégrés.<br>Aucune perte de place et belle hauteur sous plafond. Très beau potentiel de rénovation.<br>A visiter sans tarder! (4.33 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 10 lots (Pas de procédure en cours).<br>Charges annuelles : 1304.00 euros."
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-14e/appartement/2pieces/immo-facile-61589333",
+    "extra": {
+      "elevator": false,
+      "floor_number": 4,
+      "nb_floors_building": 5,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1304,
+      "condo_lots": 10,
+      "heating": "radiateur électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
   }
 ]
