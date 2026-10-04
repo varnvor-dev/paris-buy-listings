@@ -113560,5 +113560,595 @@
       "price_decreased": false,
       "is_pro": true
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3282001174",
+    "metadata": {
+      "id": "leboncoin-3282001174",
+      "creationDate": "2026-10-04 14:50:22"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Place des fêtes"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88029,
+        "lng": 2.39712
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces - 35.69m² - Paris 75019 - Rue de Mouzaïa",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "36 m²",
+          "splitValue": "36",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/7",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "319 000 €",
+        "formatted": "319 000 €",
+        "additionalInformation": "8 938 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Bonjour,\n\nNous vendons en direct, de particulier à particulier, un agréable 2 pièces de 35 m², situé dans la rue de Mouzaïa, dans le 19e arrondissement de Paris.\nL’appartement se trouve au 2e étage d’un immeuble (équipé d'un ascenseur) des années 1930 et bénéficie d’une distribution fonctionnelle :\n\n    Une chambre séparée avec de grands placard style art-deco et niches de rangement sur mesure,\n    Une cuisine indépendante installée en 2026 équipée : Plaque de cuisson induction double, frigo top, hotte aspirante,\n    Un salon avec des niches de rangement sur mesure,\n    Un grand couloir offrant un espace de circulation et de rangement confortable,\n    Une salle de bains avec baignoire et lave-linge,\n    Des toilettes séparées avec de nombreux espaces de rangement,\n    Pas de cave dans le l"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3282001174",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "2",
+      "nb_floors_building": "7",
+      "building_year": "1930",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "2800",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3281911120",
+    "metadata": {
+      "id": "leboncoin-3281911120",
+      "creationDate": "2026-10-04 12:58:35"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83467,
+        "lng": 2.29595
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement haussmannien 2P Convention",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 990 €",
+        "formatted": "299 990 €",
+        "additionalInformation": "8 571 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "METRO CONVENTION 2P CHARME DE L'ANCIEN\nÀ deux pas du métro Convention et au cœur d'un quartier très recherché avec de nombreux commerces et services mais très calme, découvrez ce charmant appartement haussmannien de 35,36 m² (loi Carrez), vendu entièrement meublé, situé au 3ème étage d’une copropriété de 6 étages sans ascenseur d'un immeuble de caractère.\n \nLa copropriété vient de bénéficier d'un ravalement de façade tout récent, un véritable atout pour la valorisation du bien et la qualité de l'immeuble.\nTraversant Est-Ouest-Sud, l'appartement est très lumineux et bénéficie d'un plan optimisé sans perte de place.\nEn excellent état, aucuns travaux n'est à prévoir : vous n'avez plus qu'à poser vos valises.\n \nLe bien conserve tout le charme de l'ancien avec parquet d'origine et deux cheminée"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3281911120",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1500",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3281823507",
+    "metadata": {
+      "id": "leboncoin-3281823507",
+      "creationDate": "2026-10-04 11:19:32"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Bassin de la Villette"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88354,
+        "lng": 2.37248
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2pièces 45m2 385 000 très calme",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "45 m²",
+          "splitValue": "45",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/5",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "385 000 €",
+        "formatted": "385 000 €",
+        "additionalInformation": "8 556 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Paris 19e - Avenue Jean Jaurès - 2 pièces de 45 m² au calme, charme de l’ancien\n\nÀ proximité immédiate du bassin de la Villette, à seulement 5 minutes à pied du marché Secrétan et 15 minutes des Buttes-Chaumont, découvrez ce charmant deux-pièces de 45 m², situé dans un immeuble ancien en retrait de l’avenue Jean Jaurès.\n\nL’appartement donne sur une cour intérieure arborée et particulièrement agréable, ainsi que sur une courette à l’arrière. Situé en fond de cour, il bénéficie d’un environnement très calme, tout en profitant de l’atmosphère vivante et recherchée du 19e arrondissement.\n\nSitué au 1er étage, cet appartement traversant a conservé le charme de l’ancien, avec notamment son parquet en bois et ses volumes agréables. Il se compose d’un séjour de 15,5 m² avec cuisine ouverte attenant"
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3281823507",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "5",
+      "building_year": "1890",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "900",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3281784263",
+    "metadata": {
+      "id": "leboncoin-3281784263",
+      "creationDate": "2026-10-04 10:33:32"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Triangle de Choisy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82078,
+        "lng": 2.36254
+      }
+    },
+    "hardFacts": {
+      "title": "​Particulier vend : Bel appartement 2 pièces 49 m² – Vue panoramique Tour Eiffel, sans vis-à-vis avec parking et cave",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "49 m²",
+          "splitValue": "49",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "14/18",
+          "splitValue": "14",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "349 900 €",
+        "formatted": "349 900 €",
+        "additionalInformation": "7 141 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "​Magnifique 2 pièces de 49 m² Carrez situé au 14e étage sur 18 (avec ascenseur) de la Tour Open.\n\n​Bénéficiant d'un excellent classement énergétique (DPE B), cet appartement conjugue confort, performance énergétique et luminosité. Grâce à sa situation en étage élevé et à son exposition nord, il profite d'une belle clarté naturelle tout en évitant l’effet de serre en été.\n\nSans frais d’agence.\n\n​Ses larges ouvertures offrent une vue panoramique et totalement dégagée sur Paris, sans aucun vis-à-vis immédiat.\n​L'agencement :\n- ​Une entrée fonctionnelle desservant l'ensemble des pièces.\n- ​Une belle pièce de vie lumineuse, prolongée par une cuisine ouverte, aménagée et équipée. Un espace convivial idéal pour aménager un coin salon et un espace repas.\n- ​Une chambre indépendante lumineuse dotée"
+    },
+    "energyClass": "B",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3281784263",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "14",
+      "nb_floors_building": "18",
+      "building_year": "2015",
+      "heating_type": "communal",
+      "heating_mode": null,
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3281781624",
+    "metadata": {
+      "id": "leboncoin-3281781624",
+      "creationDate": "2026-10-04 10:30:21"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75010",
+        "district": "Porte Saint-Martin - Paradis"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87129,
+        "lng": 2.3519
+      }
+    },
+    "hardFacts": {
+      "title": "2 pièces. Bonne Nouvelle. DPE D",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "33 m²",
+          "splitValue": "33",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/6",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "295 000 €",
+        "formatted": "295 000 €",
+        "additionalInformation": "8 939 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement sur cour au calme dans quartier animé. Exposition nord, idéal fortes chaleurs. Double vitrage. PLAFOND BAS (2,11m de hauteur sous plafond). Peut être loué car 20 m3 d'air par pièces. Faibles charges : 259€/trimestre avec gardienne et ascenseur. Local vélo.\nPas d'agent immobilier. Tout démarchage sera signalé au Bon Coin. Pas sérieux s'abstenir. Merci de ne pas poser de questions auxquelles j'ai déjà répondu."
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3281781624",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "5",
+      "nb_floors_building": "6",
+      "building_year": "1850",
+      "heating_type": null,
+      "heating_mode": "electric",
+      "annual_charges": "1036",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3281726933",
+    "metadata": {
+      "id": "leboncoin-3281726933",
+      "creationDate": "2026-10-04 09:05:42"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.887215,
+        "lng": 2.3577185
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 42 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "42 m²",
+          "splitValue": "42",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/3",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "311 000 €",
+        "formatted": "311 000 €",
+        "additionalInformation": "7 405 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 42 m²\n\nAppartement À Vendre – 2/3 pièces de 43m2\n\nSitué dans un immeuble ancien, au 1er étage, l'agence Axo Foncier Logis vous propose ce 2 pièces de 43 m².\n\nL'appartement se compose d’un grand séjour lumineux de 27 m² avec cuisine ouverte, d’une chambre, d’une salle d’eau et de WC séparés.\n\nDeux caves en sous-sol complètent ce bien.\n\nProche de la place Hébert, des commerces et de la piscine municipale, cet appartement est idéal pour un premier achat ou un investissement locatif.\n\n \nContactez votre Agent AXO - L'immobilier Actif au [Coordonnées masquées], Slimane DJADANE (E.I) Agent Commercial RSAC 349.201.186 Paris. Plus d'informations sur [URL masquée pour votre sécurité] (réf. 85002124747).\nHonoraires à la charge du vendeur.\nLes informations sur les risques auxquels"
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3281726933",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "3",
+      "building_year": "1930",
+      "heating_type": null,
+      "heating_mode": "electric",
+      "annual_charges": "2184",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-guy-hoquet-18-GT0997-22491",
+    "metadata": {
+      "id": "bienici-guy-hoquet-18-GT0997-22491",
+      "creationDate": "2026-10-04T10:56:56.326Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Danube"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.884930878398414,
+        "lng": 2.3945771079750786
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "36 m²",
+          "splitValue": "36",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/3",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "230 000 €",
+        "formatted": "230 000 €",
+        "additionalInformation": "6 389 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Votre agence Guy Hoquet Romainville vous propose en EXCLUSIVITÉ ce charmant 2 pièces de 36 m² (35,52 m² Loi Carrez), idéalement situé au Pré-Saint-Gervais.<br>À seulement 10 minutes du métro Hoche (ligne 5), à proximité immédiate de la mairie du Pré-Saint-Gervais, des commerces et de toutes les commodités, cet appartement bénéficie d’un emplacement recherché.<br>Situé au dernier étage d’une copropriété, cet appartement donnant sur cour séduira par son calme et son agencement optimisé.<br>Il se compose d’une entrée ouvrant sur un séjour avec cuisine ouverte, d’une chambre, ainsi que d’une salle d’eau avec WC.<br>Grâce à sa localisation et à sa configuration fonctionnelle, ce bien représente une opportunité idéale pour un premier achat ou un investissement locatif.<br>Une opportunité à ne pa"
+    },
+    "energyClass": "G",
+    "ges": "D",
+    "url": "https://www.bienici.com/annonce/vente/paris-19e/appartement/2pieces/guy-hoquet-18-GT0997-22491",
+    "extra": {
+      "elevator": null,
+      "floor_number": 2,
+      "nb_floors_building": 3,
+      "has_cellar": true,
+      "exposition": "Sud Est",
+      "annual_charges": 1128,
+      "condo_lots": null,
+      "heating": "individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-79642a84-072f-42fc-8706-8dac5d197977",
+    "metadata": {
+      "id": "gdc-79642a84-072f-42fc-8706-8dac5d197977",
+      "creationDate": 1791073973000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends t2 - 39.66 m² - Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "39 m²",
+          "splitValue": "39",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "298 000 €",
+        "formatted": "298 000 €",
+        "additionalInformation": "7 641 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-t2-39-dot-66-m-paris-e7f2f71",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Charly",
+      "nb_photos": 9
+    }
   }
 ]
