@@ -114150,5 +114150,376 @@
       "owner_name": "Charly",
       "nb_photos": 9
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3282196238",
+    "metadata": {
+      "id": "leboncoin-3282196238",
+      "creationDate": "2026-10-04 17:56:27"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88609,
+        "lng": 2.3622
+      }
+    },
+    "hardFacts": {
+      "title": "T2_T3 niché sous les toits 75018",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "43 m²",
+          "splitValue": "43",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/6",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "325 000 €",
+        "formatted": "325 000 €",
+        "additionalInformation": "7 558 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Nous mettons en vente cet appartement avec beaucoup de charme\nIl s’agit d’un T2 T3 niché sous les toits situé rue jacques Kablé 75018\n\nAppartement de 43m² au 6ème étage (pas d’’ascenseur)\nParquet ancien ; 2 cheminées\nLoué actuellement en bail meublé 1300 euros cc / mois\nDépart des locataires au 15 novembre 2026\nBonne copropriété\nLocal vélo\nVendu avec une cave\nDPE : E des travaux d’isolation sont en cours par les combles pris en charge par le propriétaire actuel ainsi que le changement de ballon.\nTF 560 euros\nCharges annuelles 1500 euros\n31/1000 ; 30 copropriétaires"
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3282196238",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "6",
+      "nb_floors_building": "6",
+      "building_year": "1910",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3282112866",
+    "metadata": {
+      "id": "leboncoin-3282112866",
+      "creationDate": "2026-10-04 16:41:23"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Simplon - Poissonniers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89359,
+        "lng": 2.34904
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement de 2 pieces Paris 18 lumineux proche metro simplon",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "42 m²",
+          "splitValue": "42",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/5",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "325 000 €",
+        "formatted": "325 000 €",
+        "additionalInformation": "7 738 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Au 5ᵉ étage d’un immeuble de la rue de Clignancourt, ce logement traversant Est-Ouest de 42 m² offre luminosité, peu de vis-à-vis et ses plafonds hauts de 2,60 m.\n\nLa distribution comprend :\n\n    un séjour avec vue dégagée ;\n    une chambre paisible donnant sur cour, à l'abri des nuisances sonores;\n    une cuisine semi-ouverte ;\n    une salle de bains ;\n    des toilettes indépendantes desservies par la chambre ;\n    une entrée dotée d’un dressing\n\nLa double orientation offre une clarté constante et une excellente aération naturelle.\n\nÀ prévoir : la rénovation de la cuisine et de la salle de bains, accompagnée d’un rafraîchissement général.\n\nLa copropriété est bien gérée et aucun travaux n’est prévu pour le moment. Charges mensuelles : 112 €. Diagnostic de performance énergétique : classe D"
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3282112866",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "5",
+      "nb_floors_building": "5",
+      "building_year": "1947",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1348",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag754594-552621230",
+    "metadata": {
+      "id": "bienici-ag754594-552621230",
+      "creationDate": "2026-10-04T14:43:05.475Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "La Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.894122771843975,
+        "lng": 2.3597657916572228
+      }
+    },
+    "hardFacts": {
+      "title": "T2",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "43 m²",
+          "splitValue": "43",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/5",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "262 000 €",
+        "formatted": "262 000 €",
+        "additionalInformation": "6 093 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Rue de la Chapelle - 2 PIECES de 43,40 m² Loi Carrez à rénover.\n\nA proximité du métro Marx Dormoy, L'IMMOBILIERE Bernard LACOSTE vous propose cet appartement traversant de 2 pièces comprenant une entrée, un séjour de 14 m², une chambre, une cuisine séparée et une salle d'eau avec wc. Belle hauteur sous plafond. Appartement lumineux offrant une double exposition : Ouest - Est. Beau potentiel avec un plan modulable. Moins de 5 minutes du métro. Venez vite le visiter !!\n\nBien soumis au statut de la copropriété. Nombre de lots : 37. Quote part du budget prévisionnel annuel : 1 318,44 Euros. Honoraires TTC inclus à la charge de l'acquéreur : 4,80 %.\n\nPour toute demande d'informations et organiser une visite, contactez Adrien au <span class=\"importDescriptionDecorator\" data-type=\"phone\">06.66.76"
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/ag754594-552621230",
+    "extra": {
+      "elevator": false,
+      "floor_number": 1,
+      "nb_floors_building": 5,
+      "has_cellar": null,
+      "exposition": "ouest",
+      "annual_charges": 1318.44,
+      "condo_lots": 37,
+      "heating": "électricité individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-hektor-980_EXPERTIMO22-304357",
+    "metadata": {
+      "id": "bienici-hektor-980_EXPERTIMO22-304357",
+      "creationDate": null
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Vaugirard - Parc des Expositions"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.839484899020505,
+        "lng": 2.285439912873563
+      }
+    },
+    "hardFacts": {
+      "title": "Joli 3 pièces - Métro Boucicaut Lourmel (L8)",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "47 m²",
+          "splitValue": "47",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/7",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "390 000 €",
+        "formatted": "390 000 €",
+        "additionalInformation": "8 374 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "A quelques mètres des stations de métro Boucicaut et Lourmel (L8), au premier étage avec ascenseur d'un bel immeuble de 1912 bien entretenu, joli trois pièces exposé Sud-Est typiquement parisien : parquet, moulures et cheminée (dans une des pièces). Une entrée dessert un salon avec cuisine semi ouverte aménagée et équipée, deux chambres (10,50 m2 et 12 m2), une salle d'eau, un WC indépendant (avec fenêtre). L'appartement est en bon état (fenêtres double vitrage, chaudière gaz neuve, VMC salle d'eau) et dispose d'une cave en sous-sol. L'immeuble dispose d'un local vélo fermé et est bien sécurisé (deux digicodes). Pour les investisseurs : l'appartement est vendu libre (mais était précédemment loué 1 617 EUR + charges locatives de 125 EUR) et meublé et équipé (si rachat des meubles et équipem"
+    },
+    "energyClass": "E",
+    "ges": "F",
+    "url": "https://www.bienici.com/annonce/vente/paris-15e/appartement/3pieces/hektor-980_EXPERTIMO22-304357",
+    "extra": {
+      "elevator": true,
+      "floor_number": 1,
+      "nb_floors_building": 7,
+      "has_cellar": true,
+      "exposition": "Sud Est",
+      "annual_charges": 2309.76,
+      "condo_lots": 39,
+      "heating": "",
+      "work_to_do": false,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-5ba587ae-5d6a-42d1-8489-fabc1b502d68",
+    "metadata": {
+      "id": "gdc-5ba587ae-5d6a-42d1-8489-fabc1b502d68",
+      "creationDate": 1791128506000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends appartement - 43m² - Paris 18ème",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "43 m²",
+          "splitValue": "43",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/6",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "325 000 €",
+        "formatted": "325 000 €",
+        "additionalInformation": "7 558 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/t2-t3-niche-sous-les-toits-paris-18eme-45f0d26",
+    "extra": {
+      "elevator": null,
+      "floor_number": 6,
+      "nb_floors_building": 6,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "north",
+      "is_pro": false,
+      "owner_name": "Isaline",
+      "nb_photos": 3
+    }
   }
 ]
