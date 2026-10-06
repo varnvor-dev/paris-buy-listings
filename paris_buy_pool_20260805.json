@@ -116520,5 +116520,796 @@
       "price_decreased": false,
       "is_pro": true
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3283301437",
+    "metadata": {
+      "id": "leboncoin-3283301437",
+      "creationDate": "2026-10-06 13:47:20"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Porte d'Ivry"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8249,
+        "lng": 2.37183
+      }
+    },
+    "hardFacts": {
+      "title": "Studio lumineux 30,73 m² – Paris 13e – Ascenseur – DPE C",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "31 m²",
+          "splitValue": "31",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/5",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "260 000 €",
+        "formatted": "260 000 €",
+        "additionalInformation": "8 461 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Vends studio lumineux de 30,73m² Loi Carrez, situé au 3ᵉ étage avec ascenseur d’une résidence récente, calme et bien entretenue.\n\nL’appartement se compose d’une entrée avec coin cuisine, d’une salle d’eau avec WC et d’une grande pièce de vie.\n\nLe studio est en très bon état et ne nécessite pas de travaux. Il bénéficie notamment de fenêtres en PVC double vitrage et d’un chauffage électrique individuel.\n\nDPE : C\n\nLa résidence offre également à ses occupants l’accès à une salle de sport et une laverie au sein de l’immeuble.\n\nEmplacement recherché\nÀ proximité immédiate des commerces, transports et établissements universitaires : \n- Tramway T3a\n- Métro ligne 7\n- Métro ligne 14 – Olympiades / Bibliothèque François-Mitterrand à environ 8 minutes à pied.\n- Nombreuses lignes de bus\n\nIdéal investiss"
+    },
+    "energyClass": "C",
+    "ges": "A",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3283301437",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "3",
+      "nb_floors_building": "5",
+      "building_year": "1998",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1138",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3283280504",
+    "metadata": {
+      "id": "leboncoin-3283280504",
+      "creationDate": "2026-10-06 13:10:51"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Ménilmontant - Amandiers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.86468,
+        "lng": 2.39415
+      }
+    },
+    "hardFacts": {
+      "title": "Joli petit 2 pieces ave GAMBETTA",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/6",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "355 000 €",
+        "formatted": "355 000 €",
+        "additionalInformation": "8 875 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Charme de l'ancien et confort moderne – Coup de coeur assuré \nSitué avenue GAMBETTA  au pied du metro ligne 3 station GAMBETTA, dans un quartier vivant, recherché et arboré au cœur du 20e arrondissement, je vous propose ce beau 2 pièces de 40 m², entièrement refait à neuf, alliant le charme de l'ancien au confort d'un intérieur moderne. ️ 2 pièces de charme.\n\nDès l'entrée, vous trouverez des WC séparés et une douche à l'italienne. La cuisine séparée, entièrement équipée, offre un espace fonctionnel et agréable au quotidien. Une belle pièce à vivre lumineuse et agréable est sublimée par une petite cheminée.\nElle est suivie d'une chambre, elle aussi dotée d'une cheminée et disposant de nombreux rangements intégrés, permettant de profiter pleinement de l'espace..\nChauffage individuel au élect"
+    },
+    "energyClass": "B",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3283280504",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "1",
+      "nb_floors_building": "6",
+      "building_year": "1935",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "700",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3283197828",
+    "metadata": {
+      "id": "leboncoin-3283197828",
+      "creationDate": "2026-10-06 11:19:55"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83467,
+        "lng": 2.29595
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement haussmannien 2P Convention",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 990 €",
+        "formatted": "299 990 €",
+        "additionalInformation": "8 571 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "METRO CONVENTION 2P CHARME DE L'ANCIEN\nÀ deux pas du métro Convention et au cœur d'un quartier très recherché avec de nombreux commerces et services mais très calme, découvrez ce charmant appartement haussmannien de 35,36 m² (loi Carrez), vendu entièrement meublé, situé au 3ème étage d’une copropriété de 6 étages sans ascenseur d'un immeuble de caractère.\n \nLa copropriété vient de bénéficier d'un ravalement de façade tout récent, un véritable atout pour la valorisation du bien et la qualité de l'immeuble.\nTraversant Est-Ouest-Sud, l'appartement est très lumineux et bénéficie d'un plan optimisé sans perte de place.\nEn excellent état, aucuns travaux n'est à prévoir : vous n'avez plus qu'à poser vos valises.\n \nLe bien conserve tout le charme de l'ancien avec parquet d'origine et deux cheminée"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3283197828",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1500",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3283116648",
+    "metadata": {
+      "id": "leboncoin-3283116648",
+      "creationDate": "2026-10-06 09:26:10"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Place des fêtes"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87547,
+        "lng": 2.391082
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 33 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "33 m²",
+          "splitValue": "33",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/22",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "268 000 €",
+        "formatted": "268 000 €",
+        "additionalInformation": "8 121 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 33 m²\n\niad France - Chunfei Lin vous propose: 🏠 Paris 19e | Appartement 2 pièces de 33,27 m² proche métro ligne 11\n🚗 Parking en sous-sol + cave+dpe D\n\nVous recherchez un appartement à Paris, bien desservi, proche de toutes les commodités et avec une place de parking ? Ce bien mérite votre attention ! ✨\n\n🏡 Les atouts du bien\n\n✅ Situé au 3e étage, avec un séjour exposé nord\n✅ Appartement 2 pièces, avec une distribution fonctionnelle\n✅ Cuisine indépendante et équipée, idéale pour cuisiner sans diffuser les odeurs dans le séjour\n✅ Salle de bains et WC  pour plus de confort au quotidien\n✅ Espace de rangement dans l’appartement + une cave en complément\n✅ Une place de parking en sous-sol, un véritable atout à Paris\n\n🔐 Résidence et prestations\n\n▪️ Présence d’un gardien et d’un"
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3283116648",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "3",
+      "nb_floors_building": "22",
+      "building_year": "1970",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "2472",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag755440-552885686",
+    "metadata": {
+      "id": "bienici-ag755440-552885686",
+      "creationDate": "2026-10-06T11:11:01.567Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Paris 20"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.865041983,
+        "lng": 2.398928958
+      }
+    },
+    "hardFacts": {
+      "title": "APPARTEMENT 3 PIÈCES - BAGNOLET LIMITE PARIS 20EME",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "71 m²",
+          "splitValue": "71",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "10/14",
+          "splitValue": "10",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "275 000 €",
+        "formatted": "275 000 €",
+        "additionalInformation": "3 873 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "EXCLUSIVITÉ DOLY / PROCHE 20ᵉ / PROCHE LES LILAS / PLACE DE PARKING BOXÉ\n\nDOLY est fier de vous présenter cet appartement de 71 m², baigné de lumière et à rafraîchir, situé à moins de 7 minutes à pied de la station de tramway Adrienne Bolland (ligne T3b) et à moins de 15 minutes à pied de la station de métro Mairie des Lilas (ligne 11).\n\nSitué au 10ᵉ étage avec ascenseur, au calme et avec une vue dégagée, au sein d'une copropriété des années 1970 avec jardin très bien entretenu, il se compose d'une entrée, d'un séjour lumineux exposé Est, d'une cuisine indépendante, de deux chambres, d'une salle de bains et d'un WC indépendant.\n\nUne place de parking complète ce bien en sus du prix.\n\nOutre sa proximité immédiate avec les transports, l'appartement bénéficie d'un environnement privilégié, ave"
+    },
+    "energyClass": "D",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-20e/appartement/3pieces/ag755440-552885686",
+    "extra": {
+      "elevator": true,
+      "floor_number": 10,
+      "nb_floors_building": 14,
+      "has_cellar": null,
+      "exposition": "est",
+      "annual_charges": 3600,
+      "condo_lots": null,
+      "heating": "radiateur gaz collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag755440-552885251",
+    "metadata": {
+      "id": "bienici-ag755440-552885251",
+      "creationDate": "2026-10-06T11:11:01.567Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Gambetta"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87361139422768,
+        "lng": 2.412670764961145
+      }
+    },
+    "hardFacts": {
+      "title": "APPARTEMENT 3 PIÈCES - BAGNOLET LIMITE PARIS 20EME",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "69 m²",
+          "splitValue": "69",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "7/14",
+          "splitValue": "7",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "300 000 €",
+        "formatted": "300 000 €",
+        "additionalInformation": "4 348 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "EXCLUSIVITÉ DOLY / PROCHE 20ᵉ / PROCHE LES LILAS / PLACE DE PARKING\n\nDOLY est fier de vous présenter cet appartement de 69 m², lumineux, situé à moins de 7 minutes à pied de la station de tramway Adrienne Bolland (ligne T3b) et à moins de 15 minutes à pied de la station de métro Mairie des Lilas (ligne 11).\n\nSitué au 7ᵉ étage avec ascenseur, au calme et avec une vue dégagée, au sein d'une copropriété des années 1970 avec jardin très bien entretenu, il se compose d'une entrée, d'un séjour lumineux exposé Est, d'une cuisine indépendante, de deux chambres , d'une salle de bains et d'un WC indépendant.\n\nUne place de parking en intérieur boxé en sus est possible.\n\nOutre sa proximité immédiate avec les transports, l'appartement bénéficie d'un environnement privilégié, avec commerces, restaurants"
+    },
+    "energyClass": "D",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-20e/appartement/3pieces/ag755440-552885251",
+    "extra": {
+      "elevator": true,
+      "floor_number": 7,
+      "nb_floors_building": 14,
+      "has_cellar": null,
+      "exposition": "est",
+      "annual_charges": 3591.99999999996,
+      "condo_lots": null,
+      "heating": "radiateur gaz collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-iad-france-1032150",
+    "metadata": {
+      "id": "bienici-iad-france-1032150",
+      "creationDate": "2026-10-06T09:58:32.372Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Didot - Porte de Vanves"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82996330575109,
+        "lng": 2.3137340232424983
+      }
+    },
+    "hardFacts": {
+      "title": "Vente Appartement 2 pièces",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "326 000 €",
+        "formatted": "326 000 €",
+        "additionalInformation": "8 195 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "iad France - Vincent Caiazzo vous propose: ' EN EXCLUSIVITÉ ' PARIS 14e – PLAISANCE – 2 PIÈCES D’ENVIRON 40 M²<br>Situé au cOEur du quartier Plaisance, dans le 14e arrondissement de Paris, à proximité immédiate du métro et à seulement 3 stations de Montparnasse, venez découvrir ce charmant appartement 2 pièces d’environ 40 m².<br>Au 3e étage sur 6 d’un immeuble en très bon état, sans ascenseur, l’appartement se compose d’une entrée desservant un agréable séjour avec cuisine américaine entièrement aménagée et équipée, offrant un espace de vie convivial et fonctionnel.<br>L’espace nuit comprend une chambre indépendante, ainsi qu’une salle de bains avec baignoire et lavabo. Les WC sont séparés.<br>L’appartement bénéficie de fenêtres en double vitrage bois et d’un chauffage individuel électriq"
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-14e/appartement/2pieces/iad-france-1032150",
+    "extra": {
+      "elevator": false,
+      "floor_number": null,
+      "nb_floors_building": 7,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 2200,
+      "condo_lots": 24,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-f2d8d03e-00e6-4c65-a653-6e7bc81085b8",
+    "metadata": {
+      "id": "gdc-f2d8d03e-00e6-4c65-a653-6e7bc81085b8",
+      "creationDate": 1791188552000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends Appartement Loué - 34m² - Paris 19ème",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34 m²",
+          "splitValue": "34",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/9",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "230 000 €",
+        "formatted": "230 000 €",
+        "additionalInformation": "6 765 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vente-appartement-34m-paris-19eme-f9e2fec",
+    "extra": {
+      "elevator": true,
+      "floor_number": 2,
+      "nb_floors_building": 9,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Myriam",
+      "nb_photos": 8
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-d610e656-fd4a-4d00-afc2-ffc0d7518746",
+    "metadata": {
+      "id": "gdc-d610e656-fd4a-4d00-afc2-ffc0d7518746",
+      "creationDate": 1791287334000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends studio lumineux 30,73 m² – Paris 13e – Ascenseur – DPE C",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "31 m²",
+          "splitValue": "31",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/5",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "260 000 €",
+        "formatted": "260 000 €",
+        "additionalInformation": "8 387 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/studio-31m-paris-13-quartier-olympiades-dpe-c-aucun-travaux-553fd3f",
+    "extra": {
+      "elevator": true,
+      "floor_number": 3,
+      "nb_floors_building": 5,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "east,north",
+      "is_pro": false,
+      "owner_name": "Guillaume",
+      "nb_photos": 5
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-2d085519-cb17-47db-9a43-9973478ea9cd",
+    "metadata": {
+      "id": "gdc-2d085519-cb17-47db-9a43-9973478ea9cd",
+      "creationDate": 1789394930000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends appartement - 32m² - Paris 20ème",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "32 m²",
+          "splitValue": "32",
+          "label": "m²"
+        }
+      ],
+      "price": {
+        "value": "279 000 €",
+        "formatted": "279 000 €",
+        "additionalInformation": "8 719 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-appartement-32-m-avec-balcon-paris-20-9efcaae",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Clémence",
+      "nb_photos": 5
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-5f7fc73d-c225-422c-b00c-c2ce010d78fe",
+    "metadata": {
+      "id": "gdc-5f7fc73d-c225-422c-b00c-c2ce010d78fe",
+      "creationDate": 1777619485000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends appartement - 52m² - Paris 15ème",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "52 m²",
+          "splitValue": "52",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/8",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "349 000 €",
+        "formatted": "349 000 €",
+        "additionalInformation": "6 712 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-appartement-2p-49m-residence-senior-15eme-paris-c296430",
+    "extra": {
+      "elevator": true,
+      "floor_number": 2,
+      "nb_floors_building": 8,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": true,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Astrid",
+      "nb_photos": 11
+    }
   }
 ]
