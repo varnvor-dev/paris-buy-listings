@@ -117827,5 +117827,520 @@
       "owner_name": "Lucien",
       "nb_photos": 12
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3283837008",
+    "metadata": {
+      "id": "leboncoin-3283837008",
+      "creationDate": "2026-10-07 11:48:29"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75010",
+        "district": "Porte Saint-Martin - Paradis"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87129,
+        "lng": 2.3519
+      }
+    },
+    "hardFacts": {
+      "title": "2 pièces. Bonne Nouvelle. DPE D",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "33 m²",
+          "splitValue": "33",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/6",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "295 000 €",
+        "formatted": "295 000 €",
+        "additionalInformation": "8 939 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement sur cour au calme dans quartier animé. Exposition nord, idéal fortes chaleurs. Double vitrage. PLAFOND BAS (2,11m de hauteur sous plafond). Peut être loué car 20 m3 d'air par pièces. Faibles charges : 264€/trimestre avec ascenseur, gardienne et local vélo. Pas d'agent immobilier. Tout démarchage sera signalé au Bon Coin. Pas sérieux s'abstenir."
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3283837008",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "5",
+      "nb_floors_building": "6",
+      "building_year": "1850",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1036",
+      "specificities": null,
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3283792203",
+    "metadata": {
+      "id": "leboncoin-3283792203",
+      "creationDate": "2026-10-07 10:48:06"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Porte des Lilas"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87924,
+        "lng": 2.4023848
+      }
+    },
+    "hardFacts": {
+      "title": "Studio 1 pièce 40 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/2",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "304 000 €",
+        "formatted": "304 000 €",
+        "additionalInformation": "7 600 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Studio 1 pièce 40 m²\n\nCONTACT : Laura Leclercq [Coordonnées masquées] \nLe Réseau Immo vous propose en exclusivité ce studio de 39,74 m², bénéficiant d'un grand balcon d'environ 5 m² donnant sur un jardin verdoyant et au calme.\nIdéalement situé à seulement 3 minutes à pied du métro Porte des Lilas (lignes 11 et 3 bis) et du tramway T3b, l'appartement se compose d'une entrée, d'un spacieux séjour de 22 m² ouvrant sur le balcon, d'un dégagement avec de nombreux rangements, d'une cuisine indépendante de 5 m² ainsi que d'une salle de bains avec WC de 5 m².\nAu calme absolu, ce bien séduira par sa situation privilégiée, à proximité immédiate des commerces et des transports, ainsi que par son agréable espace extérieur.\nDes travaux sont à prévoir.\nUne cave en sous-sol complète ce bien.\n\nSurface : 4"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3283792203",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "2",
+      "nb_floors_building": "2",
+      "building_year": "1975",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag751087-550176074",
+    "metadata": {
+      "id": "bienici-ag751087-550176074",
+      "creationDate": "2026-09-17T16:21:59.615Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Grandes Carrières - Clichy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89433319227469,
+        "lng": 2.3354807957260664
+      }
+    },
+    "hardFacts": {
+      "title": "IDEAL 1ER ACHAT ou INVESTISSEUR",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "36 m²",
+          "splitValue": "36",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/6",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "309 000 €",
+        "formatted": "309 000 €",
+        "additionalInformation": "8 583 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "GRANDES-CARRIÈRES — Au pied du marché de la Ordener (mercredis et samedis) et des commerces, DEUX PIÈCES TRAVERSANT de 36,33 m² au 1er étage (sans ascenseur).\n\nPARQUET, MOULURES et 2,70 m de hauteur sous plafond : l'appartement conserve le CHARME DE L'ANCIEN et présente un bon état général : électricité aux normes, fenêtres double vitrages, DPE E.\n\nIl comprend un séjour de 13 m² donnant sur la RUE DESIRE RUGGIERI, rue peu passante, une chambre de 11 m² donnant sur cour, une cuisine indépendante, une salle d'eau et des WC séparés.\n\nPRÊT À ÊTRE HABITÉ, il conviendra à un premier achat ou à un projet d'investissement.\n\n1 CAVE complète ce bien.\nUn emplacement pour les vélos est également disponible dans la cour.\n\nProvisions pour charges : 120 € / mois\nTaxe foncière 2026 : 926 €\nLes information"
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/ag751087-550176074",
+    "extra": {
+      "elevator": false,
+      "floor_number": 1,
+      "nb_floors_building": 6,
+      "has_cellar": true,
+      "exposition": "sud",
+      "annual_charges": 1440,
+      "condo_lots": null,
+      "heating": "électricité individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52970759",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52970759",
+      "creationDate": "2026-10-07T11:50:10.576Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.832627081650024,
+        "lng": 2.302963927288153
+      }
+    },
+    "hardFacts": {
+      "title": "2 PIECES - PARIS 15",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "32 m²",
+          "splitValue": "32",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/7",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "283 500 €",
+        "formatted": "283 500 €",
+        "additionalInformation": "8 946 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Laforêt Convention vous présente un appartement de 2 pièces de 31m² situé rue Brancion, dans le 15ème arrondissement de Paris. Ce bien se situe dans une copropriété très bien entretenue avec ascenseur et gardienne. <br>Cet appartement comprends une  cuisine aménagée équipée, un salon, une chambre, une salle de bain et des WC séparés.  <br>A proximité immédiate du parc Georges Brassens, cette adresse offre un cadre de vie recherché entre verdure et commerces de proximités.<br>N'hésitez pas à nous contacter si vous souhaitez visiter ce bien. (5.00 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 35 lots (Pas de procédure en cours).<br>Charges annuelles : 2526.71 euros."
+    },
+    "energyClass": "F",
+    "ges": "F",
+    "url": "https://www.bienici.com/annonce/vente/paris-15e/appartement/2pieces/laforet-immo-facile-52970759",
+    "extra": {
+      "elevator": true,
+      "floor_number": 2,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 2526.71,
+      "condo_lots": 35,
+      "heating": "radiateur gaz collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-04c834e6-ff56-4cb2-9d5f-f5fa6b234c50",
+    "metadata": {
+      "id": "gdc-04c834e6-ff56-4cb2-9d5f-f5fa6b234c50",
+      "creationDate": 1788963285000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75010",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends appartement - 34m² - Paris 10ème",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34 m²",
+          "splitValue": "34",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "7/8",
+          "splitValue": "7",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "300 000 €",
+        "formatted": "300 000 €",
+        "additionalInformation": "8 824 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vente-appartement-a-paris-10e-arrondissement-0e31998",
+    "extra": {
+      "elevator": null,
+      "floor_number": 7,
+      "nb_floors_building": 8,
+      "has_cellar": true,
+      "has_balcony": true,
+      "has_terrace": false,
+      "exposition": "east",
+      "is_pro": true,
+      "owner_name": "Victoire",
+      "nb_photos": 10
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-b9f1bf3f-e8d6-4f6d-93e4-b2d1bc4e660a",
+    "metadata": {
+      "id": "gdc-b9f1bf3f-e8d6-4f6d-93e4-b2d1bc4e660a",
+      "creationDate": 1784368552000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends appartement à rénover - 28 m² pondérés - cinq minutes d'Alésia",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "30 m²",
+          "splitValue": "30",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/6",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "235 000 €",
+        "formatted": "235 000 €",
+        "additionalInformation": "7 833 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-deux-pieces-a-renover-a-cinq-minutes-d-alesia-62c80e0",
+    "extra": {
+      "elevator": null,
+      "floor_number": 6,
+      "nb_floors_building": 6,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "east",
+      "is_pro": true,
+      "owner_name": "Anne",
+      "nb_photos": 6
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-2502a51f-19fc-4ee7-ad60-5c87089304ba",
+    "metadata": {
+      "id": "gdc-2502a51f-19fc-4ee7-ad60-5c87089304ba",
+      "creationDate": 1791371088000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends t2 - 41 m² - Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "41 m²",
+          "splitValue": "41",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "284 000 €",
+        "formatted": "284 000 €",
+        "additionalInformation": "6 927 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-t2-41-m-paris-cea5d58",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Olivier & Sophie",
+      "nb_photos": 17
+    }
   }
 ]
