@@ -117311,5 +117311,521 @@
       "owner_name": "Astrid",
       "nb_photos": 11
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3283692097",
+    "metadata": {
+      "id": "leboncoin-3283692097",
+      "creationDate": "2026-10-07 05:07:27"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Barbès - Château Rouge"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.889385,
+        "lng": 2.3491569
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 41 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "41 m²",
+          "splitValue": "41",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/5",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "275 000 €",
+        "formatted": "275 000 €",
+        "additionalInformation": "6 707 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 41 m²\n\nRUE MARCADET - 3EME ETAGE - 2 PIECES\n\nIdéalement situé dans le 18? arrondissement de Paris, Votre agence LEON IMMOBILIER, vous présente EN EXCLUSIVITE, cet appartement 2 pièces de 40 m², niché au 3? étage d'un immeuble ANCIEN de 1880.\n\nCet appartement traversant se distingue par sa belle luminosité naturelle et son calme \n\nSéjour lumineux : Baigné de lumière grâce à son exposition SUD, le séjour offre une agréable pièce de vie.  \nChambre : Une chambre spacieuse et agréable.  \nCuisine : Cuisine indépendante et aménagée.  \nSalle d'eau & WC : Une salle d'eau avec WC\n\nCharges de copropriété : 130 € / mois (soit 1 560 € / an)  \nTaxe foncière : 847 € / an\nPOSSIBILITE D'UN BOX EN SUS Thibault KERAMOAL (EI) Agent Commercial - Numéro RSAC : 814354734 - NANTERRE.\n\nSurface"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3283692097",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "5",
+      "building_year": "1880",
+      "heating_type": "individual",
+      "heating_mode": "gas",
+      "annual_charges": "1560",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3283547173",
+    "metadata": {
+      "id": "leboncoin-3283547173",
+      "creationDate": "2026-10-06 19:45:34"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Porte d'Ivry"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.822395,
+        "lng": 2.3710241
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 49 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "49 m²",
+          "splitValue": "49",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/11",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "282 000 €",
+        "formatted": "282 000 €",
+        "additionalInformation": "5 755 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 49 m²\n\nSitué dans le quartier recherché du Petit Ivry à IVRY-SUR-SEINE, découvrez ce grand T2 de 47,28 m² (carrez) avec un balcon de 3m² environ (pondéré à 49m²)  au sein d'une copropriété récente (2015) , sécurisée et parfaitement entretenue.\nL'appartement se compose d'un agréable séjour avec cuisine ouverte équipée et aménagée, d'une chambre donnant accès au balcon, ainsi que d'une salle d'eau avec WC.\nGrâce à sa double exposition Sud-Est / Sud-Ouest, ce bien bénéficie d'une belle luminosité tout au long de la journée et d'une vue dégagée sur la cime des arbres, offrant un cadre de agréable.\nLes atouts :\n- Copropriété récente et sécurisée\n- Double exposition Sud-Est / Sud-Ouest\n- Balcon et vue dégagée\n- Ascenseur\n- Local vélo\n- À proximité immédiate du métro, du tram"
+    },
+    "energyClass": "B",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3283547173",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "5",
+      "nb_floors_building": "11",
+      "building_year": "2015",
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": "2000",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3283380750",
+    "metadata": {
+      "id": "leboncoin-3283380750",
+      "creationDate": "2026-10-06 15:46:12"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75010",
+        "district": "Porte Saint-Martin - Paradis"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.873024,
+        "lng": 2.354576
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 33 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "33 m²",
+          "splitValue": "33",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/5",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "262 000 €",
+        "formatted": "262 000 €",
+        "additionalInformation": "7 939 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 33 m²\n\nGARE DE L'EST - RUE SAINT LAURENT\n\nVotre agence LAFORET a le plaisir de vous présenter cet appartement deux pièces de 32.86 m² carrez au deuxième étage d'un immeuble ancien récemment ravalé.\nIl est composé d'un salon, d'une cuisine dînatoire, d'une chambre et d'une vaste salle d'eau avec w-c traditionnel.\nCharges de copropriété 115 € par mois et 16.44 € de fonds travaux ALUR\nA rénover entièrement et à moduler selon vos envies !!\n\nSurface : 33 m²\n\nA propos de la copropriété :\nPas de procédure en cours\nStatut provisoire du syndicat : Pas de procédure en cours\nNombre de lots : 48\nDate de réalisation du diagnostic énergétique : 02/10/2026\n\nConsommation énergie primaire : 244 kWh/m²/an\nConsommation énergie finale : 128 kWh/m²/an\n\nMontant estimé des dépenses annuelles"
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3283380750",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "2",
+      "nb_floors_building": "5",
+      "building_year": "1801",
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": null,
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag754594-552937799",
+    "metadata": {
+      "id": "bienici-ag754594-552937799",
+      "creationDate": "2026-10-06T17:12:14.518Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "La Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.894122771843975,
+        "lng": 2.3597657916572228
+      }
+    },
+    "hardFacts": {
+      "title": "T2",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "43 m²",
+          "splitValue": "43",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/5",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "262 000 €",
+        "formatted": "262 000 €",
+        "additionalInformation": "6 093 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Rue de la Chapelle - 2 PIECES de 43,40 m² Loi Carrez à rénover.\n\nA proximité du métro Marx Dormoy, L'IMMOBILIERE Bernard LACOSTE vous propose cet appartement traversant de 2 pièces comprenant une entrée, un séjour de 14 m², une chambre, une cuisine séparée et une salle d'eau avec wc. Belle hauteur sous plafond. Appartement lumineux offrant une double exposition : Ouest - Est. Beau potentiel avec un plan modulable. Moins de 5 minutes du métro. Venez vite le visiter !!\n\nBien soumis au statut de la copropriété. Nombre de lots : 37. Quote part du budget prévisionnel annuel : 1 318,44 Euros. Honoraires TTC inclus à la charge de l'acquéreur : 4,80 %.\n\nPour toute demande d'informations et organiser une visite, contactez Adrien au <span class=\"importDescriptionDecorator\" data-type=\"phone\">06.66.76"
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/ag754594-552937799",
+    "extra": {
+      "elevator": false,
+      "floor_number": 1,
+      "nb_floors_building": 5,
+      "has_cellar": null,
+      "exposition": "ouest",
+      "annual_charges": 1318.44,
+      "condo_lots": 37,
+      "heating": "électricité individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52967974",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52967974",
+      "creationDate": "2026-10-06T17:51:53.105Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Olympiades - Choisy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.81933831000086,
+        "lng": 2.3621294821987857
+      }
+    },
+    "hardFacts": {
+      "title": "2 pièces en étage élevé !",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "39 m²",
+          "splitValue": "39",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "19/32",
+          "splitValue": "19",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "247 300 €",
+        "formatted": "247 300 €",
+        "additionalInformation": "6 341 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Porte d'Ivry : au pied de la ligne 7 et à 8 minutes de la ligne 14, découvrez ce grand 2 pièces sans travaux avec vue dégagée !<br>Double exposition, calme, luminosité, autant d'atouts qui vous attendent.<br>Vendu avec une cave (7.52 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 950 lots - dont 315 lots habitation. (Procédure en cours).<br>Charges annuelles : 3720.00 euros."
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.bienici.com/annonce/vente/paris-13e/appartement/2pieces/laforet-immo-facile-52967974",
+    "extra": {
+      "elevator": true,
+      "floor_number": 19,
+      "nb_floors_building": 32,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 3720,
+      "condo_lots": 950,
+      "heating": "radiateur gaz collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-century-21-202_480_28731",
+    "metadata": {
+      "id": "bienici-century-21-202_480_28731",
+      "creationDate": "2026-10-07T00:07:07.401Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75012",
+        "district": "Bel-Air - Sud"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.84323674623118,
+        "lng": 2.4388432705426384
+      }
+    },
+    "hardFacts": {
+      "title": "bienici — Paris 12e",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "44 m²",
+          "splitValue": "44",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "393 000 €",
+        "formatted": "393 000 €",
+        "additionalInformation": "8 851 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS XIIe,<br>CENTURY 21 Bel Air vous propose ce charmant appartement de 44,40 m², situé au 3ème étage avec ascenseur d'un immeuble ancien.<br>Lumineux et traversant, cet appartement se compose d'une entrée, d'un séjour, d'une cuisine indépendante, d'une chambre, d'une pièce supplémentaire actuellement aménagée en chambre d'appoint, pouvant faire office de bureau ou de dressing, ainsi que d'une salle d'eau avec WC.<br>Des travaux de rénovation sont à prévoir, offrant la possibilité de repenser l'appartement selon vos envies. <br>À noter qu'un ancien dégât des eaux dans la cuisine a été réparé, mais que les travaux de remise en peinture restent à effectuer.<br>Contactez-nous pour visiter !"
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-12e/appartement/3pieces/century-21-202_480_28731",
+    "extra": {
+      "elevator": true,
+      "floor_number": 3,
+      "nb_floors_building": 6,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 2036,
+      "condo_lots": 11,
+      "heating": "Individuel  Electricité",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-2463520f-84e7-4434-a517-1a9ce89cc2d4",
+    "metadata": {
+      "id": "gdc-2463520f-84e7-4434-a517-1a9ce89cc2d4",
+      "creationDate": 1790257544000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75011",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends appartement - 40m² - Paris 11ème",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        }
+      ],
+      "price": {
+        "value": "330 000 €",
+        "formatted": "330 000 €",
+        "additionalInformation": "8 250 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/appartement-3920m-paris-11eme-0096bd7",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "south,east",
+      "is_pro": false,
+      "owner_name": "Lucien",
+      "nb_photos": 12
+    }
   }
 ]
