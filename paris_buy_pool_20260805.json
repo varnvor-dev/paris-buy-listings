@@ -45745,5 +45745,667 @@
       "price_decreased": false,
       "is_pro": true
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3286839777",
+    "metadata": {
+      "id": "leboncoin-3286839777",
+      "creationDate": "2026-10-12 05:03:18"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Plaine - Lagny"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.84874,
+        "lng": 2.4001286
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 36 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "36 m²",
+          "splitValue": "36",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/5",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 000 €",
+        "formatted": "299 000 €",
+        "additionalInformation": "8 306 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 36 m²\n\n**~~ Visite virtuelle DISPONIBLE ~~**\n------------------------------\n\nL'Adresse Paris 12 vous propose en EXCLUSIVITE ce charmant 2 pièces d'environ 37m² , situé rue de Lagny, dans le 20ème arrondissement, et à proximité immédiate de la place de la NATION.\nL'appartement sera vendu LIBRE DE TOUT OCCUPANT.\n\nSitué au 5ème étage sans ascenseur d'un immeuble construit en 1880, vous serez séduits par les volumes de cet appartement et sa luminosité, ainsi que son parquet massif d'origine.\nDes travaux de rénovation complète sont à prévoir pour révéler toute la beauté et le charme des lieux.\n\nDonnant entièrement au calme sur la cour de l'immeuble, l'appartement est composé de :\n- 1 entrée\n- 1 séjour cuisine de 14m²\n- 1 chambre de 14m²\n- 1 salle de bain + WC \n- 1 cave\nTout"
+    },
+    "energyClass": "G",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3286839777",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "5",
+      "nb_floors_building": "5",
+      "building_year": "1880",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "852",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3286778622",
+    "metadata": {
+      "id": "leboncoin-3286778622",
+      "creationDate": "2026-10-11 22:27:41"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83467,
+        "lng": 2.29595
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement haussmannien 2P Convention",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 990 €",
+        "formatted": "299 990 €",
+        "additionalInformation": "8 571 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "METRO CONVENTION 2P CHARME DE L'ANCIEN\nÀ deux pas du métro Convention et au cœur d'un quartier très recherché avec de nombreux commerces et services mais très calme, découvrez ce charmant appartement haussmannien de 35,36 m² (loi Carrez), vendu entièrement meublé, situé au 3ème étage d’une copropriété de 6 étages sans ascenseur d'un immeuble de caractère.\n \nLa copropriété vient de bénéficier d'un ravalement de façade tout récent, un véritable atout pour la valorisation du bien et la qualité de l'immeuble.\nTraversant Est-Ouest-Sud, l'appartement est très lumineux et bénéficie d'un plan optimisé sans perte de place.\nEn excellent état, aucuns travaux n'est à prévoir : vous n'avez plus qu'à poser vos valises.\n \nLe bien conserve tout le charme de l'ancien avec parquet d'origine et deux cheminée"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3286778622",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1500",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3286719156",
+    "metadata": {
+      "id": "leboncoin-3286719156",
+      "creationDate": "2026-10-11 20:30:23"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Saint-Blaise"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.860825,
+        "lng": 2.401064
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 37 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "37 m²",
+          "splitValue": "37",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/6",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "293 000 €",
+        "formatted": "293 000 €",
+        "additionalInformation": "7 919 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 37 m²\n\nRue PELLEPORT LE CHARME DE L'ANCIEN AU CALME D'UNE COUR PAVÉE\nRue Pelleport, à l'abri de l'animation de la rue, l'Adresse Wattignies vous propose cet appartement de deux pièces de 37,25 m², situé au 4ème étage d'un immeuble ancien en brique, au calme d'une cour pavée.\n\nDès l'entrée, vous apprécierez sa distribution fonctionnelle, qui permet de profiter de pièces bien distinctes et agréables à aménager. Le séjour accueille votre espace de détente et un coin repas, tandis que la chambre, d'une superficie de près de 13 m², offre la place nécessaire pour installer un lit double et des rangements. Une cuisine indépendante, une salle d'eau et des WC séparés complètent l'ensemble.\n\nLe parquet et les cheminées apportent le cachet recherché dans un appartement ancien. Se"
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3286719156",
+    "extra": {
+      "elevator": null,
+      "floor_number": "4",
+      "nb_floors_building": "6",
+      "building_year": null,
+      "heating_type": "individual",
+      "heating_mode": "other",
+      "annual_charges": "1213",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3214468134",
+    "metadata": {
+      "id": "leboncoin-3214468134",
+      "creationDate": "2026-10-01 00:43:37"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Jourdain - Telegraphe"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.868534,
+        "lng": 2.3987665
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 1 pièce 34 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34 m²",
+          "splitValue": "34",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/18",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "219 450 €",
+        "formatted": "219 450 €",
+        "additionalInformation": "6 454 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "STUDIO - PARIS XX - 33m2 - CAVE - PARKING - VUE DÉGAGÉE - LOUÉ\n\nStudio de 33 m² environ situé au 1e étage d'une copropriété bien tenue avec interphone, ascenseurs, gardiens, au cœur du 20e arrondissement.\nLe bien bénéficie d'un plan bien optimisé : entrée desservant salle de bain et pièce de vie. Coin cuisine bien optimisé.\nUne immense baie vitrée avec vue dégagée sur parc et une bonne luminosité font de cet appartement un lieu tourné ouvert et aéré.\nQuartier dynamique et proximité immédiate des transports en commun : M° Pelleport ou Telegraphe à 500m - et des commerces.\n\nUne cave et un emplacement de parking complètent la vente.\nParfait pour un premier achat en investissement locatif.\n\nPoint d'attention : le bien est vendu loué avec bail d'habitation classique daté du 1er mars 1996.\nLoyer"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3214468134",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "1",
+      "nb_floors_building": "18",
+      "building_year": "1970",
+      "heating_type": null,
+      "heating_mode": "gas",
+      "annual_charges": "10",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3286615027",
+    "metadata": {
+      "id": "leboncoin-3286615027",
+      "creationDate": "2026-10-11 18:25:06"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75011",
+        "district": "Belleville"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.86947,
+        "lng": 2.37225
+      }
+    },
+    "hardFacts": {
+      "title": "2 pièces très calme à Goncourt",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/6",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "310 000 €",
+        "formatted": "310 000 €",
+        "additionalInformation": "8 784 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Vente 2 pièces Goncourt lumineux Appartement lumineux de 35,4 m², 4ᵉ étage, rue paisible — donne sur cour, avec des bureaux en face à une vingtaine de mètres, très calme. \n• orienté nord-est\n• 3 fenêtres donnant sur cour non arborée\n• Salle de bains avec baignoire \n•  Double vitrage \n• Chauffe-eau récent \n• Fibre optique Contact par e-mail uniquement, pour toute information ou pour visiter. \nMERCI AUX AGENCES DE NE PAS ME CONTACTER, VENTE PAP EXCLUSIVEMENT."
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3286615027",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "4",
+      "nb_floors_building": "6",
+      "building_year": "1880",
+      "heating_type": "individual",
+      "heating_mode": null,
+      "annual_charges": "1492",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ladresse-1-adresse-14656004",
+    "metadata": {
+      "id": "bienici-ladresse-1-adresse-14656004",
+      "creationDate": "2026-10-11T18:47:28.064Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Saint-Blaise"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.862535731308824,
+        "lng": 2.404437795808873
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 37 M²  PARIS 20",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "37 m²",
+          "splitValue": "37",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/7",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "293 000 €",
+        "formatted": "293 000 €",
+        "additionalInformation": "7 866 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Rue PELLEPORT LE CHARME DE L'ANCIEN AU CALME D'UNE COUR PAVÉE<br>Rue Pelleport, à l'abri de l'animation de la rue, l'Adresse Wattignies vous propose cet appartement de deux pièces de 37,25 m², situé au 4ème étage d'un immeuble ancien en brique, au calme d'une cour pavée.<br>Dès l'entrée, vous apprécierez sa distribution fonctionnelle, qui permet de profiter de pièces bien distinctes et agréables à aménager. Le séjour accueille votre espace de détente et un coin repas, tandis que la chambre, d'une superficie de près de 13 m², offre la place nécessaire pour installer un lit double et des rangements. Une cuisine indépendante, une salle d'eau et des WC séparés complètent l'ensemble.<br>Le parquet et les cheminées apportent le cachet recherché dans un appartement ancien. Ses proportions équilib"
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-20e/appartement/2pieces/ladresse-1-adresse-14656004",
+    "extra": {
+      "elevator": null,
+      "floor_number": 4,
+      "nb_floors_building": 7,
+      "has_cellar": true,
+      "exposition": "Sud Est",
+      "annual_charges": 1213,
+      "condo_lots": 93,
+      "heating": "individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-century-21-202_3048_27784",
+    "metadata": {
+      "id": "bienici-century-21-202_3048_27784",
+      "creationDate": "2026-10-12T00:06:48.049Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Simplon - Poissonniers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89551564968732,
+        "lng": 2.3509863109431053
+      }
+    },
+    "hardFacts": {
+      "title": "bienici — Paris 18e",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/4",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "347 000 €",
+        "formatted": "347 000 €",
+        "additionalInformation": "8 675 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Idéalement situé, proche des transports et des commodités dans une charmante copropriété parfaitement tenue jouissant d'un jardin partagée baigné de soleil venez découvrir ce havre de paix.<br>Traversant, lumineux  et en excellent état il se compose de la manière suivante  : une entrée, un séjour, une cuisine aménagée, une chambre sur balcon, une salle de bains et un WC séparé.<br>Une cave en sous-sol vient compléter ce bien."
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/century-21-202_3048_27784",
+    "extra": {
+      "elevator": false,
+      "floor_number": 1,
+      "nb_floors_building": 4,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1280,
+      "condo_lots": 16,
+      "heating": "Individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-22b80883-f60e-422c-9e37-dec46f3fa1bb",
+    "metadata": {
+      "id": "gdc-22b80883-f60e-422c-9e37-dec46f3fa1bb",
+      "creationDate": 1789153463000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75012",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends t2 - 37 m² - Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "37 m²",
+          "splitValue": "37",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "315 000 €",
+        "formatted": "315 000 €",
+        "additionalInformation": "8 514 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-t2-37-m-paris-bba24bd",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Doly",
+      "nb_photos": 6
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-5c72b7bc-b08f-4dc7-a1fb-a7a5fbf07a62",
+    "metadata": {
+      "id": "gdc-5c72b7bc-b08f-4dc7-a1fb-a7a5fbf07a62",
+      "creationDate": 1788262833000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Charmant deux pièces de 40m² - Dernier étage - Très lumineux - Rue Haxo, Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/6",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "350 000 €",
+        "formatted": "350 000 €",
+        "additionalInformation": "8 750 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/a-vendre-appartement-tres-lumineux-40m-rue-haxo-paris-70c562f",
+    "extra": {
+      "elevator": null,
+      "floor_number": 6,
+      "nb_floors_building": 6,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "south,east",
+      "is_pro": false,
+      "owner_name": "Adrien",
+      "nb_photos": 9
+    }
   }
 ]
