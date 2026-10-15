@@ -53735,5 +53735,751 @@
       "owner_name": "Magali",
       "nb_photos": 14
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3288587169",
+    "metadata": {
+      "id": "leboncoin-3288587169",
+      "creationDate": "2026-10-15 02:58:08"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Convention"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.836647,
+        "lng": 2.2981665
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 38 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/8",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "340 000 €",
+        "formatted": "340 000 €",
+        "additionalInformation": "8 947 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Paris 15ème - Exclusivité CPH IMMOBILIER\n\nCPH IMMOBILIER - Paris 15 vous présente en exclusivité. A 5 minutes du métro Convention et à 10 minutes à pied de la porte de Versailles, venez visiter cet appartement de 2 pièces principales, situé au 6ème étage (avec ascenseur),d'un immeuble très bien entretenu. Il comprend une entrée avec placard, une cuisine séparée, une salle de bains, une séjour, une chambre et un water-closet séparé. Le quartier bénéficie d'une excellente proximité avec de nombreux points d'intérêt : écoles telles que l'École primaire B, le Lycée Technologique Bâtiment-Saint-Lambert, et l'European Business School - EBS - Gpe INSEEC, ainsi que l'université Paris II - Panthéon Assas - Centre Vaugirard. Vous trouverez également à proximité des commerces de proximité, pharmacies"
+    },
+    "energyClass": "E",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3288587169",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "6",
+      "nb_floors_building": "8",
+      "building_year": "1930",
+      "heating_type": "communal",
+      "heating_mode": null,
+      "annual_charges": "3200",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3281290657",
+    "metadata": {
+      "id": "leboncoin-3281290657",
+      "creationDate": "2026-09-11 15:18:49"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Porte de Montmartre"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.900867,
+        "lng": 2.3317149
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 33 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "33 m²",
+          "splitValue": "33",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/5",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "289 000 €",
+        "formatted": "289 000 €",
+        "additionalInformation": "8 758 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 33 m²\n\nIMPACT-IMMO Paris 18 a le plaisir de vous présenter ce superbe 2 pièces lumineux, niché au 5ᵉ et dernier étage d’un élégant immeuble de 1885, dans le 18ᵉ arrondissement de Paris.\n  \n  En excellent état général, cet appartement séduit par sa clarté et son atmosphère chaleureuse. Sans perte de place, il se compose d’une entrée, d’un séjour lumineux, d’une cuisine équipée, d’une chambre confortable, ainsi que d’une salle de douche avec WC.\n  Son véritable atout : une vue totalement dégagée, sans aucun vis-à-vis, offrant un cadre de vie paisible et privilégié.\n  \n  L’immeuble, typique de la fin du XIXᵉ siècle, est soigneusement entretenu et bénéficie d’une copropriété agréable. Une situation au dernier étage fait de ce bien une opportunité rare sur le secteur.\n  \n  "
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3281290657",
+    "extra": {
+      "elevator": null,
+      "floor_number": "5",
+      "nb_floors_building": "5",
+      "building_year": "1885",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1524",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3288307723",
+    "metadata": {
+      "id": "leboncoin-3288307723",
+      "creationDate": "2026-10-14 16:28:23"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75011",
+        "district": "Oberkampf - Saint-Maur"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.86589,
+        "lng": 2.37867
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 39,20m² Paris 11ème",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "39 m²",
+          "splitValue": "39",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/4",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "328 500 €",
+        "formatted": "328 500 €",
+        "additionalInformation": "8 380 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Au pied de la Cité du Figuier dans le 11ème, venez découvrir cet appartement lumineux de 3 pièces d'une superficie de 40m². Situé au calme du premier étage sur cour, il se compose d'une entrée desservant cuisine, séjour et salle d'eau (comprenant le WC). Deux chambres complètent ce bien bénéficiant d'une bonne distribution. l'ensemble est à rénover, idéal pour personnaliser selon vos goûts. Au sein de la copropriété, vous profiterez d'une belle et grande cour arborée dans laquelle se trouve le parking à vélo. De la commerçante rue Oberkampf vous serez proche des lignes de métro 2 et 3. Une cave de 4m² et des toilettes supplémentaires sur le palier complète ce bien.\n\nVue globale\n\n- Surface totale : 39,2 m2\n- Surface habitable : 39,2 m2\n- Type d'appartement : F3\n- Étage : 1er\n- Nombre de piè"
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3288307723",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "4",
+      "building_year": "1940",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1800",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3148103531",
+    "metadata": {
+      "id": "leboncoin-3148103531",
+      "creationDate": "2026-10-01 17:55:11"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Tour Eiffel - Bir-Hakeim"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.85262,
+        "lng": 2.2852557
+      }
+    },
+    "hardFacts": {
+      "title": "Studio 1 pièce 37 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "37 m²",
+          "splitValue": "37",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "13/30",
+          "splitValue": "13",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "330 000 €",
+        "formatted": "330 000 €",
+        "additionalInformation": "8 919 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Studio 1 pièce 37 m²\n\nPARIS 15ème - Quai de Grenelle\n\nÀ seulement 250 mètres des métros Champs de Mars et Bir-Hakeim, à proximité immédiate de la Tour Eiffel, venez découvrir ce lumineux studio de 37,19 m² situé au 13ème étage de la Tour Mars, bénéficiant d'une agréable exposition sud-ouest et d'une vue dégagée.\n\nAu sein d'une résidence sécurisée avec gardien, cet appartement se compose d'une entrée, d'une belle pièce de vie parquetée baignée de lumière, d'une cuisine indépendante aménagée ainsi que d'une salle de bains avec WC.\n\nUne cave complète ce bien.\nChauffage et eau chaude collectifs.\n\nSurface : 37 m²\n\nA propos de la copropriété :\nProcédure en cours\nStatut provisoire du syndicat : Procédure en cours\nNombre de lots : 378\nDate de réalisation du diagnostic énergétique : 17/08/2022\n\nCon"
+    },
+    "energyClass": "F",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3148103531",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "13",
+      "nb_floors_building": "30",
+      "building_year": "1948",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "3293",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-century-21-202_2451_11590",
+    "metadata": {
+      "id": "bienici-century-21-202_2451_11590",
+      "creationDate": "2026-10-15T00:14:18.788Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Mouzaia"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87871004451279,
+        "lng": 2.3957738763507437
+      }
+    },
+    "hardFacts": {
+      "title": "bienici — Paris 19e",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "46 m²",
+          "splitValue": "46",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/11",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "315 000 €",
+        "formatted": "315 000 €",
+        "additionalInformation": "6 923 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PLACE DES FETES -<br>Idéalement situé au 25 rue des Lilas 75019 à proximité des commerces et métros.<br>Au 3ème étage avec ascenseur, Century21 Saint-Fargeau vous présente en exclusivité cet appartement de type 2 pièces d'une surface de 45m².<br>Il se compose d'une entrée, d'un séjour, d'une chambre et d'une salle d'eau.<br>Pour plus de renseignements, merci de contacter Mr Faure Maxime au <span class=\"importDescriptionDecorator\" data-type=\"phone\">01.40.30.20.90</span>"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.bienici.com/annonce/vente/paris-19e/appartement/2pieces/century-21-202_2451_11590",
+    "extra": {
+      "elevator": true,
+      "floor_number": 3,
+      "nb_floors_building": 11,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "Collectif gaz Individuel Electricité",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52979229",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52979229",
+      "creationDate": "2026-10-14T17:52:16.646Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Jules Joffrin"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89059890076521,
+        "lng": 2.346996535222231
+      }
+    },
+    "hardFacts": {
+      "title": "RAMEY - Appartement Paris 2 pièce(s) 38m2 ensoleillé",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/7",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "328 000 €",
+        "formatted": "328 000 €",
+        "additionalInformation": "8 712 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Laforêt Jules Joffrin vous présente en exclusivité ce charmant 2 pièces de 37,65 m², idéalement situé au coeur du très recherché Village Ramey, à seulement quelques pas du métro Jules Joffrin.<br>Au 3ème étage d'une copropriété ancienne, bien entretenue et sécurisée, cet appartement vous séduira dès l'entrée par sa luminosité, son calme absolu et son absence totale de vis-à-vis.<br>Il se compose d'une agréable pièce de vie baignée de lumière, d'une cuisine, d'une chambre confortable, ainsi que d'une salle d'eau avec WC. Son agencement optimisé permet une circulation fluide et offre un cadre de vie chaleureux.<br>Vous apprécierez particulièrement son environnement privilégié, au coeur d'un quartier vivant et authentique, réputé pour ses commerces de proximité, ses cafés, son marché, ses res"
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/laforet-immo-facile-52979229",
+    "extra": {
+      "elevator": null,
+      "floor_number": 3,
+      "nb_floors_building": 7,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 1182.48,
+      "condo_lots": 102,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-century-21-202_2576_9589",
+    "metadata": {
+      "id": "bienici-century-21-202_2576_9589",
+      "creationDate": "2026-10-15T00:14:18.788Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75017",
+        "district": "Epinettes - Bessières"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89737033984204,
+        "lng": 2.318442401679737
+      }
+    },
+    "hardFacts": {
+      "title": "bienici — Paris 17e",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "36 m²",
+          "splitValue": "36",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/8",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "319 000 €",
+        "formatted": "319 000 €",
+        "additionalInformation": "8 861 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "EPINETTES - EXCLUSIVITÉ<br>Dans une copropriété récente et entretenue, Century 21 Patrimoine 17 vous fait découvrir ce petit cocon au 2ème étage par ascenseur.<br>Ce deux pièces vous séduira par ses volumes, son charme et son plan sans perte de place.<br>Proche de l'école 42 et du tramway T3B, cet appartement est idéal pour un premier achat, un pied-à-terre ou un investissement.<br>DPE C Bien proposé par Ghislaine HADDAD EI, agent commercial (RSAC 843553371)"
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-17e/appartement/2pieces/century-21-202_2576_9589",
+    "extra": {
+      "elevator": true,
+      "floor_number": 2,
+      "nb_floors_building": 8,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1200,
+      "condo_lots": 21,
+      "heating": "Collectif  Electricité",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61639804",
+    "metadata": {
+      "id": "bienici-immo-facile-61639804",
+      "creationDate": "2026-10-14T17:41:15.121Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Didot - Porte de Vanves"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82932712540468,
+        "lng": 2.313152708591872
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement Paris 1 pièce(s) 34 m2",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34 m²",
+          "splitValue": "34",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/8",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "290 000 €",
+        "formatted": "290 000 €",
+        "additionalInformation": "8 499 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "SAMCOGER vous propose en exclusivité, rue Pierre Larousse à Paris 14ème, un studio à fort potentiel, situé au 6ème et dernier étage avec ascenseur, dans un immeuble bien entretenu.<br>Entièrement à rénover, ce bien offre une belle opportunité de créer un intérieur entièrement personnalisé, à l'image de vos goûts et de vos envies.<br>Il se compose d'une entrée, d'un séjour, d'une cuisine séparée , un atout précieux et peu courant sur ce type de surface ? ainsi que d'une salle de bains avec WC.<br>Une cave complète ce bien.<br>L'immeuble bénéficie du chauffage et de l'eau chaude collectifs, gage de confort et de simplicité de gestion au quotidien.<br>Idéalement situé, cet appartement bénéficie d'un emplacement de premier ordre dans le quartier Pernety-Plaisance, l'un des secteurs les plus pr"
+    },
+    "energyClass": "F",
+    "ges": "F",
+    "url": "https://www.bienici.com/annonce/vente/paris-14e/appartement/1pieces/immo-facile-61639804",
+    "extra": {
+      "elevator": null,
+      "floor_number": 6,
+      "nb_floors_building": 8,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 2222,
+      "condo_lots": 66,
+      "heating": "collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag951006-519721862",
+    "metadata": {
+      "id": "bienici-ag951006-519721862",
+      "creationDate": null
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75017",
+        "district": "La Fourche - Guy Moquet"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89298537433796,
+        "lng": 2.3220885552004122
+      }
+    },
+    "hardFacts": {
+      "title": "PARIS 17 Rue Sauffroy à 2 pas du Square Saint-Croix situé au 1 er étage d'un immeuble entretenu agréable F2 plus cave",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "39 m²",
+          "splitValue": "39",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/5",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "343 000 €",
+        "formatted": "343 000 €",
+        "additionalInformation": "8 795 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 17 Rue Sauffroy à 2 pas du Square Saint-Croix situé au 1 er étage d'un immeuble entretenu agréable F2 plus cave.\nPour de plus amples informations merci de contacter BORIS."
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-17e/appartement/2pieces/ag951006-519721862",
+    "extra": {
+      "elevator": false,
+      "floor_number": 1,
+      "nb_floors_building": 5,
+      "has_cellar": false,
+      "exposition": null,
+      "annual_charges": 1404,
+      "condo_lots": 43,
+      "heating": "électricité individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": true,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61578658",
+    "metadata": {
+      "id": "bienici-immo-facile-61578658",
+      "creationDate": "2026-10-14T14:54:14.368Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Vaugirard - Parc des Expositions"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83717063856074,
+        "lng": 2.2922229980144317
+      }
+    },
+    "hardFacts": {
+      "title": "Paris 15ème - Exclusivité CPH IMMOBILIER",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/9",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "340 000 €",
+        "formatted": "340 000 €",
+        "additionalInformation": "8 863 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "CPH IMMOBILIER - Paris 15 vous présente en exclusivité. A 5 minutes du métro Convention et à 10 minutes à pied de la porte de Versailles, venez visiter cet appartement de 2 pièces principales, situé au 6ème étage (avec ascenseur),d'un immeuble très bien entretenu. Il comprend une entrée avec placard, une cuisine séparée, une salle de bains, une séjour, une chambre et un water-closet séparé. Le quartier bénéficie d'une excellente proximité avec de nombreux points d'intérêt : écoles telles que l'École primaire B, le Lycée Technologique Bâtiment-Saint-Lambert, et l'European Business School - EBS - Gpe INSEEC, ainsi que l'université Paris II - Panthéon Assas - Centre Vaugirard. Vous trouverez également à proximité des commerces de proximité, pharmacies, supermarchés, restaurants et parcs, offr"
+    },
+    "energyClass": "E",
+    "ges": "D",
+    "url": "https://www.bienici.com/annonce/vente/paris-15e/appartement/2pieces/immo-facile-61578658",
+    "extra": {
+      "elevator": true,
+      "floor_number": 6,
+      "nb_floors_building": 9,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 3200,
+      "condo_lots": 35,
+      "heating": "radiateur collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
   }
 ]
