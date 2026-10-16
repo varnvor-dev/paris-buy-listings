@@ -56573,5 +56573,232 @@
       "price_decreased": false,
       "is_pro": true
     }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61645305",
+    "metadata": {
+      "id": "bienici-immo-facile-61645305",
+      "creationDate": "2026-10-16T11:28:32.873Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Jules Joffrin"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.890374578412704,
+        "lng": 2.344712106248111
+      }
+    },
+    "hardFacts": {
+      "title": "Beau Produit",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34 m²",
+          "splitValue": "34",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/7",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 000 €",
+        "formatted": "299 000 €",
+        "additionalInformation": "8 794 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "75018 PARIS. Village Ramey/Mairie. Rue du Baigneur. Dans un Bel Immeuble Ancien. En étage sur Cour. 2  Pièces de 34m2 en Bon état Général. Aucune Perte de Place. Séjour avec Cuisine ouverte. Une Chambre. Une Salle d'eau avec WC. Grand Dressing. Clair & Calme. Parquet Ancien. Secteur recherché. Rack à Vélo.Proche Métro & Commerces."
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/immo-facile-61645305",
+    "extra": {
+      "elevator": null,
+      "floor_number": 1,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": "Ouest",
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-f9a13826-b6de-4125-8c45-3fe7cb12ba5d",
+    "metadata": {
+      "id": "gdc-f9a13826-b6de-4125-8c45-3fe7cb12ba5d",
+      "creationDate": 1791045008000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces - 43.34m² - Lumineux et traversant",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "43 m²",
+          "splitValue": "43",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/6",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "385 000 €",
+        "formatted": "385 000 €",
+        "additionalInformation": "8 953 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/appartement-2-pieces-43-dot-34m-lumineux-et-traversant-6a946ad",
+    "extra": {
+      "elevator": null,
+      "floor_number": 5,
+      "nb_floors_building": 6,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Elodie",
+      "nb_photos": 8
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-e2040095-6615-42e9-853f-cb99f4ac4a52",
+    "metadata": {
+      "id": "gdc-e2040095-6615-42e9-853f-cb99f4ac4a52",
+      "creationDate": 1792147397000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Bel Appartement de 2-3 pièces 42.09 m2 Ensoleillé Vue Dégagée",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "42 m²",
+          "splitValue": "42",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/6",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "355 000 €",
+        "formatted": "355 000 €",
+        "additionalInformation": "8 452 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/bel-appartement-de-2-3-pieces-42-dot-09-m2-ensoleille-vue-degagee-2a8529b",
+    "extra": {
+      "elevator": null,
+      "floor_number": 6,
+      "nb_floors_building": 6,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "west",
+      "is_pro": true,
+      "owner_name": "Elodie",
+      "nb_photos": 9
+    }
   }
 ]
