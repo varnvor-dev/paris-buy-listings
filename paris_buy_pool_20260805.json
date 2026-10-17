@@ -57774,5 +57774,683 @@
       "price_decreased": false,
       "is_pro": true
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3256900123",
+    "metadata": {
+      "id": "leboncoin-3256900123",
+      "creationDate": "2026-08-26 04:02:57"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Boucicaut - Félix Faure"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83864,
+        "lng": 2.28659
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 33 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "33 m²",
+          "splitValue": "33",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/5",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "270 000 €",
+        "formatted": "270 000 €",
+        "additionalInformation": "8 182 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 33 m²\n\nAppartement 2 pièces, 33,19 m² situé au 3ème étage d'une copropriété bien entretenue et agréable avec un local à vélo.\n\nSon plan modulable vous permettra d'aménager l'espace selon vos envies et vos besoins.\n\nVous apprécierez son emplacement dans une rue très calme, à seulement quelques pas des métros Boucicaut et Lourmel, en plein coeur du 15ème arrondissement, avec tous les commerces et transports à proximité.\n\nTravaux à prévoir. Devis sur demande réalisé par un entrepreneur. \n\nUne cave complète ce bien.\nA VISITER SANS TARDER ! \n[Coordonnées masquées] - LAFORET FELIX-FAURE\n\nSurface : 33 m²\n\nA propos de la copropriété :\nPas de procédure en cours\nStatut provisoire du syndicat : Pas de procédure en cours\nNombre de lots : 23\nDate de réalisation du diagnostic énergé"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3256900123",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "5",
+      "building_year": "1920",
+      "heating_type": "individual",
+      "heating_mode": "gas",
+      "annual_charges": "1140",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3289985199",
+    "metadata": {
+      "id": "leboncoin-3289985199",
+      "creationDate": "2026-10-17 15:01:10"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75017",
+        "district": "Porte de Saint-Ouen"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.899124,
+        "lng": 2.3235884
+      }
+    },
+    "hardFacts": {
+      "title": "Studio 2 pièces 39 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "39 m²",
+          "splitValue": "39",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/6",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "300 000 €",
+        "formatted": "300 000 €",
+        "additionalInformation": "7 692 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Studio 2 pièces 39 m²\n\nUn véritable havre de paix au coeur d'un quartier parisien vivant et recherché !\n\nSitué rue Jacques Kellner, dans le 17e arrondissement, découvrez ce charmant appartement de 38,92 m², au 5e étage sans ascenseur d'un immeuble parisien.\n\nSon principal atout ? Une exposition exclusivement sur cour, garantissant un calme rare à Paris, tout en bénéficiant de la proximité des commerces et des transports.\n\nAncien T2, actuellement configuré en grand studio, ce bien séduit par ses volumes agréables, son parquet chaleureux et sa belle luminosité.\nIl se compose d'une spacieuse pièce de vie bénéficiant de deux grandes fenêtres, d'une cuisine séparée et équipée, d'une salle d'eau fonctionnelle et de nombreux rangements intégrés. Vendu avec une cave.\nPossibilité de créer facilemen"
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3289985199",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "5",
+      "nb_floors_building": "6",
+      "building_year": "1910",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1148",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3289887227",
+    "metadata": {
+      "id": "leboncoin-3289887227",
+      "creationDate": "2026-10-17 12:47:44"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Jules Joffrin"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.890194,
+        "lng": 2.3433993
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 38 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/6",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "340 000 €",
+        "formatted": "340 000 €",
+        "additionalInformation": "8 947 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 38 m²\n\nDans un environnement calme, au sein d'une rue piétonne recherchée du 18? arrondissement, venez découvrir ce bel appartement de 37,5 m2 situé au 5? étage avec ascenseur d'un immeuble des années 1930 parfaitement entretenu avec gardien et local à vélos.\n Optimisé et traversant, il offre une agréable pièce de vie lumineuse, une cuisine indépendante pouvant accueillir un espace repas, une chambre confortable ainsi qu'une salle de bains avec WC. Son exposition traversante assure une belle luminosité et une ventilation naturelle tout au long de la journée.\n Rénové avec soin, l'appartement est en excellent état et ne nécessite pas de travaux. La copropriété a également fait l'objet de récents travaux de rénovation, avec un ravalement de façade et la remise à neuf des "
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3289887227",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "5",
+      "nb_floors_building": "6",
+      "building_year": "1930",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "2160",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3289761456",
+    "metadata": {
+      "id": "leboncoin-3289761456",
+      "creationDate": "2026-10-17 10:13:24"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Jules Joffrin"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89646,
+        "lng": 2.34102
+      }
+    },
+    "hardFacts": {
+      "title": "T2 37,5 m2 Porte de Montmartre / Jules Joffrin",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/7",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "335 000 €",
+        "formatted": "335 000 €",
+        "additionalInformation": "8 933 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Rue Gustave Rouanet, piétonne, au 5e étage sur cour\nT2 de 37,5 m2 dans copropriété année 1930 bien tenue, avec concierge, ascenseur, local vélo. \nTravaux de ravalement de façade et de rénovation des parties communes récemment achevés.\nAppartement traversant nord sud, bien agencé, pas de perte de place.\nCuisine séparée où l’on peut manger à deux ou trois, salle de bains wc, salon au sud sur cour, chambre au nord sur cour.\nRénové en 2016.\nProximité rue du Poteau très commerçante, écoles, métro ligne 4 et 12."
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3289761456",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "5",
+      "nb_floors_building": "7",
+      "building_year": "1932",
+      "heating_type": "communal",
+      "heating_mode": "other",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3272015527",
+    "metadata": {
+      "id": "leboncoin-3272015527",
+      "creationDate": "2026-09-18 16:15:27"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Didot"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83304,
+        "lng": 2.3216763
+      }
+    },
+    "hardFacts": {
+      "title": "Village didot: 3 pieces de 46m2 au dernier etage",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "46 m²",
+          "splitValue": "46",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/2",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "400 000 €",
+        "formatted": "400 000 €",
+        "additionalInformation": "8 696 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Village Didot, coup de coeur assuré pour cet appartement en dernier étage seul sur le palier !\nDans un petit immeuble ancien rue Ledion, Foncia vous présente en exclusivité ce 3 pièces traversant et très ensoleillé de 46 m² Carrez au 2ème étage par escalier. Il comprend : un salon avec cuisine équipée et aménagée, une chambre sur rue, une petite chambre sur cour, une pièce de 6m2 faisant aujourd’hui office de dressing, une salle de bains avec wc, une buanderie. Rachat de combles à étudier. Nombreuses possibilités d’aménagement. 6 fenêtres double vitrage. Chauffage et eau chaude individuels au gaz. Prestations de qualité. 2 caves complètent ce bien de charme.\n\nMontant estimé des dépenses annuelles d'énergie pour un usage standard : entre 1 290 € et 1 790 € sur les années 2021, 2022 et 2023 "
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3272015527",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "2",
+      "nb_floors_building": "2",
+      "building_year": "1850",
+      "heating_type": "individual",
+      "heating_mode": "gas",
+      "annual_charges": "2004",
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52979287",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52979287",
+      "creationDate": "2026-10-17T12:03:02.480Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Porte de la Chapelle - Charles Hermite - Evangile"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.894139362575004,
+        "lng": 2.3625794019737936
+      }
+    },
+    "hardFacts": {
+      "title": "VEND PARIS 18° - MARX DORMOY - 2 pièces d'environ 50 m² avec terrasse et vue dégagée",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "50 m²",
+          "splitValue": "50",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "10/29",
+          "splitValue": "10",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "255 000 €",
+        "formatted": "255 000 €",
+        "additionalInformation": "5 100 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "VEND PARIS 18° - MARX DORMOY -Notre agence Laforêt Marx Dormoy vous propose ce grand deux pièces de 44,27 m² carrez et 11m² d'espace extérieur, offrant une vue très dégagée. En étage élevé d'un immeuble de standing totalement sécurisé, et récemment ravalé,  l'appartement est composé d'une entrée avec rangement, d'un beau séjour donnant sur une terrasse de 9m², d'une chambre, d'une cuisine aménagée, d'une salle d'eau et  de WC indépendants. Ce bien entièrement à rénover laissera libre cours à vos envies. Une cave et une place de parking  viennent en complément de ce bien. <br>A proximité du marché de l'Olive, et de tous commerces  il est également proche des deux gares (gare du Nord et gare de l'Est) du métro (ligne 2, 4, 12).<br>Visite virtuelle de l'appartement disponible.<br>À propos de "
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/laforet-immo-facile-52979287",
+    "extra": {
+      "elevator": true,
+      "floor_number": 10,
+      "nb_floors_building": 29,
+      "has_cellar": true,
+      "exposition": "Nord Est",
+      "annual_charges": 5948,
+      "condo_lots": 1562,
+      "heating": "gaz collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52981788",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52981788",
+      "creationDate": "2026-10-17T12:03:02.480Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83209697617708,
+        "lng": 2.2969304223667852
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement lumineux et au calme - Paris 15ème",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "39 m²",
+          "splitValue": "39",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/8",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "320 000 €",
+        "formatted": "320 000 €",
+        "additionalInformation": "8 205 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "À deux pas du parc Georges-Brassens, découvrez cet appartement agréable à vivre, bénéficiant d'un environnement calme et d'une belle luminosité naturelle.<br>Il se compose d'un séjour convivial, d'une chambre indépendante, d'une cuisine séparée et d'une salle de bains avec baignoire.<br>Son agencement fonctionnel et son emplacement recherché en font un bien idéal pour un premier achat ou un investissement.<br>Contactez-nous dès maintenant pour plus d'informations et organiser une visite ! (4.92 % d'honoraires TTC à la charge de l'acquéreur.)"
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-15e/appartement/2pieces/laforet-immo-facile-52981788",
+    "extra": {
+      "elevator": null,
+      "floor_number": 2,
+      "nb_floors_building": 8,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1500,
+      "condo_lots": null,
+      "heating": "",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52981643",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52981643",
+      "creationDate": "2026-10-17T12:03:02.480Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Jules Joffrin"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89059890076521,
+        "lng": 2.346996535222231
+      }
+    },
+    "hardFacts": {
+      "title": "RAMEY - Appartement Paris 2 pièce(s) 38m2 ensoleillé",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/7",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "328 000 €",
+        "formatted": "328 000 €",
+        "additionalInformation": "8 712 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Laforêt Jules Joffrin vous présente en exclusivité ce charmant 2 pièces de 37,65 m², idéalement situé au coeur du très recherché Village Ramey, à seulement quelques pas du métro Jules Joffrin.<br>Au 3ème étage d'une copropriété ancienne, bien entretenue et sécurisée, cet appartement vous séduira dès l'entrée par sa luminosité, son calme absolu et son absence totale de vis-à-vis.<br>Il se compose d'une agréable pièce de vie baignée de lumière, d'une cuisine, d'une chambre confortable, ainsi que d'une salle d'eau avec WC. Son agencement optimisé permet une circulation fluide et offre un cadre de vie chaleureux.<br>Vous apprécierez particulièrement son environnement privilégié, au coeur d'un quartier vivant et authentique, réputé pour ses commerces de proximité, ses cafés, son marché, ses res"
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/laforet-immo-facile-52981643",
+    "extra": {
+      "elevator": null,
+      "floor_number": 3,
+      "nb_floors_building": 7,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 1182.48,
+      "condo_lots": 102,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag752212-550377170",
+    "metadata": {
+      "id": "bienici-ag752212-550377170",
+      "creationDate": "2026-09-18T15:19:18.043Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Didot - Porte de Vanves"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82746575746699,
+        "lng": 2.315412435936477
+      }
+    },
+    "hardFacts": {
+      "title": "VILLAGE DIDOT: 3 PIECES DE 46M2 AU DERNIER ETAGE",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "46 m²",
+          "splitValue": "46",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/3",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "400 000 €",
+        "formatted": "400 000 €",
+        "additionalInformation": "8 696 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Village Didot, coup de coeur assuré pour cet appartement en dernier étage seul sur le palier !\nDans un petit immeuble ancien rue Ledion, Foncia vous présente en exclusivité ce 3 pièces traversant et très ensoleillé de 46 m² Carrez au 2ème étage par escalier. Il comprend : un salon avec cuisine équipée et aménagée, une chambre sur rue, une petite chambre sur cour, une pièce de 6m2 faisant aujourd'hui office de dressing, une salle de bains avec wc, une buanderie. Rachat de combles à étudier. Nombreuses possibilités d'aménagement. 6 fenêtres double vitrage. Chauffage et eau chaude individuels au gaz. Prestations de qualité. 2 caves complètent ce bien de charme."
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.bienici.com/annonce/vente/paris-14e/appartement/3pieces/ag752212-550377170",
+    "extra": {
+      "elevator": false,
+      "floor_number": 2,
+      "nb_floors_building": 3,
+      "has_cellar": false,
+      "exposition": null,
+      "annual_charges": 2004,
+      "condo_lots": 4,
+      "heating": "gaz individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": true,
+      "is_pro": true
+    }
   }
 ]
