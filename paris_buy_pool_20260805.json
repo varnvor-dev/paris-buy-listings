@@ -58894,5 +58894,301 @@
       "owner_name": "François",
       "nb_photos": 8
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3290583338",
+    "metadata": {
+      "id": "leboncoin-3290583338",
+      "creationDate": "2026-10-18 14:59:44"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75012",
+        "district": "Nation - Picpus"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.84536,
+        "lng": 2.38893
+      }
+    },
+    "hardFacts": {
+      "title": "Dupex neuf terrasse direct proprietaire , frais notaire reduit paris 12",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "76 m²",
+          "splitValue": "76",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/3",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "890 €",
+        "formatted": "890 €",
+        "additionalInformation": "12 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "🏡 DUPLEX NEUF de 76 m² – PARIS 12e – DIRECT PROPRIÉTAIRE , FRAIS NOTAIRE RÉDUIT \n\nAvec TERRASSE  de 42 M, ,vue sur tout Paris ..\n\nsitué au 3eme  et dernier étage sans ascenseur d’une résidence neuve.\n\nLe logement est entièrement neuf, jamais habité et ne nécessite aucun travaux.\n\nAgencement\n\nPremier niveau :\n\n* Séjour lumineux\n* Cuisine équipée \n* WC indépendant\n\nÀ l’étage :\n\n* 2 chambres\n* Salle d’eau\n\nPrestations\n\n* Chauffage électrique individuel\n* Eau chaude par ballon thermodynamique\n* Faible consommation énergétique\n* Volets roulants électriques\n* Double vitrage\n* Très bonne isolation thermique et phonique\n* DPE : B\n* Porte d’entrée blindée\n* Résidence neuve\n* Appartement jamais habité\n* Aucun travaux à prévoir\n\nCharges & acquisition\n\n* Charges de copropriété : seulement 60 €/mois\n* "
+    },
+    "energyClass": "B",
+    "ges": null,
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3290583338",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "3",
+      "building_year": "2025",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "600",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3290612153",
+    "metadata": {
+      "id": "leboncoin-3290612153",
+      "creationDate": "2026-10-18 14:40:23"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75008",
+        "district": "Triangle d'Or"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.86472,
+        "lng": 2.30186
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement près des mers chaudes, océan atlantique",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "60 m²",
+          "splitValue": "60",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/5",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "80 000 €",
+        "formatted": "80 000 €",
+        "additionalInformation": "1 333 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Particulier vend appartement T3 meublé  (voir photos) dans quartier calme,  pour profiter  de la plage  et du soleil toute  l'année, seul  ou en  famille, ou  pour faire de la location . Il est lumineux, offrant une vue dégagée,  au 2ème étage avec ascenseur. Il est proche du  centre-ville, composé de 2 chambres, un salon, salle de bain et WC séparés, une cuisine. Climatisation. Commerces et restaurants à proximité. Possibilité d’aller au centre-ville et à la plage à vélo.\nFaibles charges (taxe foncières et impôts)."
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3290612153",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "2",
+      "nb_floors_building": "5",
+      "building_year": "2007",
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": "100",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3290505369",
+    "metadata": {
+      "id": "leboncoin-3290505369",
+      "creationDate": "2026-10-18 12:25:36"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.885994,
+        "lng": 2.359872
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 38 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/6",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "296 000 €",
+        "formatted": "296 000 €",
+        "additionalInformation": "7 789 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 38 m²\n\nÀ proximité du métro Marx Dormoy et du Marché de l'Olive, découvrez ce charmant 2 pièces en très bon état général.\n Situé au 2ème étage avec ascenseur d'un bel immeuble en pierre de taille bien entretenu, cet appartement lumineux bénéficie d'un environnement particulièrement calme, avec une vue sur cour.\n Il se compose d'une entrée éclairée naturellement par une fenêtre, d'un agréable séjour de 18,45 m2 offrant de beaux volumes, sublimé par un parquet, une cheminée et une hauteur sous plafond de 2,80 m, d'une petite chambre avec un grand placard intégré, d'une cuisine équipée (réfrigérateur, four, plaques de cuisson, lave-vaisselle et lave-linge), ainsi que d'une salle de bains avec WC suspendus.\n Une cave vient compléter ce bien. La cour de l'immeuble permet ég"
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3290505369",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "2",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1248",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3285749577",
+    "metadata": {
+      "id": "leboncoin-3285749577",
+      "creationDate": "2026-08-23 10:00:58"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.887436,
+        "lng": 2.3605256
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 3 pièces 53 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "53 m²",
+          "splitValue": "53",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/6",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "354 000 €",
+        "formatted": "354 000 €",
+        "additionalInformation": "6 679 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement À Vendre\n\n75018 Paris métro Marx Dormoy,\nDécouvrez ce bel appartement lumineux de 3 pièces, idéalement situé dans un environnement vivant et recherché, à proximité immédiate d'un agréable jardin partagé.\nSitué au 1er étage avec ascenseur d'une copropriété bien entretenue avec gardien, ce bien séduit par ses beaux volumes et son agencement optimisé.\nIl se compose de :\ndeux belles chambres, calmes et confortables,\nun salon spacieux et convivial, parfait pour recevoir ou profiter de moments en famille,\nune cuisine fonctionnelle,\nainsi qu'un espace de rangement ou d'un véritable espace bureau, au choix !\nL'appartement est en bon état et ne nécessite aucun travaux : vous n'avez plus qu'à poser vos valises et concrétiser vos projets de vie.\nÀ proximité immédiate des transports, comme"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3285749577",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "1",
+      "nb_floors_building": "6",
+      "building_year": null,
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "2300",
+      "specificities": "",
+      "owner_type": "pro"
+    }
   }
 ]
