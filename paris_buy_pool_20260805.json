@@ -58452,5 +58452,447 @@
       "price_decreased": true,
       "is_pro": true
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3222602367",
+    "metadata": {
+      "id": "leboncoin-3222602367",
+      "creationDate": "2026-10-17 19:17:04"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Jules Joffrin"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.894863,
+        "lng": 2.3446295
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 3 pièces 42 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "42 m²",
+          "splitValue": "42",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "360 000 €",
+        "formatted": "360 000 €",
+        "additionalInformation": "8 571 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement de 3 pièces de  42,8 m² à Paris 18e\n\nSitué au cœur du 18e arrondissement de Paris, cet appartement de 3 pièces de  42,8  sur cour se trouve au deuxième étage d'un immeuble ancien,  dans une copropriété entretenue avec soin.\nEn bon état général il offre un cadre de vie chaleureux et pratique, idéal pour profiter pleinement de la vie de quartier tout en restant au calme.\n\nL'appartement séduit par son charme classique avec parquet et cheminée, qui donnent immédiatement une atmosphère conviviale et authentique. Les pièces donnent sur une cour calme et agréable, ce qui renforce la sensation de sérénité au quotidien. L'appartement dispose de nombreux rangements/\n\nLa distribution des 3 pièces  avec  cuisine séparée, permet d'envisager différents usages selon les besoins : séjour confo"
+    },
+    "energyClass": "F",
+    "ges": "F",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3222602367",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "gas",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3290083127",
+    "metadata": {
+      "id": "leboncoin-3290083127",
+      "creationDate": "2026-10-17 16:55:37"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Porte des Lilas"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.878,
+        "lng": 2.40391
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement T2 porte des lilas",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/4",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "295 000 €",
+        "formatted": "295 000 €",
+        "additionalInformation": "7 672 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "appartement en très bon état ,a 100 Metres du métro 11(porte des lilas) et du TRAM TB3 ,endoit trés calme et paisible avec 2 sortie (passage mauxins et BVD serurier) face de l'hopital ROBERT DE BRET\npompe a chaleur collectif (neuf) ,cage d'escalier recement refaite a neuf"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3290083127",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "4",
+      "building_year": null,
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "1900",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61649198",
+    "metadata": {
+      "id": "bienici-immo-facile-61649198",
+      "creationDate": "2026-10-17T17:42:59.938Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Jean Moulin - Porte d'Orléans"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8249844537903,
+        "lng": 2.3294021501727347
+      }
+    },
+    "hardFacts": {
+      "title": "PARIS 14 - ALÉSIA",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "41 m²",
+          "splitValue": "41",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/5",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "313 000 €",
+        "formatted": "313 000 €",
+        "additionalInformation": "7 634 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "L'agence immobilière FREDELION Paris 14 Alésia vous propose, en exclusivité, un appartement à rénover d'une surface de 35m2 Carrez et 53m2 au sol, au sein d'une petite copropriété sans travaux à prévoir (ravalements effectués et toiture déjà votée et payée).<br>Situé au 4eme et DERNIER étage SANS ASCENSEUR, le bien se compose d'une entrée, d'une belle pièce de vie avec 2 fenêtres donnant accès à la mezzanine de 18m2, d'une cuisine indépendante et d'une salle de bains avec WC intégrés.<br>Aucune perte de place et belle hauteur sous plafond. Très beau potentiel de rénovation.<br>A visiter sans tarder! (4.33 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 10 lots (Pas de procédure en cours).<br>Charges annuelles : 1304.00 euros."
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-14e/appartement/2pieces/immo-facile-61649198",
+    "extra": {
+      "elevator": false,
+      "floor_number": 4,
+      "nb_floors_building": 5,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1304,
+      "condo_lots": 10,
+      "heating": "radiateur électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52981881",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52981881",
+      "creationDate": "2026-10-17T14:55:00.383Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.831701977362954,
+        "lng": 2.3046863825796984
+      }
+    },
+    "hardFacts": {
+      "title": "PARIS 15 - 2 PIECES TRAVERSANT AVEC BALCON",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/7",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "325 000 €",
+        "formatted": "325 000 €",
+        "additionalInformation": "8 515 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Dans une rue calme et agréable du 15e arrondissement, à proximité du parc Georges-Brassens, venez découvrir ce 2 pièces traversant situé au 1er étage.<br>L'appartement se compose d'une entrée, d'un séjour avec balcon, d'une chambre et d'une cuisine indépendante.<br>Sa configuration traversante ainsi que son balcon apportent à l'appartement une belle qualité de vie, avec des espaces agréables et bien distincts.<br>Le quartier offre un environnement résidentiel apprécié, tout en permettant de profiter facilement des commerces, des transports et du parc Georges-Brassens.<br>Un appartement agréable à vivre, idéal pour un premier achat ou un investissement.<br>À découvrir lors d'une visite. (4.84 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 30 lots (Pas de procédure en cour"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.bienici.com/annonce/vente/paris-15e/appartement/2pieces/laforet-immo-facile-52981881",
+    "extra": {
+      "elevator": false,
+      "floor_number": 1,
+      "nb_floors_building": 7,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 1500,
+      "condo_lots": 30,
+      "heating": "radiateur gaz individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61649219",
+    "metadata": {
+      "id": "bienici-immo-facile-61649219",
+      "creationDate": "2026-10-17T17:47:34.988Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83658921738292,
+        "lng": 2.2978622566007956
+      }
+    },
+    "hardFacts": {
+      "title": "PARIS 15 - CONVENTION",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "31 m²",
+          "splitValue": "31",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/7",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "278 000 €",
+        "formatted": "278 000 €",
+        "additionalInformation": "8 968 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Votre agence FREDeLION Paris 15 Convention vous propose en exclusivité ce studio de 30,88 m2 avec parking.<br>Cet appartement situé dans un immeuble moderne en plein coeur du quartier Convention, au calme et ensoleillé, est composé d'une pièce principale, d'une cuisine indépendante (possiblité US), d'une salle de bains avec WC.<br>Vous serez séduit par sa luminosité et son balcon.<br>Première photo en homestaging.<br>Possibilité d'un parking en sus. (6.92 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 52 lots (Pas de procédure en cours).<br>Charges annuelles : 2100.00 euros. Sorèle SALLOUM-KASSIS (EI) Agent Commercial - Numéro RSAC :  - ."
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-15e/appartement/1pieces/immo-facile-61649219",
+    "extra": {
+      "elevator": true,
+      "floor_number": 1,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 2100,
+      "condo_lots": 52,
+      "heating": "radiateur gaz collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-36441ae6-1a6e-4dbd-8847-afdb7e9ee473",
+    "metadata": {
+      "id": "gdc-36441ae6-1a6e-4dbd-8847-afdb7e9ee473",
+      "creationDate": 1776681753000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends t2 - 35 m² - Paris 18ème",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "310 000 €",
+        "formatted": "310 000 €",
+        "additionalInformation": "8 857 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-t2-35m-paris-18eme-a701845",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "François",
+      "nb_photos": 8
+    }
   }
 ]
