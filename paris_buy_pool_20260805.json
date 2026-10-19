@@ -59721,5 +59721,449 @@
       "owner_name": "Vanessa",
       "nb_photos": 10
     }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag755544-554887193",
+    "metadata": {
+      "id": "bienici-ag755544-554887193",
+      "creationDate": "2026-10-19T12:15:23.682Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Vaugirard - Parc des Expositions"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83338113093121,
+        "lng": 2.289974896866816
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement À Vendre",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "45 m²",
+          "splitValue": "45",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "350 000 €",
+        "formatted": "350 000 €",
+        "additionalInformation": "7 778 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Proche Porte de Versailles, rue Firmin Gillot, bel immeuble ancien bien entretenu, 3ème étage avec ascenseur, votre agence ORPI Convention Vaugirard a le plaisir de vous faire découvrir en exclusivité cet appartement 2 pièces, comprenant : Entrée, beau séjour de 20m2, cuisine indépendante dînatoire, chambre avec grand placard, salle d'eau avec WC. Très bon DPE D, très calme, double exposition, bien distribué, vendu avec cave.\nIdéal investisseur ou primo-accédant.\nA VISITER AU PLUS VITE\nRenseignements et visites : <span class=\"importDescriptionDecorator\" data-type=\"phone\">06.13.37.35.10</span>\nRéférence agence : 4790"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.bienici.com/annonce/vente/paris-15e/appartement/2pieces/ag755544-554887193",
+    "extra": {
+      "elevator": true,
+      "floor_number": 3,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 2760,
+      "condo_lots": 49,
+      "heating": "collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag755440-554889023",
+    "metadata": {
+      "id": "bienici-ag755440-554889023",
+      "creationDate": "2026-10-19T12:18:39.798Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75012",
+        "district": "Vallée de Fecamp"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.833266430926294,
+        "lng": 2.39946406942463
+      }
+    },
+    "hardFacts": {
+      "title": "EXCLUSIVITÉ DOLY - APPARTEMENT - RUE DE VALMY - CHARENTON-LE-PONT",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "37 m²",
+          "splitValue": "37",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/5",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "315 000 €",
+        "formatted": "315 000 €",
+        "additionalInformation": "8 514 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "DOLY — Nous sommes fiers de vous présenter, en exclusivité, cet appartement traversant de 37 m² situé au 2e étage par escalier d'une copropriété ancienne, bien entretenue, au cœur de Charenton-le-Pont, en face du bois de Vincennes.\n\nEn très bon état, cet appartement offre une distribution fonctionnelle et agréable, sans perte de place. Traversant, il bénéficie d'une belle luminosité tout au long de la journée et se compose d'une pièce de vie conviviale, d'une cuisine, d'une chambre confortable ainsi que d'une salle d'eau avec WC.\n\nEntièrement électrique, le bien ne nécessite pas de travaux particuliers et peut être habité immédiatement. Son agencement, son état général et son emplacement en font une adresse particulièrement adaptée à un premier achat, un pied-à-terre ou un investissement l"
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-12e/appartement/2pieces/ag755440-554889023",
+    "extra": {
+      "elevator": false,
+      "floor_number": 2,
+      "nb_floors_building": 5,
+      "has_cellar": null,
+      "exposition": "est",
+      "annual_charges": 1080,
+      "condo_lots": null,
+      "heating": "électricité individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61651266",
+    "metadata": {
+      "id": "bienici-immo-facile-61651266",
+      "creationDate": "2026-10-19T11:22:49.167Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Simplon - Poissonniers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89424984428726,
+        "lng": 2.349952641274776
+      }
+    },
+    "hardFacts": {
+      "title": "Coup de Coeur",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/6",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "329 000 €",
+        "formatted": "329 000 €",
+        "additionalInformation": "8 225 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "75018 PARIS. Rue du Simplon. Dans un Très Bel Immeuble en Pierre de taille Bien tenu. En étage. Beau 2 Pièces en très bon État de 40m2. Sur Cour Calme. Charme de l'Ancien. Distribution en Étoile.  Beau Séjour. Cuisine indépendante. Une Chambre avec Rangement. Salle d'eau avec WC. Double Vitrage. Clair & Calme. Belle hauteur sous plafond. Habitable de Suite. Emplacement pour Vélos. Cave. Idéal 1er Achat. JEAN-GUILLAUME DENIEL (EI) Agent Commercial - Numéro RSAC :  - ."
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/immo-facile-61651266",
+    "extra": {
+      "elevator": null,
+      "floor_number": 2,
+      "nb_floors_building": 6,
+      "has_cellar": true,
+      "exposition": "Sud",
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-5efc8857-fc54-42e5-a29d-de79f5ac0590",
+    "metadata": {
+      "id": "gdc-5efc8857-fc54-42e5-a29d-de79f5ac0590",
+      "creationDate": 1787312649000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends appartement - 37m² - Paris 15ème Félix Faure",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "37 m²",
+          "splitValue": "37",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "0/7",
+          "splitValue": "0",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "330 000 €",
+        "formatted": "330 000 €",
+        "additionalInformation": "8 919 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-appartement-2-pieces-paris-15-felix-faure-12d66c6",
+    "extra": {
+      "elevator": null,
+      "floor_number": 0,
+      "nb_floors_building": 7,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "east",
+      "is_pro": true,
+      "owner_name": "Alexandra",
+      "nb_photos": 9
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-9521b6d5-469a-4701-a6d7-541be2b5ed42",
+    "metadata": {
+      "id": "gdc-9521b6d5-469a-4701-a6d7-541be2b5ed42",
+      "creationDate": 1792404003000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends appartement - 2 pièces - 34m2 valorisés - Marx Dormoy - Paris 18ème ",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34 m²",
+          "splitValue": "34",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/5",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "300 000 €",
+        "formatted": "300 000 €",
+        "additionalInformation": "8 824 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-appartement-2-pieces-34m2-valorises-marx-dormoy-paris-18eme-b740e85",
+    "extra": {
+      "elevator": null,
+      "floor_number": 5,
+      "nb_floors_building": 5,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "east",
+      "is_pro": true,
+      "owner_name": "Anouk",
+      "nb_photos": 6
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-861c3044-1ea9-4919-b9c3-682366d4e534",
+    "metadata": {
+      "id": "gdc-861c3044-1ea9-4919-b9c3-682366d4e534",
+      "creationDate": 1782179729000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends studio - 40 m² - 1 pièce - Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        }
+      ],
+      "price": {
+        "value": "352 000 €",
+        "formatted": "352 000 €",
+        "additionalInformation": "8 800 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-studio-40m-1-piece-paris-534023d",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Fabien",
+      "nb_photos": 13
+    }
   }
 ]
