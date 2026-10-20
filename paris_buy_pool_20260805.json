@@ -60165,5 +60165,236 @@
       "owner_name": "Fabien",
       "nb_photos": 13
     }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52983241",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52983241",
+      "creationDate": "2026-10-19T18:09:26.785Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "La Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88772465843827,
+        "lng": 2.358218134231644
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement Paris 2 pièce(s) 38 m2",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/7",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "240 000 €",
+        "formatted": "240 000 €",
+        "additionalInformation": "6 253 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 18 - MARX DORMOY.<br>Situé Cité de la chapelle, venez découvrir ce deux pièces de 38,38m2 carrez, exposé plein OUEST, à fort potentiel travaux, situé au 4e étage avec ascenseur.<br>Il se compose d'une entrée, un dressing, une cuisine séparée, un séjour, une chambre, une salle d'eau et un wc séparé.<br>Les points forts de cet appartement sont la luminosité, la vue dégagé, le potentiel travaux ,l'ascenseur, et l'immeuble est bien entretenu par un couple de gardiens.<br>À proximité des commerces et des transports.<br>Vendu avec une grande cave. (6.19 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 55 lots - dont 54 lots habitation. (Pas de procédure en cours).<br>Charges annuelles : 1460.00 euros."
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/laforet-immo-facile-52983241",
+    "extra": {
+      "elevator": null,
+      "floor_number": 4,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1460,
+      "condo_lots": 55,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61652840",
+    "metadata": {
+      "id": "bienici-immo-facile-61652840",
+      "creationDate": "2026-10-19T17:40:18.495Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Jean Moulin - Porte d'Orléans"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8249844537903,
+        "lng": 2.3294021501727347
+      }
+    },
+    "hardFacts": {
+      "title": "PARIS 14 - ALÉSIA",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "41 m²",
+          "splitValue": "41",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/5",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "313 000 €",
+        "formatted": "313 000 €",
+        "additionalInformation": "7 634 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "L'agence immobilière FREDELION Paris 14 Alésia vous propose, en exclusivité, un appartement à rénover d'une surface de 35m2 Carrez et 53m2 au sol, au sein d'une petite copropriété sans travaux à prévoir (ravalements effectués et toiture déjà votée et payée).<br>Situé au 4eme et DERNIER étage SANS ASCENSEUR, le bien se compose d'une entrée, d'une belle pièce de vie avec 2 fenêtres donnant accès à la mezzanine de 18m2, d'une cuisine indépendante et d'une salle de bains avec WC intégrés.<br>Aucune perte de place et belle hauteur sous plafond. Très beau potentiel de rénovation.<br>A visiter sans tarder! (4.33 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 10 lots (Pas de procédure en cours).<br>Charges annuelles : 1304.00 euros."
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-14e/appartement/2pieces/immo-facile-61652840",
+    "extra": {
+      "elevator": false,
+      "floor_number": 4,
+      "nb_floors_building": 5,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1304,
+      "condo_lots": 10,
+      "heating": "radiateur électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag753624-554971316",
+    "metadata": {
+      "id": "bienici-ag753624-554971316",
+      "creationDate": "2026-10-19T21:36:47.613Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Mouton - Duvernet"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82829048446383,
+        "lng": 2.3276389379591884
+      }
+    },
+    "hardFacts": {
+      "title": "2 PIECES 44 m2 A RÉNOVER proche d'ALÉSIA",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "45 m²",
+          "splitValue": "45",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "350 000 €",
+        "formatted": "350 000 €",
+        "additionalInformation": "7 778 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "2 PIECES 44 m2 entre ALÉSIA et Porte d'Orléans au 1er étage (sans ascenseur) d'un immeuble PIERRE de TAILLE. Séjour 24 m2, cuisine (ouverture possible), chambre, salle d'eau/wc et une cave. Exposé SUD et SANS VIS-à-VIS au CALME sur cour avec CHARME de l'ancien (parquet, cheminée) dans un volume avec 2,80 m de HSP. SPACIEUX et sans perte d'espace il est possible d'intégrer la cuisine au séjour et obtenir ainsi une pièce de vie de 28 m2 avec 4 fenêtres."
+    },
+    "energyClass": "D",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-14e/appartement/2pieces/ag753624-554971316",
+    "extra": {
+      "elevator": null,
+      "floor_number": 1,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 1299.99999999996,
+      "condo_lots": 20,
+      "heating": "électricité individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
   }
 ]
