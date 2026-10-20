@@ -60396,5 +60396,615 @@
       "price_decreased": false,
       "is_pro": true
     }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61654475",
+    "metadata": {
+      "id": "bienici-immo-facile-61654475",
+      "creationDate": "2026-10-20T11:25:05.479Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "La Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89221140267065,
+        "lng": 2.364242647968704
+      }
+    },
+    "hardFacts": {
+      "title": "Gros Potentiel",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "33 m²",
+          "splitValue": "33",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/6",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "235 000 €",
+        "formatted": "235 000 €",
+        "additionalInformation": "7 121 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "75018 PARIS. Marché de l'Olive. Rue Marc Seguin. Dans Une Très Bonne Copropriété Ancienne, Très Bien Tenue. Au 5ème & dernier étage exposé Sud et Sans Vis à Vis. 2 Pièces de 33m2 à Rénover. Aucune perte de Place. Séjour avec Cuisine Us. Une Chambre. Salle d'eau avec WC. Lumineux & Calme. Excellent Plan. Une Cave. Commerces & Transports à Proximité."
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/immo-facile-61654475",
+    "extra": {
+      "elevator": null,
+      "floor_number": 5,
+      "nb_floors_building": 6,
+      "has_cellar": null,
+      "exposition": "Sud",
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-realty-lzluahvokvafhgl3tsn2fd3vke",
+    "metadata": {
+      "id": "bienici-realty-lzluahvokvafhgl3tsn2fd3vke",
+      "creationDate": "2026-10-20T13:20:11.047Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Porte de la Chapelle - Charles Hermite - Evangile"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89736511878883,
+        "lng": 2.358604639376238
+      }
+    },
+    "hardFacts": {
+      "title": "REFAIT Ã€ NEUF / VUE DÃ‰GAGÃ‰E  / COSY",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "44 m²",
+          "splitValue": "44",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "10",
+          "splitValue": "10",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "335 000 €",
+        "formatted": "335 000 €",
+        "additionalInformation": "7 698 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Idéalement situé à seulement 3 minutes à pied du métro Porte de la Chapelle (ligne 12), à proximité de l’ADIDAS ARENA, des commerces, salles de sport et du nouveau quartier de la Chapelle, actuellement en pleine transformation.<br>Le Cabinet BR Immobilier vous propose ce CHARMANT 2 pièces de 43,5 m², situé au 10ème et DERNIER ÉTAGE avec ASCENSEUR, au sein d’une copropriété avec GARDIEN, digicode et interphone.<br>Entièrement REFAIT À NEUF, l’appartement bénéficie d’un PLAN OPTIMAL et d’une exposition SUD-EST lui apportant une très BELLE LUMINOSITÉ.<br>Il se compose d’une vaste pièce de vie d’environ 28,5 m² avec cuisine ouverte ÉQUIPÉE, offrant un espace de réception particulièrement agréable, d’une chambre, ainsi que d’une salle de bains avec WC.<br>Situé en étage élevé et SANS VIS-À-VIS,"
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/realty-lzluahvokvafhgl3tsn2fd3vke",
+    "extra": {
+      "elevator": null,
+      "floor_number": 10,
+      "nb_floors_building": null,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag754248-555057899",
+    "metadata": {
+      "id": "bienici-ag754248-555057899",
+      "creationDate": "2026-10-20T11:54:41.192Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Barbès - Château Rouge"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.886871,
+        "lng": 2.352097
+      }
+    },
+    "hardFacts": {
+      "title": "Appart  2 pièces, duplex de 52m² au sol",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/2",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "302 000 €",
+        "formatted": "302 000 €",
+        "additionalInformation": "7 550 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appart  2 pièces, duplex de 52m² au sol\n\nCharmant petit duplex 53 m² au sol au calme – Quartier animé\n\nSitué au cœur du 18ᵉ arrondissement, dans le quartier animé de la  rue Myrha, l'agence Imkiz  propose ce duplex de 53 m² au sol (34 m² carrez), qui offre un cadre de vie paisible tout en bénéficiant de l'animation du quartier.\nInstallé au 1er étage sur cour dégagée et arboré, d'un immeuble de deux niveaux, ce bien se compose de 34 m² Carrez, complétés par des combles aménagés de 24 m² au sol.\n\nL'appartement, lumineux et au calme, comprend une agréable pièce de vie avec cuisine semi-ouverte équipée, une salle de douche, ainsi qu'une chambre en duplex offrant de nombreux rangements. Les WC sont séparés.\nLes 24 m² au sol de combles aménagés, lumineux par ses 3 grands vélux, apportent un véri"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/ag754248-555057899",
+    "extra": {
+      "elevator": null,
+      "floor_number": 1,
+      "nb_floors_building": 2,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1479.99999999996,
+      "condo_lots": 18,
+      "heating": "électricité",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag753296-555070799",
+    "metadata": {
+      "id": "bienici-ag753296-555070799",
+      "creationDate": "2026-10-20T12:44:23.818Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Flandre - Aubervilliers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.885136,
+        "lng": 2.3653
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces lumineux et calme de 37 m² - Rue d'Aubervilliers, Paris 18ème",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "37 m²",
+          "splitValue": "37",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/8",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "295 000 €",
+        "formatted": "295 000 €",
+        "additionalInformation": "7 973 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Cet appartement de type 2 pièces, situé au 6ème étage sur 7, offre une surface Carrez de 37.15 m². L'exposition Ouest assure une belle luminosité dans les espaces de vie, rehaussée par des fenêtres à double vitrage. Le chauffage et l'eau chaude sont assurés au gaz.\n\nPlanifiez facilement votre visite en choisissant le créneau qui vous convient depuis le site d'Hosman.\n\nL'agencement se compose d'une pièce de vie principale avec une cuisine semi-ouverte, d'une chambre très calme avec dressing, bureaux intégrés sur mesure, d'une salle de bains rénovée il y a 5 ans.\nL'appartement dispose également d'une cave.\n\nSitué au 9 rue d'Aubervilliers, dans le 18ᵉ arrondissement, l'appartement bénéficie de la proximité des commerces, cafés et restaurants du secteur Stalingrad.\nLe bassin de la Villette et "
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/ag753296-555070799",
+    "extra": {
+      "elevator": false,
+      "floor_number": 6,
+      "nb_floors_building": 8,
+      "has_cellar": true,
+      "exposition": "ouest",
+      "annual_charges": 1188,
+      "condo_lots": null,
+      "heating": "individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52983583",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52983583",
+      "creationDate": "2026-10-20T12:14:58.913Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.832627081650024,
+        "lng": 2.302963927288153
+      }
+    },
+    "hardFacts": {
+      "title": "2 PIECES - PARIS 15",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "32 m²",
+          "splitValue": "32",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/7",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "273 000 €",
+        "formatted": "273 000 €",
+        "additionalInformation": "8 444 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Laforêt Convention vous présente un appartement de 2 pièces de 31m² situé rue Brancion, dans le 15ème arrondissement de Paris. Ce bien se situe dans une copropriété très bien entretenue avec ascenseur et gardienne. <br>Cet appartement comprends une  cuisine aménagée équipée, un salon, une chambre, une salle de bain et des WC séparés.  <br>A proximité immédiate du parc Georges Brassens, cette adresse offre un cadre de vie recherché entre verdure et commerces de proximités.<br>N'hésitez pas à nous contacter si vous souhaitez visiter ce bien. (5.00 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 35 lots (Pas de procédure en cours).<br>Charges annuelles : 2526.71 euros."
+    },
+    "energyClass": "F",
+    "ges": "F",
+    "url": "https://www.bienici.com/annonce/vente/paris-15e/appartement/2pieces/laforet-immo-facile-52983583",
+    "extra": {
+      "elevator": true,
+      "floor_number": 2,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 2526.71,
+      "condo_lots": 35,
+      "heating": "radiateur gaz collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag922730-555029750",
+    "metadata": {
+      "id": "bienici-ag922730-555029750",
+      "creationDate": "2026-10-20T08:28:26.522Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82919040870713,
+        "lng": 2.302426712263704
+      }
+    },
+    "hardFacts": {
+      "title": "VENTE I PARIS 15 I QUARTIER GEORGES BRASSENS-COULEE VERTE I 35m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/7",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 800 €",
+        "formatted": "299 800 €",
+        "additionalInformation": "8 566 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "L'agence Stoneo vous propose en exclusivité un appartement de 35,15 m² carrez dans un  immeuble surplombant la coulée verte et situé à proximité du Parc Georges Brassens.\n\nLe bien se compose d'une entrée avec placard, d'une pièce de vie de près de 25m², d'une cuisine semi-ouverte et d'une salle de bain avec WC.\n\nGrâce à une belle hauteur sous plafond (2,90m), vous apprécierez les beaux volumes de la pièce de vie et d'un environnement verdoyant avec les deux fenêtres s'ouvrant sur les arbres de la coulée verte.\n\nNombreux rangements intégrés (lit-banquette). Une cave saine complète ce bien.\n\nPossibilité de retrouver la configuration initiale en deux-pièces après quelques travaux.\n\nSitué à l'arrière d'une petite copropriété avec accès sécurisé par badge et digicode, l'appartement bénéficie d'"
+    },
+    "energyClass": "F",
+    "ges": "F",
+    "url": "https://www.bienici.com/annonce/vente/paris-15e/appartement/1pieces/ag922730-555029750",
+    "extra": {
+      "elevator": false,
+      "floor_number": 2,
+      "nb_floors_building": 7,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 1584,
+      "condo_lots": 19,
+      "heating": "gaz individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61654495",
+    "metadata": {
+      "id": "bienici-immo-facile-61654495",
+      "creationDate": "2026-10-20T11:25:05.479Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Barbès - Château Rouge"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.890467754109466,
+        "lng": 2.3529955233206885
+      }
+    },
+    "hardFacts": {
+      "title": "Coup de Coeur",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "37 m²",
+          "splitValue": "37",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/6",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "315 000 €",
+        "formatted": "315 000 €",
+        "additionalInformation": "8 514 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "75018 PARIS. Gros Coup de Coeur. Marcadet. Rue Emile Duployé. Dans une Rue Pietonne. Dans Un Très Bel Immeuble Ancien Pierre de Taille. En étage élevé sur Cour. Magnifique 2 pièces de 37m2 entièrement Refait à Neuf avec Goût. Lumineux & Calme. Charme de l'Ancien. Aucune Perte de Place. Belle Pièce à Vivre. Chambre confortable. Belle Salle d'eau avec WC Suspendu. Très Belle Cuisine Équipée. Double Vitrage. Une Cave. Plan Optimisé. Idéal 1er Achat."
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/immo-facile-61654495",
+    "extra": {
+      "elevator": null,
+      "floor_number": 4,
+      "nb_floors_building": 6,
+      "has_cellar": true,
+      "exposition": "Sud Ouest",
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag752202-532235672",
+    "metadata": {
+      "id": "bienici-ag752202-532235672",
+      "creationDate": null
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Bièvre Sud - Tolbiac"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82457818199079,
+        "lng": 2.3563310961086876
+      }
+    },
+    "hardFacts": {
+      "title": "PROCHE BUTTE AUX CAILLES - 2 PIECES (44.20 m2) - CALME ET ENSOLEILLE - BELLE VUE DEGAGEE SUR JARDIN",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "44 m²",
+          "splitValue": "44",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/7",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "390 000 €",
+        "formatted": "390 000 €",
+        "additionalInformation": "8 864 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Idéalement situé au pied de la Butte aux Cailles et à proximité immédiate du métro et des commerces, FONCIA BUTTE AUX CAILLES vous propose un charmant 2 pièces (44.20 m2) calme et ensoleillé situé au 4ème étage (sans ascenseur) d'un bel immeuble ancien avec gardien. Il comprend une entrée, un séjour exposé Sud/Est  avec très belle vue dégagée sur le jardin de la copropriété, une chambre spacieuse (13 m2) également au calme sur jardin, une grande cuisine dînatoire, une salle d'eau avec fenêtre, des WC séparés. Une cave complète ce bien.\nCharme de l'ancien préservé (parquet, moulures, cheminée prussienne), ensoleillé, calme absolu, superbe vue dégagée sur le jardin de la copropriété."
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-13e/appartement/2pieces/ag752202-532235672",
+    "extra": {
+      "elevator": false,
+      "floor_number": 4,
+      "nb_floors_building": 7,
+      "has_cellar": false,
+      "exposition": null,
+      "annual_charges": 1620,
+      "condo_lots": 26,
+      "heating": "électricité individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": true,
+      "is_pro": true
+    }
   }
 ]
