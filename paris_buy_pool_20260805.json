@@ -61454,5 +61454,228 @@
       "owner_name": "Raphaël",
       "nb_photos": 8
     }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-60565536",
+    "metadata": {
+      "id": "bienici-immo-facile-60565536",
+      "creationDate": null
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "La Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89234962571291,
+        "lng": 2.362618745773595
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement Paris 2 pièce(s)",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "43 m²",
+          "splitValue": "43",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/7",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "345 000 €",
+        "formatted": "345 000 €",
+        "additionalInformation": "8 023 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Paris 18e ? Rue de l'Évangile, au pied de la Place Hébert<br>Au 4? étage avec ascenseur d'un immeuble récent (2011), venez découvrir ce charmant 2 pièces de 43 m², lumineux et parfaitement optimisé.<br>Bénéficiant d'une très bonne exposition, l'appartement offre une belle luminosité naturelle tout au long de la journée. Il se compose d'un séjour spacieux avec cuisine ouverte aménagée, idéal pour un espace de vie convivial et moderne.<br>La partie nuit comprend une chambre calme avec rangements ainsi qu'une salle d'eau fonctionnelle et bien entretenue.<br>Parquet clair, murs blancs et agencement fluide confèrent à ce bien une ambiance chaleureuse et contemporaine, sans travaux à prévoir.<br>Idéalement situé au pied de la Place Hébert, à proximité immédiate des transports, commerces et commo"
+    },
+    "energyClass": "NS",
+    "ges": "VI",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/immo-facile-60565536",
+    "extra": {
+      "elevator": null,
+      "floor_number": 4,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-apimo-87510976",
+    "metadata": {
+      "id": "bienici-apimo-87510976",
+      "creationDate": "2026-10-21T10:17:54.982Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75017",
+        "district": "La Fourche - Guy Moquet"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89223417738762,
+        "lng": 2.325420240597898
+      }
+    },
+    "hardFacts": {
+      "title": "PARIS 17 - GUY MOQUET - 2 PIECES - ASCENSEUR - CAVE",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "43 m²",
+          "splitValue": "43",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "343 200 €",
+        "formatted": "343 200 €",
+        "additionalInformation": "7 981 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Au sein d’une copropriété des années 1970 parfaitement entretenue, découvrez cet appartement de 43 m² situé au 2ᵉ étage avec ascenseur, au 60 rue Guy Môquet, dans le 17ᵉ arrondissement de Paris.\n\nL’appartement se compose d’un séjour lumineux, agrémenté de grandes baies vitrées offrant une belle luminosité naturelle, d’une chambre avec salle de bains intégrée ainsi que d’un WC indépendant.\n\nUne cave en sous-sol complète ce bien.\n\nSitué dans un quartier vivant et commerçant, à proximité du métro Guy Môquet (ligne 13), l’appartement bénéficie d’un environnement pratique au quotidien, avec de nombreux commerces, restaurants et services de proximité. Le secteur des Épinettes offre une véritable vie de quartier, tout en permettant de rejoindre facilement les autres quartiers de la capitale.\n\nUn "
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-17e/appartement/2pieces/apimo-87510976",
+    "extra": {
+      "elevator": true,
+      "floor_number": 2,
+      "nb_floors_building": null,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "Radiateur Electrique Individuel",
+      "work_to_do": false,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-33ce4457-9abd-432a-bae0-59f5ddd64e6c",
+    "metadata": {
+      "id": "gdc-33ce4457-9abd-432a-bae0-59f5ddd64e6c",
+      "creationDate": 1791025355000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75010",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces clair et calme – Paris 10ème Faubourg Saint-Martin",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "44 m²",
+          "splitValue": "44",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/6",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "294 000 €",
+        "formatted": "294 000 €",
+        "additionalInformation": "6 682 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/appartement-2-pieces-clair-et-calme-paris-10eme-faubourg-saint-martin-a3b63c5",
+    "extra": {
+      "elevator": true,
+      "floor_number": 6,
+      "nb_floors_building": 6,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "south,east",
+      "is_pro": true,
+      "owner_name": "Inès",
+      "nb_photos": 6
+    }
   }
 ]
