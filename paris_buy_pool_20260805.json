@@ -61006,5 +61006,453 @@
       "price_decreased": true,
       "is_pro": true
     }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag752181-555086972",
+    "metadata": {
+      "id": "bienici-ag752181-555086972",
+      "creationDate": "2026-10-20T15:05:02.040Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75011",
+        "district": "Belleville - Saint-Maur"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.86884093983243,
+        "lng": 2.3740851024294405
+      }
+    },
+    "hardFacts": {
+      "title": "RUE SAINT-MAUR - A RÉNOVER GRAND STUDIO AVEC TERRASSE DE 14 m², CAVE, PARKING EN OPTION",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "43 m²",
+          "splitValue": "43",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/11",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "255 000 €",
+        "formatted": "255 000 €",
+        "additionalInformation": "5 930 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Grand studio avec TERRASSE de 14m2\nComposé d'une véritable entrée, d'une pièce de vie avec large baie vitré donnant sur la terrasse, d'une cuisine indépendante (cuisine us possible), d'une salle de bains avec wc ainsi que d'une cave.\nPARKING en sus"
+    },
+    "energyClass": "E",
+    "ges": "F",
+    "url": "https://www.bienici.com/annonce/vente/paris-11e/appartement/1pieces/ag752181-555086972",
+    "extra": {
+      "elevator": false,
+      "floor_number": 1,
+      "nb_floors_building": 11,
+      "has_cellar": false,
+      "exposition": null,
+      "annual_charges": null,
+      "condo_lots": 226,
+      "heating": "gaz collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag753624-555139844",
+    "metadata": {
+      "id": "bienici-ag753624-555139844",
+      "creationDate": "2026-10-20T22:10:35.396Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Didot - Porte de Vanves"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.826270421664326,
+        "lng": 2.317725513772338
+      }
+    },
+    "hardFacts": {
+      "title": "2 PIÈCES 51 m2 avec BALCON 6m2",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "53 m²",
+          "splitValue": "53",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "398 000 €",
+        "formatted": "398 000 €",
+        "additionalInformation": "7 509 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "2 PIÈCES 51 m2 avec BALCON dans une impasse, villa Brune, au 2ème étage avec ascenseur d'un immeuble 1970 de STANDING. Entrée, séjour 27m2 donnant sur BALCON 6 m2, chambre, cuisine avec possibilité d'ouverture sur séjour, salle de bains, wc et cave. Place de parking possible en sus 19.000€. Plein SUD au CALME sur JARDIN. Travaux à prévoir."
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.bienici.com/annonce/vente/paris-14e/appartement/2pieces/ag753624-555139844",
+    "extra": {
+      "elevator": true,
+      "floor_number": 2,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 2106,
+      "condo_lots": 28,
+      "heating": "collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-realty-7moqhu3parabjantrwgquysswa",
+    "metadata": {
+      "id": "bienici-realty-7moqhu3parabjantrwgquysswa",
+      "creationDate": "2026-10-21T01:35:10.737Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Porte des Lilas"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8773989650923,
+        "lng": 2.4038303958089764
+      }
+    },
+    "hardFacts": {
+      "title": "PARIS 19ÃˆME â€“CHARMANT 2PIÃˆCES TRAVERSANT",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/7",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "295 000 €",
+        "formatted": "295 000 €",
+        "additionalInformation": "7 763 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "CHARMANT 2 PIÈCES – PARIS 19ÈME – PASSAGE DES MAUXINS – TRAVERSANT – CAVE.<br>À proximité des métros PORTE DES LILAS (lignes 11 et 3 bis), TÉLÉGRAPHE (ligne 11) et du TRAMWAY T3B.<br>Le Cabinet BR-Immobilier vous propose ce charmant appartement de 2 PIÈCES de 38 m² LOI CARREZ, situé au 1ER ÉTAGE d'un immeuble au sein du Passage des Mauxins, dans un environnement agréable du 19ème arrondissement de Paris.<br>Bénéficiant d'une configuration TRAVERSANTE, cet appartement offre une belle luminosité naturelle ainsi qu'un agencement fonctionnel.<br>Il comprend une entrée, un SÉJOUR avec PARQUET EN BOIS, une cuisine, une chambre indépendante ainsi qu'un espace de rangement supplémentaire pouvant faire office de DRESSING ou de DÉBARRAS. <br>Le PARQUET EN BOIS présent dans le séjour et la chambre ap"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.bienici.com/annonce/vente/paris-19e/appartement/2pieces/realty-7moqhu3parabjantrwgquysswa",
+    "extra": {
+      "elevator": null,
+      "floor_number": 1,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": "Sud Est",
+      "annual_charges": 2000,
+      "condo_lots": 14,
+      "heating": "gaz collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61655641",
+    "metadata": {
+      "id": "bienici-immo-facile-61655641",
+      "creationDate": "2026-10-20T17:16:08.190Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Jules Joffrin"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.890374578412704,
+        "lng": 2.344712106248111
+      }
+    },
+    "hardFacts": {
+      "title": "Beau Produit",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34 m²",
+          "splitValue": "34",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/7",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 000 €",
+        "formatted": "299 000 €",
+        "additionalInformation": "8 794 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "75018 PARIS. Village Ramey/Mairie. Rue du Baigneur. Dans un Bel Immeuble Ancien. En étage sur Cour. 2  Pièces de 34m2 en Bon état Général. Aucune Perte de Place. Séjour avec Cuisine ouverte. Une Chambre. Une Salle d'eau avec WC. Grand Dressing. Clair & Calme. Parquet Ancien. Secteur recherché. Rack à Vélo.Proche Métro & Commerces."
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/immo-facile-61655641",
+    "extra": {
+      "elevator": null,
+      "floor_number": 1,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": "Ouest",
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-iad-france-1014854",
+    "metadata": {
+      "id": "bienici-iad-france-1014854",
+      "creationDate": "2026-09-14T17:57:37.933Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75017",
+        "district": "Epinettes - Bessières"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.896385574169365,
+        "lng": 2.3223829298785144
+      }
+    },
+    "hardFacts": {
+      "title": "Vente Appartement 2 pièces",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/8",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "360 000 €",
+        "formatted": "360 000 €",
+        "additionalInformation": "8 973 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "iad France - Henri Carducci vous propose: Au sein d’une copropriété verdoyante, fleurie et particulièrement bien entretenue du quartier des Épinettes, découvrez cet appartement de deux pièces de 40,12 m² BAIGNÉ DE LUMIÉRE exposé SUD , situé au premier étage avec ascenseur.<br>L’appartement comprend une entrée avec placards, une pièce de vie lumineuse exposée SUD, une cuisine, une chambre de 10,64 m² ainsi qu’une salle d’eau avec WC.<br>Sa hauteur sous plafond de 2,80 mètres lui confère une agréable sensation d’espace. <br>DPE E<br>Double vitrage<br>Cette copropriété sécurisée avec gardien offre un environnement soigné et dispose d’un local à vélos. Une cave complète ce bien.<br>L’appartement se trouve à proximité des commerces, des écoles et de nombreux transports : métro lignes 13 et 14 ,"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.bienici.com/annonce/vente/paris-17e/appartement/2pieces/iad-france-1014854",
+    "extra": {
+      "elevator": true,
+      "floor_number": 1,
+      "nb_floors_building": 8,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 1348,
+      "condo_lots": 139,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": true,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-11bfbc9c-8fb3-4772-a640-7b0752003321",
+    "metadata": {
+      "id": "gdc-11bfbc9c-8fb3-4772-a640-7b0752003321",
+      "creationDate": 1792542812000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75017",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends t2 - 42 m² - Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "42 m²",
+          "splitValue": "42",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "370 000 €",
+        "formatted": "370 000 €",
+        "additionalInformation": "8 810 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-t2-42-m-paris-8c39fa6",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Raphaël",
+      "nb_photos": 8
+    }
   }
 ]
