@@ -62192,5 +62192,159 @@
       "owner_name": "Guillain",
       "nb_photos": 9
     }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag755440-555109148",
+    "metadata": {
+      "id": "bienici-ag755440-555109148",
+      "creationDate": "2026-10-20T16:57:22.727Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Gambetta"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87361139422768,
+        "lng": 2.412670764961145
+      }
+    },
+    "hardFacts": {
+      "title": "APPARTEMENT 3 PIÈCES - BAGNOLET LIMITE PARIS 20EME",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "69 m²",
+          "splitValue": "69",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "7/14",
+          "splitValue": "7",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "280 000 €",
+        "formatted": "280 000 €",
+        "additionalInformation": "4 058 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "EXCLUSIVITÉ DOLY / PROCHE 20ᵉ / PROCHE LES LILAS / PLACE DE PARKING\n\nDOLY est fier de vous présenter cet appartement de 69 m², lumineux, situé à moins de 7 minutes à pied de la station de tramway Adrienne Bolland (ligne T3b) et à moins de 15 minutes à pied de la station de métro Mairie des Lilas (ligne 11).\n\nSitué au 7ᵉ étage avec ascenseur, au calme et avec une vue dégagée, au sein d'une copropriété des années 1970 avec jardin très bien entretenu, il se compose d'une entrée, d'un séjour lumineux exposé Est, d'une cuisine indépendante, de deux chambres , d'une salle de bains et d'un WC indépendant.\n\nUne place de parking en intérieur boxé en sus est possible.\n\nOutre sa proximité immédiate avec les transports, l'appartement bénéficie d'un environnement privilégié, avec commerces, restaurants"
+    },
+    "energyClass": "D",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-20e/appartement/3pieces/ag755440-555109148",
+    "extra": {
+      "elevator": true,
+      "floor_number": 7,
+      "nb_floors_building": 14,
+      "has_cellar": null,
+      "exposition": "est",
+      "annual_charges": 3591.99999999996,
+      "condo_lots": null,
+      "heating": "radiateur gaz collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61665912",
+    "metadata": {
+      "id": "bienici-immo-facile-61665912",
+      "creationDate": "2026-10-22T11:26:52.251Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Simplon - Poissonniers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.895997536097696,
+        "lng": 2.3461899095950507
+      }
+    },
+    "hardFacts": {
+      "title": "Gros Coup de Coeur",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "32 m²",
+          "splitValue": "32",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/6",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "279 000 €",
+        "formatted": "279 000 €",
+        "additionalInformation": "8 719 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "75018 PARIS. EXCLUSIVITÉ. Simplon. Rue du Mont Cenis. Dans un Très Bel Immeuble Ancien Bien tenu. En étage élevé. Magnifique 2 Pièces de 32m2 en Parfait état. Aucune Perte de Place. Charme de l'Ancien. Séjour exposé Sud/est. Belle Chambre. Cuisine indépendante dinatoire. Salle d'eau avec WC. Clair & Calme. Une Cave. Habitable de Suite."
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/immo-facile-61665912",
+    "extra": {
+      "elevator": null,
+      "floor_number": 4,
+      "nb_floors_building": 6,
+      "has_cellar": true,
+      "exposition": "Sud Est",
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
   }
 ]
