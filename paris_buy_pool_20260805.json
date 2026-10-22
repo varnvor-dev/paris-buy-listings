@@ -61677,5 +61677,520 @@
       "owner_name": "Inès",
       "nb_photos": 6
     }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag755681-552022193",
+    "metadata": {
+      "id": "bienici-ag755681-552022193",
+      "creationDate": "2026-09-30T09:43:02.999Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Jules Joffrin"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.892279943077746,
+        "lng": 2.341443081029067
+      }
+    },
+    "hardFacts": {
+      "title": "Belle opportunité dans ce secteur prisé du XVIIIème familial",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "56 m²",
+          "splitValue": "56",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/8",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "375 000 €",
+        "formatted": "375 000 €",
+        "additionalInformation": "6 696 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Au cœur du 18ème familial, RUE DUC, à quelques pas du métro JULES JOFFRIN, comme de la réputée rue du Poteau et des pentes de Montmartre, dans une belle copropriété années 60 parfaitement entretenue, FONCIA JAURES vous propose ce 2 pièces vendu loué, au 3ème étage par ascenseur.\n\nLe bien est vendu loué, selon un bail 3 ans, depuis le 1er avril 2019, pour un loyer de 1 273€ hors charges.\n\nIl se compose d'une entrée, d'un séjour-double, d'une chambre de belle taille, d'une cuisine indépendante, d'une salle de bains, ainsi que de WC séparé.\n\nVous ne pourrez qu'apprécier le charme du bien (dû à sa rénovation avec goût), sa belle luminosité dû ses vastes fenêtres, et ses volumes généreux des différents espaces.\n\nLe bien situé sur le versant nord de la Butte-Montmartre vous permettra de profiter"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/3pieces/ag755681-552022193",
+    "extra": {
+      "elevator": true,
+      "floor_number": 3,
+      "nb_floors_building": 8,
+      "has_cellar": false,
+      "exposition": null,
+      "annual_charges": 2868,
+      "condo_lots": 70,
+      "heating": "",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": true,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61663209",
+    "metadata": {
+      "id": "bienici-immo-facile-61663209",
+      "creationDate": "2026-10-21T17:46:52.466Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Jean Moulin - Porte d'Orléans"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8249844537903,
+        "lng": 2.3294021501727347
+      }
+    },
+    "hardFacts": {
+      "title": "PARIS 14 - ALÉSIA",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "41 m²",
+          "splitValue": "41",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/5",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "313 000 €",
+        "formatted": "313 000 €",
+        "additionalInformation": "7 634 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "L'agence immobilière FREDELION Paris 14 Alésia vous propose, en exclusivité, un appartement à rénover d'une surface de 35m2 Carrez et 53m2 au sol, au sein d'une petite copropriété sans travaux à prévoir (ravalements effectués et toiture déjà votée et payée).<br>Situé au 4eme et DERNIER étage SANS ASCENSEUR, le bien se compose d'une entrée, d'une belle pièce de vie avec 2 fenêtres donnant accès à la mezzanine de 18m2, d'une cuisine indépendante et d'une salle de bains avec WC intégrés.<br>Aucune perte de place et belle hauteur sous plafond. Très beau potentiel de rénovation.<br>A visiter sans tarder! (4.33 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 10 lots (Pas de procédure en cours).<br>Charges annuelles : 1304.00 euros."
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-14e/appartement/2pieces/immo-facile-61663209",
+    "extra": {
+      "elevator": false,
+      "floor_number": 4,
+      "nb_floors_building": 5,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1304,
+      "condo_lots": 10,
+      "heating": "radiateur électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52989204",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52989204",
+      "creationDate": "2026-10-21T20:18:24.155Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Jules Joffrin"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89059890076521,
+        "lng": 2.346996535222231
+      }
+    },
+    "hardFacts": {
+      "title": "RAMEY - Appartement Paris 2 pièce(s) 38m2 ensoleillé",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/7",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "328 000 €",
+        "formatted": "328 000 €",
+        "additionalInformation": "8 712 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Laforêt Jules Joffrin vous présente en exclusivité ce charmant 2 pièces de 37,65 m², idéalement situé au coeur du très recherché Village Ramey, à seulement quelques pas du métro Jules Joffrin.<br>Au 3ème étage d'une copropriété ancienne, bien entretenue et sécurisée, cet appartement vous séduira dès l'entrée par sa luminosité, son calme absolu et son absence totale de vis-à-vis.<br>Il se compose d'une agréable pièce de vie baignée de lumière, d'une cuisine, d'une chambre confortable, ainsi que d'une salle d'eau avec WC. Son agencement optimisé permet une circulation fluide et offre un cadre de vie chaleureux.<br>Vous apprécierez particulièrement son environnement privilégié, au coeur d'un quartier vivant et authentique, réputé pour ses commerces de proximité, ses cafés, son marché, ses res"
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/laforet-immo-facile-52989204",
+    "extra": {
+      "elevator": null,
+      "floor_number": 3,
+      "nb_floors_building": 7,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 1182.48,
+      "condo_lots": 102,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-netty-company36815dob-appt-2440",
+    "metadata": {
+      "id": "bienici-netty-company36815dob-appt-2440",
+      "creationDate": "2026-10-21T15:50:38.960Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75012",
+        "district": "Vallée de Fecamp"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83626469566803,
+        "lng": 2.3958583648834915
+      }
+    },
+    "hardFacts": {
+      "title": "2 pièces Baigné de lumières",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "36 m²",
+          "splitValue": "36",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/7",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "310 000 €",
+        "formatted": "310 000 €",
+        "additionalInformation": "8 502 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Rue de Wattignies – À 5 minutes à pied du métro Daumesnil et à proximité immédiate de la Gare de Lyon<br>Au 6? et dernier étage (sans ascenseur) d'un immeuble bien entretenu, venez découvrir ce charmant 2 pièces de 36.46 m², lumineux et bien agencé.<br>Il se compose d'une entrée, d'un vaste séjour baigné de lumière grâce à ses trois fenêtres, d'une cuisine indépendante (avec possibilité d'ouverture sur le séjour), d'une chambre, d'une salle d'eau et de toilettes séparées.<br>Chauffage et production d'eau chaude  individuel électrique<br>Dans une copropriété de 83 lots. Quote-part moyenne du budget prévisionnel 1 060 €/an. Aucune procédure n'est en cours. Logement à consommation énergétique excessive : Classe énergie F, Classe climat C Montant estimé des dépenses annuelles d'énergie pour un"
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-12e/appartement/2pieces/netty-company36815dob-appt-2440",
+    "extra": {
+      "elevator": false,
+      "floor_number": 6,
+      "nb_floors_building": 7,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 1060,
+      "condo_lots": 83,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-1b1097dc-a334-449d-bee8-470c73408cac",
+    "metadata": {
+      "id": "gdc-1b1097dc-a334-449d-bee8-470c73408cac",
+      "creationDate": 1792629165000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends t3 - 57 m² - Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "57 m²",
+          "splitValue": "57",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "399 000 €",
+        "formatted": "399 000 €",
+        "additionalInformation": "7 000 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-t3-57-m-paris-43d299d",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Charly",
+      "nb_photos": 11
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-3122a626-4955-465b-acbd-55bc549454fc",
+    "metadata": {
+      "id": "gdc-3122a626-4955-465b-acbd-55bc549454fc",
+      "creationDate": 1791504268000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends t2 - 36.61 m² - Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "36 m²",
+          "splitValue": "36",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "300 000 €",
+        "formatted": "300 000 €",
+        "additionalInformation": "8 333 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-t2-36-dot-61m-paris-0a239ec",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Adrien",
+      "nb_photos": 8
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-eb984a7c-6d9b-4692-9334-5510532d6490",
+    "metadata": {
+      "id": "gdc-eb984a7c-6d9b-4692-9334-5510532d6490",
+      "creationDate": 1792602219000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75017",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends t3 - 41.7 m² - Paris 17ème",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "41 m²",
+          "splitValue": "41",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "365 000 €",
+        "formatted": "365 000 €",
+        "additionalInformation": "8 902 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-t3-41-dot-7-m-paris-17eme-e3520d0",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Guillain",
+      "nb_photos": 9
+    }
   }
 ]
