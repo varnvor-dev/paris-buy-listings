@@ -62800,5 +62800,157 @@
       "owner_name": "Myriam",
       "nb_photos": 8
     }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52994195",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52994195",
+      "creationDate": "2026-10-23T12:16:11.170Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "La Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8881285635269,
+        "lng": 2.3601493524972157
+      }
+    },
+    "hardFacts": {
+      "title": "MARX DORMOY - 3 pièces traversant avec charme de l'ancien et fort potentiel",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "57 m²",
+          "splitValue": "57",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/8",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "399 000 €",
+        "formatted": "399 000 €",
+        "additionalInformation": "7 000 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "À deux pas du métro Marx Dormoy et de tous les commerces de proximité (Monoprix, boulangeries, pâtisseries, boucheries, épiceries...), Laforêt Jules Joffrin vous propose cet appartement de 3 pièces d'environ 57 m², situé au 4ème étage d'une copropriété ancienne bien entretenue.<br>Traversant sur rue et cour, il bénéficie d'une distribution fonctionnelle et d'un beau potentiel d'aménagement. Il se compose d'une entrée confortable de plus d'1 mètre de large avec de grands placards intégrés, d'un séjour avec cuisine, d'une salle de bains, de WC séparés, d'une chambre au calme sur cour et d'une seconde pièce sur rue pouvant faire office de chambre, bureau ou chambre d'enfant.<br>Vous apprécierez le charme de l'ancien, la luminosité liée à l'étage élevé, ainsi que la double exposition qui assur"
+    },
+    "energyClass": "F",
+    "ges": "F",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/3pieces/laforet-immo-facile-52994195",
+    "extra": {
+      "elevator": false,
+      "floor_number": 4,
+      "nb_floors_building": 8,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 1680,
+      "condo_lots": 33,
+      "heating": "radiateur gaz individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-cbb15c33-02f8-4cc6-9171-912d30825516",
+    "metadata": {
+      "id": "gdc-cbb15c33-02f8-4cc6-9171-912d30825516",
+      "creationDate": 1792419717000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75011",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "2 pièces - Village Faidherbe - 37m2",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "51 m²",
+          "splitValue": "51",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/5",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "355 000 €",
+        "formatted": "355 000 €",
+        "additionalInformation": "6 961 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/2-pieces-exposition-sud-37m2-02ccd49",
+    "extra": {
+      "elevator": null,
+      "floor_number": 1,
+      "nb_floors_building": 5,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "south",
+      "is_pro": true,
+      "owner_name": "Maxime",
+      "nb_photos": 6
+    }
   }
 ]
