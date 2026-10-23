@@ -62346,5 +62346,459 @@
       "price_decreased": false,
       "is_pro": true
     }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-iad-france-1896043",
+    "metadata": {
+      "id": "bienici-iad-france-1896043",
+      "creationDate": null
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Flandre - Aubervilliers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.894147016765366,
+        "lng": 2.3703911408504372
+      }
+    },
+    "hardFacts": {
+      "title": "Vente Appartement 2 pièces",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "45 m²",
+          "splitValue": "45",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/11",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "310 000 €",
+        "formatted": "310 000 €",
+        "additionalInformation": "6 889 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "iad France - Laïla Brodier vous propose: Opportunité à Saisir - Charmant Appartement 2 Pièces - Quartier Prisé de Paris 19é<br>D'une surface de 45m², cet appartement comprend une suite parentale avec dressing et salle de bains, un WC séparé, une cuisine ouverte sur le séjour et d'une cave. La disposition des pièces a été pensée pour optimiser l'espace et offrir un environnement fonctionnel et confortable. <br>La résidence sécurisée où se trouve ce bien offre un environnement paisible et sécurisé, avec des équipements modernes tels qu'un ascenseur, un vidéophone, un digicode, d'un interphone et d'un gardien, pour une tranquillité d'esprit optimale. un accès à la fibre optique, et une ventilation mécanique pour un confort accru et pour une tranquillité d'esprit optimale.<br>Situé au cOEur du"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.bienici.com/annonce/vente/paris-19e/appartement/2pieces/iad-france-1896043",
+    "extra": {
+      "elevator": true,
+      "floor_number": 5,
+      "nb_floors_building": 11,
+      "has_cellar": false,
+      "exposition": null,
+      "annual_charges": 3000,
+      "condo_lots": 150,
+      "heating": "radiateur électrique collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": true,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61666498",
+    "metadata": {
+      "id": "bienici-immo-facile-61666498",
+      "creationDate": "2026-10-22T14:17:30.636Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "La Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89221140267065,
+        "lng": 2.364242647968704
+      }
+    },
+    "hardFacts": {
+      "title": "Gros Potentiel",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "33 m²",
+          "splitValue": "33",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/6",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "235 000 €",
+        "formatted": "235 000 €",
+        "additionalInformation": "7 121 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "75018 PARIS. Marché de l'Olive. Rue Marc Seguin. Dans Une Très Bonne Copropriété Ancienne, Très Bien Tenue. Au 5ème & dernier étage exposé Sud et Sans Vis à Vis. 2 Pièces de 33m2 à Rénover. Aucune perte de Place. Séjour avec Cuisine Us. Une Chambre. Salle d'eau avec WC. Lumineux & Calme. Excellent Plan. Une Cave. Commerces & Transports à Proximité."
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/immo-facile-61666498",
+    "extra": {
+      "elevator": null,
+      "floor_number": 5,
+      "nb_floors_building": 6,
+      "has_cellar": null,
+      "exposition": "Sud",
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag133861-555444878",
+    "metadata": {
+      "id": "bienici-ag133861-555444878",
+      "creationDate": "2026-10-22T15:29:44.500Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Flandre - Aubervilliers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88501130047641,
+        "lng": 2.365776674278837
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement T2 de 39 m² à Paris 75018, Rue d'Aubervilliers",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "39 m²",
+          "splitValue": "39",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/5",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "300 000 €",
+        "formatted": "300 000 €",
+        "additionalInformation": "7 692 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Pour toute question ou demande d'information, pensez à noter et nous communiquer le numéro de référence lors de votre appel : 22701\n\nHomki est ravi de vous proposer en exclusivité cet appartement traversant de 38,22 m², situé au 1er étage, au calme et en fond de cour, rue d'Aubervilliers.\n\nRécemment rénové, ce 2 pièces offre un agencement optimisé et de nombreux rangements astucieusement intégrés. Il se compose d'une entrée ouvrant sur une cuisine aménagée et équipée, d'un séjour lumineux, d'une chambre confortable, d'une salle d'eau et de WC séparés.\n\nUn appartement fonctionnel, rénové et au calme, idéal pour un premier achat ou un investissement.\n\n1 cave complète ce bien.\n\nIdéalement situé, l'appartement bénéficie d'un environnement pratique et vivant, avec l'ensemble des commerces de pr"
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/ag133861-555444878",
+    "extra": {
+      "elevator": false,
+      "floor_number": 1,
+      "nb_floors_building": 5,
+      "has_cellar": true,
+      "exposition": "traversant",
+      "annual_charges": 1585.3200000000002,
+      "condo_lots": 65,
+      "heating": "radiateur électricité individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag783893-555163019",
+    "metadata": {
+      "id": "bienici-ag783893-555163019",
+      "creationDate": "2026-10-22T14:53:21.058Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Didot - Porte de Vanves"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.826604566477144,
+        "lng": 2.3135046342740426
+      }
+    },
+    "hardFacts": {
+      "title": "PARIS 14? - 2 PIÈCES DE 42 M² A VENDRE - CALME, LUMINEUX",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "41 m²",
+          "splitValue": "41",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/7",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "360 000 €",
+        "formatted": "360 000 €",
+        "additionalInformation": "8 780 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 14? - 2 PIÈCES DE 42 M² - CALME, LUMINEUX ET CHARME DE L'ANCIEN\n\nAu sein du Square Alice, une adresse paisible et recherchée du 14? arrondissement, découvrez cet appartement traversant de 42 m², situé au 1er étage avec ascenseur d'un immeuble de caractère construit en 1910.\n\nÀ proximité de la rue Didot, de ses commerces et restaurants, de la Petite Ceinture et du tramway T3, ce bien bénéficie d'un emplacement privilégié, alliant vie de quartier et tranquillité.\nL'appartement séduit par ses prestations anciennes préservées : parquet, moulures, cheminées et belle hauteur sous plafond de 2,79 m. Sa configuration traversante lui assure une agréable luminosité naturelle et une atmosphère chaleureuse.\n\nEn bon état général, il offre une distribution fonctionnelle comprenant un couloir desse"
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-14e/appartement/2pieces/ag783893-555163019",
+    "extra": {
+      "elevator": true,
+      "floor_number": 1,
+      "nb_floors_building": 7,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 1290.99999999996,
+      "condo_lots": 97,
+      "heating": "électricité individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag754691-549060866",
+    "metadata": {
+      "id": "bienici-ag754691-549060866",
+      "creationDate": "2026-09-10T00:18:23.893Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75010",
+        "district": "Goncourt - Canal Saint-Martin"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87239635107407,
+        "lng": 2.374192030271851
+      }
+    },
+    "hardFacts": {
+      "title": "3 pièces bien agencé",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "45 m²",
+          "splitValue": "45",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/7",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "400 000 €",
+        "formatted": "400 000 €",
+        "additionalInformation": "8 889 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Paris X ème, bas Belleville. Nous vous proposons en Exclusivité un appartement en étage dans un bel immeuble avec cachet. Beau 3 pièces disposant d'une entrée, une pièce à vivre avec une cuisine meublée et équipée, deux chambres, une salle d'eau, WC séparés, des rangements et une cave. Disposition en étoile, lumineux et du cachet. Pas de travaux à prévoir ni dans l'appartement ni dans l'immeuble. Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr (nouv. art. R 125-25 I, C Env.) Contact agence <span class=\"importDescriptionDecorator\" data-type=\"phone\">0142087337</span>"
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-10e/appartement/3pieces/ag754691-549060866",
+    "extra": {
+      "elevator": false,
+      "floor_number": 4,
+      "nb_floors_building": 7,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 1824,
+      "condo_lots": 22,
+      "heating": "individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-f2d8d03e-00e6-4c65-a653-6e7bc81085b8",
+    "metadata": {
+      "id": "gdc-f2d8d03e-00e6-4c65-a653-6e7bc81085b8",
+      "creationDate": 1791188552000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends Appartement Loué - 34m² - Paris 19ème",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34 m²",
+          "splitValue": "34",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/9",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "230 000 €",
+        "formatted": "230 000 €",
+        "additionalInformation": "6 765 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vente-appartement-34m-paris-19eme-f9e2fec",
+    "extra": {
+      "elevator": true,
+      "floor_number": 2,
+      "nb_floors_building": 9,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Myriam",
+      "nb_photos": 8
+    }
   }
 ]
