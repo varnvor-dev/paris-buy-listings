@@ -62952,5 +62952,445 @@
       "owner_name": "Maxime",
       "nb_photos": 6
     }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52835961",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52835961",
+      "creationDate": "2026-08-26T15:00:49.184Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Bibliothèque - Dunois - Jeanne d'Arc"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.831353138547044,
+        "lng": 2.366738325494339
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement Paris 2 pièce(s) 32.85 m2",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "33 m²",
+          "splitValue": "33",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/5",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "230 000 €",
+        "formatted": "230 000 €",
+        "additionalInformation": "7 002 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 13ème JEANNE D'ARC <br>Nous avons le plaisir de vous présenter en exclusivité un magnifique appartement de 32,85m² L.C situé au sein d'un immeuble ancien de 1900,  au coeur du quartier Jeanne d'Arc. Au 1er étage sans ascenseur, cet appartement  traversant de 2 pièces a été entièrement refait à neuf et se compose d'une entrée, d'un séjour lumineux exposé Sud Est, d'une chambre, d'une cuisine indépendante ainsi qu'une salle d'eau avec WC. Rangements. Situé dans un secteur très recherché du 13ème arrondissement de Paris à 5 minutes à pied du métro National ligne 6, et à 6 minutes à pied du métro Olympiade (ligne 14), de plusieurs lignes de bus, des écoles et de tous commerces à proximité. Vendu libre de tout occupant, ce bien est idéal pour un primo accédant, un pied-à-terre parisien ou"
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-13e/appartement/2pieces/laforet-immo-facile-52835961",
+    "extra": {
+      "elevator": false,
+      "floor_number": 1,
+      "nb_floors_building": 5,
+      "has_cellar": null,
+      "exposition": "Sud Est",
+      "annual_charges": 1920,
+      "condo_lots": 32,
+      "heating": "radiateur électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": true,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-century-21-202_2572_18654",
+    "metadata": {
+      "id": "bienici-century-21-202_2572_18654",
+      "creationDate": "2026-10-24T02:27:25.752Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75010",
+        "district": "Château d'Eau - Lancry"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.871123343182674,
+        "lng": 2.3554635345855535
+      }
+    },
+    "hardFacts": {
+      "title": "bienici — Paris 10e",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "41 m²",
+          "splitValue": "41",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/7",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "328 000 €",
+        "formatted": "328 000 €",
+        "additionalInformation": "8 055 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 75010, BOULEVARD DE STRASBOURG / FAUBOURG SAINT-MARTIN, à proximité immédiate des commerces et des transports, votre agence CENTURY 21 BONSERGENT vous présente en exclusivité ce 2 pièces avec beaucoup de potentiel au 6ème étage SANS ASCENSEUR d'un bel immeuble ancien bien entretenu avec gardiens !<br>Il est composé d'une entrée, un séjour, une chambre, un coin cuisine, une salle de bains et un WC.<br>L'appartement donne sur le  FAUBOURG SAINT-MARTIN !<br>Il saura vous séduire par sa luminosité, ses vues dégagées, son calme et sa localisation idéale en plein centre de Paris ! Traversant sur rue et courette. <br>Pour les amoureux des travaux, à visiter rapidement ! Logement à consommation énergétique excessive : classe G. Montant estimé des dépenses annuelles d'énergie pour un usage st"
+    },
+    "energyClass": "G",
+    "ges": "G",
+    "url": "https://www.bienici.com/annonce/vente/paris-10e/appartement/2pieces/century-21-202_2572_18654",
+    "extra": {
+      "elevator": false,
+      "floor_number": 6,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 900,
+      "condo_lots": 55,
+      "heating": "Individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52994505",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52994505",
+      "creationDate": "2026-10-23T15:43:08.214Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Pernety"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83565660920186,
+        "lng": 2.3179886625715906
+      }
+    },
+    "hardFacts": {
+      "title": "Studio de 30 m² - Paris 14ème, Pernety",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "30 m²",
+          "splitValue": "30",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/6",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "269 000 €",
+        "formatted": "269 000 €",
+        "additionalInformation": "8 967 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Au coeur du quartier vivant de Pernety, découvrez ce studio de 30 m² situé dans un environnement typiquement parisien, à proximité des commerces et des transports.<br>Le logement propose une pièce principale offrant plusieurs possibilités d'aménagement, un espace cuisine ainsi qu'une salle d'eau équipée d'un sanibroyeur. Sa superficie permet d'envisager un aménagement fonctionnel et adapté à la vie quotidienne.<br>À quelques pas du métro Pernety et des commodités du quartier, ce bien représente une opportunité intéressante pour un premier achat, un pied-à-terre ou un investissement locatif dans un secteur recherché du 14ème arrondissement.<br>Un studio au potentiel intéressant, idéal pour profiter pleinement de la vie parisienne. (7.60 % d'honoraires TTC à la charge de l'acquéreur.)<br>Cop"
+    },
+    "energyClass": "F",
+    "ges": "E",
+    "url": "https://www.bienici.com/annonce/vente/paris-14e/appartement/1pieces/laforet-immo-facile-52994505",
+    "extra": {
+      "elevator": null,
+      "floor_number": 4,
+      "nb_floors_building": 6,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 2160,
+      "condo_lots": 39,
+      "heating": "",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-iad-france-1060138",
+    "metadata": {
+      "id": "bienici-iad-france-1060138",
+      "creationDate": "2026-10-24T02:56:56.090Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Saint-Blaise"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.85681723566522,
+        "lng": 2.4102510471083787
+      }
+    },
+    "hardFacts": {
+      "title": "Vente Appartement 2 pièces",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "36 m²",
+          "splitValue": "36",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "315 000 €",
+        "formatted": "315 000 €",
+        "additionalInformation": "8 750 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "iad France - Ouaïba Bendjenad vous propose: <br>PARIS 20e – Charmant 2 pièces de 36 m² avec cave – Possibilité de vente meublée<br>Situé BOULEVARD DAVOUT  dans le 20e arrondissement de Paris, découvrez ce charmant appartement de 2 pièces de 36m², coquet, fonctionnel et bien agencé,  au 1er étage entièrement sur cour d’un immeuble ancien de 1930 comprenant 7 étages.<br>Bien aménagé, cet appartement offre un agencement optimisé et un cadre de vie agréable. Il séduit par le charme de ses moulures au plafond qui lui confèrent élégance et cachet. Il se compose d’une entrée, d’un séjour convivial, d’une grande chambre avec dressing, d’une cuisine aménagée et équipée, ainsi que d’une salle d’eau avec WC.<br>La cuisine dispose de nombreux équipements :  lave-linge, four, plaques de cuisson, hotte "
+    },
+    "energyClass": "F",
+    "ges": "F",
+    "url": "https://www.bienici.com/annonce/vente/paris-20e/appartement/2pieces/iad-france-1060138",
+    "extra": {
+      "elevator": true,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 1680,
+      "condo_lots": 2,
+      "heating": "",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-df17387c-5307-402c-9262-e456e900c454",
+    "metadata": {
+      "id": "gdc-df17387c-5307-402c-9262-e456e900c454",
+      "creationDate": 1792802035000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends t2 - 43 m² - Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "43 m²",
+          "splitValue": "43",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "367 000 €",
+        "formatted": "367 000 €",
+        "additionalInformation": "8 535 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-t2-43-m-paris-4eec705",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Daniel",
+      "nb_photos": 6
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-b4a66e20-7981-4715-989a-2ab032504443",
+    "metadata": {
+      "id": "gdc-b4a66e20-7981-4715-989a-2ab032504443",
+      "creationDate": 1792807507000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends studio - 45.05 m² - 2 pièces, 1 chambre - Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "45 m²",
+          "splitValue": "45",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "380 000 €",
+        "formatted": "380 000 €",
+        "additionalInformation": "8 444 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-studio-45-dot-05-m-2-pieces-1-chambre-paris-5bf63c3",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Chloé",
+      "nb_photos": 13
+    }
   }
 ]
