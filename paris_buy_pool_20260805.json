@@ -63392,5 +63392,74 @@
       "owner_name": "Chloé",
       "nb_photos": 13
     }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-b41f8a8f-364e-43f8-99f0-7c5cee2ddb4d",
+    "metadata": {
+      "id": "gdc-b41f8a8f-364e-43f8-99f0-7c5cee2ddb4d",
+      "creationDate": 1787562234000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends t2 - 44 m² - Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "44 m²",
+          "splitValue": "44",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "365 000 €",
+        "formatted": "365 000 €",
+        "additionalInformation": "8 295 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-t2-44-m-paris-157389c",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Doly",
+      "nb_photos": 8
+    }
   }
 ]
