@@ -64124,5 +64124,157 @@
       "owner_name": "Elodie",
       "nb_photos": 8
     }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61674786",
+    "metadata": {
+      "id": "bienici-immo-facile-61674786",
+      "creationDate": "2026-10-25T06:55:31.456Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Télégraphe - Pelleport - Saint-Fargeau"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.874214573580076,
+        "lng": 2.3915410386656584
+      }
+    },
+    "hardFacts": {
+      "title": "JOURDAIN 3 pièces traversant avec cave.",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "46 m²",
+          "splitValue": "46",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/7",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "399 000 €",
+        "formatted": "399 000 €",
+        "additionalInformation": "8 695 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Jourdain, dans la rue Frédérick Lemaitre, au 6eme et dernier étage sans ascenseur d'un bel immeuble ancien pierre de taille, votre agence de quartier  vous propose un appartement de 3 pièces avec toutes les prestations de l'ancien préservées - moulures, cheminée, parquet, hauteur sous plafond.<br>Il se compose d'un séjour avec cuisine aménagée exposé Est avec vue l 'Eglise de Jourdain, deux chambres, une grande salle de bains avec baignoire e toilettes.<br>Une cave en sous-sol complète cette offre.<br>Très au calme et traversant, quelques travaux de rafraichissement sont à prévoir.<br>A ne pas manquer !<br><span class=\"importDescriptionDecorator\" data-type=\"phone\">0660156164</span><br>Copropriété de 15 lots - dont 15 lots habitation. (Pas de procédure en cours).<br>Charges annuelles : 2100"
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-20e/appartement/3pieces/immo-facile-61674786",
+    "extra": {
+      "elevator": false,
+      "floor_number": 6,
+      "nb_floors_building": 7,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 2100,
+      "condo_lots": 15,
+      "heating": "radiateur électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-c3b66db3-3297-41ac-b7bd-f822ef5cd044",
+    "metadata": {
+      "id": "gdc-c3b66db3-3297-41ac-b7bd-f822ef5cd044",
+      "creationDate": 1792922005000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "IDEAL INVESTISSEMENT | Vente à terme occupée, 2 pièces de 58 m² au dernier étage, Paris 13e",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "58 m²",
+          "splitValue": "58",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "7/7",
+          "splitValue": "7",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "308 160 €",
+        "formatted": "308 160 €",
+        "additionalInformation": "5 313 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/ideal-investissenement-vente-a-terme-occupee-2-pieces-de-58-m-au-dernier-etage-paris-13e-3b387a2",
+    "extra": {
+      "elevator": true,
+      "floor_number": 7,
+      "nb_floors_building": 7,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Sandrine",
+      "nb_photos": 19
+    }
   }
 ]
