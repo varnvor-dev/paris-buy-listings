@@ -63461,5 +63461,668 @@
       "owner_name": "Doly",
       "nb_photos": 8
     }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52996483",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52996483",
+      "creationDate": "2026-10-24T20:03:47.593Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "La Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88872450061123,
+        "lng": 2.359614426853235
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement Paris 2 pièce(s) 41.5m2",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "42 m²",
+          "splitValue": "42",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/9",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "255 000 €",
+        "formatted": "255 000 €",
+        "additionalInformation": "6 145 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 18EME - MARX DORMOY<br>Votre agence Laforêt vous propose en exclusivité ce 2 pièces en 1er étage à refaire dans une copropriété des années 70 au métro Marx Dormoy.<br>L'appartement se compose d'une entrée, un séjour de 16.5m², une cuisine, une chambre, une salle de bain, un W.C. séparé et un balcon de 8,5m².<br>Vous serez séduit par le calme, l'ascenseur, le potentiel après travaux et la proximité des transports & commerces.<br>A visiter sans tarder! (8.51 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 40 lots (Pas de procédure en cours).<br>Charges annuelles : 2500.00 euros."
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/laforet-immo-facile-52996483",
+    "extra": {
+      "elevator": true,
+      "floor_number": 1,
+      "nb_floors_building": 9,
+      "has_cellar": false,
+      "exposition": null,
+      "annual_charges": 2500,
+      "condo_lots": 40,
+      "heating": "radiateur collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52996481",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52996481",
+      "creationDate": "2026-10-24T20:03:47.593Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "La Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88772465843827,
+        "lng": 2.358218134231644
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement Paris 2 pièce(s) 38 m2",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/7",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "240 000 €",
+        "formatted": "240 000 €",
+        "additionalInformation": "6 253 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 18 - MARX DORMOY.<br>Situé Cité de la chapelle, venez découvrir ce deux pièces de 38,38m2 carrez, exposé plein OUEST, à fort potentiel travaux, situé au 4e étage avec ascenseur.<br>Il se compose d'une entrée, un dressing, une cuisine séparée, un séjour, une chambre, une salle d'eau et un wc séparé.<br>Les points forts de cet appartement sont la luminosité, la vue dégagé, le potentiel travaux ,l'ascenseur, et l'immeuble est bien entretenu par un couple de gardiens.<br>À proximité des commerces et des transports.<br>Vendu avec une grande cave. (6.19 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 55 lots - dont 54 lots habitation. (Pas de procédure en cours).<br>Charges annuelles : 1460.00 euros."
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/laforet-immo-facile-52996481",
+    "extra": {
+      "elevator": null,
+      "floor_number": 4,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1460,
+      "condo_lots": 55,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52996484",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52996484",
+      "creationDate": "2026-10-24T20:03:47.593Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Barbès - Château Rouge"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88729537272154,
+        "lng": 2.3500089827631885
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement Paris 18eme CALME, 2 pièces 31.15 m2",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "31 m²",
+          "splitValue": "31",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/7",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "264 000 €",
+        "formatted": "264 000 €",
+        "additionalInformation": "8 475 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 18ème - CHATEAU ROUGE<br>Situé sur le boulevard Barbes au quatrième étage au calme sur cour votre agence Laforet vous propose en exclusivité de venir découvrir ce charmant deux pièces.<br>L'appartement se compose d'une entrée, un séjour avec cuisine ouverte, une salle d'eau avec  W.C. et une chambre.<br>Vous serez séduit par le charme de l'ancien, le calme, la présence d'un local vélo, la proximité immédiate des transports et commerces ainsi que le quartier vivant de Chateau rouge.<br>Ideal primo-accédant ou pied à terre, à visiter sans tarder! (6.02 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 67 lots - dont 32 lots habitation. (Pas de procédure en cours).<br>Charges annuelles : 720.00 euros."
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/laforet-immo-facile-52996484",
+    "extra": {
+      "elevator": false,
+      "floor_number": 4,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 720,
+      "condo_lots": 67,
+      "heating": "radiateur électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-century-21-202_2571_12871",
+    "metadata": {
+      "id": "bienici-century-21-202_2571_12871",
+      "creationDate": "2026-09-19T00:19:09.384Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Flandre - Aubervilliers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89197897290318,
+        "lng": 2.374607293331382
+      }
+    },
+    "hardFacts": {
+      "title": "bienici — Paris 19e",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "36 m²",
+          "splitValue": "36",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/8",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "290 000 €",
+        "formatted": "290 000 €",
+        "additionalInformation": "7 996 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 19ème, EXCLUSIVITÉ CENTURY 21 FLANDRE / Métro CRIMÉE / PARFAIT ETAT / LUMINEUX / 5ème étage, IDÉAL PRIMO ACCÉDANT OU INVESSTISSEUR.<br>Dans une copropriété, bien entretenue, agréable à vivre avec une BELLE cour et un gardien, CHARMANT deux pièces de 36m². Il est composé d'une entrée distribuant un séjour, une cuisine, une chambre, une salle de bains et un WC séparé.<br>Vous serez séduit par cette copropriété de caractère, le charme de l'appartement et les FAIBLES CHARGES. <br>VENDU avec une cave Montant estimé des dépenses annuelles d'énergie pour un usage standard entre 920.0 € et 1270.0 € indexées aux années 2021, 2022, 2023 (abonnements compris)."
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-19e/appartement/2pieces/century-21-202_2571_12871",
+    "extra": {
+      "elevator": false,
+      "floor_number": 5,
+      "nb_floors_building": 8,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1219,
+      "condo_lots": 44,
+      "heating": "",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag923348-555825062",
+    "metadata": {
+      "id": "bienici-ag923348-555825062",
+      "creationDate": "2026-10-24T16:17:38.021Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Bassin de la Villette"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88779740058832,
+        "lng": 2.3818905558281833
+      }
+    },
+    "hardFacts": {
+      "title": "PARIS 19 - STUDIO 1019",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "31 m²",
+          "splitValue": "31",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/6",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "259 000 €",
+        "formatted": "259 000 €",
+        "additionalInformation": "8 355 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Paris 19 ème – Studio de 31,80 m2 dans un immeuble récent\n\nProche du quartier la Villette, dans un immeuble récent de 2013 avec ascenseur, nous vous proposons un beau studio de 31,80 m2 au 4ème étage, exposé Ouest.\n\nIdéalement situé rue Léon Giraud, dans une rue calme du 19ème arrondissement, ce studio offre un cadre de vie fonctionnel et lumineux, proche de toutes les commodités.\n\nIl se compose d'une pièce de vie avec cuisine ouverte et d'une grande salle d'eau de d'un placard dans l'entrée. Sa belle surface pour un studio et son plan facile à aménager en font un bien agréable à vivre, lumineux grâce à son exposition Ouest.\nL'immeuble, sécurisé par digicode, dispose d'un ascenseur et d'un local vélo.\n\nLa construction récente lui assure de bonnes performances énergétiques (DPE C) et des ch"
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-19e/appartement/1pieces/ag923348-555825062",
+    "extra": {
+      "elevator": true,
+      "floor_number": 4,
+      "nb_floors_building": 6,
+      "has_cellar": null,
+      "exposition": "ouest",
+      "annual_charges": 1800,
+      "condo_lots": 24,
+      "heating": "gaz collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61674377",
+    "metadata": {
+      "id": "bienici-immo-facile-61674377",
+      "creationDate": "2026-10-24T14:48:15.168Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83658921738292,
+        "lng": 2.2978622566007956
+      }
+    },
+    "hardFacts": {
+      "title": "PARIS 15 - CONVENTION",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "31 m²",
+          "splitValue": "31",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/7",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "278 000 €",
+        "formatted": "278 000 €",
+        "additionalInformation": "8 968 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Votre agence FREDeLION Paris 15 Convention vous propose en exclusivité ce studio de 30,88 m2 avec parking.<br>Cet appartement situé dans un immeuble moderne en plein coeur du quartier Convention, au calme et ensoleillé, est composé d'une pièce principale, d'une cuisine indépendante (possiblité US), d'une salle de bains avec WC.<br>Vous serez séduit par sa luminosité et son balcon.<br>Première photo en homestaging.<br>Possibilité d'un parking en sus. (6.92 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 52 lots (Pas de procédure en cours).<br>Charges annuelles : 2100.00 euros."
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-15e/appartement/1pieces/immo-facile-61674377",
+    "extra": {
+      "elevator": true,
+      "floor_number": 1,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 2100,
+      "condo_lots": 52,
+      "heating": "radiateur gaz collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-6d98f9f7-93ce-408e-b5bb-402e98336993",
+    "metadata": {
+      "id": "gdc-6d98f9f7-93ce-408e-b5bb-402e98336993",
+      "creationDate": 1792169522000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces - 43.34m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "43 m²",
+          "splitValue": "43",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/6",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "375 000 €",
+        "formatted": "375 000 €",
+        "additionalInformation": "8 721 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/appartement-2-pieces-43-dot-34m-f3264b8",
+    "extra": {
+      "elevator": null,
+      "floor_number": 5,
+      "nb_floors_building": 6,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Elodie",
+      "nb_photos": 7
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-f94b6c60-af08-4436-a540-65b7e28eb2fb",
+    "metadata": {
+      "id": "gdc-f94b6c60-af08-4436-a540-65b7e28eb2fb",
+      "creationDate": 1783609009000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends t2 - 34.46 m² - Paris 20Eme Arrondissement",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34 m²",
+          "splitValue": "34",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "279 000 €",
+        "formatted": "279 000 €",
+        "additionalInformation": "8 206 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-t2-34-dot-46m-paris-20eme-arrondissement-e01cc08",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Denis",
+      "nb_photos": 9
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-41354238-68d6-410e-9c77-865e0d3f91c2",
+    "metadata": {
+      "id": "gdc-41354238-68d6-410e-9c77-865e0d3f91c2",
+      "creationDate": 1792854849000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement type duplex 2 pièces - 34.49 m2 carrez - 41,68 m² au sol",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "289 000 €",
+        "formatted": "289 000 €",
+        "additionalInformation": "7 605 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/appartement-type-duplex-2-pieces-34-dot-49-m2-carrez-4168-m-au-sol-0c9fafa",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "south",
+      "is_pro": true,
+      "owner_name": "Elodie",
+      "nb_photos": 8
+    }
   }
 ]
