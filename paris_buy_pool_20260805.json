@@ -64276,5 +64276,621 @@
       "owner_name": "Sandrine",
       "nb_photos": 19
     }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61676296",
+    "metadata": {
+      "id": "bienici-immo-facile-61676296",
+      "creationDate": "2026-10-26T12:38:13.731Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Olympiades - Choisy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82150904039207,
+        "lng": 2.3660182418212967
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement Paris 3 pièce(s) 64 m2 - étage élevé",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "64 m²",
+          "splitValue": "64",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "11/32",
+          "splitValue": "11",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "399 000 €",
+        "formatted": "399 000 €",
+        "additionalInformation": "6 234 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Entre Porte de  Choisy et Porte d'Ivry / Tour Ferrare<br>En étage élevé d'un immeuble récent avec gardien, 3/4 pièces de 64 m² environ comprenant une entrée avec  rangement, double séjour, cuisine, 2 chambres, cuisine séparée, SDB, WC séparé, cave et parking en sous-sol <br>Proximité A6 <br>lumineux  (5.00 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 600 lots - dont 220 lots habitation. (Non soumis à un impayé).<br>Charges annuelles : 6400.00 euros."
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-13e/appartement/3pieces/immo-facile-61676296",
+    "extra": {
+      "elevator": true,
+      "floor_number": 11,
+      "nb_floors_building": 32,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 6400,
+      "condo_lots": 600,
+      "heating": "collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61676624",
+    "metadata": {
+      "id": "bienici-immo-facile-61676624",
+      "creationDate": "2026-10-26T12:25:59.799Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "La Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89221140267065,
+        "lng": 2.364242647968704
+      }
+    },
+    "hardFacts": {
+      "title": "Gros Potentiel",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "33 m²",
+          "splitValue": "33",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/6",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "229 000 €",
+        "formatted": "229 000 €",
+        "additionalInformation": "6 939 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "75018 PARIS. Marché de l'Olive. Rue Marc Seguin. Dans Une Très Bonne Copropriété Ancienne, Très Bien Tenue. Au 5ème & dernier étage exposé Sud et Sans Vis à Vis. 2 Pièces de 33m2 à Rénover. Aucune perte de Place. Séjour avec Cuisine Us. Une Chambre. Salle d'eau avec WC. Lumineux & Calme. Excellent Plan. Une Cave. Commerces & Transports à Proximité."
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/immo-facile-61676624",
+    "extra": {
+      "elevator": null,
+      "floor_number": 5,
+      "nb_floors_building": 6,
+      "has_cellar": true,
+      "exposition": "Sud",
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-52997566",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-52997566",
+      "creationDate": "2026-10-26T13:08:26.270Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Barbès - Château Rouge"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88729537272154,
+        "lng": 2.3500089827631885
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement Paris 18eme CALME, 2 pièces 31.15 m2",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "31 m²",
+          "splitValue": "31",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/7",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "244 000 €",
+        "formatted": "244 000 €",
+        "additionalInformation": "7 833 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 18ème - CHATEAU ROUGE<br>Situé sur le boulevard Barbes au quatrième étage au calme sur cour votre agence Laforet vous propose en exclusivité de venir découvrir ce charmant deux pièces.<br>L'appartement se compose d'une entrée, un séjour avec cuisine ouverte, une salle d'eau avec  W.C. et une chambre.<br>Vous serez séduit par le charme de l'ancien, le calme, la présence d'un local vélo, la proximité immédiate des transports et commerces ainsi que le quartier vivant de Chateau rouge.<br>Ideal primo-accédant ou pied à terre, à visiter sans tarder! (6.55 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 67 lots - dont 32 lots habitation. (Pas de procédure en cours).<br>Charges annuelles : 720.00 euros."
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/laforet-immo-facile-52997566",
+    "extra": {
+      "elevator": false,
+      "floor_number": 4,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 720,
+      "condo_lots": 67,
+      "heating": "radiateur électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag753296-556090655",
+    "metadata": {
+      "id": "bienici-ag753296-556090655",
+      "creationDate": "2026-10-26T12:40:01.462Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Gambetta"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.862713,
+        "lng": 2.399819
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces - 42 m² avec balcon - Rue des Pyrénées, Paris, métro Gambetta",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "42 m²",
+          "splitValue": "42",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "7/10",
+          "splitValue": "7",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "330 000 €",
+        "formatted": "330 000 €",
+        "additionalInformation": "7 857 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Cet appartement de 42 m² est situé au 7ème étage d'un immeuble de 9 étages avec ascenseur, dans la Rue des Pyrénées, Paris 20ème. Le bien bénéficie d'une exposition sud-ouest, assurant une bonne luminosité et donnant sur cour, au calme.\n\nL'appartement possède un fort potentiel.\nIl comprend :\n- Une entrée desservant un dressing\n- Une cuisine semi-ouverte avec cellier\n- Un séjour avec balcon de 2 m²\n- Une chambre calme et pratique grâce aux rangements intégrés\n- La salle de bain est équipée d'une baignoire.\n\nL'appartement dispose d'une cave, et un local à vélos est disponible dans l'immeuble. Le système de chauffage et d'eau chaude est collectif.\n\nLa taxe foncière annuelle est de 1079 €.\n\nLocalisation du bien :\n\nCommodités : Un choix de commerces, restaurants, et infrastructures culturelles "
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.bienici.com/annonce/vente/paris-20e/appartement/2pieces/ag753296-556090655",
+    "extra": {
+      "elevator": true,
+      "floor_number": 7,
+      "nb_floors_building": 10,
+      "has_cellar": true,
+      "exposition": "sud-ouest",
+      "annual_charges": 2604,
+      "condo_lots": null,
+      "heating": "collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-gedeon-34118390",
+    "metadata": {
+      "id": "bienici-gedeon-34118390",
+      "creationDate": "2026-10-26T13:00:52.194Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "La Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89016045030052,
+        "lng": 2.363478121058055
+      }
+    },
+    "hardFacts": {
+      "title": "Bel appartement 2 pièces de 43,27m2 carrez en très bon état - Calme",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "43 m²",
+          "splitValue": "43",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/4",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "329 000 €",
+        "formatted": "329 000 €",
+        "additionalInformation": "7 651 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Maison Victoire vous propose à la vente ce deux pièces d’une surface de 43,27m2 carrez situé rue Buzelin dans le 18ème arrondissement de Paris.\n\nCalme sur cour, il est situé 1er étage d’un bel immeuble ancien très bien entretenu.\n\nRénové intégralement, il se compose d’un séjour & salle à manger spacieux (Ouest), d’une cuisine ouverte intégralement équipée, d’une pièce pouvant faire office de bureau / dressing et d’une salle d’eau avec WC.\n\nUne cave complète ce bien.\n\nDPE D\n\nTous les murs extérieurs ont été isolés et ravalés récemment.\nLes cages d’escaliers ont été rénovées. La copropriété est très bien entretenue, une gardienne y réside.\n\nLe système de chauffage est individuel électrique.\nLes charges de copropriété sont de 470€ par trimestre.\nLa taxe foncière est de 612€.\n\nLe bien est situ"
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/gedeon-34118390",
+    "extra": {
+      "elevator": null,
+      "floor_number": 1,
+      "nb_floors_building": 4,
+      "has_cellar": true,
+      "exposition": "Est",
+      "annual_charges": 1850,
+      "condo_lots": 32,
+      "heating": "Electrique",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61676771",
+    "metadata": {
+      "id": "bienici-immo-facile-61676771",
+      "creationDate": "2026-10-26T12:25:59.799Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Simplon - Poissonniers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.894075851386496,
+        "lng": 2.349340866657735
+      }
+    },
+    "hardFacts": {
+      "title": "Coup de Coeur",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/6",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "319 000 €",
+        "formatted": "319 000 €",
+        "additionalInformation": "7 975 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "75018 PARIS. Rue du Simplon. Dans un Très Bel Immeuble en Pierre de taille Bien tenu. En étage. Beau 2 Pièces en très bon État de 40m2. Sur Cour Calme. Charme de l'Ancien. Distribution en Étoile.  Beau Séjour. Cuisine indépendante. Une Chambre avec Rangement. Salle d'eau avec WC. Double Vitrage. Clair & Calme. Belle hauteur sous plafond. Habitable de Suite. Emplacement pour Vélos. Cave. Idéal 1er Achat. JEAN-GUILLAUME DENIEL (EI) Agent Commercial - Numéro RSAC :  - ."
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/immo-facile-61676771",
+    "extra": {
+      "elevator": null,
+      "floor_number": 2,
+      "nb_floors_building": 6,
+      "has_cellar": true,
+      "exposition": "Nord Sud",
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61676639",
+    "metadata": {
+      "id": "bienici-immo-facile-61676639",
+      "creationDate": "2026-10-26T12:25:59.799Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Barbès - Château Rouge"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.890467754109466,
+        "lng": 2.3529955233206885
+      }
+    },
+    "hardFacts": {
+      "title": "Coup de Coeur",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "37 m²",
+          "splitValue": "37",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/6",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "309 000 €",
+        "formatted": "309 000 €",
+        "additionalInformation": "8 351 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "75018 PARIS. Gros Coup de Coeur. Marcadet. Rue Emile Duployé. Dans une Rue Pietonne. Dans Un Très Bel Immeuble Ancien Pierre de Taille. En étage élevé sur Cour. Magnifique 2 pièces de 37m2 entièrement Refait à Neuf avec Goût. Lumineux & Calme. Charme de l'Ancien. Aucune Perte de Place. Belle Pièce à Vivre. Chambre confortable. Belle Salle d'eau avec WC Suspendu. Très Belle Cuisine Équipée. Double Vitrage. Une Cave. Plan Optimisé. Idéal 1er Achat."
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/immo-facile-61676639",
+    "extra": {
+      "elevator": null,
+      "floor_number": 4,
+      "nb_floors_building": 6,
+      "has_cellar": true,
+      "exposition": "Sud Ouest",
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61676832",
+    "metadata": {
+      "id": "bienici-immo-facile-61676832",
+      "creationDate": "2026-10-26T12:25:59.799Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Simplon - Poissonniers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.895997536097696,
+        "lng": 2.3461899095950507
+      }
+    },
+    "hardFacts": {
+      "title": "Gros Coup de Coeur",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "32 m²",
+          "splitValue": "32",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/6",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "279 000 €",
+        "formatted": "279 000 €",
+        "additionalInformation": "8 719 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "75018 PARIS. EXCLUSIVITÉ. Simplon. Rue du Mont Cenis. Dans un Très Bel Immeuble Ancien Bien tenu. En étage élevé. Magnifique 2 Pièces de 32m2 en Parfait état. Aucune Perte de Place. Charme de l'Ancien. Séjour exposé Sud/est. Belle Chambre. Cuisine indépendante dinatoire. Salle d'eau avec WC. Clair & Calme. Une Cave. Habitable de Suite."
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/immo-facile-61676832",
+    "extra": {
+      "elevator": null,
+      "floor_number": 4,
+      "nb_floors_building": 6,
+      "has_cellar": true,
+      "exposition": "Sud Est",
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
   }
 ]
