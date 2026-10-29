@@ -74799,5 +74799,740 @@
       "price_decreased": true,
       "is_pro": true
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3297626380",
+    "metadata": {
+      "id": "leboncoin-3297626380",
+      "creationDate": "2026-10-29 14:37:41"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75011",
+        "district": "Belleville"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.86754,
+        "lng": 2.374802
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 41 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "41 m²",
+          "splitValue": "41",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/6",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "270 000 €",
+        "formatted": "270 000 €",
+        "additionalInformation": "6 585 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 41 m²\n\nENTRE BELLEVILLE ET MENILMONTANT - LES TRIPLETTES ! Nous vous proposons un bien de 41m2 au 2ème étage, bourré de potentiel, et ultra bien placé au pied de tous les commerces et du métro ligne 2. Actuellement, le bien est composé d'une entrée, cuisine, séjour, salle d'eau WC, chambre. Vous pourrez aller au bout de vos envies en repensant complètement la disposition des pièces\n\nSurface : 41 m²\n\nA propos de la copropriété :\nPas de procédure en cours\nNombre de lots : 50\n\nConsommation énergie primaire : 260 kWh/m²/an\nConsommation énergie finale : 0.00 kWh/m²/an\n\nMontant estimé des dépenses annuelles d'énergie pour un usage standard : entre 400 € et 1 000 € par an. Prix moyens des énergies indexés sur l'année 2021 (abonnements compris)\n\nLes informations sur les risque"
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3297626380",
+    "extra": {
+      "elevator": null,
+      "floor_number": "2",
+      "nb_floors_building": "6",
+      "building_year": null,
+      "heating_type": null,
+      "heating_mode": "electric",
+      "annual_charges": null,
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3297583987",
+    "metadata": {
+      "id": "leboncoin-3297583987",
+      "creationDate": "2026-10-29 13:30:28"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Saint-Fargeau"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.868454,
+        "lng": 2.401613
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 38 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/7",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "335 000 €",
+        "formatted": "335 000 €",
+        "additionalInformation": "8 816 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 38 m²\n\nAVENUE GAMBETTA - ÉTAGE ÉLEVÉ, BALCON ET VUE DÉGAGÉE\n\nSitué au 6e étage d'un immeuble ancien avec ascenseur, découvrez ce charmant appartement de deux pièces, traversant, bénéficiant d'une distribution en étoile et d'une vue dégagée.\n\nIl se compose d'une entrée avec rangements, d'une agréable pièce de vie avec cheminée ouvrant sur un balcon, d'une chambre donnant sur cour, au calme, d'une cuisine ainsi que d'une salle d'eau avec WC.\n\nUne cave complète ce bien.\n\nÉtage élevé, luminosité, vue dégagée et calme sont les principaux atouts de cet appartement au charme de l'ancien.\n\nSurface : 38 m²\n\nA propos de la copropriété :\nProcédure en cours\nStatut provisoire du syndicat : Procédure en cours\nNombre de lots : 39\nDate de réalisation du diagnostic énergétique : 08/09/"
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3297583987",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "6",
+      "nb_floors_building": "7",
+      "building_year": null,
+      "heating_type": "individual",
+      "heating_mode": "other",
+      "annual_charges": "1650",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3283770901",
+    "metadata": {
+      "id": "leboncoin-3283770901",
+      "creationDate": "2026-10-07 10:15:22"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Jules Joffrin"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89261,
+        "lng": 2.3445313
+      }
+    },
+    "hardFacts": {
+      "title": "Belle opportunité dans ce secteur prisé du XVIIIème familial",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "57 m²",
+          "splitValue": "57",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/7",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "375 000 €",
+        "formatted": "375 000 €",
+        "additionalInformation": "6 579 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Au cœur du 18ème familial, RUE DUC, à quelques pas du métro JULES JOFFRIN, comme de la réputée rue du Poteau et des pentes de Montmartre, dans une belle copropriété années 60 parfaitement entretenue, FONCIA JAURES vous propose ce 2 pièces vendu loué, au 3ème étage par ascenseur.\n\nLe bien est vendu loué, selon un bail 3 ans, depuis le 1er avril 2019, pour un loyer de 1 273€ hors charges.\n\nIl se compose d’une entrée, d’un séjour-double, d’une chambre de belle taille, d’une cuisine indépendante, d’une salle de bains, ainsi que de WC séparé.\n\nVous ne pourrez qu’apprécier le charme du bien (dû à sa rénovation avec goût), sa belle luminosité dû ses vastes fenêtres, et ses volumes généreux des différents espaces.\n\nLe bien situé sur le versant nord de la Butte-Montmartre vous permettra de profiter"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3283770901",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "3",
+      "nb_floors_building": "7",
+      "building_year": "1960",
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": "2868",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3297499655",
+    "metadata": {
+      "id": "leboncoin-3297499655",
+      "creationDate": "2026-10-29 11:15:43"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Porte de Montmartre"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.899506,
+        "lng": 2.3336155
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 40 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/7",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 900 €",
+        "formatted": "299 900 €",
+        "additionalInformation": "7 498 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 40 m²\n\nParis 18e ? Porte de Saint-Ouen \nDans une belle copropriété des années 60 au style Art Déco, avec ascenseur, découvrez ce 2 pièces de 40 m² situé au 2e étage.\nL'appartement se compose d'une entrée, d'un séjour lumineux, d'une cuisine séparée, d'une chambre et d'une salle d'eau avec WC.\nDes travaux de rénovation complets sont à prévoir, permettant ainsi à l'acquéreur de repenser entièrement les volumes et de personnaliser le bien à son goût.\nIdéal pour :\n? un investisseur souhaitant valoriser un bien avec déficit foncier,\n? ou un jeune couple / primo-accédant désireux de créer son cocon sur mesure.\nProximité immédiate du métro Porte de Saint-Ouen (ligne 13), des commerces, marchés, et du nouveau quartier dynamique de la Porte de Montmartre.\nCopropriété saine ? fa"
+    },
+    "energyClass": "F",
+    "ges": "F",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3297499655",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "2",
+      "nb_floors_building": "7",
+      "building_year": "1930",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "3000",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3280588352",
+    "metadata": {
+      "id": "leboncoin-3280588352",
+      "creationDate": "2026-10-02 11:00:31"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Didot"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.834522,
+        "lng": 2.3226888
+      }
+    },
+    "hardFacts": {
+      "title": "PARIS 14e – STUDIO 34,74 m² AVEC BALCON – ASCENSEUR – POSSIBILITÉ 2 PIÈCES",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/7",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "315 000 €",
+        "formatted": "315 000 €",
+        "additionalInformation": "9 000 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "FONCIA vous présente en exclusivité, dans un secteur résidentiel du 14ème arrondissement, dans une rue semi-piétonne et très calme , un studio de 33.02 m² Carrez + 5.16 m2 de balcon pondéré à 1/3, situé au 1er étage avec ascenseur d'une copropriété bien entretenue de 7 étages.\nL'appartement comprenant une entrée avec un grand placard, une cuisine séparée (cuisine US possible), une belle pièce de vie lumineuse de 16m2 (coin nuit possible), un dégagement avec placard, une salle de bains et des WC séparés.\nSon balcon constitue un véritable atout et apporte un agréable espace extérieur au logement. \nGrâce à sa superficie et à sa configuration, l'appartement offre également la possibilité d'être transformé en 2 pièces, permettant ainsi de créer un espace nuit indépendant et d'optimiser les volu"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3280588352",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "1",
+      "nb_floors_building": "7",
+      "building_year": "1965",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "2196",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3278833225",
+    "metadata": {
+      "id": "leboncoin-3278833225",
+      "creationDate": "2026-09-29 10:42:55"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Butte-aux-Cailles"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.829384,
+        "lng": 2.3527908
+      }
+    },
+    "hardFacts": {
+      "title": "Studio 1 pièce 32 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "32 m²",
+          "splitValue": "32",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/5",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "285 000 €",
+        "formatted": "285 000 €",
+        "additionalInformation": "8 906 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement À Vendre\n\nStudio à vendre, idéal investissement ou pied-à-terre, situé dans le 13ème à Paris en périphérie de la Butte aux Cailles. Ce logement de 32 m² est lumineux et fonctionnel comprenant une pièce principale, une cuisine indépendante, une salle de bains avec WC. Cave et emplacement pour voiture parking complètent ce bien.  Immeuble construit en 1971 avec ascenseur. Charges maîtrisées, environnement pratique avec commerces et transports à proximité. Prix demandé : 320 000 EUR. Ne passez pas à côté — contactez-nous pour organiser une visite et concrétiser votre projet.\nRéférence agence : 2325\nRéférence annonce : 2A2Q-LJJ-5QD\nDate de réalisation du diagnostic : 25/09/2026\nLes honoraires sont à la charge du vendeur\n\nMontant estimé des dépenses annuelles d'énergie pour un usage"
+    },
+    "energyClass": "F",
+    "ges": "F",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3278833225",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "3",
+      "nb_floors_building": "5",
+      "building_year": null,
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "2800",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3211448825",
+    "metadata": {
+      "id": "leboncoin-3211448825",
+      "creationDate": "2026-09-26 00:19:05"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75016",
+        "district": "Porte de Saint-Cloud"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.837124,
+        "lng": 2.25997
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 36 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "36 m²",
+          "splitValue": "36",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/5",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "323 000 €",
+        "formatted": "323 000 €",
+        "additionalInformation": "8 972 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 36 m²\n\nMétro Porte de Saint-Cloud   Au sein d'un immeuble ancien de caractère, parfaitement entretenu, situé au 4? étage sans ascenseur, découvrez ce charmant appartement de 2 pièces de 36 m2, parfaitement agencé et sans aucune perte de place.\n Il se compose d'un séjour lumineux bénéficiant de deux fenêtres, d'une cuisine ouverte sur la pièce de vie, d'une spacieuse chambre avec rangements intégrés, ainsi que d'une salle d'eau avec WC.\n Exposé sud-est, l'appartement profite d'une agréable luminosité tout au long de la journée.\n Deux caves viennent compléter ce bien.\n Vous apprécierez sa localisation recherchée, à proximité immédiate des commerces, des transports et de toutes les commodités.\n Une opportunité idéale pour un premier achat, un pied-à-terre ou un investisse"
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3211448825",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "4",
+      "nb_floors_building": "5",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "gas",
+      "annual_charges": "2040",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61688104",
+    "metadata": {
+      "id": "bienici-immo-facile-61688104",
+      "creationDate": "2026-10-29T12:26:00.088Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "La Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.8926124907958,
+        "lng": 2.3603544123854854
+      }
+    },
+    "hardFacts": {
+      "title": "3 pièces rue de la Chapelle",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "45 m²",
+          "splitValue": "45",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/7",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "298 000 €",
+        "formatted": "298 000 €",
+        "additionalInformation": "6 622 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Metro Marx Dormoy, rue de La Chapelle, près du marché de l'Olive, au 4e étage sans ascenseur, agréable 3 pièces 45m² comprenant: séjour  exposé plein ouest, 2 chambres  sur cour, cuisine,-repas, salle d'eau et wc séparés. Distribution sans surface perdue . Entièrement rénové Ideal premier achat. EXCLUSIVITE ACOPA<br>Copropriété de 54 lots - dont 26 lots habitation. (Pas de procédure en cours).<br>Charges annuelles : 1800.00 euros."
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/3pieces/immo-facile-61688104",
+    "extra": {
+      "elevator": null,
+      "floor_number": 4,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": "Est Ouest",
+      "annual_charges": 1800,
+      "condo_lots": 54,
+      "heating": "",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61688115",
+    "metadata": {
+      "id": "bienici-immo-facile-61688115",
+      "creationDate": "2026-10-29T12:26:00.088Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75010",
+        "district": "Château d'Eau - Lancry"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.868455119871804,
+        "lng": 2.3598983604298933
+      }
+    },
+    "hardFacts": {
+      "title": "2 pieces + mezzanines",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "48 m²",
+          "splitValue": "48",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/6",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "398 000 €",
+        "formatted": "398 000 €",
+        "additionalInformation": "8 292 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "A 50 metres Place République , Promenade Cleews Vellay, immeuble fin 19e avec façade en cours de ravalement. Sur belle cour claire et calme, appartement atypique de 48,46m² (34.14m² carrez) composé d'un séjour 17.30m²  avec grande hauteur sous plafond    et cuisine ouverte + chambre 8.84m² avec mezzanine 6.94m² + chambre 4.81m² avec mezzanine 5.26m² . salle d'eau avec WC, Parquets et poutres apparentes. Entièrement renové.<br>Copropriété de 100 lots - dont 71 lots habitation. (Procédure en cours).<br>Charges annuelles : 1440.00 euros."
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-10e/appartement/2pieces/immo-facile-61688115",
+    "extra": {
+      "elevator": null,
+      "floor_number": 1,
+      "nb_floors_building": 6,
+      "has_cellar": null,
+      "exposition": "Est",
+      "annual_charges": 1440,
+      "condo_lots": 100,
+      "heating": "",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-87e22420-6327-4b11-a22f-ac1da29d8491",
+    "metadata": {
+      "id": "gdc-87e22420-6327-4b11-a22f-ac1da29d8491",
+      "creationDate": 1790845208000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75010",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends appartement - 37m² - Rue du Faubourg Saint Denis Paris 10ème",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "37 m²",
+          "splitValue": "37",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/6",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "300 000 €",
+        "formatted": "300 000 €",
+        "additionalInformation": "8 108 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/2-pieces-rue-du-faubourg-saint-denis-75010-1102971",
+    "extra": {
+      "elevator": null,
+      "floor_number": 6,
+      "nb_floors_building": 6,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Alexandra",
+      "nb_photos": 10
+    }
   }
 ]
