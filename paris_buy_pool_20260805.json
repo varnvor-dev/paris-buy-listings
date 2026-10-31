@@ -77519,5 +77519,738 @@
       "price_decreased": false,
       "is_pro": true
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3298529764",
+    "metadata": {
+      "id": "leboncoin-3298529764",
+      "creationDate": "2026-10-30 19:11:07"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Bassin de la Villette"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89036,
+        "lng": 2.38424
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 40 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "329 000 €",
+        "formatted": "329 000 €",
+        "additionalInformation": "8 225 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 40 m²\n\nL’office notarial Grégoire MASURE vous propose :\nAppartement à vendre en Immo-interactif\n- - - - - - - - - - - - - - - - - - - - - -\nAdresse du bien : 36B Quai de la Marne 75019 PARIS 19\n- - - - - - - - - - - - - - - - - - - - - -\nVente en IMMO-INTERACTIF\nAppel d’offres à la hausse avec une 1ère offre possible à 329 000 €\nPARIS 19e – 36 bis quai de la Marne – Canal de l’Ourcq / Parc de la Villette\nMe Masure vous propose, dans le cadre d’une vente en IMMO-INTERACTIF, cet appartement 2 pièces de 40,01 m² Carrez avec balcon, situé au 3ème étage avec ascenseur d’un immeuble récent et sécurisé construit en 2015, face au Parc de la Villette et au Canal de l’Ourcq.\nL’appartement se compose :\n• d’un séjour avec coin cuisine équipée ;\n• d’une chambre ;\n• d’une salle d’ea"
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3298529764",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": null,
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": null,
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3298395109",
+    "metadata": {
+      "id": "leboncoin-3298395109",
+      "creationDate": "2026-10-30 17:15:09"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Montmartre - Sacré Coeur - Abbesses"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88802,
+        "lng": 2.3446825
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement - 2 pièces - LUMEO - PARIS 18",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34 m²",
+          "splitValue": "34",
+          "label": "m²"
+        }
+      ],
+      "price": {
+        "value": "284 200 €",
+        "formatted": "284 200 €",
+        "additionalInformation": "8 359 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "| LUMEO - PARIS 18 à Paris (75018)\nUn équilibre séduisant entre fonctionnalité, confort et convivialité, le tout à proximité immédiate des écoles, commerces et transports. Les espaces extérieurs sont majoritairement fleuris ou enherbés, tandis que les intérieurs sont conçus pour maximiser l'espace disponible et profiter d'une belle luminosité naturelle. Répondant aux attentes actuelles, les prestations proposées sont de grande qualité : ascenseurs, visiophones, volets roulants électriques, salles de bains aménagées, locaux à vélos, et stationnements privatifs disponibles sur demande. Certains logements intègrent des fonctionnalités connectées pour piloter à distance les volets roulants et la température, optimisant ainsi votre confort et votre consommation énergétique. Résidence labellisée"
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3298395109",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "building_year": null,
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": null,
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3298387129",
+    "metadata": {
+      "id": "leboncoin-3298387129",
+      "creationDate": "2026-10-30 17:08:29"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Maison Blanche - Cité Florale"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82547,
+        "lng": 2.34696
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 37 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "37 m²",
+          "splitValue": "37",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/6",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "289 000 €",
+        "formatted": "289 000 €",
+        "additionalInformation": "7 811 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 37 m²\n\nL’office notarial SCP Nicolas DELOUIS et Bernard CARVAIS, notaires associés, SCP vous propose :\nAppartement à vendre en Immo-interactif\n- - - - - - - - - - - - - - - - - - - - - -\nAdresse du bien : 32 Rue de Esperance  75013 PARIS 13\n- - - - - - - - - - - - - - - - - - - - - -\nImmobilier.notaires et l'office notarial Maîtres Emmanuel DELOUIS Nicolas DELOUIS Bernard CARVAIS vous proposent :\nAppartement à vendre en Immo-interactif\n- - - - - - - - - - - - - - - - - - - - - -\nNotaire vend un appartement traversant de 2 pièces  - 37.13 m² - Paris 13ème \nAu cœur du quartier - village de la Butte-aux-Cailles, dans un immeuble pierre de taille. \nCet appartement d'angle, chaleureux de 37.13 m² Carrez, situé au 1er étage avec ascenseur au 32 rue de l'espérance, comprend u"
+    },
+    "energyClass": "F",
+    "ges": "F",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3298387129",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "1",
+      "nb_floors_building": "6",
+      "building_year": null,
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": null,
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-century-21-202_2571_12885",
+    "metadata": {
+      "id": "bienici-century-21-202_2571_12885",
+      "creationDate": "2026-09-26T00:15:20.699Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Flandre - Aubervilliers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.893200052697125,
+        "lng": 2.3764854415503174
+      }
+    },
+    "hardFacts": {
+      "title": "bienici — Paris 19e",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "51 m²",
+          "splitValue": "51",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/18",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "345 000 €",
+        "formatted": "345 000 €",
+        "additionalInformation": "6 775 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 19ème, NOUVEAUTÉ / CENTURY 21 FLANDRE / Île de FLANDRE, résidence de GRAND STANDING RÉCENTE GARDIENNÉE et ARBORÉE / métro CRIMÉE / proximité BASSIN DE LA VILLETTE, COMMERCES, ÉCOLES.<br>Venez découvrir ce 2 PIECES de 50.92 m² Loi CARREZ au CALME ABSOLUE, bien AGENCÉ sans PERTE D'ESPACE et composé d'une ENTRÉE distribuant le SÉJOUR BAIGNÉ de LUMIÉRE et ENSOLEILLÉ avec donnant SUR LES JARDINS avec possibilité de CUISINE OUVERTE afin d'obtenir une pièce de vie de 33.97 m², une CHAMBRE, une SALLE DE BAINS et WC séparé.<br>POUR LES AMATEURS DE TRAVAUX ! Une CAVE complète ce bien."
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-19e/appartement/2pieces/century-21-202_2571_12885",
+    "extra": {
+      "elevator": true,
+      "floor_number": 3,
+      "nb_floors_building": 18,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 2587.36,
+      "condo_lots": 850,
+      "heating": "Collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-century-21-202_2571_12646",
+    "metadata": {
+      "id": "bienici-century-21-202_2571_12646",
+      "creationDate": null
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Bassin de la Villette"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88931500102189,
+        "lng": 2.3763254984194404
+      }
+    },
+    "hardFacts": {
+      "title": "bienici — Paris 19e",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "44 m²",
+          "splitValue": "44",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/6",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "319 000 €",
+        "formatted": "319 000 €",
+        "additionalInformation": "7 300 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "EXCLUSIVITÉ CENTURY 21 FLANDRE CRIMÉE / CANAL DE L'OURCQ / RUE DUVERGIER / IMMEUBLE EN BRIQUE / 1ER ETAGE SUR COUR AU CALME ABSOLU.<br>Situé dans un IMMEUBLE ANCIEN ENTRETENU, venez découvrir ce charmant 2 PIECES de 43.70 m² Loi Carrez à rénover et composé d'une ENTREE distribuant LA CUISINE, LE SEJOUR (possibilité d'ouvrir pour OBTENIR un SEJOUR avec CUISINE OUVERTE de 25 m²) une CHAMBRE, une SALLE D'EAU et WC séparé.<br>Faibles charges, VENDU avec une CAVE, pour les AMATEURS DE TRAVAUX.<br>LOCAL A VELO Logement à consommation énergétique excessive : classe G."
+    },
+    "energyClass": "G",
+    "ges": "G",
+    "url": "https://www.bienici.com/annonce/vente/paris-19e/appartement/2pieces/century-21-202_2571_12646",
+    "extra": {
+      "elevator": true,
+      "floor_number": 1,
+      "nb_floors_building": 6,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1189.48,
+      "condo_lots": 38,
+      "heating": "Individuel au gaz",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-century-21-202_2571_12858",
+    "metadata": {
+      "id": "bienici-century-21-202_2571_12858",
+      "creationDate": "2026-09-18T00:21:28.333Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "La Villette - Porte de Pantin"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.887371100874,
+        "lng": 2.386734628275012
+      }
+    },
+    "hardFacts": {
+      "title": "bienici — Paris 19e",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "41 m²",
+          "splitValue": "41",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/8",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "320 000 €",
+        "formatted": "320 000 €",
+        "additionalInformation": "7 752 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 19ème, EXCLUSIVITÉ CENTURY 21 FLANDRE, Rue de l'Ourcq / A PROXIMITÉ IMMÉDIATE DU BASSIN DE LA VILLETTE / copropriété de BON STANDING / au PIED du CANAL, TRAVERSANT au CALME ABSOLUE.<br>Venez découvrir ce 2 PIECES de 41.28 m2 Loi Carrez sur COUR composé d'une ENTRÉE distribuant LE SÉJOUR exposé NO, une CUISINE INDEPENDANTE (possibilité d'ouvrir la CUISINE AFIN DE PROFITER d'un SALON AVEC CUISINE OUVERTE de 24.59 m2), un CHAMBRE, SALLE d'EAU et WC séparé.<br>Vous serez séduit par la LOCALISATION, le PLAN MODULABLE, le CALME, la bonne tenue de la copropriété. VENDU avec une CAVE ! Logement à consommation énergétique excessive : classe F."
+    },
+    "energyClass": "F",
+    "ges": "E",
+    "url": "https://www.bienici.com/annonce/vente/paris-19e/appartement/2pieces/century-21-202_2571_12858",
+    "extra": {
+      "elevator": true,
+      "floor_number": 1,
+      "nb_floors_building": 8,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 2123.95,
+      "condo_lots": 86,
+      "heating": "Collectif  Urbain",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-century-21-202_442_4426",
+    "metadata": {
+      "id": "bienici-century-21-202_442_4426",
+      "creationDate": "2026-10-31T01:29:01.137Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Barbès - Château Rouge"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88906259613532,
+        "lng": 2.355241642095571
+      }
+    },
+    "hardFacts": {
+      "title": "bienici — Paris 18e",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "37 m²",
+          "splitValue": "37",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/6",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "309 000 €",
+        "formatted": "309 000 €",
+        "additionalInformation": "8 351 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "MARCADET-POISSONNIERS:<br>Situé dans une petite rue CALME, au sein d'un très bel immeuble en pierre de taille ravalé et au 4ème étage sur cour, Century 21 Sorim vous dévoile ce charmant 2 pièces de 37m² !<br>L'appartement se compose comme suit : une entrée, cuisine, un séjour, une chambre et une salle d'eau avec WC.<br>Appartement entièrement refait à neuf !!<br>Une cave complète ce bien.<br>Ce deux pièces saura vous charmer, c'est à vous de le découvrir ! Montant estimé des dépenses annuelles d'énergie pour un usage standard entre 900.0 € et 1250.0 € indexées aux années 2021, 2022, 2023 (abonnements compris)."
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/century-21-202_442_4426",
+    "extra": {
+      "elevator": false,
+      "floor_number": 4,
+      "nb_floors_building": 6,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1320,
+      "condo_lots": 25,
+      "heating": "Individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-century-21-202_2571_12269",
+    "metadata": {
+      "id": "bienici-century-21-202_2571_12269",
+      "creationDate": "2026-10-23T00:14:28.630Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Porte de la Villette"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.894494386119206,
+        "lng": 2.3849601316681808
+      }
+    },
+    "hardFacts": {
+      "title": "bienici — Paris 19e",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "45 m²",
+          "splitValue": "45",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "8/11",
+          "splitValue": "8",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "390 000 €",
+        "formatted": "390 000 €",
+        "additionalInformation": "8 760 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 19ème, EXCLUSIVITÉ / CENTURY 21 FLANDRE /15 QUAI DE LA GIRONDE, résidence de GRAND STANDING RÉCENTE GARDIENNÉE / proximité BASSIN DE LA VILLETTE, COMMERCES, ÉCOLES.<br>Venez découvrir ce 2 PIECES de 44.52 m² Loi CARREZ au CALME ABSOLUE, bien AGENCÉ sans PERTE D'ESPACE et composé d'une ENTRÉE distribuant le SÉJOUR BAIGNÉ de LUMIÉRE et ENSOLEILLÉ avec UN BALCON SUD, CUISINE INDEPENDANTE avec POSS. d'OUVRIR, une CHAMBRE, une SALLE DE BAINS et WC séparé.<br>Une CAVE complète ce bien."
+    },
+    "energyClass": "E",
+    "ges": "D",
+    "url": "https://www.bienici.com/annonce/vente/paris-19e/appartement/2pieces/century-21-202_2571_12269",
+    "extra": {
+      "elevator": true,
+      "floor_number": 8,
+      "nb_floors_building": 11,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 2166.16,
+      "condo_lots": 55,
+      "heating": "Collectif radiateurs CPCU radiateurs Urbain",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-2a1c2c64-8eca-4049-a768-c546204fa938",
+    "metadata": {
+      "id": "gdc-2a1c2c64-8eca-4049-a768-c546204fa938",
+      "creationDate": 1793387282000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75006",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends t2 - 33.56 m² - Paris 6Ème",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "33 m²",
+          "splitValue": "33",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "290 000 €",
+        "formatted": "290 000 €",
+        "additionalInformation": "8 788 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-t2-33-dot-56-m-paris-6eme-0f564a5",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Fortis Immo",
+      "nb_photos": 18
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-a4edfef8-2acb-4d9e-9687-5a0832be0e6f",
+    "metadata": {
+      "id": "gdc-a4edfef8-2acb-4d9e-9687-5a0832be0e6f",
+      "creationDate": 1793385322000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends t2 - 40 m² - Paris 19e Arrondissement",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "329 000 €",
+        "formatted": "329 000 €",
+        "additionalInformation": "8 225 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-t2-40-m-paris-19e-arrondissement-00b8212",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": false,
+      "has_balcony": true,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Immo",
+      "nb_photos": 16
+    }
   }
 ]
