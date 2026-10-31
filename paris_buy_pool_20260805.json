@@ -78252,5 +78252,818 @@
       "owner_name": "Immo",
       "nb_photos": 16
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3292198557",
+    "metadata": {
+      "id": "leboncoin-3292198557",
+      "creationDate": "2026-09-22 00:54:03"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Barbès - Château Rouge"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.890366,
+        "lng": 2.3497758
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 38 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/6",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "310 000 €",
+        "formatted": "310 000 €",
+        "additionalInformation": "8 158 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Trouvez lui un défaut?\n\nParis 18ème, rue de Panama, dans un bel immeuble ancien, venez découvrir ce charmant 2 pièces de 38,41 m² au 5ème étage.\nIl comprend une entrée, un beau séjour avec cuisine ouverte donnant plein sud avec balcon filant, une chambre, une salle de bains et un WC séparé.\nUne cave complète le bien. Chauffage et eau chaude électriques, ensemble en très bon état.\nRéférence annonce : SUPER315A\nDate de réalisation du diagnostic : 01/01/2015\nLe prix indiqué comprend les honoraires à la charge de l'acquéreur : 5,08% TTC du prix du bien hors honoraires\nPrix hors honoraires : 295 000 €\n\nA propos de la copropriété :\nPas de procédure en cours\nNombre de lots : 60\nCharges prévisionnelles annuelles : 1632 €\n\nMontant estimé des dépenses annuelles d'énergie pour un usage standard : ent"
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3292198557",
+    "extra": {
+      "elevator": null,
+      "floor_number": "5",
+      "nb_floors_building": "6",
+      "building_year": "1905",
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": "1632",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3291995756",
+    "metadata": {
+      "id": "leboncoin-3291995756",
+      "creationDate": "2026-09-23 17:08:28"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Saint-Lambert"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.84157,
+        "lng": 2.3008
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 35 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/4",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "280 000 €",
+        "formatted": "280 000 €",
+        "additionalInformation": "8 000 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 35 m²\n\nL’office notarial SCP Nicolas DELOUIS et Bernard CARVAIS, notaires associés, SCP vous propose :\nAppartement à vendre en Immo-interactif\n- - - - - - - - - - - - - - - - - - - - - -\nAdresse du bien : 82 rue de l'Amrilal Roussin 75015 PARIS 15\n- - - - - - - - - - - - - - - - - - - - - -\nImmobilier.notaires et l'office notarial Maîtres Emmanuel DELOUIS Nicolas DELOUIS Bernard CARVAIS vous proposent :\nAppartement à vendre en Immo-interactif\n- - - - - - - - - - - - - - - - - - - - - -\nNotaire vend - Paris 15e – 35,25 m² Carrez - Traversant, fort potentiel d’aménagement\nÀ vendre, trois lots de copropriété d’une surface totale de 35,25 m² loi Carrez, situés rue de l’Amiral Roussin dans le 15e arrondissement de Paris, au 4e étage sans ascenseur.\nCe bien traversant bénéfi"
+    },
+    "energyClass": "G",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3291995756",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "4",
+      "nb_floors_building": "4",
+      "building_year": null,
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": null,
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3299005871",
+    "metadata": {
+      "id": "leboncoin-3299005871",
+      "creationDate": "2026-10-31 11:31:25"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Place des fêtes"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87754,
+        "lng": 2.39377
+      }
+    },
+    "hardFacts": {
+      "title": "2 PIÈCES proche des Buttes Chaumont",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "39 m²",
+          "splitValue": "39",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/6",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "326 000 €",
+        "formatted": "326 000 €",
+        "additionalInformation": "8 359 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Près du métro Botzaris, un appartement au calme, très clair, traversant est-ouest, comprenant une pièce principale avec trois fenêtres, une chambre avec fenêtre à l'est, une salle de douche, un wc séparé, et une cuisine. Une très belle vue sur les terrasses du quartier. Chauffage individuel électrique. 6ème étage sans ascenseur. À dix minutes à pied de la Place des Fêtes (un grand marché, Monoprix et de nombreux commerces) et à proximité des écoles. DPE prévu pour le 9 novembre."
+    },
+    "energyClass": "N",
+    "ges": "N",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3299005871",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "6",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1200",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3298967714",
+    "metadata": {
+      "id": "leboncoin-3298967714",
+      "creationDate": "2026-10-31 11:02:06"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75003",
+        "district": "Enfants Rouges - Bretagne"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.86432,
+        "lng": 2.365623
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 5 pièces 180 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "5 pièces",
+          "splitValue": "5",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "180 m²",
+          "splitValue": "180",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "4 chambres",
+          "splitValue": "4",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/6",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "66 666 €",
+        "formatted": "66 666 €",
+        "additionalInformation": "370 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 5 pièces 180 m²\n\nExclusivité  -  Succession\n  \n  Au cœur du quartier des Enfants Rouges, au cinquième étage d'un remarquable hôtel particulier du XVIIe siècle, nous vous proposons une propriété absolument unique, longtemps préservée des regards et du marché immobilier.\n  \n  Accessible par ascenseur privatif, cet appartement de réception de 180 m² offre de magnifiques volumes, une triple exposition, quatre chambres, une bibliothèque, une cuisine dînatoire et plusieurs salons ouvrant sur un exceptionnel jardin suspendu de 150 m².\n  \n  Véritable curiosité botanique, ce jardin abrite des arbres centenaires, une serre d'époque, un bassin et plusieurs essences rares dont certaines ne fleurissent qu'à la nuit tombée.\n  \n  L'ensemble bénéficie d'un calme remarquable. Les précédents occ"
+    },
+    "energyClass": "B",
+    "ges": null,
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3298967714",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "5",
+      "nb_floors_building": "6",
+      "building_year": null,
+      "heating_type": "individual",
+      "heating_mode": "other",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3291761699",
+    "metadata": {
+      "id": "leboncoin-3291761699",
+      "creationDate": "2026-10-20 11:15:44"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75012",
+        "district": "Bel-Air"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83981,
+        "lng": 2.40336
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 3 pièces 50 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "50 m²",
+          "splitValue": "50",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/6",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "370 000 €",
+        "formatted": "370 000 €",
+        "additionalInformation": "7 400 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 3 pièces 50 m²\n\nVisite virtuelle disponible !\nCoup de coeur de l'agence ! Rare sur le secteur !\nMagnifique 3 pièces traversant, deux chambres , baigné de lumière et idéalement situé.\nNiché au 6ème et dernier étage (sans ascenseur, et sans projet d'installation dans la copropriété) d'un bel immeuble des années 30 parfaitement entretenu, cet appartement vous séduira par son charme de l'ancien : très beau parquet massif, belle hauteur sous plafond et double vitrage intégral.\nLes atouts de l'appartement :\nLuminosité & Vue : un intérieur traversant bénéficiant d'une belle lumière naturelle tout au long de la journée et d'une vue dégagée.\nAgencement modulable : l'appartement est éventuellement transformable en un beau 2 pièces offrant une grande pièce de vie / séjour de plus de 27 m²"
+    },
+    "energyClass": "G",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3291761699",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "6",
+      "nb_floors_building": "6",
+      "building_year": "1930",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1428",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3291726963",
+    "metadata": {
+      "id": "leboncoin-3291726963",
+      "creationDate": "2026-10-05 22:53:26"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Barbès - Château Rouge"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88686,
+        "lng": 2.3521
+      }
+    },
+    "hardFacts": {
+      "title": "Appart 2 pièces, duplex de 52m² au sol",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/1",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "302 000 €",
+        "formatted": "302 000 €",
+        "additionalInformation": "7 550 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Charmant petit duplex 53 m² au sol au calme – Quartier animé\n\nSitué au cœur du 18ᵉ arrondissement, dans le quartier animé de la  rue Myrha, l'agence Imkiz  propose ce duplex de 53 m² au sol (34 m² carrez), qui offre un cadre de vie paisible tout en bénéficiant de l’animation du quartier.\nInstallé au 1er étage sur cour dégagée et arboré, d’un immeuble de deux niveaux, ce bien se compose de 34 m² Carrez, complétés par des combles aménagés de 24 m² au sol.\n\nL’appartement, lumineux et au calme, comprend une agréable pièce de vie avec cuisine semi-ouverte équipée, une salle de douche, ainsi qu’une chambre en duplex offrant de nombreux rangements. Les WC sont séparés.\nLes 24 m² au sol de combles aménagés, lumineux par ses 3 grands vélux, apportent un véritable espace supplémentaire, idéal pour c"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3291726963",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "1",
+      "building_year": "1870",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3298845372",
+    "metadata": {
+      "id": "leboncoin-3298845372",
+      "creationDate": "2026-10-31 09:16:50"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75010",
+        "district": "Porte Saint-Martin - Paradis"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87129,
+        "lng": 2.3519
+      }
+    },
+    "hardFacts": {
+      "title": "2 pièces. Bonne Nouvelle. DPE D",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "33 m²",
+          "splitValue": "33",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/6",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "285 000 €",
+        "formatted": "285 000 €",
+        "additionalInformation": "8 636 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement sur cour au calme dans quartier animé. Exposition nord, idéal fortes chaleurs. Double vitrage. PLAFOND BAS (2,11 de hauteur sous plafond). Peut être loué car 20 m3 d'air par pièces. \nFaibles charges : 264€/trimestre avec gardienne, ascenseur et local vélo. \nPas d'agent immobilier. Pas sérieux s'abstenir."
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3298845372",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "5",
+      "nb_floors_building": "6",
+      "building_year": "1850",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1036",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3298833677",
+    "metadata": {
+      "id": "leboncoin-3298833677",
+      "creationDate": "2026-10-31 09:04:27"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Porte de Montmartre"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89708,
+        "lng": 2.33826
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces- 47 m2-75018",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "47 m²",
+          "splitValue": "47",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/5",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "395 000 €",
+        "formatted": "395 000 €",
+        "additionalInformation": "8 404 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Idéalement situé près du quartier vivant et recherché de la rue du Poteau, à proximité immédiate des commerces, des transports (métro 4, 12, 13 ; bus et tramway), des écoles et de toutes les commodités, découvrez ce charmant appartement de 47 m2, au 1er étage sans ascenseur d'un immeuble ancien bien entretenu avec gardien et cour.\n\nL'appartement offre une distribution fonctionnelle et agréable :\n- Une entrée donnant sur un séjour lumineux avec parquet, ouvert sur une cuisine, le tout donnant sur une cour calme\n- Une belle chambre confortable\n- Une salle d'eau\n- Un WC indépendant avec lave-mains\n- Une pièce dressing/ rangement très pratique\n- Une cave complète ce bien.\n\nCet appartement conviendra parfaitement à un premier achat, un pied- à- terre parisien, ou un investissement locatif\n\nPas "
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3298833677",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "5",
+      "building_year": "1950",
+      "heating_type": "communal",
+      "heating_mode": "electric",
+      "annual_charges": "2344",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61585568",
+    "metadata": {
+      "id": "bienici-immo-facile-61585568",
+      "creationDate": "2026-10-31T12:24:58.832Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Jules Joffrin"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89644202457491,
+        "lng": 2.339761599232507
+      }
+    },
+    "hardFacts": {
+      "title": "Résidence Damrémont",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34 m²",
+          "splitValue": "34",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/8",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "295 000 €",
+        "formatted": "295 000 €",
+        "additionalInformation": "8 676 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Entre porte de Clignancourt et Jules Joffrin et à deux pas des commerces de la rue du Poteau, au 5 étage clair et calme avec ascenseur d'un immeuble 1930, récemment ravalé,  raccordé au chauffage urbain et disposant d'un gardien Agréable 2 pièces comprenant!: entrée, séjour et chambre, cuisine, salle de bains/wc,  d'une superficie de  34m². A moderniser.. EXCLUSIVITE ACOPA<br>Copropriété de 1100 lots (Procédure en cours).<br>Charges annuelles : 1988.00 euros."
+    },
+    "energyClass": "D",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/immo-facile-61585568",
+    "extra": {
+      "elevator": null,
+      "floor_number": 5,
+      "nb_floors_building": 8,
+      "has_cellar": null,
+      "exposition": "Est",
+      "annual_charges": 1988,
+      "condo_lots": 1100,
+      "heating": "radiateur collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-6dddd790-bc30-4307-a115-a44b73cdeddf",
+    "metadata": {
+      "id": "gdc-6dddd790-bc30-4307-a115-a44b73cdeddf",
+      "creationDate": 1737710869000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75017",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends appartement - 46m² - Paris Batignolles",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "46 m²",
+          "splitValue": "46",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "370 000 €",
+        "formatted": "370 000 €",
+        "additionalInformation": "8 043 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-appartement-465m-paris-5m-place-clichy-rez-de-chaussee-dans-jolie-rue-t2-professions-liberales-3f64a02",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": 6,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": false,
+      "owner_name": "Françoise",
+      "nb_photos": 10
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-15674364-78e9-4921-9f9e-fb05633bc566",
+    "metadata": {
+      "id": "gdc-15674364-78e9-4921-9f9e-fb05633bc566",
+      "creationDate": 1791530904000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Paris XVIII, Jules Joffrin, 3 pièces de 45m2/ 2 chambres",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "45 m²",
+          "splitValue": "45",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/5",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "375 000 €",
+        "formatted": "375 000 €",
+        "additionalInformation": "8 333 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/paris-xviii-jules-joffrin-3-pieces-de-45m2-2-chambres-efd4d66",
+    "extra": {
+      "elevator": null,
+      "floor_number": 1,
+      "nb_floors_building": 5,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "south",
+      "is_pro": true,
+      "owner_name": "Nicolas",
+      "nb_photos": 7
+    }
   }
 ]
