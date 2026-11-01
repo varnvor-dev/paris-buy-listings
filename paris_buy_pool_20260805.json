@@ -80074,5 +80074,379 @@
       "owner_name": "Viva-Viager",
       "nb_photos": 10
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3257953818",
+    "metadata": {
+      "id": "leboncoin-3257953818",
+      "creationDate": "2026-10-22 15:13:09"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Saint-Blaise"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.860874,
+        "lng": 2.4018643
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 50 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "50 m²",
+          "splitValue": "50",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "25/29",
+          "splitValue": "25",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "340 000 €",
+        "formatted": "340 000 €",
+        "additionalInformation": "6 800 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces de 50 m² situé à Paris\n\nCet appartement de 2 pièces d'environ 50 m2, situé à Paris au 25e étage d'un immeuble des années 1970, offre un agréable cadre de vie dans un environnement urbain parfaitement desservi. Avec son séjour, sa chambre et ses volumes bien pensés, il propose un espace confortable, facile à aménager et à vivre au quotidien.\n\nL'agencement a été conçu sans perte d'espace, ce qui permet de profiter pleinement de chaque mètre carré. La pièce de vie et la chambre bénéficient d'une très belle luminosité, accentuée par le parquet qui apporte une atmosphère chaleureuse et accueillante. La cuisine équipée s'intègre harmonieusement à l'ensemble, permettant de préparer les repas dans un cadre fonctionnel. L'appartement a été récemment rénové, ce qui en fait un li"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3257953818",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "25",
+      "nb_floors_building": "29",
+      "building_year": "1975",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "6480",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3300121376",
+    "metadata": {
+      "id": "leboncoin-3300121376",
+      "creationDate": "2026-11-01 14:32:12"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Porte de la Villette"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89706,
+        "lng": 2.38457
+      }
+    },
+    "hardFacts": {
+      "title": "Paris 19e : F2-T2 37 m² à rénover, 4ᵉ étage ascenseur calme et lumineux sans vis à vis, face Metro & Parc de la Villette",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "37 m²",
+          "splitValue": "37",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/6",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "239 999 €",
+        "formatted": "239 999 €",
+        "additionalInformation": "6 486 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Paris 19e : F2-T2 37 m² à rénover, 4ᵉ étage ascenseur calme et lumineux sans vis à vis, face Metro & Parc de la Villette\n\nParticulier vend T2 de 37 m² à rénover, \n25 avenue Corentin Cariou, Paris 19e. \nFace au Metro & Parc de la Villette\nZone touristique: Hotel - restaurant - commerce.\n\nIdéal premier achat \nou deficit foncier, location saisonnière: \nvous choisissez cuisine, salle de bain et déco qui apporteront de la valeur patrimoniale.\n\n✅ Vide, prêt pour vos travaux\n✅ Électricité  (Linky), tableau aux normes, \n✅ Fenetres double vitrage partout.\n✅ 4ᵉ étage avec ascenseur, sans vis-à-vis, lumineux et calme.\n✅ Moulures et cheminées d'origine, possibilité d'ouvrir les espaces (jusqu'à 39 m²)\n✅ Cave incluse\n✅ Immeuble en briques de 1900 sécurisé (gardien, caméras, 2 digicodes, local vélos)\n✅ "
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3300121376",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "4",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "2000",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3292321072",
+    "metadata": {
+      "id": "leboncoin-3292321072",
+      "creationDate": "2026-10-01 05:33:13"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Simplon - Poissonniers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.892395,
+        "lng": 2.348866
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 42 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "42 m²",
+          "splitValue": "42",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/6",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "300 000 €",
+        "formatted": "300 000 €",
+        "additionalInformation": "7 143 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 42 m²\n\nMETRO SIMPLON - RUE DE CLIGNANCOURT - DERNIER ETAGE\n\nAu sein d'un bel immeuble ancien année 1900, votre agence LEON IMMOBILIER, vous présente EN EXCLUSIVITE, ce 3 pièces de 42 m2 (41,52 M2 LOI CARREZ) situé au 6ème et DERNIER ETAGE.\n\nLumineux traversant avec une exposition SUD, l'appartement se compose : une entrée, un WC séparé, une salle de douches, une cuisine indépendante, un grand séjour avec vue dégagée et PLEIN SUD, deux chambres.\n\nUne cave complète le bien.\n\nCharges de copropriété : 101 euros / mois\nTaxe foncière : 516 euros / an Sofiane RAVOUX (EI) Agent Commercial - Numéro RSAC : 535404735 - PARIS.\n\nSurface : 42 m²\n\nA propos de la copropriété :\nPas de procédure en cours\nStatut provisoire du syndicat : Pas de procédure en cours\nNombre de lots : 34\nDate "
+    },
+    "energyClass": "G",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3292321072",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "6",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "other",
+      "annual_charges": "1212",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag133861-557229935",
+    "metadata": {
+      "id": "bienici-ag133861-557229935",
+      "creationDate": "2026-11-01T12:35:02.699Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Flandre - Aubervilliers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88501130047641,
+        "lng": 2.365776674278837
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement T2 de 39 m² à Paris 75018, Rue d'Aubervilliers",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "39 m²",
+          "splitValue": "39",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/5",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "300 000 €",
+        "formatted": "300 000 €",
+        "additionalInformation": "7 692 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Pour toute question ou demande d'information, pensez à noter et nous communiquer le numéro de référence lors de votre appel : 22701\n\nHomki est ravi de vous proposer en exclusivité cet appartement traversant de 38,22 m², situé au 1er étage, au calme et en fond de cour, rue d'Aubervilliers.\n\nRécemment rénové, ce 2 pièces offre un agencement optimisé et de nombreux rangements astucieusement intégrés. Il se compose d'une entrée ouvrant sur une cuisine aménagée et équipée, d'un séjour lumineux, d'une chambre confortable, d'une salle d'eau et de WC séparés.\n\nUn appartement fonctionnel, rénové et au calme, idéal pour un premier achat ou un investissement.\n\n1 cave complète ce bien.\n\nIdéalement situé, l'appartement bénéficie d'un environnement pratique et vivant, avec l'ensemble des commerces de pr"
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/ag133861-557229935",
+    "extra": {
+      "elevator": false,
+      "floor_number": 1,
+      "nb_floors_building": 5,
+      "has_cellar": true,
+      "exposition": "traversant",
+      "annual_charges": 1585.3200000000002,
+      "condo_lots": 65,
+      "heating": "radiateur électricité individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-e4611a71-d3e3-449b-bbcf-0e4a083a6749",
+    "metadata": {
+      "id": "gdc-e4611a71-d3e3-449b-bbcf-0e4a083a6749",
+      "creationDate": 1793537081000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "PARIS 18e - AMIRAUX-SIMPLON : T2 traversant de 45,80 m² avec balcon, cave et parking en sous-sol",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "46 m²",
+          "splitValue": "46",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/4",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "382 000 €",
+        "formatted": "382 000 €",
+        "additionalInformation": "8 304 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/paris-18e-amiraux-simplon-t2-traversant-de-4580-m-avec-balcon-cave-et-parking-en-sous-sol-52d94f2",
+    "extra": {
+      "elevator": false,
+      "floor_number": 2,
+      "nb_floors_building": 4,
+      "has_cellar": true,
+      "has_balcony": true,
+      "has_terrace": false,
+      "exposition": "north,south",
+      "is_pro": false,
+      "owner_name": "Gaspard",
+      "nb_photos": 10
+    }
   }
 ]
