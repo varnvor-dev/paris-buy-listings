@@ -84143,5 +84143,462 @@
       "owner_name": "Benjamin",
       "nb_photos": 3
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3301572777",
+    "metadata": {
+      "id": "leboncoin-3301572777",
+      "creationDate": "2026-11-03 14:07:47"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Porte de la Chapelle"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89338,
+        "lng": 2.3689413
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 30 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "30 m²",
+          "splitValue": "30",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/6",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "215 000 €",
+        "formatted": "215 000 €",
+        "additionalInformation": "7 167 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 30 m²\n\n2 PIÈCES ENTIÈREMENT RÉNOVÉ  LUMINEUX ? IDÉAL PRIMO-ACCÉDANT OU INVESTISSEUR\nDécouvrez ce charmant appartement de 2 pièces, entièrement rénové avec goût, situé au 1er étage d'un immeuble ancien plein de caractère.\nDès l'entrée, un couloir dessert harmonieusement les différents espaces de vie. Vous profiterez d'une spacieuse pièce de vie baignée de lumière, avec une cuisine ouverte offrant un cadre convivial et fonctionnel. La seconde grande pièce, facilement aménageable en chambre, bénéficie également de beaux volumes.\nLa salle de bains, entièrement aménagée et moderne, complète ce bien prêt à accueillir ses futurs occupants sans aucun travaux.\nL'appartement est équipé de fenêtres en double vitrage et affiche un DPE : E.\nLes parties communes de l'immeuble sont a"
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3301572777",
+    "extra": {
+      "elevator": null,
+      "floor_number": "1",
+      "nb_floors_building": "6",
+      "building_year": null,
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": null,
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag755440-557627225",
+    "metadata": {
+      "id": "bienici-ag755440-557627225",
+      "creationDate": "2026-11-03T14:12:19.764Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Gambetta"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87361139422768,
+        "lng": 2.412670764961145
+      }
+    },
+    "hardFacts": {
+      "title": "APPARTEMENT 3 PIÈCES - BAGNOLET LIMITE PARIS 20EME",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "69 m²",
+          "splitValue": "69",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "7/14",
+          "splitValue": "7",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "280 000 €",
+        "formatted": "280 000 €",
+        "additionalInformation": "4 058 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "EXCLUSIVITÉ DOLY / PROCHE 20ᵉ / PROCHE LES LILAS / PLACE DE PARKING\n\nDOLY est fier de vous présenter cet appartement de 69 m², lumineux, situé à moins de 7 minutes à pied de la station de tramway Adrienne Bolland (ligne T3b) et à moins de 15 minutes à pied de la station de métro Mairie des Lilas (ligne 11).\n\nSitué au 7ᵉ étage avec ascenseur, au calme et avec une vue dégagée, au sein d'une copropriété des années 1970 avec jardin très bien entretenu, il se compose d'une entrée, d'un séjour lumineux exposé Est, d'une cuisine indépendante, de deux chambres , d'une salle de bains et d'un WC indépendant.\n\nUne place de parking en intérieur boxé en sus est possible.\n\nOutre sa proximité immédiate avec les transports, l'appartement bénéficie d'un environnement privilégié, avec commerces, restaurants"
+    },
+    "energyClass": "D",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-20e/appartement/3pieces/ag755440-557627225",
+    "extra": {
+      "elevator": true,
+      "floor_number": 7,
+      "nb_floors_building": 14,
+      "has_cellar": null,
+      "exposition": "est",
+      "annual_charges": 3591.99999999996,
+      "condo_lots": null,
+      "heating": "radiateur gaz collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-hektor-agbatignolles-7681",
+    "metadata": {
+      "id": "bienici-hektor-agbatignolles-7681",
+      "creationDate": null
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75017",
+        "district": "Epinettes - Bessières"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.895478033735294,
+        "lng": 2.316741504869961
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 44m2 traversant avec balcon PARIS 17",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "44 m²",
+          "splitValue": "44",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "6/8",
+          "splitValue": "6",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "367 500 €",
+        "formatted": "367 500 €",
+        "additionalInformation": "8 352 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "EXCLUSIVITE - PARIS 17   A deux pas du métro ligne 14 ( Porte de Clichy), Dans un immeuble en pierre et brique bien entretenu, appartement 2 pièces d'une superficie de 43.72m2 carrez, au 6e étage,sans ascenseur, composé d'une entrée, séjour d'une superficie de 15m2 donnant sur un balcon, cuisine aménagée et équipée, une chambre (12,39m2), salle de bains et WC séparé.<br> Parquet, charme de l'ancien, appartement lumineux, vue dégagée, double vitrage, chauffage collectif.<br> Métro ligne 4 Porte de Clichy, RER C, métro ligne 13 à 283m, tram T3b. Proche commerces. Une cave complète ce bien.<br> Pour plus d'informations me contacter au <span class=\"importDescriptionDecorator\" data-type=\"phone\">06.52.52.44.54</span><br> Agence des Batignolles, établissement sérieux fondé en 1996, spécialisé dan"
+    },
+    "energyClass": "E",
+    "ges": "F",
+    "url": "https://www.bienici.com/annonce/vente/paris-17e/appartement/2pieces/hektor-agbatignolles-7681",
+    "extra": {
+      "elevator": false,
+      "floor_number": 6,
+      "nb_floors_building": 8,
+      "has_cellar": true,
+      "exposition": "Nord Ouest",
+      "annual_charges": null,
+      "condo_lots": 30,
+      "heating": "radiateur gaz collectif",
+      "work_to_do": false,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-53008552",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-53008552",
+      "creationDate": "2026-11-03T10:13:32.999Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Jules Joffrin"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89059890076521,
+        "lng": 2.346996535222231
+      }
+    },
+    "hardFacts": {
+      "title": "RAMEY - Appartement Paris 2 pièce(s) 38m2 ensoleillé",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/7",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "328 000 €",
+        "formatted": "328 000 €",
+        "additionalInformation": "8 712 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Laforêt Jules Joffrin vous présente en exclusivité ce charmant 2 pièces de 37,65 m², idéalement situé au coeur du très recherché Village Ramey, à seulement quelques pas du métro Jules Joffrin.<br>Au 3ème étage d'une copropriété ancienne, bien entretenue et sécurisée, cet appartement vous séduira dès l'entrée par sa luminosité, son calme absolu et son absence totale de vis-à-vis.<br>Il se compose d'une agréable pièce de vie baignée de lumière, d'une cuisine, d'une chambre confortable, ainsi que d'une salle d'eau avec WC. Son agencement optimisé permet une circulation fluide et offre un cadre de vie chaleureux.<br>Vous apprécierez particulièrement son environnement privilégié, au coeur d'un quartier vivant et authentique, réputé pour ses commerces de proximité, ses cafés, son marché, ses res"
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/2pieces/laforet-immo-facile-53008552",
+    "extra": {
+      "elevator": null,
+      "floor_number": 3,
+      "nb_floors_building": 7,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 1182.48,
+      "condo_lots": 102,
+      "heating": "électrique individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag753296-550860779",
+    "metadata": {
+      "id": "bienici-ag753296-550860779",
+      "creationDate": "2026-09-22T07:21:51.500Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75012",
+        "district": "Bel-Air - Nord"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.844537,
+        "lng": 2.409522
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces de 40m² - Traversant, Calme - Avenue de Saint-Mandé, Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "40 m²",
+          "splitValue": "40",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/6",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "352 000 €",
+        "formatted": "352 000 €",
+        "additionalInformation": "8 800 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Hosman vous propose à la vente cet appartement de 2 pèces d'une surface carrez de 40m² Carrez, situé dans le quartier recherché de Picpus, avenue de Saint-Mandé à Paris.\n\nTraversant avec une double exposition Est-Ouest, situé au 4e étage (sans ascenseur) l'appartement offre une belle luminosité.\n\nPlanifiez facilement votre visite en choisissant le créneau qui vous convient depuis le site d'Hosman.\n\nSon agencement en étoile permet une belle optimisation des espaces :\n\n- entrée avec placards\n- séjour avec une possibilité de cuisine ouverte\n- chambre donnant sur la cour avec sa salle d'eau\n- toilettes séparées.\n\nLe système de chauffage et d'eau chaude est individuel électrique.\nAvec cave.\n\nLa localisation est idéale avec les nombreux commerces de la rue du Rendez-vous, restaurants, Sorbonne N"
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-12e/appartement/2pieces/ag753296-550860779",
+    "extra": {
+      "elevator": false,
+      "floor_number": 4,
+      "nb_floors_building": 6,
+      "has_cellar": true,
+      "exposition": "est",
+      "annual_charges": 960,
+      "condo_lots": 5,
+      "heating": "individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-5f7fc73d-c225-422c-b00c-c2ce010d78fe",
+    "metadata": {
+      "id": "gdc-5f7fc73d-c225-422c-b00c-c2ce010d78fe",
+      "creationDate": 1777619485000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends appartement - 52m² - Paris 15ème",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "52 m²",
+          "splitValue": "52",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/8",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "349 000 €",
+        "formatted": "349 000 €",
+        "additionalInformation": "6 712 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-appartement-2p-49m-residence-senior-15eme-paris-c296430",
+    "extra": {
+      "elevator": true,
+      "floor_number": 2,
+      "nb_floors_building": 8,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": true,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Astrid",
+      "nb_photos": 11
+    }
   }
 ]
