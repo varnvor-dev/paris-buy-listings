@@ -91070,5 +91070,1192 @@
       "price_decreased": false,
       "is_pro": true
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3303202509",
+    "metadata": {
+      "id": "leboncoin-3303202509",
+      "creationDate": "2026-11-06 04:02:17"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75010",
+        "district": "Louis Blanc - Aqueduc"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.884373,
+        "lng": 2.363978
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 33 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "33 m²",
+          "splitValue": "33",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/5",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "292 000 €",
+        "formatted": "292 000 €",
+        "additionalInformation": "8 848 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 33 m²\n\nRUE DU FAUBOURG SAINT-MARTIN\n\nVotre agence Laforêt a le plaisir de vous présenter cet appartement de 2 pièces de 32m² situé au 3ème étage.\nL'appartement se compose d'une entrée, d'un séjour lumineux, d'une cuisine, d'un espace nuit, d'une salle de bain avec WC.\nCet appartement saura vous séduire par ses volumes et son agencement sans perte d'espace.\n\nCharges de copropriété : 395€/trimestre\nDPE : E\n\nVisite virtuelle : [URL masquée pour votre sécurité]/?m=aeGRYsgkdtV\n\nSurface : 33 m²\n\nA propos de la copropriété :\nPas de procédure en cours\nStatut provisoire du syndicat : Pas de procédure en cours\nNombre de lots : 69\nDate de réalisation du diagnostic énergétique : 27/10/2026\n\nConsommation énergie primaire : 282 kWh/m²/an\nConsommation énergie finale : 148 kWh/m²/an\n\n"
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3303202509",
+    "extra": {
+      "elevator": null,
+      "floor_number": "3",
+      "nb_floors_building": "5",
+      "building_year": null,
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": "1580",
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3303200259",
+    "metadata": {
+      "id": "leboncoin-3303200259",
+      "creationDate": "2026-11-06 03:50:37"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89275,
+        "lng": 2.35991
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 3 P 3ème étage très lumineux",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "46 m²",
+          "splitValue": "46",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/6",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "340 000 €",
+        "formatted": "340 000 €",
+        "additionalInformation": "7 391 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Situé rue de la Chapelle dans le 18ᵉ arrondissement de Paris, cet appartement de 45,87 m² Carrez (46,03 m² au sol) occupe le 3ᵉ étage sans ascenseur d'un immeuble de 1895. Traversant Sud-Ouest, il bénéficie d'une double exposition rue et cour, d'un calme appréciable et d'une hauteur sous plafond de 2,70 m. La chaudière a été remplacée en 2021. Une cave complète ce bien.\n\nDistribution intérieure :\n• Un séjour\n• Deux chambres en enfilade\n• Une cuisine indépendante équipée\n• Une salle d'eau\n• Un WC séparé\n• Une cave\n• Hauteur sous plafond de 2,70 m\n\nPrestations et équipements :\n• Immeuble de 1895, charme de l'ancien préservé\n• Chaudière remplacée en 2021\n• Chauffage individuel au gaz\n• Digicode\n• Exposition Sud-Ouest traversant rue et cour\n\nInformations techniques :\n• Surface Carrez : 45,87 m"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3303200259",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "3",
+      "nb_floors_building": "6",
+      "building_year": "1895",
+      "heating_type": "individual",
+      "heating_mode": "gas",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3303062455",
+    "metadata": {
+      "id": "leboncoin-3303062455",
+      "creationDate": "2026-11-05 23:55:03"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75017",
+        "district": "Maillot"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87771,
+        "lng": 2.2869768
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 46 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "46 m²",
+          "splitValue": "46",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/3",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "400 000 €",
+        "formatted": "400 000 €",
+        "additionalInformation": "8 696 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS XVIIème - TERNES PORTE MAILLOT - DUPLEX - CALME - PARFAIT ETAT\nEfficity, l'agence qui estime votre bien en ligne, vous propose cet appartement en parfait état, situé dans une copropriété de bon standing, très bien entretenue.\n\nD'une superficie de 39,30 m² Carrez (48,91 m² habitables), l'appartement se compose d'une entrée, d'un vaste séjour avec cuisine ouverte de près de 25 m², d'une chambre en mezzanine, d'une salle d'eau avec WC et d'un WC séparé.\n\nUne cave complète ce bien.\n\nEmplacement recherché dans le quartier Ternes–Porte Maillot, à proximité immédiate des commerces et des transports (métro ligne 1, RER C et E).\n\nPossibilité de louer une place de parking à proximité.\n\nCe bien est proposé aux enchères immobilières en ligne.\nPrix de départ FAI : 400 000€\nDébut des enchères : 06"
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3303062455",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "2",
+      "nb_floors_building": "3",
+      "building_year": "1868",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1868",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3303042257",
+    "metadata": {
+      "id": "leboncoin-3303042257",
+      "creationDate": "2026-11-05 22:45:19"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Pernety"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.835403,
+        "lng": 2.3207877
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 45 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "45 m²",
+          "splitValue": "45",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/6",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "400 000 €",
+        "formatted": "400 000 €",
+        "additionalInformation": "8 889 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 45 m²\n\nDans une jolie copropriété très arborée et parfaitement au calme, vous serez séduit par ce bel appartement situé dans un immeuble avec ascenseur, offrant de beaux volumes et une agréable luminosité.\nIl se compose notamment d'un double séjour, d'une grande chambre, d'une salle d'eau avec WC ainsi que d'une cuisine séparée.\nUn cadre de vie agréable et paisible, tout en bénéficiant d'un emplacement recherché, à proximité du métro Pernety et de nombreux commerces.\nLes + : copropriété verdoyante o calme o ascenseur o beaux volumes o double séjour o grande chambre o proximité métro et commerces.... DPE F limite G, isolation intérieur à envisager !!!!\n\n \n \n\nSurface : 45 m²\n\nA propos de la copropriété :\nPas de procédure en cours\nNombre de lots : 84\n\nConsommation énergie"
+    },
+    "energyClass": "F",
+    "ges": "G",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3303042257",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "2",
+      "nb_floors_building": "6",
+      "building_year": "1930",
+      "heating_type": "individual",
+      "heating_mode": "gas",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3303028519",
+    "metadata": {
+      "id": "leboncoin-3303028519",
+      "creationDate": "2026-11-05 22:03:31"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Porte des Lilas"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.879807,
+        "lng": 2.4093359
+      }
+    },
+    "hardFacts": {
+      "title": "PORTE DES LILAS/56m2/3PIÈCES",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "56 m²",
+          "splitValue": "56",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/4",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "318 000 €",
+        "formatted": "318 000 €",
+        "additionalInformation": "5 679 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Situé PORTE DES LILAS, dans une copropriété en brique très bien entretenu, un appartement 3 pièces d'une surface de 56,2m2 au 1er étage sans ascenseur et disposé comme suit ; une entrée desservant toutes les pièces, un salon de 19m2 avec un beau balcon donnant sur la rue intérieur non circulatoire de la copropriété, une cuisine séparée, deux chambres, une salle d'eau, un cabinet de toilettes. Une cave en sous/sol. Toutes les fenêtres sont en double vitrage. Appartement habitable, mais prévoir un rafraichissement général."
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3303028519",
+    "extra": {
+      "elevator": null,
+      "floor_number": "1",
+      "nb_floors_building": "4",
+      "building_year": "1958",
+      "heating_type": "individual",
+      "heating_mode": "gas",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3303001917",
+    "metadata": {
+      "id": "leboncoin-3303001917",
+      "creationDate": "2026-11-05 20:58:53"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75017",
+        "district": "Champerret"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88629,
+        "lng": 2.2924147
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 32 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "32 m²",
+          "splitValue": "32",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/5",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "74 880 €",
+        "formatted": "74 880 €",
+        "additionalInformation": "2 340 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Vente à terme libre sur 180 mois - PARIS (75017)\n\nVENTE À TERME LIBRE SUR 15 ANS - APPARTEMENT LOUÉ\nBouquet : 74880 EUR\nRente : 1450 EUR/mois\nValeur du bien : 335880 EUR\n\nEn « vente à terme libre » le bien est vendu libre de toute occupation ; le montant total et la durée de versement des mensualités sont fixes. Vous bénéficiez d'un crédit-vendeur.\nDescriptif du bien :\n75 017 PARIS - Métro 3 PORTE DE CHAMPERRET\nBoulevard Gouvion Saint Cyr\nAppartement de type de 2 pièces de 31,92m², l'appartement est traversant et est situé au 4e étage sans ascenseur.\nLe séjour donne côté rue et la chambre coté cour.\nIl comprend une entrée avec placards de rangement, une cuisine ouverte sur le séjour, une chambre avec placards et une salle d'eau avec toilette.\nUne cave en sous-sol complète l'ensemlbe.\nAnaly"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3303001917",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "4",
+      "nb_floors_building": "5",
+      "building_year": "1930",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3302964801",
+    "metadata": {
+      "id": "leboncoin-3302964801",
+      "creationDate": "2026-11-05 19:40:07"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75010",
+        "district": "Louis Blanc - Aqueduc"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88333,
+        "lng": 2.36016
+      }
+    },
+    "hardFacts": {
+      "title": "APP. 2 P 33 M2 loué 295.000",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "33 m²",
+          "splitValue": "33",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/6",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "295 000 €",
+        "formatted": "295 000 €",
+        "additionalInformation": "8 939 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "APPARTEMENT2 P occupé dans IMMEUBLE HAUSSMANIEN AU 1er étage avec ascenseur sur cour très calme proximité transports et commerces Métro LA CHAPELLE\nSalle d'eau avec WC  cuisine séparée  chauffage gaz individuel. \nPRIX 295.000 €"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3302964801",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "1",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "gas",
+      "annual_charges": "800",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3302912260",
+    "metadata": {
+      "id": "leboncoin-3302912260",
+      "creationDate": "2026-11-05 18:15:43"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Porte de la Villette"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89872,
+        "lng": 2.37587
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 31 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "31 m²",
+          "splitValue": "31",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/8",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "196 370 €",
+        "formatted": "196 370 €",
+        "additionalInformation": "6 335 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 31 m²\n\nInvestissement locatif en résidence de tourisme en loueur meublé non professionnel :\nLoyer annuel HT : 10 604,48 € (11 664,93 €/TTC)\nCharges générales de copropriété /an : 177 €\nTaxe foncière : 500 €\nFond travaux : 238 €\nBail commercial en cours, échéance février 2035\n\nEfficience Groupe vous présente à la vente un appartement type 2 de 31.04m², situé au 5ème étage comprenant séjour avec coin cuisine, chambre, salle d'eau avec WC + balcon de 5.76m²+ parking.\n\nLa résidence de tourisme Residhome Paris Rosa Parks se situe au coeur du 19ème arrondissement, un quartier dynamique mêlant modernité, culture et détente. Il permet de profiter pleinement de la richesse de Paris, célèbre pour son patrimoine, ses musées et son art de vivre.\n\nÀ proximité, on peut rejoindre fac"
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3302912260",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "5",
+      "nb_floors_building": "8",
+      "building_year": "2016",
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": "177",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3302867137",
+    "metadata": {
+      "id": "leboncoin-3302867137",
+      "creationDate": "2026-11-05 17:10:21"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Père Lachaise - Réunion"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.86468,
+        "lng": 2.394396
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 34 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34 m²",
+          "splitValue": "34",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/5",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "299 915 €",
+        "formatted": "299 915 €",
+        "additionalInformation": "8 821 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 34 m²\n\nImmobilier.notaires® et l’office notarial SCP Olivier CLERMONT, Julien GUEZ ET Camille BEAUDOIN, ou autrement dénommés ensemble 1661 Notaires vous proposent :\nAppartement à vendre - PARIS 20 (75020)\n- - - - - - - - - - - - - - - - - - - - - -\nAu 4ème étage, sans ascenseur d’un bel immeuble ancien des années 1880, récemment ravalé en 2025, appartement traversant de 2 pièces d’une superficie de 34,05 m², bénéficiant d’un plan fonctionnel et d’une excellente desserte en transports.\n\nIl se compose d’une entrée distribuant un séjour lumineux de 14,53 m², une chambre de 9,95 m², tous deux donnant sur la rue d’Avron, d’une cuisine indépendante de 6,15 m² orientée sur cour, d’une salle d’eau avec VMC ainsi que de toilettes séparées avec ventilation.\n\nL’appartement a fai"
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3302867137",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "4",
+      "nb_floors_building": "5",
+      "building_year": null,
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": null,
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3302836950",
+    "metadata": {
+      "id": "leboncoin-3302836950",
+      "creationDate": "2026-11-05 16:27:05"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Place des fêtes"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.879784,
+        "lng": 2.3955612
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 45 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "45 m²",
+          "splitValue": "45",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/4",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "325 630 €",
+        "formatted": "325 630 €",
+        "additionalInformation": "7 236 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 45 m²\n\niad France - Mikael Guinada vous propose: LOT 5 - T2/T3 DE 44.83 m² - LOUÉ \n\nParis 19e, quartier Place des Fêtes, au pied du Métro Télégraphe (190 m - Ligne 11) et du Métro Place des Fêtes (400 m - Ligne 7bis).\n\nInvestissement locatif clé en main au rez-de-chaussée d'un immeuble de caractère de 20 logements en R+4. Les travaux de rénovation des parties communes et de l’entièreté de la toiture zinc ont été votés en AG. \n\nAu 1er étage sur rue, bel appartement de 44.83 m² Carrez avec de beaux volumes, un séjour, une chambre, une grande cuisine, SE avec WC et une cave, occupé depuis 2016 (Bail Loi 89).  \nLe locataire un droit de maintien dans les lieux jusqu’au 23-04-2032. Ainsi vous bénéficiez d'une visibilité locative solide.\n\nLoyer actuel : 1 113 € par mois hors "
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3302836950",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "4",
+      "building_year": null,
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": "1532",
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3302836935",
+    "metadata": {
+      "id": "leboncoin-3302836935",
+      "creationDate": "2026-11-05 16:27:00"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Place des fêtes"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.877705,
+        "lng": 2.39183
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 30 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "30 m²",
+          "splitValue": "30",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/4",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "194 124 €",
+        "formatted": "194 124 €",
+        "additionalInformation": "6 471 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 2 pièces 30 m²\n\niad France - Mikael Guinada vous propose: LOT 6 - T2 TRAVERSANT 29,59 m² - LOUÉ\n\nParis 19e, quartier Place des Fêtes, au pied du Métro Télégraphe (190 m - Ligne 11) et du Métro Place des Fêtes (400 m - Ligne 7bis).\n\nInvestissement locatif clé en main au rez-de-chaussée d'un immeuble de caractère de 20 logements en R+4. Les travaux de rénovation des parties communes et de l’entièreté de la toiture zinc ont été votés en AG.\n\nAu 1er étage, ce T2 traversant de 29,59 m² Carrez, vendu avec cave compote séjour, cuisine séparée, chambre, SE avec WC. Il est occupé depuis 2004 par le locataire (Bail Loi 89). Le locataire un droit de maintien dans les lieux jusqu’au 23-04-2032. Ainsi vous bénéficiez d'une visibilité locative solide.\n\nLoyer actuel : 696 € par mois hors char"
+    },
+    "energyClass": "F",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3302836935",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "4",
+      "building_year": null,
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": "971",
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3302809062",
+    "metadata": {
+      "id": "leboncoin-3302809062",
+      "creationDate": "2026-11-05 15:47:05"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75013",
+        "district": "Butte-aux-Cailles"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.829983,
+        "lng": 2.3518348
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 1 pièce 37 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "37 m²",
+          "splitValue": "37",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "7/10",
+          "splitValue": "7",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "320 000 €",
+        "formatted": "320 000 €",
+        "additionalInformation": "8 649 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 1 pièce 37 m²\n\nParis 13ème, rue de Tolbiac : au sein d'une copropriété moderne, bien entretenue et sécurisée, avec gardien et local à vélos, nous vous proposons un appartement traversant Est-Ouest d'une superficie de 36,75 m² loi Carrez, situé au 7e étage sur 10 avec ascenseur.\n\nCalme et lumineux, donnant sur une rue à sens unique, cet appartement bénéficie d'une vue dégagée sans vis-à-vis.\n\nIl se compose d'une entrée, d'une belle pièce de vie, d'une cuisine, d'une salle de bains avec WC et placards.\n\nSa configuration permet d'envisager sa transformation en deux pièces, avec une chambre indépendante.\n\nUne cave au sous-sol complète ce bien.\n\nSurface : 37 m²\n\nA propos de la copropriété :\nPas de procédure en cours\nStatut provisoire du syndicat : Pas de procédure en cours\nNombre de"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3302809062",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "7",
+      "nb_floors_building": "10",
+      "building_year": "1967",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "1840",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3267044028",
+    "metadata": {
+      "id": "leboncoin-3267044028",
+      "creationDate": "2026-11-05 11:10:02"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Saint-Blaise"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.86173,
+        "lng": 2.401338
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 3 pièces 61 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "61 m²",
+          "splitValue": "61",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "13/19",
+          "splitValue": "13",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "375 000 €",
+        "formatted": "375 000 €",
+        "additionalInformation": "6 148 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 3 pièces 61 m²\n\nEXCLUSIVITE - Au pied des commerces et des transports, au sein d'un immeuble semi-récent de bon standing, en étage élevé avec ascenseur, beau 3 pièces de 61m2 bien agencé, lumineux et calme. Il comprend un séjour de 28m2 avec cuisine possédant une grande baie vitrée, 2 chambres, une salle d'eau, une buanderie, et un WC séparé. Vue panoramique sur tout Paris! Une cave complète ce bien. Possibilité d'une place de parking. A VOIR!\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr\n\nSurface : 61 m²\nDate de réalisation du diagnostic énergétique : 11/03/2025\n\nConsommation énergie primaire : 161 kWh/m²/an\nConsommation énergie finale : 155 kWh/m²/an\n\nMontant estimé des dépenses annuelles d'énergi"
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3267044028",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "13",
+      "nb_floors_building": "19",
+      "building_year": "1972",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "6000",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag757026-558170810",
+    "metadata": {
+      "id": "bienici-ag757026-558170810",
+      "creationDate": "2026-11-05T20:19:16.110Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75017",
+        "district": "Champerret - Berthier"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88316954854291,
+        "lng": 2.288768966879959
+      }
+    },
+    "hardFacts": {
+      "title": "Vente à terme libre sur 180 mois - PARIS (75017)",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "32 m²",
+          "splitValue": "32",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/6",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "74 880 €",
+        "formatted": "74 880 €",
+        "additionalInformation": "2 340 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "VENTE À TERME LIBRE SUR 15 ANS - APPARTEMENT LOUÉ\nBouquet : 74880 EUR\nRente : 1450 EUR/mois\nValeur du bien : 335880 EUR\n\nEn « vente à terme libre » le bien est vendu libre de toute occupation ; le montant total et la durée de versement des mensualités sont fixes. Vous bénéficiez d'un crédit-vendeur.\nDescriptif du bien :\n75 017 PARIS - Métro 3 PORTE DE CHAMPERRET\nBoulevard Gouvion Saint Cyr\nAppartement de type de 2 pièces de 31,92m², l'appartement est traversant et est situé au 4e étage sans ascenseur.\nLe séjour donne côté rue et la chambre coté cour.\nIl comprend une entrée avec placards de rangement, une cuisine ouverte sur le séjour, une chambre avec placards et une salle d'eau avec toilette.\nUne cave en sous-sol complète l'ensemlbe.\nAnalyse financière :\nLe bien est actuellement loué pour"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.bienici.com/annonce/vente/paris-17e/appartement/2pieces/ag757026-558170810",
+    "extra": {
+      "elevator": false,
+      "floor_number": 4,
+      "nb_floors_building": 6,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "radiateur électricité individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag923348-558093380",
+    "metadata": {
+      "id": "bienici-ag923348-558093380",
+      "creationDate": "2026-11-05T14:56:10.784Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Porte de la Villette"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89496700356392,
+        "lng": 2.3742592073248145
+      }
+    },
+    "hardFacts": {
+      "title": "Paris Curial T2 F23",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "48 m²",
+          "splitValue": "48",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/6",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "360 000 €",
+        "formatted": "360 000 €",
+        "additionalInformation": "7 500 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Rue Curial Paris 19ème, Esset Valorisation vous propose à deux pas des transports et commerces de l'Avenue de Flandre, un 2 pièces de 48,12m² au 2ème étage d'une résidence de bon standing avec gardien.\n\nL'appartement comprend une entrée, un séjour avec coin cuisine à aménager, une chambre, une salle de bains, wc séparés. Le tout au calme.\n\nChauffage individuel électrique. Charges prévisionnelles annuelles: 1 480 €. Taxe foncière prévisionnel: 1 015 €\n\nPrix FAI : 360 000 €\n\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr"
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-19e/appartement/2pieces/ag923348-558093380",
+    "extra": {
+      "elevator": true,
+      "floor_number": 2,
+      "nb_floors_building": 6,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1476,
+      "condo_lots": 153,
+      "heating": "électricité individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag754248-558140525",
+    "metadata": {
+      "id": "bienici-ag754248-558140525",
+      "creationDate": "2026-11-05T18:17:23.858Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "La Chapelle - Marx Dormoy"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.892745,
+        "lng": 2.3599
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 3 P 3ème étage très lumineux",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "46 m²",
+          "splitValue": "46",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "3/7",
+          "splitValue": "3",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "340 000 €",
+        "formatted": "340 000 €",
+        "additionalInformation": "7 391 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 3 P 3ème étage très lumineux\n\nSitué rue de la Chapelle dans le 18ᵉ arrondissement de Paris, cet appartement de 45,87 m² Carrez (46,03 m² au sol) occupe le 3ᵉ étage sans ascenseur d'un immeuble de 1895. Traversant Sud-Ouest, il bénéficie d'une double exposition rue et cour, d'un calme appréciable et d'une hauteur sous plafond de 2,70 m. La chaudière a été remplacée en 2021. Une cave complète ce bien.\n\nDistribution intérieure :\n• Un séjour\n• Deux chambres en enfilade\n• Une cuisine indépendante équipée\n• Une salle d'eau\n• Un WC séparé\n• Une cave\n• Hauteur sous plafond de 2,70 m\n\nPrestations et équipements :\n• Immeuble de 1895, charme de l'ancien préservé\n• Chaudière remplacée en 2021\n• Chauffage individuel au gaz\n• Digicode\n• Exposition Sud-Ouest traversant rue et cour\n\nInformatio"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.bienici.com/annonce/vente/paris-18e/appartement/3pieces/ag754248-558140525",
+    "extra": {
+      "elevator": null,
+      "floor_number": 3,
+      "nb_floors_building": 7,
+      "has_cellar": true,
+      "exposition": null,
+      "annual_charges": 1400.00000000004,
+      "condo_lots": 27,
+      "heating": "gaz",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
   }
 ]
