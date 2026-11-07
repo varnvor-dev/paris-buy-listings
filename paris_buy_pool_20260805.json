@@ -94307,5 +94307,294 @@
       "owner_name": "My Home Connexion",
       "nb_photos": 19
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3296142696",
+    "metadata": {
+      "id": "leboncoin-3296142696",
+      "creationDate": "2026-10-19 21:48:51"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75010",
+        "district": "Louis Blanc - Aqueduc"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.88138,
+        "lng": 2.3655941
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 3 pièces 50 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "50 m²",
+          "splitValue": "50",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/4",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "400 000 €",
+        "formatted": "400 000 €",
+        "additionalInformation": "8 000 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 3 pièces 50 m²\n\nRUE DU FAUBOURG SAINT MARTIN - LOUIS BLANC \nNous avons le plaisir de vous proposer cet appartement traversant de 3 pièces de 50m² (DPE 'E') , situé au 1er étage sans ascenseur d'un immeuble ancien entretenu. Ce bien bénéficie d'un agencement optimisé et cohérent : d'une entrée desservant un séjour, donnant sur une cour calme et arborée, d'une cuisine aménagée et équipée, de 2 chambres, d'une salle de bain et d'un W-C séparé. Charme de l'ancien au rendez-vous,  Idéalement situé aux pieds des commerces de la rue du faubourg Saint Martin ainsi que du Canal. \nA ce bien s'ajoute une cave. Charges de copropriété 145€ par mois.\nVisite virtuelle : [URL masquée pour votre sécurité]/?m=QViP3tvWypw\n\nSurface : 50 m²\nDate de réalisation du diagnostic énergétique : 12/09/2025"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3296142696",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "1",
+      "nb_floors_building": "4",
+      "building_year": null,
+      "heating_type": null,
+      "heating_mode": null,
+      "annual_charges": null,
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag783893-558585596",
+    "metadata": {
+      "id": "bienici-ag783893-558585596",
+      "creationDate": "2026-11-07T14:19:08.457Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Didot - Porte de Vanves"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82721856647714,
+        "lng": 2.309166628094177
+      }
+    },
+    "hardFacts": {
+      "title": "Paris 14? - 2 pièces lumineux avec vue dégagée, au 7? ?",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "39 m²",
+          "splitValue": "39",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "7/8",
+          "splitValue": "7",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "333 000 €",
+        "formatted": "333 000 €",
+        "additionalInformation": "8 538 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Paris 14? - 2 pièces de 40 m² au 7? étage avec ascenseur\n\nSitué au 7? étage avec ascenseur d'une résidence sécurisée et bien entretenue, découvrez ce 2 pièces de 40 m² Carrez, au calme et bénéficiant d'une vue dégagée, sans vis-à-vis.\n\nL'appartement se compose d'une entrée, d'une pièce de vie lumineuse avec cuisine ouverte, d'une chambre, ainsi que d'une salle d'eau avec WC. Son agencement fonctionnel en fait un appartement agréable à vivre.\n\nGrâce à son étage élevé et à son absence de vis-à-vis, il profite d'une belle luminosité tout au long de la journée.\n\nIdéalement situé, vous bénéficierez de la proximité des commerces, des restaurants, des transports (métro et tramway T3) ainsi que de toutes les commodités du quartier.\n\nPotentiel d'amélioration énergétique :\nLe DPE peut être amélioré "
+    },
+    "energyClass": "G",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-14e/appartement/2pieces/ag783893-558585596",
+    "extra": {
+      "elevator": true,
+      "floor_number": 7,
+      "nb_floors_building": 8,
+      "has_cellar": false,
+      "exposition": null,
+      "annual_charges": 2352,
+      "condo_lots": 51,
+      "heating": "électricité",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-7acdf7a2-7996-422a-86c3-08ed5a199413",
+    "metadata": {
+      "id": "gdc-7acdf7a2-7996-422a-86c3-08ed5a199413",
+      "creationDate": 1790782953000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75004",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends appartement - 35m² - au coeur de Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "35 m²",
+          "splitValue": "35",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "180 000 €",
+        "formatted": "180 000 €",
+        "additionalInformation": "5 143 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/joli-yacht-habitable-au-coeur-de-paris-4646d9a",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": false,
+      "has_balcony": false,
+      "has_terrace": true,
+      "exposition": "",
+      "is_pro": false,
+      "owner_name": "Caroline",
+      "nb_photos": 2
+    }
+  },
+  {
+    "brand": "gdc",
+    "id": "gdc-d71ab475-4a4d-4bd5-8aa6-a363392a0698",
+    "metadata": {
+      "id": "gdc-d71ab475-4a4d-4bd5-8aa6-a363392a0698",
+      "creationDate": 1792416898000
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": ""
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    "hardFacts": {
+      "title": "Vends t3 - 44 m² - Paris",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "44 m²",
+          "splitValue": "44",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        }
+      ],
+      "price": {
+        "value": "365 000 €",
+        "formatted": "365 000 €",
+        "additionalInformation": "8 295 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": ""
+    },
+    "energyClass": null,
+    "ges": null,
+    "url": "https://gensdeconfiance.com/fr/annonce/vends-t3-44m-paris-d33cb76",
+    "extra": {
+      "elevator": null,
+      "floor_number": null,
+      "nb_floors_building": null,
+      "has_cellar": true,
+      "has_balcony": false,
+      "has_terrace": false,
+      "exposition": "",
+      "is_pro": true,
+      "owner_name": "Doly",
+      "nb_photos": 8
+    }
   }
 ]
