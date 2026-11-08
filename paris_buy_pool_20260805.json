@@ -95401,5 +95401,79 @@
       "price_decreased": false,
       "is_pro": true
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3297229760",
+    "metadata": {
+      "id": "leboncoin-3297229760",
+      "creationDate": "2026-10-20 16:23:56"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Porte des Lilas"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.877777,
+        "lng": 2.4081037
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces 38 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "38 m²",
+          "splitValue": "38",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/6",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "295 000 €",
+        "formatted": "295 000 €",
+        "additionalInformation": "7 763 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 19ÈME –CHARMANT 2PIÈCES TRAVERSANT\n\nCHARMANT 2 PIÈCES – PARIS 19ÈME – PASSAGE DES MAUXINS – TRAVERSANT – CAVE.\nÀ proximité des métros PORTE DES LILAS (lignes 11 et 3 bis), TÉLÉGRAPHE (ligne 11) et du TRAMWAY T3B.\n\nLe Cabinet BR-Immobilier vous propose ce charmant appartement de 2 PIÈCES de 38 m² LOI CARREZ, situé au 1ER ÉTAGE d'un immeuble au sein du Passage des Mauxins, dans un environnement agréable du 19ème arrondissement de Paris.\nBénéficiant d'une configuration TRAVERSANTE, cet appartement offre une belle luminosité naturelle ainsi qu'un agencement fonctionnel.\nIl comprend une entrée, un SÉJOUR avec PARQUET EN BOIS, une cuisine, une chambre indépendante ainsi qu'un espace de rangement supplémentaire pouvant faire office de DRESSING ou de DÉBARRAS.\nLe PARQUET EN BOIS présent dans"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3297229760",
+    "extra": {
+      "elevator": null,
+      "floor_number": "1",
+      "nb_floors_building": "6",
+      "building_year": "1950",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "2000",
+      "specificities": null,
+      "owner_type": "pro"
+    }
   }
 ]
