@@ -94596,5 +94596,810 @@
       "owner_name": "Doly",
       "nb_photos": 8
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3304537763",
+    "metadata": {
+      "id": "leboncoin-3304537763",
+      "creationDate": "2026-11-08 04:03:21"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75010",
+        "district": "République - Lancry"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.87041,
+        "lng": 2.3613446
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 3 pièces 44 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "3 pièces",
+          "splitValue": "3",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "44 m²",
+          "splitValue": "44",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "2 chambres",
+          "splitValue": "2",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/5",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "360 000 €",
+        "formatted": "360 000 €",
+        "additionalInformation": "8 182 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Appartement 3 pièces 44 m²\n\nVENDU LOUE : Entre République et le Canal Saint-Martin, votre agence agence Laforêt vous propose un appartement à rafraichir de type 3  pièces de 44m² vendu loué. \nLe bien situé au 4ème étage sur cour est distribué comme suit: une entrée, un séjour orienté sud, une cuisine indépendante, deux chambres, une salle d'eau  et un w.c indépendant. \nActuellement loué non meublé pour le bien serait libre à partir du 4 septembre 2029. \nVous serez séduit par son emplacement dans un quartier commerçant et recherché proche de toutes commodités, son calme, sa distribution et ses volumes optimisés. Une cave est comprise dans la vente. \nA la recherche d'un investissement locatif dans le secteur, contactez nous rapidement pour visiter.\n\nSurface : 44 m²\n\nA propos de la copropriét"
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3304537763",
+    "extra": {
+      "elevator": null,
+      "floor_number": "4",
+      "nb_floors_building": "5",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "950",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3296465889",
+    "metadata": {
+      "id": "leboncoin-3296465889",
+      "creationDate": "2026-10-21 17:58:29"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Pyrénées - Belleville"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.876984,
+        "lng": 2.3731139
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 1 pièce 31 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "31 m²",
+          "splitValue": "31",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/10",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "260 000 €",
+        "formatted": "260 000 €",
+        "additionalInformation": "8 387 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 19 I BELLEVILLE I STUDIO\n\nPARIS 19 - BELLEVILLE : L'agence STONEO vous propose un studio de de 31,35 m² carrez situé au deuxième étage par ascenseur d'une résidence de la rue de Belleville.\n\nLe studio dispose d'un plan clair et optimisé. Il se compose d'une petite entrée avec placard desservant la cuisine et la pièce de vie, d'une salle de bain et d'un WC.  La pièce principale est spacieuse (19 m²) et lumineuse grâce à ses fenêtres sur toute la longueur de la pièce.\n\nUne cave saine complète le bien.\nUn emplacement de stationnement en sous-sol est disponible en sus.\nLe bien est situé dans une copropriété avec ascenseur gérée par un gardien et sécurisée.\n\nDiagnostic énergétique : D\nCharges de copropriété : 115 € / mois comprenant le chauffage, l'eau chaude et l'ensemble des prestations"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3296465889",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "2",
+      "nb_floors_building": "10",
+      "building_year": "1970",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "1500",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3304384130",
+    "metadata": {
+      "id": "leboncoin-3304384130",
+      "creationDate": "2026-11-07 18:41:45"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83298,
+        "lng": 2.30659
+      }
+    },
+    "hardFacts": {
+      "title": "Vente appartement Paris 15",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "51 m²",
+          "splitValue": "51",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/8",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "395 000 €",
+        "formatted": "395 000 €",
+        "additionalInformation": "7 745 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Quartier Saint Lambert / Vouillé, métro plaisance, appartement de deux pièces de 51 m2, situé au 5ème étage d'un immeuble de 1965 de 8 étages, lumineux sur jardins au calme, il se compte d'une entrée, d'une séjour de 25 m2, d'une cuisine équipée, d'une chambre, d'une salle de bain, de WC indépendant, une cave, chauffage collectif, possibilité de parking."
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3304384130",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "5",
+      "nb_floors_building": "8",
+      "building_year": "1965",
+      "heating_type": "communal",
+      "heating_mode": "gas",
+      "annual_charges": "200",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3304380061",
+    "metadata": {
+      "id": "leboncoin-3304380061",
+      "creationDate": "2026-11-07 18:36:13"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75018",
+        "district": "Barbès - Château Rouge"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.890476,
+        "lng": 2.3490636
+      }
+    },
+    "hardFacts": {
+      "title": "Grand 2 pièces - CHRISTIANI-CLIGNANCOURT -",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "42 m²",
+          "splitValue": "42",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/5",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "320 000 €",
+        "formatted": "320 000 €",
+        "additionalInformation": "7 619 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Traversant Nord-Sud, Foncia Ordener, vous invite à découvrir ce charmant appartement de 2-3 pièces de 42,35 m2 proche de la rue André Del Sarte.\nVous serez séduit par  son charme parisien, sa luminosité son double séjour et son fort potentiel d'aménagement - \nTravaux de réfections de Façades votés payés ainsi que ceux des communs.\nIdéal investisseur ou primo-accédant.\nUne cave complète ce bien\nA VISITER SANS TARDER !\n\nMontant estimé des dépenses annuelles d'énergie pour un usage standard : entre 1 290 € et 1 780 € sur les années 2021, 2022 et 2023 (abonnements compris)."
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3304380061",
+    "extra": {
+      "elevator": "2",
+      "floor_number": "2",
+      "nb_floors_building": "5",
+      "building_year": "1860",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "1728",
+      "specificities": "",
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3304249757",
+    "metadata": {
+      "id": "leboncoin-3304249757",
+      "creationDate": "2026-11-07 16:05:08"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Porte de la Villette"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.89706,
+        "lng": 2.38457
+      }
+    },
+    "hardFacts": {
+      "title": "Paris 19e : F2-T2 37 m² à rénover, 4ᵉ étage ascenseur calme et lumineux sans vis à vis, face Metro & Parc de la Villette",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "37 m²",
+          "splitValue": "37",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "4/6",
+          "splitValue": "4",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "239 999 €",
+        "formatted": "239 999 €",
+        "additionalInformation": "6 486 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Paris 19e : F2-T2 37 m² à rénover, 4ᵉ étage ascenseur calme et lumineux sans vis à vis, face Metro & Parc de la Villette\n\nParticulier vend T2 de 37 m² à rénover, \n25 avenue Corentin Cariou, Paris 19e. \nFace au Metro & Parc de la Villette\nZone touristique: Hotel - restaurant - commerce.\n\nIdéal premier achat \nou deficit foncier, location saisonnière: \nvous choisissez cuisine, salle de bain et déco qui apporteront de la valeur patrimoniale.\n\n✅ Vide, prêt pour vos travaux\n✅ Électricité  (Linky), tableau aux normes, \n✅ Fenetres double vitrage partout.\n✅ 4ᵉ étage avec ascenseur, sans vis-à-vis, lumineux et calme.\n✅ Moulures et cheminées d'origine, possibilité d'ouvrir les espaces (jusqu'à 39 m²)\n✅ Cave disponible en option payante +11k forte rentabilité 14% louée en stockage.\n✅ Immeuble en briqu"
+    },
+    "energyClass": "E",
+    "ges": "E",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3304249757",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "4",
+      "nb_floors_building": "6",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "2000",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3240673539",
+    "metadata": {
+      "id": "leboncoin-3240673539",
+      "creationDate": "2026-09-22 04:28:34"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Montparnasse - Gaîté"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.836777,
+        "lng": 2.3277526
+      }
+    },
+    "hardFacts": {
+      "title": "Studio 1 pièce 30 m²",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "30 m²",
+          "splitValue": "30",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "5/5",
+          "splitValue": "5",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "265 000 €",
+        "formatted": "265 000 €",
+        "additionalInformation": "8 833 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Studio 1 pièce 30 m²\n\niad France - Lahoucine Boutaraamt vous propose: PARIS 14ᵉ – AVENUE DU MAINE – DERNIER ÉTAGE AVEC ASCENSEUR – À 1 MINUTE DE LA GARE MONTPARNASSE\n\nÀ deux pas de la Gare Montparnasse, dans un immeuble ancien parfaitement entretenu et sécurisé, découvrez ce charmant studio traversant de 20,45 m² Loi Carrez (29,64 m² au sol), situé au 5ᵉ et dernier étage avec ascenseur (à partir du 1er étage).\n\nEXCELLENT ETAT , il est prêt à accueillir son futur propriétaire ou mise en location et bénéficie d'une optimisation parfaite de l'espace.\n\nVous serez séduit par son charme de l'ancien avec ses poutres apparentes, sa belle hauteur sous plafond, ses Velux en double vitrage, ses nombreux rangements intégrés ainsi que son calme absolu.\n\nLes atouts du bien :\n\nDernier étage\nAscenseur (à "
+    },
+    "energyClass": "E",
+    "ges": "C",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3240673539",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "5",
+      "nb_floors_building": "5",
+      "building_year": "1900",
+      "heating_type": "individual",
+      "heating_mode": "electric",
+      "annual_charges": "488",
+      "specificities": null,
+      "owner_type": "pro"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-laforet-immo-facile-53017640",
+    "metadata": {
+      "id": "bienici-laforet-immo-facile-53017640",
+      "creationDate": "2026-11-07T16:31:11.655Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75011",
+        "district": "Belleville - Saint-Maur"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.867346382331476,
+        "lng": 2.3764367640403554
+      }
+    },
+    "hardFacts": {
+      "title": "Charmant 2 pièces - Rue Jean pierre timbaud",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "66 m²",
+          "splitValue": "66",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/3",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "375 000 €",
+        "formatted": "375 000 €",
+        "additionalInformation": "5 713 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Laforêt Parmentier vous propose en Exclusivité, rue Jean-Pierre Timbaud, au coeur d'un secteur très recherché, à proximité immédiate des commerces, des transports et du métro Parmentier, ce charmant 2 pièces situé au 2ème et dernier étage d'un bel immeuble de style industriel.<br>D'une surface de 66 m² au sol (27 m² loi Carrez), cet appartement séduit par son cachet et ses volumes sous les toits. Il se compose d'un agréable espace de vie baigné de lumière donnant sur une cuisine américaine, d'une chambre confortable ainsi que d'une salle de bains avec WC.<br>Calme et ensoleillé, ce bien bénéficie d'une atmosphère chaleureuse et atypique. Aucun travaux à prévoir, il est habitable immédiatement. (4.17 % d'honoraires TTC à la charge de l'acquéreur.)"
+    },
+    "energyClass": "D",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-11e/appartement/2pieces/laforet-immo-facile-53017640",
+    "extra": {
+      "elevator": null,
+      "floor_number": 2,
+      "nb_floors_building": 3,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": null,
+      "condo_lots": null,
+      "heating": "individuel",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-century-21-202_482_17073",
+    "metadata": {
+      "id": "bienici-century-21-202_482_17073",
+      "creationDate": "2026-11-08T01:10:31.220Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Bassin de la Villette"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.888229188257704,
+        "lng": 2.381890009781938
+      }
+    },
+    "hardFacts": {
+      "title": "bienici — Paris 19e",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "42 m²",
+          "splitValue": "42",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/8",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "295 000 €",
+        "formatted": "295 000 €",
+        "additionalInformation": "7 020 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "DEUX PIECES - À DEUX PAS DU CANAL DE L'OURCQ<br>Découvrez en Exclusivité ce charmant 2 pièces de 42 m², idéalement situé à quelques pas du Canal de l'Ourcq, au sein d'une résidence recherchée du 19 arrondissement de Paris.<br>Situé au 1er étage, cet appartement offre un cadre de vie agréable et un agencement fonctionnel, idéal pour un premier achat, un pied-à-terre parisien ou un investissement locatif.<br>Dès l'entrée, vous découvrirez une distribution optimisée permettant de profiter pleinement de chaque espace. L'appartement se compose d'une entrée desservant un agréable séjour, une cuisine indépendante, une chambre confortable ainsi qu'une salle de bains avec WC.<br>Avec ses 42 m², ce bien présente un beau potentiel d'aménagement et de personnalisation, permettant à chacun de se projet"
+    },
+    "energyClass": "D",
+    "ges": "D",
+    "url": "https://www.bienici.com/annonce/vente/paris-19e/appartement/2pieces/century-21-202_482_17073",
+    "extra": {
+      "elevator": true,
+      "floor_number": 1,
+      "nb_floors_building": 8,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 2624,
+      "condo_lots": 382,
+      "heating": "Collectif  Urbain",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-century-21-202_2571_12702",
+    "metadata": {
+      "id": "bienici-century-21-202_2571_12702",
+      "creationDate": null
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Porte de la Villette"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.892923953030824,
+        "lng": 2.380694659124624
+      }
+    },
+    "hardFacts": {
+      "title": "bienici — Paris 19e",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "43 m²",
+          "splitValue": "43",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/7",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "350 000 €",
+        "formatted": "350 000 €",
+        "additionalInformation": "8 206 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 19ème, EXCLUSIVITÉ CENTURY 21 FLANDRE / rue de NANTES / métro CRIMÉE / BASSIN DE LA VILLETTE / Immeuble de 1903 / au 2ème étage en PARFAIT ETAT ! TRAVERSANT  / **COUP DE CŒUR** ! <br>Venez découvrir ce BEAU 2 PIECES PARFAITEMENT AGENCÉ sans PERTE d'ESPACE composé d'une ENTRÉE desservant un SÉJOUR et CUISINE SEMI-OUVERTE TOTALISANT 26.62m² Loi Carrez, une BELLE CHAMBRE avec dressing indépendant, une SALLE D'EAU avec WC.<br>RÉNOVÉ avec GOÛT, FAIBLES charges, PETITE copropriété bien entretenue et vendu avec une CAVE / espace vélo. Montant estimé des dépenses annuelles d'énergie pour un usage standard entre 1060.0 € et 1480.0 € indexées aux années 2021, 2022, 2023 (abonnements compris)."
+    },
+    "energyClass": "E",
+    "ges": "B",
+    "url": "https://www.bienici.com/annonce/vente/paris-19e/appartement/2pieces/century-21-202_2571_12702",
+    "extra": {
+      "elevator": false,
+      "floor_number": 2,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1323.8,
+      "condo_lots": 51,
+      "heating": "Individuel Individuel électrique",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-immo-facile-61720555",
+    "metadata": {
+      "id": "bienici-immo-facile-61720555",
+      "creationDate": "2026-11-07T18:50:50.502Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75015",
+        "district": "Georges Brassens"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.83658921738292,
+        "lng": 2.2978622566007956
+      }
+    },
+    "hardFacts": {
+      "title": "PARIS 15 - CONVENTION",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "1 pièces",
+          "splitValue": "1",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "31 m²",
+          "splitValue": "31",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/7",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "278 000 €",
+        "formatted": "278 000 €",
+        "additionalInformation": "8 968 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "Votre agence FREDeLION Paris 15 Convention vous propose en exclusivité ce studio de 30,88 m2 avec parking.<br>Cet appartement situé dans un immeuble moderne en plein coeur du quartier Convention, au calme et ensoleillé, est composé d'une pièce principale, d'une cuisine indépendante (possiblité US), d'une salle de bains avec WC.<br>Vous serez séduit par sa luminosité et son balcon.<br>Première photo en homestaging.<br>Possibilité d'un parking en sus. (6.92 % d'honoraires TTC à la charge de l'acquéreur.)<br>Copropriété de 52 lots (Pas de procédure en cours).<br>Charges annuelles : 2100.00 euros. Sorèle SALLOUM-KASSIS (EI) Agent Commercial - Numéro RSAC :  - ."
+    },
+    "energyClass": "C",
+    "ges": "C",
+    "url": "https://www.bienici.com/annonce/vente/paris-15e/appartement/1pieces/immo-facile-61720555",
+    "extra": {
+      "elevator": true,
+      "floor_number": 1,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 2100,
+      "condo_lots": 52,
+      "heating": "radiateur gaz collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-century-21-202_2571_12867",
+    "metadata": {
+      "id": "bienici-century-21-202_2571_12867",
+      "creationDate": "2026-09-09T02:17:08.913Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75019",
+        "district": "Flandre - Aubervilliers"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.893093644728104,
+        "lng": 2.374286393071237
+      }
+    },
+    "hardFacts": {
+      "title": "bienici — Paris 19e",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34 m²",
+          "splitValue": "34",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "1/7",
+          "splitValue": "1",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "290 000 €",
+        "formatted": "290 000 €",
+        "additionalInformation": "8 480 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 19ème, EXCLUSIVITÉ CENTURY 21 FLANDRE  ***COUP DE CŒUR *** Métro CRIMÉE / RUE DE CRIMÉE / BELLE COPROPRIÉTÉ BOURGEOISE DE CARACTERE EN PIERRE DE TAILLE / CANAL DE L'OURCQ / ASCENSEUR/ FAIBLES CHARGES / F2 POUR POSER SES VALISES / TRAVERSANT / IDÉAL PRIMO ACCÉDANT OU INVESSTISSEUR.<br>Dans un BEL IMMEUBLE très bien entretenu en pierre de taille, CHARMANT deux pièces en parfait état. Il se compose d'une entrée desservant la cuisine indépendante, le séjour, la salle d'eau avec WC séparé, et une belle chambre spacieuse. <br>Vous serez séduit par son charme (parquet, hauteur sous plafond, moulures, boiseries, cheminées) et nombreuses fenêtres), son POTENTIEL, son CALME et sa LUMIERE.<br>De nombreux travaux votés et réalisés dans la copropriété / faibles charges malgré le chauffage collect"
+    },
+    "energyClass": "F",
+    "ges": "D",
+    "url": "https://www.bienici.com/annonce/vente/paris-19e/appartement/2pieces/century-21-202_2571_12867",
+    "extra": {
+      "elevator": true,
+      "floor_number": 1,
+      "nb_floors_building": 7,
+      "has_cellar": null,
+      "exposition": null,
+      "annual_charges": 1742.64,
+      "condo_lots": 57,
+      "heating": "Collectif  Urbain",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
   }
 ]
