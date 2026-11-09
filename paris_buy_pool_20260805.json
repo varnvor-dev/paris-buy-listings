@@ -95475,5 +95475,156 @@
       "specificities": null,
       "owner_type": "pro"
     }
+  },
+  {
+    "brand": "leboncoin",
+    "id": "leboncoin-3305311760",
+    "metadata": {
+      "id": "leboncoin-3305311760",
+      "creationDate": "2026-11-08 22:33:13"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75020",
+        "district": "Saint-Blaise"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.85719,
+        "lng": 2.40845
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement 2 pièces Paris 20",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "34 m²",
+          "splitValue": "34",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "2/6",
+          "splitValue": "2",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "290 000 €",
+        "formatted": "290 000 €",
+        "additionalInformation": "8 529 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 20ème  – Quartier SAINT-BLAISE – CHARMANT 2 PIÈCES DE 34,44 M²\n\nPrix : 290 000 € – Vente de particulier à particulier\n\nCet agréable appartement de 34,44 m², au 2ème étage d'un immeuble en copropriété, offre un cadre de vie agréable dans un quartier vivant et authentique.\n\nCe deux-pièces séduit par son charme de l'ancien, ses parquets, ses moulures et son agencement fonctionnel, avec une véritable séparation entre les espaces de vie et de nuit.\n\nIl se compose :\n- D'une entrée ;\n- D'un séjour avec parquet ;\n- D'une chambre indépendante ;\n- D'une cuisine séparée ;\n- D'une salle d'eau ;\n- De WC indépendants ;\n- D'un espace penderie offrant des rangements pratiques.\n\nLes atouts de l'appartement :\n- Charme de l'ancien avec parquet et moulures ;\n- Chambre indépendante ;\n- Cuisine et WC sépa"
+    },
+    "energyClass": "E",
+    "ges": "D",
+    "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3305311760",
+    "extra": {
+      "elevator": "1",
+      "floor_number": "2",
+      "nb_floors_building": "6",
+      "building_year": "1930",
+      "heating_type": "communal",
+      "heating_mode": "fuel",
+      "annual_charges": "3000",
+      "specificities": "",
+      "owner_type": "private"
+    }
+  },
+  {
+    "brand": "bienici",
+    "id": "bienici-ag750129-558854249",
+    "metadata": {
+      "id": "bienici-ag750129-558854249",
+      "creationDate": "2026-11-09T03:24:09.756Z"
+    },
+    "location": {
+      "address": {
+        "country": "FRA",
+        "city": "Paris",
+        "zipCode": "75014",
+        "district": "Didot - Porte de Vanves"
+      },
+      "transport": {
+        "closestLines": []
+      },
+      "coords": {
+        "lat": 48.82731799633292,
+        "lng": 2.310559836782464
+      }
+    },
+    "hardFacts": {
+      "title": "Appartement",
+      "facts": [
+        {
+          "type": "numberOfRooms",
+          "value": "2 pièces",
+          "splitValue": "2",
+          "label": "pièces"
+        },
+        {
+          "type": "livingSpace",
+          "value": "53 m²",
+          "splitValue": "53",
+          "label": "m²"
+        },
+        {
+          "type": "numberOfBedrooms",
+          "value": "1 chambres",
+          "splitValue": "1",
+          "label": "chambres"
+        },
+        {
+          "type": "numberOfFloors",
+          "value": "20/21",
+          "splitValue": "20",
+          "label": "étage"
+        }
+      ],
+      "price": {
+        "value": "370 000 €",
+        "formatted": "370 000 €",
+        "additionalInformation": "6 981 €/m²"
+      }
+    },
+    "mainDescription": {
+      "description": "PARIS 14ᵉ – QUARTIER DES MARINIERS\n\nEN EXCLUSIVITÉ - APPARTEMENT – 2 PIÈCES – 53 M² – 20ᵉ ET DERNIER ÉTAGE – VUE EXCEPTIONNELLE SUR PARIS ET LA TOUR EIFFEL – PARKING – CAVE\n\nFrédéric Dujour, consultant immobilier indépendant effiCity, vous propose en exclusivité cet appartement de 53 m² situé au 20ᵉ et dernier étage d'une résidence bien entretenue avec ascenseur et gardien, dans le quartier des Mariniers, à proximité de l'hôpital Saint-Joseph.\n\n LUMINOSITÉ ET VUE EXCEPTIONNELLE\nGrâce à sa double exposition sud et ouest, cet appartement bénéficie d'une belle luminosité et d'une vue panoramique dégagée sur Paris et la tour Eiffel.\n\n UN INTÉRIEUR FONCTIONNEL\nL'appartement comprend un séjour de 21 m² avec parquet, une cuisine aménagée, une chambre, une salle de bains et des toilettes séparées."
+    },
+    "energyClass": "F",
+    "ges": "E",
+    "url": "https://www.bienici.com/annonce/vente/paris-14e/appartement/2pieces/ag750129-558854249",
+    "extra": {
+      "elevator": true,
+      "floor_number": 20,
+      "nb_floors_building": 21,
+      "has_cellar": true,
+      "exposition": "sud",
+      "annual_charges": 3900,
+      "condo_lots": 150,
+      "heating": "radiateur collectif",
+      "work_to_do": null,
+      "exclusive": true,
+      "price_decreased": false,
+      "is_pro": true
+    }
   }
 ]
